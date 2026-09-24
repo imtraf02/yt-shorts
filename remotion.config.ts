@@ -12,16 +12,27 @@ Config.setOverwriteOutput(true);
 // Set concurrency to 2 on 4-core machine to prevent CPU starvation of raster threads
 Config.setConcurrency(2);
 
-// CRITICAL FIX: Disable compositor surface screenshot capture
-// This forces Chrome CDP to capture directly from the DOM bitmap synchronously,
-// eliminating missing software tiles and black glitch frames under CPU-only rendering.
-process.env.DISABLE_FROM_SURFACE = "true";
+// Disable compositor surface screenshot capture only on Linux if needed
+if (process.platform === "linux") {
+  process.env.DISABLE_FROM_SURFACE = "true";
+}
 
 
-// Use custom Chrome wrapper that enforces synchronous, complete compositor stages before draw
+
+import fs from "fs";
+
+// Use custom Chrome wrapper on Linux/macOS or system Chrome on Windows
 const wrapperScript = path.resolve(process.cwd(), "scripts", "chrome-wrapper.sh");
-Config.setBrowserExecutable(
-  process.env.REMOTION_CHROME_PATH || wrapperScript
-);
+const defaultWindowsChrome = "C:/Program Files/Google/Chrome/Application/chrome.exe";
+const executable =
+  process.env.REMOTION_CHROME_PATH ||
+  (process.platform === "win32"
+    ? (fs.existsSync(defaultWindowsChrome) ? defaultWindowsChrome : null)
+    : (fs.existsSync(wrapperScript) ? wrapperScript : null));
+
+if (executable) {
+  Config.setBrowserExecutable(executable);
+}
+
 
 Config.overrideBundlerConfig(enableTailwind);

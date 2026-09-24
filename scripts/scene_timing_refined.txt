@@ -1,0 +1,15 @@
+Scene  1 (images/genghis-khan/01-genghis-khan-scene.png):   0.04s -   6.92s (audio end). Gap: 0.00s
+Scene  2 (images/genghis-khan/02-genghis-khan-scene.png):   6.92s -  11.92s (audio end). Gap: 0.00s
+Scene  3 (images/genghis-khan/03-genghis-khan-scene.png):  11.92s -  19.96s (audio end). Gap: 0.00s
+Scene  4 (images/genghis-khan/04-genghis-khan-scene.png):  19.96s -  25.89s (audio end). Gap: 0.00s
+Scene  5 (images/genghis-khan/05-genghis-khan-scene.png):  25.89s -  42.84s (audio end). Gap: 0.00s
+Scene  6 (images/genghis-khan/07-genghis-khan-scene.png):  42.84s -  46.04s (audio end). Gap: 0.00s
+Scene  7 (images/genghis-khan/06-genghis-khan-scene.png):  46.04s -  50.84s (audio end). Gap: 0.08s
+Scene  8 (images/genghis-khan/08-genghis-khan-scene.png):  50.92s -  55.32s (audio end). Gap: 0.00s
+Scene  9 (images/genghis-khan/09-genghis-khan-scene.png):  55.32s -  59.42s (audio end). Gap: 0.00s
+Scene 10 (images/genghis-khan/10-genghis-khan-scene.png):  59.42s -  62.77s (audio end). Gap: 0.00s
+Scene 11 (images/genghis-khan/11-genghis-khan-scene.png):  62.77s -  70.48s (audio end). Gap: 0.00s
+Scene 12 (images/genghis-khan/12-genghis-khan-scene.png):  70.48s -  76.02s (audio end). Gap: 0.00s
+Scene 13 (images/genghis-khan/13-genghis-khan-scene.png):  76.02s -  83.33s (audio end). Gap: 0.00s
+Scene 14 (images/genghis-khan/14-genghis-khan-scene.png):  83.33s -  93.96s (audio end). Gap: 0.00s
+Scene 15 (images/genghis-khan/15-genghis-khan-scene.png):  93.96s - 102.56s (audio end). Gap: 0.00s

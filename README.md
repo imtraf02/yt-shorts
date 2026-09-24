@@ -1,84 +1,51 @@
-# Remotion video
+# Remotion YouTube Shorts Generator (9:16)
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
+Hệ thống tạo video ngắn dạng dọc (9:16) chuẩn YouTube Shorts, TikTok, Instagram Reels bằng **Remotion** và **Whisper AI**.
 
-Welcome to your Remotion project!
+---
 
-## Commands
+## 📖 Tài liệu Hướng dẫn Chuẩn
+Tất cả quy chuẩn bắt buộc về layout, vị trí badge, style phụ đề, pipeline Whisper và dọn dẹp file đều được tổng hợp đầy đủ tại:
+👉 **[Quy trình Chuẩn Sản xuất Video Shorts](docs/SHORTS_PRODUCTION_GUIDE.md)**
 
-**Install Dependencies**
+---
 
-```console
-npm i
-```
+## 🎯 Quy tắc Bắt buộc trong Project
+1. **Không Like / Subscribe**: Tuyệt đối không chèn nút Like, Subscribe hay CTA.
+2. **Top Header**: Chỉ dùng 1 chiếc badge auto-width (`width: fit-content`) thanh thoát, không dùng thanh ngang 1000px hay chữ `FILE #...` / `CHỦ ĐỀ: ...`.
+3. **Badge Sự kiện Phân cảnh**:
+   - Vị trí: `bottom: 530px` (nâng cao tránh che phụ đề).
+   - Kích thước chữ: `24px` in hoa, có đèn neon phát sáng.
+4. **Phụ đề Động (Kinetic Captions)**:
+   - Vị trí: `bottom: 290px`, căn giữa, active word hiển thị trong viên thuốc dạ quang rực rỡ.
+   - Đồng bộ 100% từng từ theo Whisper AI.
+5. **Dọn dẹp sau khi render**: Luôn xóa sạch các file ảnh preview/check (`out/*.png`) sau khi xuất video thành công.
 
-**Start Preview**
+---
 
-```console
+## 🚀 Danh sách Lệnh Render Nhanh
+
+```bash
+# Preview giao diện qua Studio
 npm run dev
+
+# Render từng video Shorts đã phát triển:
+npm run render:einstein        # Albert Einstein: Thiên tài lộn xộn nhất (97s)
+npm run render:tesla           # Nikola Tesla: Những góc khuất bí mật (94s)
+npm run render:newton          # Isaac Newton: Sự thật & gia vị (98s)
+npm run render:zeigarnik        # Hiệu ứng Zeigarnik ngược (79s)
+npm run render:fakebusy        # Hội chứng giả vờ bận rộn (75s)
+npm run render:cortisol        # Deadline & Cortisol (63s)
+npm run render:desk            # Bẻ khớp & bài tập thể dục bàn làm việc (77s)
 ```
 
-**Render video**
+---
 
-```console
-npx remotion render
-```
-
-**Upgrade Remotion**
-
-```console
-npx remotion upgrade
-```
-
-## Captioning
-
-Replace the `sample-video.mp4` with your video file.
-Caption all the videos in you `public` by running the following command:
-
-```console
-node sub.mjs
-```
-
-Only caption a specific video:
-
-```console
-node sub.mjs <path-to-video-file>
-```
-
-Only caption a specific folder:
-
-```console
-node sub.mjs <path-to-folder>
-```
-
-## Configure Whisper.cpp
-
-Captioning will download Whisper.cpp and the 1.5GB big `medium.en` model. To configure which model is being used, you can configure the variables in `whisper-config.mjs`.
-
-### Non-English languages
-
-To support non-English languages, you need to change the `WHISPER_MODEL` variable in `whisper-config.mjs` to a model that does not have a `.en` sufix.
-
-## Docs
-
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help on our [Discord server](https://remotion.dev/discord).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
-# yt-shorts
+## 📦 Danh sách Thành phẩm trong `out/`
+- `out/desk-body-breaks.mp4` (72.5 MB)
+- `out/deadline-cortisol.mp4` (66.5 MB)
+- `out/fake-busy-syndrome.mp4` (78.8 MB)
+- `out/zeigarnik-effect.mp4` (63.7 MB)
+- `out/newton-secrets.mp4` (100.0 MB)
+- `out/tesla-secrets.mp4` (80.4 MB)
+- `out/einstein-secrets.mp4` (97.5 MB)

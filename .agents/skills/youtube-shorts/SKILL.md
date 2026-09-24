@@ -1,123 +1,78 @@
 ---
 name: youtube-shorts
 description: Best practices, layout rules, hooks, animation patterns, safe zones, and rendering workflows for creating YouTube Shorts and vertical videos (9:16) with Remotion.
-version: 1.0.0
+version: 1.1.0
 ---
 
-# YouTube Shorts with Remotion
+# YouTube Shorts with Remotion (Project Guidelines)
 
-Guide and best practices for creating engaging, high-retention YouTube Shorts, TikTok, and Instagram Reels videos using Remotion.
+Comprehensive rules and workflows for generating vertical YouTube Shorts (9:16) in this workspace.
 
-## 1. Video Specifications
+---
+
+## 1. Project-Specific Layout Rules (MANDATORY)
+
+1. **NO Like / Subscribe Overlays**:
+   - Do NOT render `<SubscribeOverlay />` or any CTA buttons/stamps.
+2. **Top Header**:
+   - Use ONLY an auto-width badge pill (`width: fit-content`), e.g., `[ ● TÊN CHỦ ĐỀ ]`.
+   - Do NOT use full-width 1000px banners or `FILE #...` / `CHỦ ĐỀ: ...` text spanning across the top.
+   - Position: `top: 96, left: 36`.
+3. **Top Progress Bar**:
+   - `<ProgressBar color="..." height={8} />` anchored at `top: 0`.
+4. **Contextual Scene Badge**:
+   - Elevated position: `bottom: 530px` (keeps it strictly above subtitles).
+   - Font size: `24px`, uppercase, bold (`fontWeight: 800`), glowing neon dot indicator on the left.
+5. **Kinetic Subtitles**:
+   - Position: `bottom: 290px`, centered, max width `980px`.
+   - Active word pill: Glowing gradient pill (`boxShadow: 0 0 25px ..., 0 0 10px ...`, dark text `#040816` or `#140A02`).
+   - Keyword highlights: Contrasting yellow (`#FACC15`) or cyan (`#38BDF8`).
+   - Regular words: White with thick black stroke (`WebkitTextStroke: "10px #000000"`, `paintOrder: "stroke fill"`).
+6. **Housekeeping (Cleanup)**:
+   - When render finishes, always clean up all preview/test images in `out/*.png`:
+     `Remove-Item -Path "out\*.png" -Force`.
+
+---
+
+## 2. Video Technical Specifications
 - **Aspect Ratio**: 9:16 (Vertical)
 - **Resolution**: 1080 x 1920 px
-- **Frame Rate**: 30 fps (standard) or 60 fps (ultra-smooth motion)
-- **Duration**: Ideal 15 - 45 seconds (max 60 seconds for YouTube Shorts)
+- **Frame Rate**: 30 fps
+- **Duration**: Driven by audio length + ~20-30 frames tail hold.
 
-## 2. Safe Zones for Mobile UI
-YouTube Shorts mobile overlay places UI controls on top of the video:
-- **Top Header**: ~160px (Search bar, camera icon, sound title)
-- **Right Action Rail**: ~140px (Like, Dislike, Comments count, Share, Remix, Sound disc)
-- **Bottom Info Area**: ~400px (Channel avatar, handle, Subscribe button, video title/description)
+---
 
-### Recommended Safe Bounds:
-```tsx
-// Keep crucial text, titles, subtitles, and face focus inside:
-top: 200px - 220px
-bottom: 420px
-left: 80px
-right: 170px
-```
-Use the helper component `<ShortsSafeArea showGuideLines />` during preview to visually verify layouts.
+## 3. Step-by-Step Production Pipeline
 
-## 3. High-Retention Animation Patterns
+1. **Audio & Duration**:
+   - Copy TTS audio to `public/audio/<name>.wav`.
+   - Read byte rate and data size using node to get exact seconds and 30fps frame count.
+2. **16kHz Conversion**:
+   - `npx.cmd remotion ffmpeg -y -i public/audio/<name>.wav -ar 16000 -ac 1 -c:a pcm_s16le temp_16k_<name>.wav`.
+3. **Whisper Transcription**:
+   - Run whisper.cpp (`model: "base"`, `tokenLevelTimestamps: true`, `language: "vi"`, `splitOnWord: true`).
+4. **Word-by-Word Alignment**:
+   - Compare whisper tokens 1-to-1 with script words (`align_<name>.py`). Merge split syllables if needed.
+   - Partition into 12 scenes matching the 12 images in `public/images/<topic>/`.
+   - Generate `src/data/<name>Subtitles.ts`.
+5. **Components**:
+   - `<Name>HUD.tsx`: Auto-width top badge pill.
+   - `<Name>Scene.tsx`: Ken Burns camera motion (`zoom-in`, `zoom-out`, `drift-*`), bottom vignette, elevated badge at `bottom: 530px`, font size `24px`.
+   - `<Name>Captions.tsx`: Kinetic subtitles at `bottom: 290px`.
+6. **Composition & Register**:
+   - Create `src/<Name>Short.tsx` with 12 sequences matching timestamps.
+   - Register in `src/Root.tsx`.
+   - Add `"render:<name>"` in `package.json`.
+7. **Preview Check**:
+   - Render 1-2 frames (e.g. frame 60, frame 900) to verify safe bounds and typography:
+     `npx.cmd remotion still <Name>Short out/preview_f60.png --frame=60`.
+8. **Render MP4**:
+   - `npx.cmd remotion render <Name>Short out/<name>.mp4 --concurrency=4`.
+9. **Clean Up**:
+   - `Remove-Item -Path "out\*.png" -Force`.
 
-### Retention Hooks (First 3 Seconds)
-- The first 1-3 seconds decide if the viewer swipes away.
-- Use dynamic spring-based entrances for the hook title:
-```tsx
-const titleEntrance = spring({
-  frame,
-  fps,
-  config: { damping: 12, stiffness: 100 },
-});
-```
+---
 
-### Animated Progress Bar
-- Keep viewers watching until the end by visually communicating video progress:
-```tsx
-<ProgressBar color="#f43f5e" height={10} top={0} />
-```
-
-### Word-by-Word Highlighted Subtitles
-- Use `@remotion/captions` with `createTikTokStyleCaptions`:
-```tsx
-const { pages } = createTikTokStyleCaptions({
-  combineTokensWithinMilliseconds: 1200,
-  captions: subtitles,
-});
-```
-- Highlight active word with bright accent colors (`#39E508`, `#FFE600`, or `#FF3366`).
-- Apply stroke (`WebkitTextStroke: "16px black"`) and shadow for legibility over any background.
-
-### Fast Pacing and Transitions
-- Never leave visuals static for more than 2-3 seconds.
-- Use continuous subtle zoom / Ken Burns effect:
-```tsx
-const scale = interpolate(frame, [0, durationInFrames], [1, 1.15], {
-  extrapolateRight: "clamp",
-});
-```
-
-## 4. Useful Project Commands
-
-### Preview in Remotion Studio
-```bash
-npm run dev
-# Or without auto-opening browser:
-npx remotion studio --no-open
-```
-
-### Quick Frame Check (Render Still Image)
-```bash
-npx remotion still YouTubeShort out/preview.png --frame=60
-# With safe zone overlay:
-npx remotion still YouTubeShort out/preview.png --frame=60 --props='{"showSafeArea": true}'
-```
-
-### Render Video (MP4)
-```bash
-# Render YouTubeShort composition
-npm run render:short
-
-# Or custom render command
-npx remotion render YouTubeShort out/my-short.mp4 --concurrency=4
-```
-
-### Auto-Generate Subtitles (Whisper C++ integration)
-```bash
-npm run create-subtitles public/sample-video.mp4
-```
-### Reusable Like & Subscribe CTA Asset
-Use the pre-built, interactive `<SubscribeAnimation />` component at the outro of any video:
-```tsx
-import { SubscribeAnimation } from "../components/SubscribeAnimation";
-
-// Inside any Sequence (e.g., last 3-4 seconds):
-<SubscribeAnimation
-  channelName="Tên Kênh Của Bạn"
-  channelHandle="@tenkenh"
-  subscribersCount="100K người đăng ký"
-  theme="dark" // "dark" | "light" | "transparent"
-  scale={1}
-  accentColor="#ff0000"
-/>
-```
-Render standalone:
-```bash
-# Render as MP4
-npx remotion render SubscribeOverlay out/subscribe-cta.mp4
-
-# Render with Transparent Alpha Channel (ProRes 4444) for Premiere, CapCut, DaVinci:
-npx remotion render SubscribeOverlay out/subscribe-cta.mov --codec=prores --prores-profile=4444 --props='{"theme":"transparent"}'
-```
+## 4. Master Docs Reference
+Detailed documentation is stored at:
+- [`docs/SHORTS_PRODUCTION_GUIDE.md`](file:///C:/Users/studi/Documents/Codex/2026-09-23/cl/yt-shorts/docs/SHORTS_PRODUCTION_GUIDE.md)

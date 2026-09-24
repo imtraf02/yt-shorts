@@ -1,0 +1,253 @@
+
+--- REPLACE ---
+Whisper [0:1]:
+  0: 'Tên' (30-140ms)
+Script [0:1]:
+  0: 'Tần'
+
+--- REPLACE ---
+Whisper [6:7]:
+  6: ' để' (1020-1200ms)
+Script [6:7]:
+  6: 'đế'
+
+--- REPLACE ---
+Whisper [15:17]:
+  15: ' nên' (2920-3040ms)
+  16: ' mỏng' (3040-3240ms)
+Script [15:17]:
+  15: 'nền'
+  16: 'móng'
+
+--- REPLACE ---
+Whisper [25:26]:
+  25: ' 2005' (4520-5120ms)
+Script [25:27]:
+  25: '2000'
+  26: 'năm'
+
+--- REPLACE ---
+Whisper [54:55]:
+  54: ' quần' (12030-12180ms)
+Script [55:56]:
+  55: 'cuồng'
+
+--- REPLACE ---
+Whisper [62:63]:
+  62: ' xuất' (13590-13730ms)
+Script [63:64]:
+  63: 'suốt'
+
+--- REPLACE ---
+Whisper [71:72]:
+  71: ' cửa' (15440-15640ms)
+Script [72:73]:
+  72: 'cử'
+
+--- REPLACE ---
+Whisper [84:85]:
+  84: ' năm' (18170-18330ms)
+Script [85:86]:
+  85: 'nam'
+
+--- REPLACE ---
+Whisper [86:87]:
+  86: ' thang' (18520-18690ms)
+Script [87:88]:
+  87: 'thanh'
+
+--- REPLACE ---
+Whisper [92:93]:
+  92: ' đạo' (19720-19940ms)
+Script [93:94]:
+  93: 'đảo'
+
+--- REPLACE ---
+Whisper [109:111]:
+  109: ' Chở' (23660-23780ms)
+  110: ' châu' (23780-23980ms)
+Script [110:112]:
+  110: 'Trớ'
+  111: 'trêu'
+
+--- REPLACE ---
+Whisper [118:119]:
+  118: ' "ZChết' (25470-25820ms)
+Script [119:121]:
+  119: 'giết'
+  120: 'chết'
+
+--- REPLACE ---
+Whisper [126:127]:
+  126: ' người' (27530-28010ms)
+Script [128:130]:
+  128: 'ngự'
+  129: 'y'
+
+--- REPLACE ---
+Whisper [135:136]:
+  135: ' thuyện' (29680-29930ms)
+Script [138:139]:
+  138: 'thủy'
+
+--- REPLACE ---
+Whisper [142:143]:
+  142: ' lòng' (31550-31770ms)
+Script [145:146]:
+  145: 'lỏng'
+
+--- REPLACE ---
+Whisper [151:152]:
+  151: ' tên' (33670-33820ms)
+Script [154:155]:
+  154: 'Tần'
+
+--- REPLACE ---
+Whisper [163:164]:
+  163: ' thuyện' (36490-36770ms)
+Script [166:167]:
+  166: 'thủy'
+
+--- REPLACE ---
+Whisper [177:178]:
+  177: ' cả' (39750-39900ms)
+Script [180:181]:
+  180: 'cái'
+
+--- REPLACE ---
+Whisper [195:196]:
+  195: ' linh' (43920-44080ms)
+Script [198:199]:
+  198: 'lính'
+
+--- REPLACE ---
+Whisper [203:208]:
+  203: ' sắc' (45440-45640ms)
+  204: ' sợ,' (45640-45980ms)
+  205: ' dực' (46020-46180ms)
+  206: ' giữa' (46180-46420ms)
+  207: ' nhiều' (46420-46700ms)
+Script [206:211]:
+  206: 'sặc'
+  207: 'sỡ'
+  208: 'rực'
+  209: 'rỡ'
+  210: 'như'
+
+--- REPLACE ---
+Whisper [210:211]:
+  210: ' chỉ' (47390-47550ms)
+Script [213:214]:
+  213: 'chứ'
+
+--- REPLACE ---
+Whisper [216:218]:
+  216: ' sám' (48580-48780ms)
+  217: ' sịt,' (48780-49020ms)
+Script [219:221]:
+  219: 'xám'
+  220: 'xịt'
+
+--- REPLACE ---
+Whisper [228:229]:
+  228: ' mở' (50820-50980ms)
+Script [231:232]:
+  231: 'mờ'
+
+--- REPLACE ---
+Whisper [233:235]:
+  233: ' trôn' (52020-52220ms)
+  234: ' vui' (52220-52340ms)
+Script [236:238]:
+  236: 'chôn'
+  237: 'vùi'
+
+--- REPLACE ---
+Whisper [238:239]:
+  238: ' tên' (53220-53390ms)
+Script [241:242]:
+  241: 'Tần'
+
+--- REPLACE ---
+Whisper [252:253]:
+  252: ' suy,' (55960-56340ms)
+Script [255:256]:
+  255: 'suối'
+
+--- REPLACE ---
+Whisper [256:257]:
+  256: ' lòng' (56990-57200ms)
+Script [259:260]:
+  259: 'lỏng'
+
+--- REPLACE ---
+Whisper [259:260]:
+  259: ' phòng' (57800-57960ms)
+Script [262:263]:
+  262: 'phỏng'
+
+--- REPLACE ---
+Whisper [262:263]:
+  262: ' đô' (58360-58520ms)
+Script [265:266]:
+  265: 'đồ'
+
+--- REPLACE ---
+Whisper [271:272]:
+  271: ' bậy' (60360-60560ms)
+Script [274:275]:
+  274: 'bẫy'
+
+--- REPLACE ---
+Whisper [278:279]:
+  278: ' chộ' (61720-61920ms)
+Script [281:282]:
+  281: 'trộm'
+
+--- REPLACE ---
+Whisper [280:281]:
+  280: ' sâm' (62080-62240ms)
+Script [283:284]:
+  283: 'xâm'
+
+--- REPLACE ---
+Whisper [316:317]:
+  316: ' kê' (69660-69780ms)
+Script [319:320]:
+  319: 'gây'
+
+--- REPLACE ---
+Whisper [319:320]:
+  319: ' tên' (70210-70360ms)
+Script [322:323]:
+  322: 'Tần'
+
+--- REPLACE ---
+Whisper [351:353]:
+  351: ' chiều' (76600-76880ms)
+  352: ' định,' (76880-77510ms)
+Script [354:356]:
+  354: 'triều'
+  355: 'đình'
+
+--- REPLACE ---
+Whisper [357:358]:
+  357: ' thang' (78150-78320ms)
+Script [360:361]:
+  360: 'thanh'
+
+--- REPLACE ---
+Whisper [359:360]:
+  359: ' chi' (78570-78670ms)
+Script [362:363]:
+  362: 'tri'
+
+--- REPLACE ---
+Whisper [395:398]:
+  395: ' tên' (85730-85870ms)
+  396: ' Thủy' (85870-86090ms)
+  397: ' Hoàng.' (86090-86640ms)
+Script [398:401]:
+  398: 'Tần'
+  399: 'Thủy'
+  400: 'Hoàng'
