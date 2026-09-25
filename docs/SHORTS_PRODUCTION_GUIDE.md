@@ -154,8 +154,14 @@ Chỉ để lại các file `.mp4` thành phẩm trong thư mục `out/`.
 
 ---
 
-## 4. Bảng Tra cứu Màu sắc & Phong cách Thiết kế Đã Áp dụng
-
+| **Video** | **Theme / Bối cảnh Visual** | **Accent Color Chính** | **Subtitle Glow & Active Gradient** |
+|---|---|---|---|
+| **Steve Jobs (Apple & NeXT & Pixar)** | Cupertino Minimalist / Apple Keynote & Dynamic Island | Apple Blue (`#0071E3`) & Titanium White (`#F5F5F7`) | Pure Titanium Spotlight (`#FFFFFF` -> `#E5E5EA`) & Keynote Gold (`#FFD60A`) |
+| **Bitcoin (Satoshi Nakamoto)** | Cyberpunk Cryptography / Digital Gold & Genesis Block | Bitcoin Gold (`#F59E0B`) & Cyber Cyan (`#06B6D4`) | Gold-Cyan Gradient (`#F59E0B` -> `#F97316` -> `#06B6D4`) & Gold (`#FBBF24`) |
+| **Elon Musk (Tesla & SpaceX)** | Aerospace Cyberpunk / Falcon Flame & Tesla Tech | SpaceX Orange (`#F97316`) & Electric Cyan (`#06B6D4`) | Mars Flame Pill (`#EF4444` -> `#F97316` -> `#06B6D4`) & Electric Cyan (`#38BDF8`) |
+| **Linus Torvalds (Linux & Git)** | Terminal Matrix / Hacker Open Source & Tux | Terminal Emerald (`#10B981`) & Electric Cyan (`#06B6D4`) | Terminal Pill (`#10B981` -> `#06B6D4` -> `#F59E0B`) & Sky Cyan (`#38BDF8`) |
+| **Figma (Dylan Field)** | Silicon Valley Tech / Figma Cyber Gradient | Figma Purple (`#A259FF`) & Figma Blue (`#1ABCFE`) | Figma Gradient (`#1ABCFE` -> `#A259FF` -> `#F24E1E`) & Sky Cyan (`#38BDF8`) |
+| **Vlad Dracula** | Gothic Wallachia / Order of the Dragon & Blood Noir | Blood Crimson (`#DC2626`, `#EF4444`) & Dragon Gold (`#F59E0B`) | Vibrant Cyan (`#38BDF8`) & Dragon Gold (`#FDE047`) |
 | **Napoleon Bonaparte** | French Empire / Imperial Gold & Editorial Satire | Imperial Gold (`#F59E0B`, `#FDE047`) & French Navy (`#1E3A8A`) | Vibrant Sky Cyan (`#38BDF8`) & Imperial Red (`#DC2626`) |
 | **Thành Cát Tư Hãn** | Eternal Blue Sky (Tengri) / Nomadic Steppe Empire | Steppe Azure (`#0284C7`) & Golden Horde Gold (`#F59E0B`) | Tengri Sky Cyan (`#38BDF8`) & Amber Gold (`#FBBF24`) |
 | **Tần Thủy Hoàng** | Imperial Qin Dynasty / Dragon Throne & Liquid Mercury | Dragon Throne Gold (`#F59E0B`, `#FDE047`) & Mercury Silver | Vibrant Sky Cyan (`#38BDF8`) & Terracotta Coral (`#FB7185`) |

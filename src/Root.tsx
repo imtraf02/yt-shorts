@@ -9,6 +9,20 @@ import { FakeBusySyndromeShort } from "./FakeBusySyndromeShort";
 import { ZeigarnikEffectShort } from "./ZeigarnikEffectShort";
 import { NewtonHiddenLivesShort } from "./NewtonHiddenLivesShort";
 import { TeslaHiddenLivesShort } from "./TeslaHiddenLivesShort";
+import { PubgShort } from "./PubgShort";
+import { PUBG_TOTAL_FRAMES } from "./data/pubgSubtitles";
+import { WorldCupShort } from "./WorldCupShort";
+import { WORLDCUP_TOTAL_FRAMES } from "./data/worldcupSubtitles";
+import { ColumbusShort } from "./ColumbusShort";
+import { COLUMBUS_TOTAL_FRAMES } from "./data/columbusSubtitles";
+import { NobelShort } from "./NobelShort";
+import { NOBEL_TOTAL_FRAMES } from "./data/nobelSubtitles";
+import { SteveShort } from "./SteveShort";
+import { BitcoinShort } from "./BitcoinShort";
+import { ElonShort } from "./ElonShort";
+import { LinuxShort } from "./LinuxShort";
+import { FigmaShort } from "./FigmaShort";
+import { VladDraculaShort } from "./VladDraculaShort";
 import { NapoleonShort } from "./NapoleonShort";
 import { GenghisKhanShort } from "./GenghisKhanShort";
 import { QinShiHuangShort } from "./QinShiHuangShort";
@@ -26,6 +40,86 @@ import {
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="PubgShort"
+        component={PubgShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={PUBG_TOTAL_FRAMES}
+      />
+      <Composition
+        id="WorldCupShort"
+        component={WorldCupShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={WORLDCUP_TOTAL_FRAMES}
+      />
+      <Composition
+        id="ColumbusShort"
+        component={ColumbusShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={COLUMBUS_TOTAL_FRAMES}
+      />
+      <Composition
+        id="NobelShort"
+        component={NobelShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={NOBEL_TOTAL_FRAMES}
+      />
+      <Composition
+        id="SteveShort"
+        component={SteveShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={5010}
+      />
+      <Composition
+        id="BitcoinShort"
+        component={BitcoinShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={4140}
+      />
+      <Composition
+        id="ElonShort"
+        component={ElonShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={4245}
+      />
+      <Composition
+        id="LinuxShort"
+        component={LinuxShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={3570}
+      />
+      <Composition
+        id="FigmaShort"
+        component={FigmaShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={3450}
+      />
+      <Composition
+        id="VladDraculaShort"
+        component={VladDraculaShort}
+        width={1080}
+        height={1920}
+        fps={30}
+        durationInFrames={4110}
+      />
       <Composition
         id="NapoleonShort"
         component={NapoleonShort}

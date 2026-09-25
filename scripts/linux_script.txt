@@ -1,0 +1,17 @@
+Linus Torvalds là người tạo ra Linux, hệ điều hành đứng sau phần lớn máy chủ internet, điện thoại Android và toàn bộ các siêu máy tính mạnh nhất thế giới. Nhưng ít ai biết rằng thứ thay đổi cả ngành công nghệ ấy bắt đầu bằng một dòng thông báo khiêm tốn: "chỉ là sở thích, sẽ không lớn và chuyên nghiệp đâu".
+
+Ông sinh năm 1969 tại Helsinki, Phần Lan. Cái tên Linus được đặt theo nhà khoa học Linus Pauling. Ông nội ông là một nhà thống kê, và chính chiếc máy tính Commodore VIC-20 của ông nội là nơi cậu bé Linus tự học lập trình.
+
+Năm 1991, khi đang học Đại học Helsinki, Linus mua một chiếc máy tính dùng chip Intel 80386 và thấy hệ điều hành Minix không đáp ứng được nhu cầu của mình. Thế là ông tự viết một nhân hệ điều hành mới cho riêng mình. Ngày 25 tháng 8, ông đăng lên một diễn đàn thông báo rằng mình đang làm một hệ điều hành miễn phí, chỉ là sở thích.
+
+Trớ trêu thay, ông vốn định đặt tên nó là "Freax". Nhưng người quản trị máy chủ đã tự ý đặt tên thư mục là "Linux", và cái tên ấy ở lại mãi mãi.
+
+Điểm mấu chốt nằm ở một quyết định: ông để mã nguồn công khai để ai cũng có thể đóng góp. Hàng nghìn lập trình viên khắp thế giới nhập cuộc, và một dự án sở thích của sinh viên trở thành nền tảng của cả thế giới số. Ngay cả giáo sư nổi tiếng Andrew Tanenbaum, cha đẻ của Minix, từng công khai chê Linux là lỗi thời. Lịch sử đã chứng minh điều ngược lại.
+
+Năm 2005, ông lại làm một điều bất ngờ nữa. Khi công cụ quản lý mã nguồn mà cộng đồng đang dùng bị thu hồi giấy phép, ông tự viết một công cụ mới, và bản đầu tiên chạy được chỉ sau vài tuần. Đó là Git, thứ mà giờ đây hầu hết lập trình viên trên hành tinh dùng mỗi ngày. Ông còn đùa rằng "git" là tiếng lóng Anh chỉ kẻ đáng ghét, và ông đặt tên dự án theo chính mình.
+
+Ông nổi tiếng thẳng tính đến mức thô, những email chê bai của ông trên danh sách thư của nhân Linux từng gây tranh cãi lớn. Năm 2018, ông tạm nghỉ và công khai nhận rằng mình cần thay đổi cách cư xử.
+
+Điều đáng nói nhất là ông không hề trở thành tỷ phú nhờ Linux. Ông chọn để nó miễn phí, và vẫn làm việc dưới vai trò người gìn giữ nhân Linux đến ngày nay.
+
+Người thanh niên nói rằng mình chỉ làm cho vui, để rồi xây nên nền móng của internet hiện đại, đó chính là Linus Torvalds.

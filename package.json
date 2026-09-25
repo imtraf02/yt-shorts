@@ -54,7 +54,17 @@
     "render:caligula": "remotion render CaligulaQuirksShort out/caligula-secrets.mp4",
     "render:qin": "remotion render QinShiHuangShort out/qin-secrets.mp4",
     "render:genghis": "remotion render GenghisKhanShort out/genghis-secrets.mp4",
-    "render:napoleon": "remotion render NapoleonShort out/napoleon-secrets.mp4"
+    "render:napoleon": "remotion render NapoleonShort out/napoleon-secrets.mp4",
+    "render:vlad": "remotion render VladDraculaShort out/vlad-secrets.mp4",
+    "render:figma": "remotion render FigmaShort out/figma-secrets.mp4",
+    "render:linux": "remotion render LinuxShort out/linux-secrets.mp4",
+    "render:elon": "remotion render ElonShort out/elon-musk.mp4",
+    "render:bitcoin": "remotion render BitcoinShort out/bitcoin-origin.mp4",
+    "render:steve": "remotion render SteveShort out/steve-jobs.mp4",
+    "render:nobel": "remotion render NobelShort out/alfred-nobel.mp4",
+    "render:columbus": "remotion render ColumbusShort out/christopher-columbus.mp4",
+    "render:worldcup": "remotion render WorldCupShort out/world-cup-2002.mp4",
+    "render:pubg": "remotion render PubgShort out/pubg-asia-stars-2026.mp4"
   },
   "sideEffects": [
     "*.css"

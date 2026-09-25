@@ -1,0 +1,3127 @@
+[
+  {
+    "word": "Steve",
+    "startMs": 170,
+    "endMs": 230
+  },
+  {
+    "word": "Jobs",
+    "startMs": 230,
+    "endMs": 420
+  },
+  {
+    "word": "là",
+    "startMs": 420,
+    "endMs": 710
+  },
+  {
+    "word": "người",
+    "startMs": 710,
+    "endMs": 940
+  },
+  {
+    "word": "đồng",
+    "startMs": 940,
+    "endMs": 1260
+  },
+  {
+    "word": "sáng",
+    "startMs": 1260,
+    "endMs": 1490
+  },
+  {
+    "word": "lập",
+    "startMs": 1490,
+    "endMs": 1720
+  },
+  {
+    "word": "Apple,",
+    "startMs": 1720,
+    "endMs": 2090
+  },
+  {
+    "word": "người",
+    "startMs": 2090,
+    "endMs": 2380
+  },
+  {
+    "word": "đứng",
+    "startMs": 2380,
+    "endMs": 2640
+  },
+  {
+    "word": "sau",
+    "startMs": 2640,
+    "endMs": 2760
+  },
+  {
+    "word": "Macintosh,",
+    "startMs": 2760,
+    "endMs": 3360
+  },
+  {
+    "word": "iPod,",
+    "startMs": 3360,
+    "endMs": 4180
+  },
+  {
+    "word": "iPhone",
+    "startMs": 4180,
+    "endMs": 4690
+  },
+  {
+    "word": "và",
+    "startMs": 4690,
+    "endMs": 4910
+  },
+  {
+    "word": "iPad,",
+    "startMs": 4910,
+    "endMs": 5470
+  },
+  {
+    "word": "những",
+    "startMs": 5470,
+    "endMs": 5520
+  },
+  {
+    "word": "sản",
+    "startMs": 5520,
+    "endMs": 5690
+  },
+  {
+    "word": "phẩm",
+    "startMs": 5690,
+    "endMs": 5920
+  },
+  {
+    "word": "đã",
+    "startMs": 5920,
+    "endMs": 6000
+  },
+  {
+    "word": "thay",
+    "startMs": 6000,
+    "endMs": 6100
+  },
+  {
+    "word": "đổi",
+    "startMs": 6100,
+    "endMs": 6280
+  },
+  {
+    "word": "cách",
+    "startMs": 6280,
+    "endMs": 6530
+  },
+  {
+    "word": "cả",
+    "startMs": 6530,
+    "endMs": 6690
+  },
+  {
+    "word": "thế",
+    "startMs": 6690,
+    "endMs": 6810
+  },
+  {
+    "word": "giới",
+    "startMs": 6810,
+    "endMs": 7030
+  },
+  {
+    "word": "dùng",
+    "startMs": 7030,
+    "endMs": 7210
+  },
+  {
+    "word": "công",
+    "startMs": 7210,
+    "endMs": 7400
+  },
+  {
+    "word": "nghệ.",
+    "startMs": 7400,
+    "endMs": 7800
+  },
+  {
+    "word": "Nhưng",
+    "startMs": 7800,
+    "endMs": 8080
+  },
+  {
+    "word": "ít",
+    "startMs": 8080,
+    "endMs": 8230
+  },
+  {
+    "word": "ai",
+    "startMs": 8080,
+    "endMs": 8210
+  },
+  {
+    "word": "biết",
+    "startMs": 8210,
+    "endMs": 8490
+  },
+  {
+    "word": "rằng",
+    "startMs": 8490,
+    "endMs": 8770
+  },
+  {
+    "word": "ông",
+    "startMs": 8770,
+    "endMs": 8970
+  },
+  {
+    "word": "từng",
+    "startMs": 8970,
+    "endMs": 9240
+  },
+  {
+    "word": "bị",
+    "startMs": 9240,
+    "endMs": 9430
+  },
+  {
+    "word": "chính",
+    "startMs": 9430,
+    "endMs": 9710
+  },
+  {
+    "word": "công",
+    "startMs": 9710,
+    "endMs": 9950
+  },
+  {
+    "word": "ty",
+    "startMs": 9950,
+    "endMs": 10040
+  },
+  {
+    "word": "mình",
+    "startMs": 10040,
+    "endMs": 10320
+  },
+  {
+    "word": "lập",
+    "startMs": 10320,
+    "endMs": 10510
+  },
+  {
+    "word": "ra",
+    "startMs": 10510,
+    "endMs": 10600
+  },
+  {
+    "word": "sa",
+    "startMs": 10600,
+    "endMs": 10690
+  },
+  {
+    "word": "thải,",
+    "startMs": 10690,
+    "endMs": 11280
+  },
+  {
+    "word": "rồi",
+    "startMs": 11280,
+    "endMs": 11540
+  },
+  {
+    "word": "12",
+    "startMs": 11540,
+    "endMs": 11860
+  },
+  {
+    "word": "năm",
+    "startMs": 11860,
+    "endMs": 12070
+  },
+  {
+    "word": "sau",
+    "startMs": 12070,
+    "endMs": 12330
+  },
+  {
+    "word": "quay",
+    "startMs": 12330,
+    "endMs": 12530
+  },
+  {
+    "word": "lại",
+    "startMs": 12530,
+    "endMs": 12790
+  },
+  {
+    "word": "cứu",
+    "startMs": 12790,
+    "endMs": 13080
+  },
+  {
+    "word": "nó",
+    "startMs": 13080,
+    "endMs": 13210
+  },
+  {
+    "word": "khỏi",
+    "startMs": 13210,
+    "endMs": 13520
+  },
+  {
+    "word": "bờ",
+    "startMs": 13520,
+    "endMs": 13730
+  },
+  {
+    "word": "vực",
+    "startMs": 13730,
+    "endMs": 13990
+  },
+  {
+    "word": "phá",
+    "startMs": 13990,
+    "endMs": 14190
+  },
+  {
+    "word": "sản.",
+    "startMs": 14190,
+    "endMs": 14690
+  },
+  {
+    "word": "Ông",
+    "startMs": 14690,
+    "endMs": 14960
+  },
+  {
+    "word": "sinh",
+    "startMs": 14960,
+    "endMs": 15110
+  },
+  {
+    "word": "năm",
+    "startMs": 14960,
+    "endMs": 15220
+  },
+  {
+    "word": "1955",
+    "startMs": 15220,
+    "endMs": 16020
+  },
+  {
+    "word": "tại",
+    "startMs": 16020,
+    "endMs": 16350
+  },
+  {
+    "word": "San",
+    "startMs": 16350,
+    "endMs": 16550
+  },
+  {
+    "word": "Francisco",
+    "startMs": 16550,
+    "endMs": 17310
+  },
+  {
+    "word": "và",
+    "startMs": 17310,
+    "endMs": 17360
+  },
+  {
+    "word": "được",
+    "startMs": 17360,
+    "endMs": 17610
+  },
+  {
+    "word": "một",
+    "startMs": 17610,
+    "endMs": 17800
+  },
+  {
+    "word": "cặp",
+    "startMs": 17800,
+    "endMs": 17970
+  },
+  {
+    "word": "vợ",
+    "startMs": 17970,
+    "endMs": 18120
+  },
+  {
+    "word": "chồng",
+    "startMs": 18120,
+    "endMs": 18300
+  },
+  {
+    "word": "nhận",
+    "startMs": 18300,
+    "endMs": 18520
+  },
+  {
+    "word": "nuôi",
+    "startMs": 18520,
+    "endMs": 18690
+  },
+  {
+    "word": "ngay",
+    "startMs": 18690,
+    "endMs": 18920
+  },
+  {
+    "word": "từ",
+    "startMs": 18920,
+    "endMs": 19080
+  },
+  {
+    "word": "khi",
+    "startMs": 19080,
+    "endMs": 19150
+  },
+  {
+    "word": "mới",
+    "startMs": 19150,
+    "endMs": 19340
+  },
+  {
+    "word": "chào",
+    "startMs": 19340,
+    "endMs": 19520
+  },
+  {
+    "word": "đời.",
+    "startMs": 19520,
+    "endMs": 19960
+  },
+  {
+    "word": "Lớn",
+    "startMs": 19960,
+    "endMs": 20320
+  },
+  {
+    "word": "lên",
+    "startMs": 20320,
+    "endMs": 20510
+  },
+  {
+    "word": "giữa",
+    "startMs": 20510,
+    "endMs": 20760
+  },
+  {
+    "word": "Thung",
+    "startMs": 20760,
+    "endMs": 21060
+  },
+  {
+    "word": "lũng",
+    "startMs": 21060,
+    "endMs": 21310
+  },
+  {
+    "word": "Silicon,",
+    "startMs": 21310,
+    "endMs": 21810
+  },
+  {
+    "word": "cậu",
+    "startMs": 21810,
+    "endMs": 22060
+  },
+  {
+    "word": "bé",
+    "startMs": 22060,
+    "endMs": 22210
+  },
+  {
+    "word": "Steve",
+    "startMs": 22210,
+    "endMs": 22600
+  },
+  {
+    "word": "sớm",
+    "startMs": 22600,
+    "endMs": 22810
+  },
+  {
+    "word": "mê",
+    "startMs": 22810,
+    "endMs": 22960
+  },
+  {
+    "word": "điện",
+    "startMs": 22960,
+    "endMs": 23310
+  },
+  {
+    "word": "tử.",
+    "startMs": 23310,
+    "endMs": 23850
+  },
+  {
+    "word": "Vào",
+    "startMs": 23850,
+    "endMs": 23860
+  },
+  {
+    "word": "đại",
+    "startMs": 23860,
+    "endMs": 24160
+  },
+  {
+    "word": "học",
+    "startMs": 24160,
+    "endMs": 24410
+  },
+  {
+    "word": "Reed,",
+    "startMs": 24410,
+    "endMs": 24820
+  },
+  {
+    "word": "ông",
+    "startMs": 24820,
+    "endMs": 24900
+  },
+  {
+    "word": "bỏ",
+    "startMs": 24900,
+    "endMs": 25080
+  },
+  {
+    "word": "học",
+    "startMs": 25080,
+    "endMs": 25380
+  },
+  {
+    "word": "chỉ",
+    "startMs": 25380,
+    "endMs": 25540
+  },
+  {
+    "word": "sau",
+    "startMs": 25540,
+    "endMs": 25680
+  },
+  {
+    "word": "một",
+    "startMs": 25680,
+    "endMs": 25910
+  },
+  {
+    "word": "học",
+    "startMs": 25910,
+    "endMs": 26140
+  },
+  {
+    "word": "kỳ,",
+    "startMs": 26140,
+    "endMs": 26360
+  },
+  {
+    "word": "nhưng",
+    "startMs": 26360,
+    "endMs": 26610
+  },
+  {
+    "word": "vẫn",
+    "startMs": 26610,
+    "endMs": 26780
+  },
+  {
+    "word": "ở",
+    "startMs": 26780,
+    "endMs": 26900
+  },
+  {
+    "word": "lại",
+    "startMs": 26900,
+    "endMs": 27100
+  },
+  {
+    "word": "dự",
+    "startMs": 27100,
+    "endMs": 27290
+  },
+  {
+    "word": "thính",
+    "startMs": 27290,
+    "endMs": 27530
+  },
+  {
+    "word": "những",
+    "startMs": 27530,
+    "endMs": 27780
+  },
+  {
+    "word": "lớp",
+    "startMs": 27780,
+    "endMs": 28020
+  },
+  {
+    "word": "mình",
+    "startMs": 28020,
+    "endMs": 28170
+  },
+  {
+    "word": "thích,",
+    "startMs": 28170,
+    "endMs": 28650
+  },
+  {
+    "word": "trong",
+    "startMs": 28650,
+    "endMs": 28820
+  },
+  {
+    "word": "đó",
+    "startMs": 28820,
+    "endMs": 29030
+  },
+  {
+    "word": "có",
+    "startMs": 29030,
+    "endMs": 29210
+  },
+  {
+    "word": "lớp",
+    "startMs": 29210,
+    "endMs": 29470
+  },
+  {
+    "word": "thư",
+    "startMs": 29470,
+    "endMs": 29650
+  },
+  {
+    "word": "pháp.",
+    "startMs": 29650,
+    "endMs": 29960
+  },
+  {
+    "word": "Nhiều",
+    "startMs": 29970,
+    "endMs": 30300
+  },
+  {
+    "word": "năm",
+    "startMs": 30300,
+    "endMs": 30490
+  },
+  {
+    "word": "sau,",
+    "startMs": 30490,
+    "endMs": 30720
+  },
+  {
+    "word": "chính",
+    "startMs": 30720,
+    "endMs": 31120
+  },
+  {
+    "word": "lớp",
+    "startMs": 31120,
+    "endMs": 31240
+  },
+  {
+    "word": "học",
+    "startMs": 31240,
+    "endMs": 31480
+  },
+  {
+    "word": "ấy",
+    "startMs": 31480,
+    "endMs": 31670
+  },
+  {
+    "word": "giúp",
+    "startMs": 31670,
+    "endMs": 31850
+  },
+  {
+    "word": "máy",
+    "startMs": 31850,
+    "endMs": 32080
+  },
+  {
+    "word": "Macintosh",
+    "startMs": 32080,
+    "endMs": 32450
+  },
+  {
+    "word": "có",
+    "startMs": 32450,
+    "endMs": 32590
+  },
+  {
+    "word": "những",
+    "startMs": 32590,
+    "endMs": 32930
+  },
+  {
+    "word": "kiểu",
+    "startMs": 32930,
+    "endMs": 33220
+  },
+  {
+    "word": "chữ",
+    "startMs": 33220,
+    "endMs": 33440
+  },
+  {
+    "word": "đẹp,",
+    "startMs": 33440,
+    "endMs": 34100
+  },
+  {
+    "word": "điều",
+    "startMs": 34100,
+    "endMs": 34260
+  },
+  {
+    "word": "mà",
+    "startMs": 34260,
+    "endMs": 34390
+  },
+  {
+    "word": "máy",
+    "startMs": 34390,
+    "endMs": 34600
+  },
+  {
+    "word": "tính",
+    "startMs": 34600,
+    "endMs": 34900
+  },
+  {
+    "word": "thời",
+    "startMs": 34900,
+    "endMs": 35150
+  },
+  {
+    "word": "đó",
+    "startMs": 35150,
+    "endMs": 35320
+  },
+  {
+    "word": "chưa",
+    "startMs": 35320,
+    "endMs": 35540
+  },
+  {
+    "word": "có.",
+    "startMs": 35540,
+    "endMs": 35720
+  },
+  {
+    "word": "Năm",
+    "startMs": 35720,
+    "endMs": 36000
+  },
+  {
+    "word": "1976,",
+    "startMs": 36000,
+    "endMs": 36850
+  },
+  {
+    "word": "ông",
+    "startMs": 36850,
+    "endMs": 37100
+  },
+  {
+    "word": "cùng",
+    "startMs": 37100,
+    "endMs": 37640
+  },
+  {
+    "word": "Steve",
+    "startMs": 37640,
+    "endMs": 37720
+  },
+  {
+    "word": "Wozniak",
+    "startMs": 37970,
+    "endMs": 38340
+  },
+  {
+    "word": "lập",
+    "startMs": 38340,
+    "endMs": 38750
+  },
+  {
+    "word": "Apple",
+    "startMs": 38750,
+    "endMs": 38970
+  },
+  {
+    "word": "trong",
+    "startMs": 38970,
+    "endMs": 39270
+  },
+  {
+    "word": "ga-ra",
+    "startMs": 39450,
+    "endMs": 39570
+  },
+  {
+    "word": "nhà",
+    "startMs": 39570,
+    "endMs": 39820
+  },
+  {
+    "word": "mình.",
+    "startMs": 39820,
+    "endMs": 40430
+  },
+  {
+    "word": "Máy",
+    "startMs": 40430,
+    "endMs": 40720
+  },
+  {
+    "word": "Apple",
+    "startMs": 40720,
+    "endMs": 41020
+  },
+  {
+    "word": "II",
+    "startMs": 41020,
+    "endMs": 41140
+  },
+  {
+    "word": "ra",
+    "startMs": 41140,
+    "endMs": 41270
+  },
+  {
+    "word": "mắt",
+    "startMs": 41270,
+    "endMs": 41640
+  },
+  {
+    "word": "năm",
+    "startMs": 41640,
+    "endMs": 41850
+  },
+  {
+    "word": "1977",
+    "startMs": 41850,
+    "endMs": 42640
+  },
+  {
+    "word": "và",
+    "startMs": 42640,
+    "endMs": 42830
+  },
+  {
+    "word": "thành",
+    "startMs": 42830,
+    "endMs": 43230
+  },
+  {
+    "word": "công",
+    "startMs": 43230,
+    "endMs": 43550
+  },
+  {
+    "word": "lớn,",
+    "startMs": 43550,
+    "endMs": 43960
+  },
+  {
+    "word": "đến",
+    "startMs": 43960,
+    "endMs": 44260
+  },
+  {
+    "word": "năm",
+    "startMs": 44260,
+    "endMs": 44460
+  },
+  {
+    "word": "1980",
+    "startMs": 44460,
+    "endMs": 45080
+  },
+  {
+    "word": "Apple",
+    "startMs": 45080,
+    "endMs": 45340
+  },
+  {
+    "word": "lên",
+    "startMs": 45340,
+    "endMs": 45540
+  },
+  {
+    "word": "sàn",
+    "startMs": 45540,
+    "endMs": 45790
+  },
+  {
+    "word": "chứng",
+    "startMs": 45790,
+    "endMs": 46150
+  },
+  {
+    "word": "khoán,",
+    "startMs": 46150,
+    "endMs": 46550
+  },
+  {
+    "word": "biến",
+    "startMs": 46550,
+    "endMs": 46920
+  },
+  {
+    "word": "ông",
+    "startMs": 46920,
+    "endMs": 47050
+  },
+  {
+    "word": "thành",
+    "startMs": 47050,
+    "endMs": 47360
+  },
+  {
+    "word": "triệu",
+    "startMs": 47360,
+    "endMs": 47710
+  },
+  {
+    "word": "phú",
+    "startMs": 47710,
+    "endMs": 47910
+  },
+  {
+    "word": "ở",
+    "startMs": 47910,
+    "endMs": 48060
+  },
+  {
+    "word": "tuổi",
+    "startMs": 48060,
+    "endMs": 48360
+  },
+  {
+    "word": "25.",
+    "startMs": 48360,
+    "endMs": 48820
+  },
+  {
+    "word": "Năm",
+    "startMs": 48820,
+    "endMs": 49160
+  },
+  {
+    "word": "1984,",
+    "startMs": 49160,
+    "endMs": 49720
+  },
+  {
+    "word": "Macintosh",
+    "startMs": 49720,
+    "endMs": 50120
+  },
+  {
+    "word": "ra",
+    "startMs": 50120,
+    "endMs": 50220
+  },
+  {
+    "word": "đời,",
+    "startMs": 50220,
+    "endMs": 50990
+  },
+  {
+    "word": "chiếc",
+    "startMs": 50990,
+    "endMs": 51020
+  },
+  {
+    "word": "máy",
+    "startMs": 51020,
+    "endMs": 51290
+  },
+  {
+    "word": "tính",
+    "startMs": 51290,
+    "endMs": 51620
+  },
+  {
+    "word": "đưa",
+    "startMs": 51620,
+    "endMs": 51870
+  },
+  {
+    "word": "giao",
+    "startMs": 51870,
+    "endMs": 52190
+  },
+  {
+    "word": "diện",
+    "startMs": 52190,
+    "endMs": 52420
+  },
+  {
+    "word": "đồ",
+    "startMs": 52420,
+    "endMs": 52670
+  },
+  {
+    "word": "họa",
+    "startMs": 52670,
+    "endMs": 52930
+  },
+  {
+    "word": "và",
+    "startMs": 52930,
+    "endMs": 53070
+  },
+  {
+    "word": "con",
+    "startMs": 53070,
+    "endMs": 53240
+  },
+  {
+    "word": "chuột",
+    "startMs": 53240,
+    "endMs": 53590
+  },
+  {
+    "word": "đến",
+    "startMs": 53590,
+    "endMs": 53870
+  },
+  {
+    "word": "với",
+    "startMs": 53870,
+    "endMs": 54220
+  },
+  {
+    "word": "đông",
+    "startMs": 54220,
+    "endMs": 54420
+  },
+  {
+    "word": "đảo",
+    "startMs": 54420,
+    "endMs": 54720
+  },
+  {
+    "word": "công",
+    "startMs": 54720,
+    "endMs": 54970
+  },
+  {
+    "word": "chúng.",
+    "startMs": 54970,
+    "endMs": 55570
+  },
+  {
+    "word": "Ông",
+    "startMs": 55570,
+    "endMs": 55730
+  },
+  {
+    "word": "mời",
+    "startMs": 55730,
+    "endMs": 56040
+  },
+  {
+    "word": "John",
+    "startMs": 56040,
+    "endMs": 56290
+  },
+  {
+    "word": "Sculley",
+    "startMs": 56290,
+    "endMs": 56700
+  },
+  {
+    "word": "từ",
+    "startMs": 56700,
+    "endMs": 56920
+  },
+  {
+    "word": "Pepsi",
+    "startMs": 56920,
+    "endMs": 57230
+  },
+  {
+    "word": "về",
+    "startMs": 57230,
+    "endMs": 57480
+  },
+  {
+    "word": "làm",
+    "startMs": 57480,
+    "endMs": 57730
+  },
+  {
+    "word": "CEO,",
+    "startMs": 57730,
+    "endMs": 58000
+  },
+  {
+    "word": "với",
+    "startMs": 58000,
+    "endMs": 58270
+  },
+  {
+    "word": "một",
+    "startMs": 58270,
+    "endMs": 58400
+  },
+  {
+    "word": "câu",
+    "startMs": 58400,
+    "endMs": 58560
+  },
+  {
+    "word": "hỏi",
+    "startMs": 58560,
+    "endMs": 58760
+  },
+  {
+    "word": "được",
+    "startMs": 58760,
+    "endMs": 59090
+  },
+  {
+    "word": "kể",
+    "startMs": 59090,
+    "endMs": 59250
+  },
+  {
+    "word": "lại",
+    "startMs": 59250,
+    "endMs": 59450
+  },
+  {
+    "word": "rất",
+    "startMs": 59450,
+    "endMs": 59650
+  },
+  {
+    "word": "nổi",
+    "startMs": 59650,
+    "endMs": 59850
+  },
+  {
+    "word": "tiếng:",
+    "startMs": 59850,
+    "endMs": 60390
+  },
+  {
+    "word": "muốn",
+    "startMs": 60390,
+    "endMs": 60450
+  },
+  {
+    "word": "bán",
+    "startMs": 60450,
+    "endMs": 60610
+  },
+  {
+    "word": "nước",
+    "startMs": 60610,
+    "endMs": 60900
+  },
+  {
+    "word": "ngọt",
+    "startMs": 60900,
+    "endMs": 61140
+  },
+  {
+    "word": "cả",
+    "startMs": 61140,
+    "endMs": 61300
+  },
+  {
+    "word": "đời,",
+    "startMs": 61300,
+    "endMs": 61620
+  },
+  {
+    "word": "hay",
+    "startMs": 61620,
+    "endMs": 61890
+  },
+  {
+    "word": "cùng",
+    "startMs": 61890,
+    "endMs": 61940
+  },
+  {
+    "word": "thay",
+    "startMs": 61940,
+    "endMs": 62100
+  },
+  {
+    "word": "đổi",
+    "startMs": 62100,
+    "endMs": 62340
+  },
+  {
+    "word": "thế",
+    "startMs": 62340,
+    "endMs": 62540
+  },
+  {
+    "word": "giới?",
+    "startMs": 62540,
+    "endMs": 63080
+  },
+  {
+    "word": "Nhưng",
+    "startMs": 63080,
+    "endMs": 63420
+  },
+  {
+    "word": "chính",
+    "startMs": 63420,
+    "endMs": 63570
+  },
+  {
+    "word": "Sculley",
+    "startMs": 63570,
+    "endMs": 63910
+  },
+  {
+    "word": "lại",
+    "startMs": 63910,
+    "endMs": 64020
+  },
+  {
+    "word": "là",
+    "startMs": 64020,
+    "endMs": 64140
+  },
+  {
+    "word": "người",
+    "startMs": 64140,
+    "endMs": 64490
+  },
+  {
+    "word": "đứng",
+    "startMs": 64490,
+    "endMs": 64760
+  },
+  {
+    "word": "về",
+    "startMs": 64760,
+    "endMs": 64920
+  },
+  {
+    "word": "phía",
+    "startMs": 64920,
+    "endMs": 65120
+  },
+  {
+    "word": "hội",
+    "startMs": 65120,
+    "endMs": 65400
+  },
+  {
+    "word": "đồng",
+    "startMs": 65400,
+    "endMs": 65610
+  },
+  {
+    "word": "quản",
+    "startMs": 65610,
+    "endMs": 65850
+  },
+  {
+    "word": "trị",
+    "startMs": 65850,
+    "endMs": 66050
+  },
+  {
+    "word": "trong",
+    "startMs": 66050,
+    "endMs": 66510
+  },
+  {
+    "word": "cuộc",
+    "startMs": 66510,
+    "endMs": 66610
+  },
+  {
+    "word": "tranh",
+    "startMs": 66510,
+    "endMs": 66710
+  },
+  {
+    "word": "giành",
+    "startMs": 66710,
+    "endMs": 66910
+  },
+  {
+    "word": "quyền",
+    "startMs": 66910,
+    "endMs": 67210
+  },
+  {
+    "word": "lực.",
+    "startMs": 67210,
+    "endMs": 67770
+  },
+  {
+    "word": "Năm",
+    "startMs": 67770,
+    "endMs": 68110
+  },
+  {
+    "word": "1985,",
+    "startMs": 68110,
+    "endMs": 69250
+  },
+  {
+    "word": "Jobs",
+    "startMs": 69250,
+    "endMs": 69430
+  },
+  {
+    "word": "bị",
+    "startMs": 69430,
+    "endMs": 69580
+  },
+  {
+    "word": "đẩy",
+    "startMs": 69580,
+    "endMs": 69770
+  },
+  {
+    "word": "khỏi",
+    "startMs": 69770,
+    "endMs": 69990
+  },
+  {
+    "word": "vị",
+    "startMs": 69990,
+    "endMs": 70140
+  },
+  {
+    "word": "trí",
+    "startMs": 70140,
+    "endMs": 70280
+  },
+  {
+    "word": "điều",
+    "startMs": 70280,
+    "endMs": 70550
+  },
+  {
+    "word": "hành",
+    "startMs": 70550,
+    "endMs": 70730
+  },
+  {
+    "word": "công",
+    "startMs": 70730,
+    "endMs": 70920
+  },
+  {
+    "word": "ty",
+    "startMs": 70920,
+    "endMs": 71080
+  },
+  {
+    "word": "do",
+    "startMs": 71080,
+    "endMs": 71150
+  },
+  {
+    "word": "mình",
+    "startMs": 71150,
+    "endMs": 71360
+  },
+  {
+    "word": "sáng",
+    "startMs": 71360,
+    "endMs": 71520
+  },
+  {
+    "word": "lập.",
+    "startMs": 71520,
+    "endMs": 71920
+  },
+  {
+    "word": "Ông",
+    "startMs": 71920,
+    "endMs": 72090
+  },
+  {
+    "word": "rời",
+    "startMs": 72090,
+    "endMs": 72310
+  },
+  {
+    "word": "Apple",
+    "startMs": 72310,
+    "endMs": 72520
+  },
+  {
+    "word": "và",
+    "startMs": 72520,
+    "endMs": 72650
+  },
+  {
+    "word": "lập",
+    "startMs": 72650,
+    "endMs": 72930
+  },
+  {
+    "word": "NeXT,",
+    "startMs": 72930,
+    "endMs": 73110
+  },
+  {
+    "word": "một",
+    "startMs": 73110,
+    "endMs": 73330
+  },
+  {
+    "word": "công",
+    "startMs": 73330,
+    "endMs": 73550
+  },
+  {
+    "word": "ty",
+    "startMs": 73550,
+    "endMs": 73630
+  },
+  {
+    "word": "máy",
+    "startMs": 73630,
+    "endMs": 73840
+  },
+  {
+    "word": "tính",
+    "startMs": 73840,
+    "endMs": 74160
+  },
+  {
+    "word": "hướng",
+    "startMs": 74160,
+    "endMs": 74490
+  },
+  {
+    "word": "đến",
+    "startMs": 74490,
+    "endMs": 74740
+  },
+  {
+    "word": "giáo",
+    "startMs": 74740,
+    "endMs": 74950
+  },
+  {
+    "word": "dục",
+    "startMs": 74950,
+    "endMs": 75160
+  },
+  {
+    "word": "và",
+    "startMs": 75160,
+    "endMs": 75370
+  },
+  {
+    "word": "doanh",
+    "startMs": 75370,
+    "endMs": 75500
+  },
+  {
+    "word": "nghiệp.",
+    "startMs": 75500,
+    "endMs": 76160
+  },
+  {
+    "word": "Năm",
+    "startMs": 76160,
+    "endMs": 76370
+  },
+  {
+    "word": "1986,",
+    "startMs": 76370,
+    "endMs": 77150
+  },
+  {
+    "word": "ông",
+    "startMs": 77150,
+    "endMs": 77400
+  },
+  {
+    "word": "mua",
+    "startMs": 77400,
+    "endMs": 77530
+  },
+  {
+    "word": "bộ",
+    "startMs": 77530,
+    "endMs": 77730
+  },
+  {
+    "word": "phận",
+    "startMs": 77730,
+    "endMs": 78010
+  },
+  {
+    "word": "đồ",
+    "startMs": 78010,
+    "endMs": 78280
+  },
+  {
+    "word": "họa",
+    "startMs": 78280,
+    "endMs": 78550
+  },
+  {
+    "word": "của",
+    "startMs": 78550,
+    "endMs": 78950
+  },
+  {
+    "word": "Lucasfilm",
+    "startMs": 78950,
+    "endMs": 79390
+  },
+  {
+    "word": "với",
+    "startMs": 79390,
+    "endMs": 79720
+  },
+  {
+    "word": "giá",
+    "startMs": 79720,
+    "endMs": 79900
+  },
+  {
+    "word": "khoảng",
+    "startMs": 79900,
+    "endMs": 80280
+  },
+  {
+    "word": "5",
+    "startMs": 80280,
+    "endMs": 80450
+  },
+  {
+    "word": "triệu",
+    "startMs": 80450,
+    "endMs": 80840
+  },
+  {
+    "word": "đô",
+    "startMs": 80840,
+    "endMs": 81060
+  },
+  {
+    "word": "la,",
+    "startMs": 81060,
+    "endMs": 81510
+  },
+  {
+    "word": "sau",
+    "startMs": 81510,
+    "endMs": 81580
+  },
+  {
+    "word": "này",
+    "startMs": 81580,
+    "endMs": 81790
+  },
+  {
+    "word": "trở",
+    "startMs": 81790,
+    "endMs": 82040
+  },
+  {
+    "word": "thành",
+    "startMs": 82040,
+    "endMs": 82340
+  },
+  {
+    "word": "Pixar.",
+    "startMs": 82340,
+    "endMs": 82890
+  },
+  {
+    "word": "Nhiều",
+    "startMs": 82890,
+    "endMs": 83090
+  },
+  {
+    "word": "năm",
+    "startMs": 83090,
+    "endMs": 83280
+  },
+  {
+    "word": "liền",
+    "startMs": 83280,
+    "endMs": 83560
+  },
+  {
+    "word": "công",
+    "startMs": 83560,
+    "endMs": 83790
+  },
+  {
+    "word": "ty",
+    "startMs": 83790,
+    "endMs": 83880
+  },
+  {
+    "word": "thua",
+    "startMs": 83880,
+    "endMs": 84020
+  },
+  {
+    "word": "lỗ,",
+    "startMs": 84020,
+    "endMs": 84280
+  },
+  {
+    "word": "cho",
+    "startMs": 84280,
+    "endMs": 84530
+  },
+  {
+    "word": "đến",
+    "startMs": 84530,
+    "endMs": 84790
+  },
+  {
+    "word": "năm",
+    "startMs": 84790,
+    "endMs": 85020
+  },
+  {
+    "word": "1995,",
+    "startMs": 85020,
+    "endMs": 85820
+  },
+  {
+    "word": "Toy",
+    "startMs": 85820,
+    "endMs": 86280
+  },
+  {
+    "word": "Story",
+    "startMs": 86280,
+    "endMs": 86380
+  },
+  {
+    "word": "ra",
+    "startMs": 86280,
+    "endMs": 86540
+  },
+  {
+    "word": "mắt,",
+    "startMs": 86540,
+    "endMs": 86890
+  },
+  {
+    "word": "bộ",
+    "startMs": 86890,
+    "endMs": 87100
+  },
+  {
+    "word": "phim",
+    "startMs": 87100,
+    "endMs": 87430
+  },
+  {
+    "word": "hoạt",
+    "startMs": 87430,
+    "endMs": 87670
+  },
+  {
+    "word": "hình",
+    "startMs": 87670,
+    "endMs": 87950
+  },
+  {
+    "word": "dài",
+    "startMs": 87950,
+    "endMs": 88170
+  },
+  {
+    "word": "đầu",
+    "startMs": 88170,
+    "endMs": 88510
+  },
+  {
+    "word": "tiên",
+    "startMs": 88510,
+    "endMs": 89040
+  },
+  {
+    "word": "làm",
+    "startMs": 89040,
+    "endMs": 89180
+  },
+  {
+    "word": "hoàn",
+    "startMs": 89180,
+    "endMs": 89350
+  },
+  {
+    "word": "toàn",
+    "startMs": 89350,
+    "endMs": 89520
+  },
+  {
+    "word": "bằng",
+    "startMs": 89520,
+    "endMs": 89720
+  },
+  {
+    "word": "máy",
+    "startMs": 89720,
+    "endMs": 89880
+  },
+  {
+    "word": "tính,",
+    "startMs": 89880,
+    "endMs": 90160
+  },
+  {
+    "word": "và",
+    "startMs": 90160,
+    "endMs": 90330
+  },
+  {
+    "word": "Pixar",
+    "startMs": 90330,
+    "endMs": 90600
+  },
+  {
+    "word": "lên",
+    "startMs": 90600,
+    "endMs": 90820
+  },
+  {
+    "word": "sàn",
+    "startMs": 90820,
+    "endMs": 91100
+  },
+  {
+    "word": "chứng",
+    "startMs": 91100,
+    "endMs": 91470
+  },
+  {
+    "word": "khoán.",
+    "startMs": 91470,
+    "endMs": 92020
+  },
+  {
+    "word": "Trong",
+    "startMs": 92020,
+    "endMs": 92260
+  },
+  {
+    "word": "lúc",
+    "startMs": 92260,
+    "endMs": 92460
+  },
+  {
+    "word": "đó,",
+    "startMs": 92460,
+    "endMs": 92800
+  },
+  {
+    "word": "Apple",
+    "startMs": 92800,
+    "endMs": 93070
+  },
+  {
+    "word": "sa",
+    "startMs": 93070,
+    "endMs": 93200
+  },
+  {
+    "word": "sút",
+    "startMs": 93200,
+    "endMs": 93490
+  },
+  {
+    "word": "và",
+    "startMs": 93490,
+    "endMs": 93690
+  },
+  {
+    "word": "đứng",
+    "startMs": 93690,
+    "endMs": 93910
+  },
+  {
+    "word": "gần",
+    "startMs": 93910,
+    "endMs": 94130
+  },
+  {
+    "word": "bờ",
+    "startMs": 94130,
+    "endMs": 94340
+  },
+  {
+    "word": "vực",
+    "startMs": 94340,
+    "endMs": 94560
+  },
+  {
+    "word": "phá",
+    "startMs": 94560,
+    "endMs": 94820
+  },
+  {
+    "word": "sản.",
+    "startMs": 94820,
+    "endMs": 95240
+  },
+  {
+    "word": "Năm",
+    "startMs": 95240,
+    "endMs": 95560
+  },
+  {
+    "word": "1997,",
+    "startMs": 95560,
+    "endMs": 96390
+  },
+  {
+    "word": "Apple",
+    "startMs": 96390,
+    "endMs": 96680
+  },
+  {
+    "word": "mua",
+    "startMs": 96680,
+    "endMs": 97050
+  },
+  {
+    "word": "lại",
+    "startMs": 97050,
+    "endMs": 97210
+  },
+  {
+    "word": "NeXT",
+    "startMs": 97210,
+    "endMs": 97420
+  },
+  {
+    "word": "với",
+    "startMs": 97420,
+    "endMs": 97730
+  },
+  {
+    "word": "giá",
+    "startMs": 97730,
+    "endMs": 97970
+  },
+  {
+    "word": "khoảng",
+    "startMs": 97970,
+    "endMs": 98470
+  },
+  {
+    "word": "400",
+    "startMs": 98470,
+    "endMs": 99040
+  },
+  {
+    "word": "triệu",
+    "startMs": 99040,
+    "endMs": 99480
+  },
+  {
+    "word": "đô",
+    "startMs": 99480,
+    "endMs": 99840
+  },
+  {
+    "word": "la,",
+    "startMs": 99840,
+    "endMs": 100080
+  },
+  {
+    "word": "và",
+    "startMs": 100080,
+    "endMs": 100190
+  },
+  {
+    "word": "Jobs",
+    "startMs": 100190,
+    "endMs": 100420
+  },
+  {
+    "word": "trở",
+    "startMs": 100420,
+    "endMs": 100650
+  },
+  {
+    "word": "về.",
+    "startMs": 100650,
+    "endMs": 101200
+  },
+  {
+    "word": "Ông",
+    "startMs": 101200,
+    "endMs": 101210
+  },
+  {
+    "word": "cắt",
+    "startMs": 101210,
+    "endMs": 101370
+  },
+  {
+    "word": "giảm",
+    "startMs": 101370,
+    "endMs": 101550
+  },
+  {
+    "word": "mạnh",
+    "startMs": 101550,
+    "endMs": 101810
+  },
+  {
+    "word": "số",
+    "startMs": 101810,
+    "endMs": 101940
+  },
+  {
+    "word": "lượng",
+    "startMs": 101940,
+    "endMs": 102250
+  },
+  {
+    "word": "sản",
+    "startMs": 102250,
+    "endMs": 102440
+  },
+  {
+    "word": "phẩm,",
+    "startMs": 102440,
+    "endMs": 102850
+  },
+  {
+    "word": "và",
+    "startMs": 102850,
+    "endMs": 102860
+  },
+  {
+    "word": "bắt",
+    "startMs": 102860,
+    "endMs": 103060
+  },
+  {
+    "word": "tay",
+    "startMs": 103060,
+    "endMs": 103190
+  },
+  {
+    "word": "với",
+    "startMs": 103190,
+    "endMs": 103410
+  },
+  {
+    "word": "chính",
+    "startMs": 103410,
+    "endMs": 103670
+  },
+  {
+    "word": "đối",
+    "startMs": 103670,
+    "endMs": 103920
+  },
+  {
+    "word": "thủ",
+    "startMs": 103920,
+    "endMs": 104150
+  },
+  {
+    "word": "Microsoft,",
+    "startMs": 104150,
+    "endMs": 104590
+  },
+  {
+    "word": "nhận",
+    "startMs": 104590,
+    "endMs": 104890
+  },
+  {
+    "word": "khoản",
+    "startMs": 104890,
+    "endMs": 105260
+  },
+  {
+    "word": "đầu",
+    "startMs": 105260,
+    "endMs": 105550
+  },
+  {
+    "word": "tư",
+    "startMs": 105550,
+    "endMs": 105700
+  },
+  {
+    "word": "150",
+    "startMs": 105700,
+    "endMs": 106150
+  },
+  {
+    "word": "triệu",
+    "startMs": 106150,
+    "endMs": 106460
+  },
+  {
+    "word": "đô",
+    "startMs": 106460,
+    "endMs": 106640
+  },
+  {
+    "word": "la.",
+    "startMs": 106640,
+    "endMs": 107000
+  },
+  {
+    "word": "Năm",
+    "startMs": 107210,
+    "endMs": 107250
+  },
+  {
+    "word": "1998,",
+    "startMs": 107250,
+    "endMs": 108140
+  },
+  {
+    "word": "chiếc",
+    "startMs": 108140,
+    "endMs": 108700
+  },
+  {
+    "word": "iMac",
+    "startMs": 108700,
+    "endMs": 109030
+  },
+  {
+    "word": "nhiều",
+    "startMs": 109030,
+    "endMs": 109490
+  },
+  {
+    "word": "màu",
+    "startMs": 109490,
+    "endMs": 109710
+  },
+  {
+    "word": "sắc",
+    "startMs": 109710,
+    "endMs": 110040
+  },
+  {
+    "word": "ra",
+    "startMs": 110040,
+    "endMs": 110260
+  },
+  {
+    "word": "mắt",
+    "startMs": 110260,
+    "endMs": 110570
+  },
+  {
+    "word": "và",
+    "startMs": 110570,
+    "endMs": 110760
+  },
+  {
+    "word": "giúp",
+    "startMs": 110760,
+    "endMs": 111080
+  },
+  {
+    "word": "Apple",
+    "startMs": 111080,
+    "endMs": 111400
+  },
+  {
+    "word": "hồi",
+    "startMs": 111400,
+    "endMs": 111890
+  },
+  {
+    "word": "sinh.",
+    "startMs": 111890,
+    "endMs": 112070
+  },
+  {
+    "word": "Năm",
+    "startMs": 112070,
+    "endMs": 112320
+  },
+  {
+    "word": "2001,",
+    "startMs": 112320,
+    "endMs": 113400
+  },
+  {
+    "word": "iPod",
+    "startMs": 113400,
+    "endMs": 113610
+  },
+  {
+    "word": "xuất",
+    "startMs": 113610,
+    "endMs": 113820
+  },
+  {
+    "word": "hiện,",
+    "startMs": 113820,
+    "endMs": 114150
+  },
+  {
+    "word": "biến",
+    "startMs": 114150,
+    "endMs": 114410
+  },
+  {
+    "word": "cả",
+    "startMs": 114410,
+    "endMs": 114580
+  },
+  {
+    "word": "một",
+    "startMs": 114580,
+    "endMs": 114850
+  },
+  {
+    "word": "thư",
+    "startMs": 114850,
+    "endMs": 114960
+  },
+  {
+    "word": "viện",
+    "startMs": 114960,
+    "endMs": 115210
+  },
+  {
+    "word": "âm",
+    "startMs": 115210,
+    "endMs": 115330
+  },
+  {
+    "word": "nhạc",
+    "startMs": 115330,
+    "endMs": 115590
+  },
+  {
+    "word": "thành",
+    "startMs": 115590,
+    "endMs": 115840
+  },
+  {
+    "word": "thứ",
+    "startMs": 115840,
+    "endMs": 116060
+  },
+  {
+    "word": "nằm",
+    "startMs": 116060,
+    "endMs": 116190
+  },
+  {
+    "word": "gọn",
+    "startMs": 116190,
+    "endMs": 116400
+  },
+  {
+    "word": "trong",
+    "startMs": 116400,
+    "endMs": 116620
+  },
+  {
+    "word": "túi",
+    "startMs": 116620,
+    "endMs": 116870
+  },
+  {
+    "word": "áo.",
+    "startMs": 116870,
+    "endMs": 117280
+  },
+  {
+    "word": "Năm",
+    "startMs": 117280,
+    "endMs": 117520
+  },
+  {
+    "word": "2003,",
+    "startMs": 117520,
+    "endMs": 118350
+  },
+  {
+    "word": "cửa",
+    "startMs": 118350,
+    "endMs": 118660
+  },
+  {
+    "word": "hàng",
+    "startMs": 118660,
+    "endMs": 119030
+  },
+  {
+    "word": "iTunes",
+    "startMs": 119030,
+    "endMs": 119350
+  },
+  {
+    "word": "mở",
+    "startMs": 119350,
+    "endMs": 119560
+  },
+  {
+    "word": "ra,",
+    "startMs": 119560,
+    "endMs": 119800
+  },
+  {
+    "word": "thay",
+    "startMs": 119800,
+    "endMs": 120040
+  },
+  {
+    "word": "đổi",
+    "startMs": 120040,
+    "endMs": 120540
+  },
+  {
+    "word": "cách",
+    "startMs": 120540,
+    "endMs": 120700
+  },
+  {
+    "word": "người",
+    "startMs": 120700,
+    "endMs": 121180
+  },
+  {
+    "word": "ta",
+    "startMs": 121180,
+    "endMs": 121300
+  },
+  {
+    "word": "mua",
+    "startMs": 121300,
+    "endMs": 121480
+  },
+  {
+    "word": "nhạc.",
+    "startMs": 121480,
+    "endMs": 121960
+  },
+  {
+    "word": "Tháng",
+    "startMs": 121960,
+    "endMs": 122320
+  },
+  {
+    "word": "1",
+    "startMs": 122320,
+    "endMs": 122500
+  },
+  {
+    "word": "năm",
+    "startMs": 122500,
+    "endMs": 122760
+  },
+  {
+    "word": "2007,",
+    "startMs": 122760,
+    "endMs": 123750
+  },
+  {
+    "word": "ông",
+    "startMs": 123750,
+    "endMs": 123830
+  },
+  {
+    "word": "giới",
+    "startMs": 123830,
+    "endMs": 124110
+  },
+  {
+    "word": "thiệu",
+    "startMs": 124110,
+    "endMs": 124480
+  },
+  {
+    "word": "iPhone,",
+    "startMs": 124480,
+    "endMs": 124960
+  },
+  {
+    "word": "một",
+    "startMs": 124960,
+    "endMs": 124990
+  },
+  {
+    "word": "chiếc",
+    "startMs": 124990,
+    "endMs": 125170
+  },
+  {
+    "word": "điện",
+    "startMs": 125170,
+    "endMs": 125350
+  },
+  {
+    "word": "thoại,",
+    "startMs": 125350,
+    "endMs": 125800
+  },
+  {
+    "word": "một",
+    "startMs": 125800,
+    "endMs": 125890
+  },
+  {
+    "word": "máy",
+    "startMs": 125890,
+    "endMs": 126090
+  },
+  {
+    "word": "nghe",
+    "startMs": 126090,
+    "endMs": 126290
+  },
+  {
+    "word": "nhạc",
+    "startMs": 126290,
+    "endMs": 126680
+  },
+  {
+    "word": "và",
+    "startMs": 126680,
+    "endMs": 126720
+  },
+  {
+    "word": "một",
+    "startMs": 126720,
+    "endMs": 126930
+  },
+  {
+    "word": "thiết",
+    "startMs": 126930,
+    "endMs": 127370
+  },
+  {
+    "word": "bị",
+    "startMs": 127370,
+    "endMs": 127390
+  },
+  {
+    "word": "internet",
+    "startMs": 127390,
+    "endMs": 127730
+  },
+  {
+    "word": "trong",
+    "startMs": 127730,
+    "endMs": 127940
+  },
+  {
+    "word": "cùng",
+    "startMs": 127940,
+    "endMs": 128150
+  },
+  {
+    "word": "một",
+    "startMs": 128150,
+    "endMs": 128360
+  },
+  {
+    "word": "chiếc",
+    "startMs": 128360,
+    "endMs": 128640
+  },
+  {
+    "word": "máy.",
+    "startMs": 128640,
+    "endMs": 129000
+  },
+  {
+    "word": "Năm",
+    "startMs": 129000,
+    "endMs": 129280
+  },
+  {
+    "word": "2010,",
+    "startMs": 129280,
+    "endMs": 129780
+  },
+  {
+    "word": "iPad",
+    "startMs": 129780,
+    "endMs": 130030
+  },
+  {
+    "word": "tiếp",
+    "startMs": 130030,
+    "endMs": 130330
+  },
+  {
+    "word": "tục",
+    "startMs": 130330,
+    "endMs": 130570
+  },
+  {
+    "word": "ra",
+    "startMs": 130570,
+    "endMs": 130580
+  },
+  {
+    "word": "đời.",
+    "startMs": 130580,
+    "endMs": 131020
+  },
+  {
+    "word": "Ông",
+    "startMs": 131020,
+    "endMs": 131080
+  },
+  {
+    "word": "nổi",
+    "startMs": 131080,
+    "endMs": 131330
+  },
+  {
+    "word": "tiếng",
+    "startMs": 131330,
+    "endMs": 131590
+  },
+  {
+    "word": "khắt",
+    "startMs": 131590,
+    "endMs": 131840
+  },
+  {
+    "word": "khe",
+    "startMs": 131840,
+    "endMs": 132010
+  },
+  {
+    "word": "đến",
+    "startMs": 132010,
+    "endMs": 132260
+  },
+  {
+    "word": "mức",
+    "startMs": 132260,
+    "endMs": 132470
+  },
+  {
+    "word": "nhiều",
+    "startMs": 132470,
+    "endMs": 132780
+  },
+  {
+    "word": "người",
+    "startMs": 132780,
+    "endMs": 133130
+  },
+  {
+    "word": "làm",
+    "startMs": 133130,
+    "endMs": 133300
+  },
+  {
+    "word": "việc",
+    "startMs": 133300,
+    "endMs": 133560
+  },
+  {
+    "word": "cùng",
+    "startMs": 133560,
+    "endMs": 133790
+  },
+  {
+    "word": "gọi",
+    "startMs": 133790,
+    "endMs": 134070
+  },
+  {
+    "word": "ông",
+    "startMs": 134070,
+    "endMs": 134160
+  },
+  {
+    "word": "là",
+    "startMs": 134160,
+    "endMs": 134360
+  },
+  {
+    "word": "người",
+    "startMs": 134360,
+    "endMs": 134640
+  },
+  {
+    "word": "rất",
+    "startMs": 134640,
+    "endMs": 134860
+  },
+  {
+    "word": "khó",
+    "startMs": 134860,
+    "endMs": 135020
+  },
+  {
+    "word": "chiều,",
+    "startMs": 135020,
+    "endMs": 135540
+  },
+  {
+    "word": "và",
+    "startMs": 135540,
+    "endMs": 135670
+  },
+  {
+    "word": "thường",
+    "startMs": 135670,
+    "endMs": 136010
+  },
+  {
+    "word": "nhắc",
+    "startMs": 136010,
+    "endMs": 136250
+  },
+  {
+    "word": "đến",
+    "startMs": 136250,
+    "endMs": 136470
+  },
+  {
+    "word": "\"trường",
+    "startMs": 136470,
+    "endMs": 136810
+  },
+  {
+    "word": "bóp",
+    "startMs": 136810,
+    "endMs": 136940
+  },
+  {
+    "word": "méo",
+    "startMs": 136940,
+    "endMs": 137070
+  },
+  {
+    "word": "thực",
+    "startMs": 137070,
+    "endMs": 137300
+  },
+  {
+    "word": "tại\"",
+    "startMs": 137300,
+    "endMs": 137490
+  },
+  {
+    "word": "của",
+    "startMs": 137490,
+    "endMs": 137770
+  },
+  {
+    "word": "ông,",
+    "startMs": 137770,
+    "endMs": 138040
+  },
+  {
+    "word": "khả",
+    "startMs": 138040,
+    "endMs": 138130
+  },
+  {
+    "word": "năng",
+    "startMs": 138130,
+    "endMs": 138290
+  },
+  {
+    "word": "thuyết",
+    "startMs": 138290,
+    "endMs": 138540
+  },
+  {
+    "word": "phục",
+    "startMs": 138540,
+    "endMs": 138730
+  },
+  {
+    "word": "người",
+    "startMs": 138730,
+    "endMs": 138990
+  },
+  {
+    "word": "khác",
+    "startMs": 138990,
+    "endMs": 139150
+  },
+  {
+    "word": "làm",
+    "startMs": 139150,
+    "endMs": 139280
+  },
+  {
+    "word": "điều",
+    "startMs": 139280,
+    "endMs": 139510
+  },
+  {
+    "word": "tưởng",
+    "startMs": 139510,
+    "endMs": 139770
+  },
+  {
+    "word": "như",
+    "startMs": 139770,
+    "endMs": 139930
+  },
+  {
+    "word": "bất",
+    "startMs": 139930,
+    "endMs": 140120
+  },
+  {
+    "word": "khả",
+    "startMs": 140120,
+    "endMs": 140210
+  },
+  {
+    "word": "thi.",
+    "startMs": 140210,
+    "endMs": 140500
+  },
+  {
+    "word": "Sự",
+    "startMs": 140500,
+    "endMs": 140660
+  },
+  {
+    "word": "cầu",
+    "startMs": 140660,
+    "endMs": 140860
+  },
+  {
+    "word": "toàn",
+    "startMs": 140860,
+    "endMs": 141060
+  },
+  {
+    "word": "ấy",
+    "startMs": 141060,
+    "endMs": 141230
+  },
+  {
+    "word": "tạo",
+    "startMs": 141230,
+    "endMs": 141420
+  },
+  {
+    "word": "nên",
+    "startMs": 141420,
+    "endMs": 141610
+  },
+  {
+    "word": "những",
+    "startMs": 141610,
+    "endMs": 141860
+  },
+  {
+    "word": "sản",
+    "startMs": 141860,
+    "endMs": 142060
+  },
+  {
+    "word": "phẩm",
+    "startMs": 142060,
+    "endMs": 142300
+  },
+  {
+    "word": "đột",
+    "startMs": 142300,
+    "endMs": 142530
+  },
+  {
+    "word": "phá,",
+    "startMs": 142530,
+    "endMs": 143070
+  },
+  {
+    "word": "nhưng",
+    "startMs": 143070,
+    "endMs": 143110
+  },
+  {
+    "word": "cũng",
+    "startMs": 143110,
+    "endMs": 143320
+  },
+  {
+    "word": "để",
+    "startMs": 143320,
+    "endMs": 143530
+  },
+  {
+    "word": "lại",
+    "startMs": 143530,
+    "endMs": 143760
+  },
+  {
+    "word": "nhiều",
+    "startMs": 143760,
+    "endMs": 144080
+  },
+  {
+    "word": "mối",
+    "startMs": 144080,
+    "endMs": 144300
+  },
+  {
+    "word": "quan",
+    "startMs": 144300,
+    "endMs": 144520
+  },
+  {
+    "word": "hệ",
+    "startMs": 144520,
+    "endMs": 144690
+  },
+  {
+    "word": "rạn",
+    "startMs": 144690,
+    "endMs": 144970
+  },
+  {
+    "word": "nứt.",
+    "startMs": 144970,
+    "endMs": 145230
+  },
+  {
+    "word": "Năm",
+    "startMs": 145230,
+    "endMs": 145430
+  },
+  {
+    "word": "2003,",
+    "startMs": 145430,
+    "endMs": 146140
+  },
+  {
+    "word": "ông",
+    "startMs": 146140,
+    "endMs": 146430
+  },
+  {
+    "word": "được",
+    "startMs": 146430,
+    "endMs": 146620
+  },
+  {
+    "word": "chẩn",
+    "startMs": 146620,
+    "endMs": 146860
+  },
+  {
+    "word": "đoán",
+    "startMs": 146860,
+    "endMs": 147100
+  },
+  {
+    "word": "mắc",
+    "startMs": 147100,
+    "endMs": 147300
+  },
+  {
+    "word": "ung",
+    "startMs": 147300,
+    "endMs": 147460
+  },
+  {
+    "word": "thư",
+    "startMs": 147460,
+    "endMs": 147620
+  },
+  {
+    "word": "tuyến",
+    "startMs": 147620,
+    "endMs": 147980
+  },
+  {
+    "word": "tụy.",
+    "startMs": 147980,
+    "endMs": 148450
+  },
+  {
+    "word": "Năm",
+    "startMs": 148450,
+    "endMs": 148650
+  },
+  {
+    "word": "2005,",
+    "startMs": 148650,
+    "endMs": 149920
+  },
+  {
+    "word": "trong",
+    "startMs": 149920,
+    "endMs": 149950
+  },
+  {
+    "word": "bài",
+    "startMs": 149950,
+    "endMs": 150110
+  },
+  {
+    "word": "diễn",
+    "startMs": 150110,
+    "endMs": 150360
+  },
+  {
+    "word": "thuyết",
+    "startMs": 150360,
+    "endMs": 150690
+  },
+  {
+    "word": "nổi",
+    "startMs": 150690,
+    "endMs": 150900
+  },
+  {
+    "word": "tiếng",
+    "startMs": 150900,
+    "endMs": 151190
+  },
+  {
+    "word": "tại",
+    "startMs": 151190,
+    "endMs": 151400
+  },
+  {
+    "word": "Đại",
+    "startMs": 151400,
+    "endMs": 151550
+  },
+  {
+    "word": "học",
+    "startMs": 151400,
+    "endMs": 151670
+  },
+  {
+    "word": "Stanford,",
+    "startMs": 151670,
+    "endMs": 152160
+  },
+  {
+    "word": "ông",
+    "startMs": 152160,
+    "endMs": 152290
+  },
+  {
+    "word": "nói",
+    "startMs": 152290,
+    "endMs": 152420
+  },
+  {
+    "word": "rằng",
+    "startMs": 152420,
+    "endMs": 152680
+  },
+  {
+    "word": "ý",
+    "startMs": 152680,
+    "endMs": 152810
+  },
+  {
+    "word": "thức",
+    "startMs": 152810,
+    "endMs": 153010
+  },
+  {
+    "word": "về",
+    "startMs": 153010,
+    "endMs": 153220
+  },
+  {
+    "word": "cái",
+    "startMs": 153220,
+    "endMs": 153350
+  },
+  {
+    "word": "chết",
+    "startMs": 153350,
+    "endMs": 153610
+  },
+  {
+    "word": "nhắc",
+    "startMs": 153610,
+    "endMs": 154020
+  },
+  {
+    "word": "ông",
+    "startMs": 154020,
+    "endMs": 154120
+  },
+  {
+    "word": "sống",
+    "startMs": 154120,
+    "endMs": 154350
+  },
+  {
+    "word": "thật",
+    "startMs": 154350,
+    "endMs": 154650
+  },
+  {
+    "word": "với",
+    "startMs": 154650,
+    "endMs": 154780
+  },
+  {
+    "word": "điều",
+    "startMs": 154780,
+    "endMs": 155050
+  },
+  {
+    "word": "mình",
+    "startMs": 155050,
+    "endMs": 155240
+  },
+  {
+    "word": "yêu.",
+    "startMs": 155240,
+    "endMs": 155600
+  },
+  {
+    "word": "Ông",
+    "startMs": 155600,
+    "endMs": 155660
+  },
+  {
+    "word": "qua",
+    "startMs": 155660,
+    "endMs": 155810
+  },
+  {
+    "word": "đời",
+    "startMs": 155810,
+    "endMs": 156110
+  },
+  {
+    "word": "ngày",
+    "startMs": 156110,
+    "endMs": 156360
+  },
+  {
+    "word": "5",
+    "startMs": 156360,
+    "endMs": 156560
+  },
+  {
+    "word": "tháng",
+    "startMs": 156560,
+    "endMs": 156860
+  },
+  {
+    "word": "10",
+    "startMs": 156860,
+    "endMs": 157170
+  },
+  {
+    "word": "năm",
+    "startMs": 157170,
+    "endMs": 157360
+  },
+  {
+    "word": "2011,",
+    "startMs": 157360,
+    "endMs": 157960
+  },
+  {
+    "word": "ở",
+    "startMs": 157960,
+    "endMs": 158110
+  },
+  {
+    "word": "tuổi",
+    "startMs": 158110,
+    "endMs": 158410
+  },
+  {
+    "word": "56.",
+    "startMs": 158410,
+    "endMs": 158900
+  },
+  {
+    "word": "Người",
+    "startMs": 158990,
+    "endMs": 159270
+  },
+  {
+    "word": "thanh",
+    "startMs": 159270,
+    "endMs": 159480
+  },
+  {
+    "word": "niên",
+    "startMs": 159480,
+    "endMs": 159700
+  },
+  {
+    "word": "bỏ",
+    "startMs": 159700,
+    "endMs": 159870
+  },
+  {
+    "word": "học",
+    "startMs": 159870,
+    "endMs": 160100
+  },
+  {
+    "word": "đại",
+    "startMs": 160100,
+    "endMs": 160460
+  },
+  {
+    "word": "học,",
+    "startMs": 160460,
+    "endMs": 160600
+  },
+  {
+    "word": "bị",
+    "startMs": 160600,
+    "endMs": 160840
+  },
+  {
+    "word": "đuổi",
+    "startMs": 160840,
+    "endMs": 161000
+  },
+  {
+    "word": "khỏi",
+    "startMs": 161000,
+    "endMs": 161270
+  },
+  {
+    "word": "công",
+    "startMs": 161270,
+    "endMs": 161500
+  },
+  {
+    "word": "ty",
+    "startMs": 161500,
+    "endMs": 161590
+  },
+  {
+    "word": "của",
+    "startMs": 161590,
+    "endMs": 162090
+  },
+  {
+    "word": "chính",
+    "startMs": 162090,
+    "endMs": 162140
+  },
+  {
+    "word": "mình,",
+    "startMs": 162140,
+    "endMs": 162320
+  },
+  {
+    "word": "để",
+    "startMs": 162320,
+    "endMs": 162550
+  },
+  {
+    "word": "rồi",
+    "startMs": 162550,
+    "endMs": 162770
+  },
+  {
+    "word": "quay",
+    "startMs": 162770,
+    "endMs": 163040
+  },
+  {
+    "word": "lại",
+    "startMs": 163040,
+    "endMs": 163190
+  },
+  {
+    "word": "và",
+    "startMs": 163190,
+    "endMs": 163320
+  },
+  {
+    "word": "làm",
+    "startMs": 163320,
+    "endMs": 163500
+  },
+  {
+    "word": "thay",
+    "startMs": 163500,
+    "endMs": 163680
+  },
+  {
+    "word": "đổi",
+    "startMs": 163680,
+    "endMs": 163950
+  },
+  {
+    "word": "cả",
+    "startMs": 163950,
+    "endMs": 164130
+  },
+  {
+    "word": "ngành",
+    "startMs": 164130,
+    "endMs": 164580
+  },
+  {
+    "word": "công",
+    "startMs": 164580,
+    "endMs": 164710
+  },
+  {
+    "word": "nghệ,",
+    "startMs": 164710,
+    "endMs": 164840
+  },
+  {
+    "word": "đó",
+    "startMs": 164840,
+    "endMs": 165020
+  },
+  {
+    "word": "chính",
+    "startMs": 165020,
+    "endMs": 165320
+  },
+  {
+    "word": "là",
+    "startMs": 165320,
+    "endMs": 165420
+  },
+  {
+    "word": "Steve",
+    "startMs": 165420,
+    "endMs": 165650
+  },
+  {
+    "word": "Jobs.",
+    "startMs": 165650,
+    "endMs": 166000
+  }
+]

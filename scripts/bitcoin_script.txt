@@ -1,0 +1,21 @@
+Bitcoin là loại tiền số đầu tiên trên thế giới, không do ngân hàng nào phát hành, không chính phủ nào kiểm soát, nhưng đã có lúc được định giá hàng nghìn tỷ đô la.
+Nhưng ít ai biết rằng người tạo ra nó đến nay vẫn chưa ai biết là ai.
+Năm 2008, cả thế giới rơi vào khủng hoảng tài chính, ngân hàng sụp đổ và chính phủ phải đem tiền thuế đi cứu họ.
+Ngày 31 tháng 10 năm 2008, một người dùng bút danh Satoshi Nakamoto gửi lên một danh sách thư mật mã học bản mô tả dài chín trang về một hệ thống tiền điện tử ngang hàng.
+Ý tưởng cốt lõi là mọi giao dịch được ghi vào một sổ cái công khai chung, gọi là blockchain, do hàng nghìn máy tính cùng giữ, nên không cần ngân hàng làm trung gian.
+Ngày 3 tháng 1 năm 2009, Satoshi khai thác khối đầu tiên, gọi là khối khởi nguyên.
+Trong khối ấy, ông ghim kèm dòng tít báo The Times về việc chính phủ Anh sắp cứu trợ ngân hàng lần hai, mà nhiều người cho rằng đó là lời nhắn về lý do Bitcoin ra đời.
+Giao dịch đầu tiên được gửi cho Hal Finney, một lập trình viên mật mã học, chỉ ít ngày sau đó.
+Suốt nhiều tháng, Bitcoin gần như không có giá trị, cho đến ngày 22 tháng 5 năm 2010, khi lập trình viên Laszlo Hanyecz trả 10.000 bitcoin để mua hai chiếc pizza.
+Với giá Bitcoin những năm sau đó, hai chiếc pizza ấy có lúc trị giá hàng trăm triệu, thậm chí hàng tỷ đô la.
+Ngày ấy về sau được cộng đồng gọi là Ngày Pizza Bitcoin.
+Năm 2011, Satoshi gửi những tin nhắn cuối cùng, nói rằng mình đã chuyển sang việc khác, rồi biến mất hoàn toàn.
+Người ta ước tính ông nắm khoảng một triệu bitcoin và chưa từng động tới chúng.
+Nhiều người từng bị nghi là Satoshi, nhưng đến nay chưa ai được chứng minh chắc chắn.
+Điều đặc biệt là chỉ có tối đa 21 triệu bitcoin, và cứ khoảng bốn năm, phần thưởng khai thác lại giảm đi một nửa.
+Nhờ sự khan hiếm ấy, giá bắt đầu tăng: năm 2013 vượt 1.000 đô la, và năm 2017 chạm gần 20.000 đô la.
+Nhưng hành trình ấy đầy sóng gió: năm 2014, sàn Mt. Gox, từng xử lý phần lớn giao dịch Bitcoin, sụp đổ, và hàng trăm nghìn bitcoin biến mất.
+Giá nhiều lần mất phần lớn giá trị, và Bitcoin cũng nhiều lần bị tuyên bố là đã chết.
+Năm 2021, El Salvador trở thành quốc gia đầu tiên công nhận Bitcoin là tiền tệ hợp pháp, và giá khi đó chạm khoảng 69.000 đô la.
+Tháng 1 năm 2024, Mỹ chấp thuận các quỹ ETF Bitcoin giao ngay, đưa nó vào các sàn chứng khoán truyền thống.
+Dù vậy, Bitcoin vẫn gây tranh cãi: người coi nó là vàng số, người gọi nó là bong bóng đầu cơ, và việc khai thác cũng tiêu tốn rất nhiều điện.
