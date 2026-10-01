@@ -7,6 +7,8 @@ dist
 out
 whisper.cpp
 temp
-
+tmp/
+temp_*.wav
+*.tmp
 
 build

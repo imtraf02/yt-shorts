@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 1,
+  "slug": "preschool-animals-whiteboard-demo",
+  "settings": {
+    "format": "long",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice": "Trúc Ly",
+    "sampleRate": 48000,
+    "style": "Preschool whiteboard, traced ink to original color",
+    "backgroundMusic": true,
+    "musicVolume": 0.035,
+    "musicVolumeCap": 0.5,
+    "music": "music/Cozy Nook.wav",
+    "voicePlaybackRate": 0.9,
+    "durationInFrames": 7660,
+    "compositionId": "PreschoolAnimalsWhiteboardDemo",
+    "showCta": false,
+    "captions": "Sentence-level SRT sidecar; real per-sentence audio durations",
+    "showCharacter": false,
+    "showAiDisclaimer": false,
+    "preschoolOnlyException": "User explicitly requested no character/disclaimer only for Preschool on 2026-10-01.",
+    "intro": "Unlabelled silhouettes with question marks",
+    "drawingExtraHoldFrames": 0,
+    "countdown": "Complete outline first, then exactly 90 silent frames: 3,2,1; only then name and color",
+    "guessingFrames": 90,
+    "tickVolume": 0.5,
+    "musicCountingVolume": 0.008,
+    "celebration": "Short seeded confetti only in the illustration area after answer; no inferred child response",
+    "backgroundRemoval": "Local Pillow/NumPy/SciPy only; no generative model or API"
+  },
+  "blockers": [],
+  "stages": {
+    "script": {
+      "inputs": [
+        "productions/preschool-animals-whiteboard-demo/brief.md",
+        "scripts/prepare-preschool-animals.mjs"
+      ],
+      "outputs": [
+        "productions/preschool-animals-whiteboard-demo/script.md",
+        "productions/preschool-animals-whiteboard-demo/narration.txt",
+        "productions/preschool-animals-whiteboard-demo/sources.md"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T18:01:34.428Z",
+        "note": "Reviewed 48 friendly Vietnamese sentences consistently using ban animal names; expanded to all 12 user animals with three small quizzes.",
+        "snapshot": {
+          "settings": "38eaa4781cc0a06e6396e134f1467b5c72f536efea2dfc350033f582c1c043b1",
+          "inputs": [
+            "productions/preschool-animals-whiteboard-demo/brief.md"
+          ],
+          "outputs": [
+            "productions/preschool-animals-whiteboard-demo/script.md",
+            "productions/preschool-animals-whiteboard-demo/narration.txt",
+            "productions/preschool-animals-whiteboard-demo/sources.md"
+          ],
+          "files": {
+            "productions/preschool-animals-whiteboard-demo/brief.md": "b07e20c07f7f935bc3c50dea573e8cbb479dd9b18aef604002cb89404b5abf14",
+            "productions/preschool-animals-whiteboard-demo/script.md": "483214bdea83fdbec40e2f077194b31bf81eb11879326dbe4af2418572e26485",
+            "productions/preschool-animals-whiteboard-demo/narration.txt": "ab1827c2949f01c56523508dc5b152f03b70c960804f21563851c684a2715169",
+            "productions/preschool-animals-whiteboard-demo/sources.md": "3bab4ba27a29da9650fc6d813055676ac012ce0c329c9eceb0cbb2b5df2a5c17"
+          },
+          "dependencies": {}
+        }
+      }
+    },
+    "storyboard": {
+      "inputs": [
+        "productions/preschool-animals-whiteboard-demo/script.md"
+      ],
+      "outputs": [
+        "productions/preschool-animals-whiteboard-demo/storyboard.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T18:01:34.618Z",
+        "note": "48 IDs connect transparent animal assets, three four-animal reviews, quiz options and actual audio timings.",
+        "snapshot": {
+          "settings": "38eaa4781cc0a06e6396e134f1467b5c72f536efea2dfc350033f582c1c043b1",
+          "inputs": [
+            "productions/preschool-animals-whiteboard-demo/script.md"
+          ],
+          "outputs": [
+            "productions/preschool-animals-whiteboard-demo/storyboard.json"
+          ],
+          "files": {
+            "productions/preschool-animals-whiteboard-demo/script.md": "483214bdea83fdbec40e2f077194b31bf81eb11879326dbe4af2418572e26485",
+            "productions/preschool-animals-whiteboard-demo/storyboard.json": "bedf06b71f730bac68b5e0b2409975cbb39d2f7d87ba481ebb991fac5238bcd9"
+          },
+          "dependencies": {
+            "script": "c659949fa39c0c52432f75cb01449f1decc3e66b8ac7c2be6e66bf63ea36c423"
+          }
+        }
+      }
+    },
+    "images": {
+      "inputs": [
+        "productions/preschool-animals-whiteboard-demo/storyboard.json",
+        "scripts/extract-preschool-cutouts.py",
+        "public/images/preschool-animals-whiteboard-demo/cat.jpg",
+        "public/images/preschool-animals-whiteboard-demo/dog.jpg",
+        "public/images/preschool-animals-whiteboard-demo/rabbit.jpg",
+        "public/images/preschool-animals-whiteboard-demo/duck.jpg",
+        "public/images/preschool-animals-whiteboard-demo/cow.jpg",
+        "public/images/preschool-animals-whiteboard-demo/pig.jpg",
+        "public/images/preschool-animals-whiteboard-demo/goat.jpg",
+        "public/images/preschool-animals-whiteboard-demo/hen.jpg",
+        "public/images/preschool-animals-whiteboard-demo/elephant.jpg",
+        "public/images/preschool-animals-whiteboard-demo/giraffe.jpg",
+        "public/images/preschool-animals-whiteboard-demo/tortoise.jpg",
+        "public/images/preschool-animals-whiteboard-demo/goldfish.jpg"
+      ],
+      "outputs": [
+        "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/extraction.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T18:01:34.817Z",
+        "note": "All 12 alpha PNGs visually reviewed; background shadow and corner mark absent, opaque RGB unchanged, original JPG retained.",
+        "snapshot": {
+          "settings": "38eaa4781cc0a06e6396e134f1467b5c72f536efea2dfc350033f582c1c043b1",
+          "inputs": [
+            "productions/preschool-animals-whiteboard-demo/storyboard.json",
+            "scripts/extract-preschool-cutouts.py",
+            "public/images/preschool-animals-whiteboard-demo/cat.jpg",
+            "public/images/preschool-animals-whiteboard-demo/dog.jpg",
+            "public/images/preschool-animals-whiteboard-demo/rabbit.jpg",
+            "public/images/preschool-animals-whiteboard-demo/duck.jpg",
+            "public/images/preschool-animals-whiteboard-demo/cow.jpg",
+            "public/images/preschool-animals-whiteboard-demo/pig.jpg",
+            "public/images/preschool-animals-whiteboard-demo/goat.jpg",
+            "public/images/preschool-animals-whiteboard-demo/hen.jpg",
+            "public/images/preschool-animals-whiteboard-demo/elephant.jpg",
+            "public/images/preschool-animals-whiteboard-demo/giraffe.jpg",
+            "public/images/preschool-animals-whiteboard-demo/tortoise.jpg",
+            "public/images/preschool-animals-whiteboard-demo/goldfish.jpg"
+          ],
+          "outputs": [
+            "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/extraction.json"
+          ],
+          "files": {
+            "productions/preschool-animals-whiteboard-demo/storyboard.json": "bedf06b71f730bac68b5e0b2409975cbb39d2f7d87ba481ebb991fac5238bcd9",
+            "scripts/extract-preschool-cutouts.py": "e72834fe06d5d9b586dcb871a74a5e4024f87a6ddd188bbc5566a6e47bb7d962",
+            "public/images/preschool-animals-whiteboard-demo/cat.jpg": "22e7ca42cc082fff7f34ef796e8646613a323c3697e080332d0e95cf0be9be96",
+            "public/images/preschool-animals-whiteboard-demo/dog.jpg": "c00c815da69dafb08f9f0c786f5b7d7dd52d1c4cbc30c2ca3c46bcd339101de2",
+            "public/images/preschool-animals-whiteboard-demo/rabbit.jpg": "a85dc2839416febc9511a7c7010bcf03443ee2e70abd905c98e2645358f6798e",
+            "public/images/preschool-animals-whiteboard-demo/duck.jpg": "9c58d42eba16fffb0ac808dc534e560b6167eb46bdd758a85f3a2728c502c092",
+            "public/images/preschool-animals-whiteboard-demo/cow.jpg": "8e42d7a9e87736b87ef0b14db6ae31ca5a0415333253a61bc0c6ce7bcc64eb5c",
+            "public/images/preschool-animals-whiteboard-demo/pig.jpg": "bf548221b13aa9074f48b958e319a8b2cd0d83cec031001fb706e3894b8cc3d2",
+            "public/images/preschool-animals-whiteboard-demo/goat.jpg": "93bdde7714b0c1778b90ee5fad59397473effc9870f895e04e12393c0947ee7e",
+            "public/images/preschool-animals-whiteboard-demo/hen.jpg": "c4dde784c3dca76d75491f12e52c1741c91cfce359f1a398d5733bc1ea660d7d",
+            "public/images/preschool-animals-whiteboard-demo/elephant.jpg": "cdd704aa01842cd90bd11632f0c184e76eb0d72e738f7102b5a0165a2689971e",
+            "public/images/preschool-animals-whiteboard-demo/giraffe.jpg": "6547e1196f585c91fae559f6083b5e1da8956ec032a59415935a6b7f44de53ad",
+            "public/images/preschool-animals-whiteboard-demo/tortoise.jpg": "e3b98d72cb54e1ff2ce473d1d7d7ae5f98de9753cd2645c484680621280e7221",
+            "public/images/preschool-animals-whiteboard-demo/goldfish.jpg": "dfad716aa330d251e76f35b64ba7984ddecef0bc0f965cb4bc1efe222a8bc4a7",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png": "1e07fde6df4cb8da339754c6d7fe27399da5ef735776fcc4d9930e2ec8621497",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png": "52d51455d459acf8ee2b84c46d7e8dd3b5502fd8f100d9ec5ed921d507d0f960",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png": "b5dd2cefb09b3b0d6ddfa9e21d199e3db662d405103ed52225d79912250a3593",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png": "76dd21ed0f4fc8b4701700189452f3c67fa3e3fb65d9716f899a5e09ae762078",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png": "0bf387ecce8ae3ca684cadbe8d158d3d35894820f57dc7a25b940b392f19b31e",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png": "0114a71056884e6d9ec22e30df4b2b9616a379f952089418b879ac9fb773f830",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png": "3cf2e5411c2b1bf5920fc90d4942f8590d8eee616b715f9dfdcd1233cc4161ec",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png": "63eb639f1dc7ddf2b41e286e15ee72cfacfb02f92eb33bec326fd19e37a68921",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png": "41c41e3bb2927df4add1aa01c9dfa78af14acf46ddc5fc9b3db221d12d8b7a3f",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png": "069f21932908fe37cb6a6aa6d925ca3ce7866ad93aedc6f637d7220b1d02f751",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png": "d7223b88d23c2aac3026b2794b4c5ec24b3f8a10d7ca8350dc01ef789f4a61d4",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png": "3d227952eb9205fc2043f89a4314c73c379c53d9af765c1b2e0e0ea74f68e7a6",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/extraction.json": "c95bd8ba3b8c8f12649b1a64fe30a808fb82d389b68f56c9cce9b421966cd10d"
+          },
+          "dependencies": {
+            "storyboard": "ff8bba77334fc38550560a150d7e5456a1ff6345f9edda73c175a030a10de141"
+          }
+        }
+      }
+    },
+    "audio": {
+      "inputs": [
+        "productions/preschool-animals-whiteboard-demo/narration.txt",
+        "scripts/generate_tts_sentences.py"
+      ],
+      "outputs": [
+        "public/audio/preschool-animals-whiteboard-demo/S001.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S002.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S003.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S004.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S005.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S006.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S007.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S008.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S009.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S010.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S011.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S012.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S013.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S014.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S015.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S016.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S017.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S018.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S019.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S020.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S021.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S022.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S023.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S024.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S025.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S026.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S027.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S028.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S029.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S030.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S031.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S032.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S033.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S034.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S035.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S036.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S037.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S038.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S039.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S040.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S041.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S042.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S043.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S044.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S045.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S046.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S047.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S048.wav",
+        "public/audio/preschool-animals-whiteboard-demo/S049.wav",
+        "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json",
+        "public/audio/preschool-animals-whiteboard-demo/tts_run.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T18:01:35.061Z",
+        "note": "Regenerated all 48 Truc Ly sentences on CUDA, WAV 48000 mono PCM24; no clipped samples, pause 0.55 seconds.",
+        "snapshot": {
+          "settings": "38eaa4781cc0a06e6396e134f1467b5c72f536efea2dfc350033f582c1c043b1",
+          "inputs": [
+            "productions/preschool-animals-whiteboard-demo/narration.txt",
+            "scripts/generate_tts_sentences.py"
+          ],
+          "outputs": [
+            "public/audio/preschool-animals-whiteboard-demo/S001.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S002.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S003.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S004.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S005.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S006.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S007.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S008.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S009.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S010.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S011.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S012.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S013.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S014.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S015.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S016.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S017.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S018.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S019.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S020.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S021.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S022.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S023.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S024.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S025.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S026.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S027.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S028.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S029.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S030.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S031.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S032.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S033.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S034.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S035.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S036.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S037.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S038.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S039.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S040.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S041.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S042.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S043.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S044.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S045.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S046.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S047.wav",
+            "public/audio/preschool-animals-whiteboard-demo/S048.wav",
+            "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json",
+            "public/audio/preschool-animals-whiteboard-demo/tts_run.json"
+          ],
+          "files": {
+            "productions/preschool-animals-whiteboard-demo/narration.txt": "ab1827c2949f01c56523508dc5b152f03b70c960804f21563851c684a2715169",
+            "scripts/generate_tts_sentences.py": "fc71cdda51c7314ce834b667bb16513c694dd3c388a239651097e4433e7303f3",
+            "public/audio/preschool-animals-whiteboard-demo/S001.wav": "40918731c52b5177b8259e022c7f6c6df82f4394f6bd43094afd37a6f7000b6f",
+            "public/audio/preschool-animals-whiteboard-demo/S002.wav": "4a597cdf079d0f95d8885651d798d6f34db073bd3a7a292123bbeafa60aa4dda",
+            "public/audio/preschool-animals-whiteboard-demo/S003.wav": "703aa13047ae5572e1f0ca942876232a5ee17de6fd4c65a8752d828e70fb7b6a",
+            "public/audio/preschool-animals-whiteboard-demo/S004.wav": "d3411be98516644f0596cd9b7549b1a6d66ed12e889f72f810332cd33720b263",
+            "public/audio/preschool-animals-whiteboard-demo/S005.wav": "6919c3d4a6dbec00e7d32631a0d0a2f5d1678a400a21a197885e32cc8fd04159",
+            "public/audio/preschool-animals-whiteboard-demo/S006.wav": "82281b9b7378b7c38979c1ac6bb78342f6f385309f475e8823c1144882d97b1b",
+            "public/audio/preschool-animals-whiteboard-demo/S007.wav": "39d86268ecca398141b43bff26583bd1d44396939a4448daf1c19c482baa97f0",
+            "public/audio/preschool-animals-whiteboard-demo/S008.wav": "ecd9cf7214447949de28c50f9b04addb59517918898294a18874e2d110e5bc94",
+            "public/audio/preschool-animals-whiteboard-demo/S009.wav": "497ee1f4a21bc9c77ec918c3eb40dd511f22201c8a0ef3ace7e88fb951f8453d",
+            "public/audio/preschool-animals-whiteboard-demo/S010.wav": "be1ee13f8c6f32285e2e6b0e116fbfd2b6d77b2820a2c53368249c65b4ea04d4",
+            "public/audio/preschool-animals-whiteboard-demo/S011.wav": "6809bed29acd77e4671b7dd6f4da7a97a03f0f63b0dd7b7aea2fda480981fa92",
+            "public/audio/preschool-animals-whiteboard-demo/S012.wav": "d4b564a6a63b0b535bec40ef703e792e2aeb10e294467dffe8ec1f75abde23e0",
+            "public/audio/preschool-animals-whiteboard-demo/S013.wav": "1c3ddeae1cf057a60ac0f9e090eccbb4c5d233153b93f5d45cb38f3a4a7f1dd7",
+            "public/audio/preschool-animals-whiteboard-demo/S014.wav": "8437b0e390ce5ec889e57bab2ea2aa20447738137c939f4a442f53d86bae0a8a",
+            "public/audio/preschool-animals-whiteboard-demo/S015.wav": "0ba0d3fc1fefb2d985d798c3c959b85aa3fd62363ce5190950354410ec6288f6",
+            "public/audio/preschool-animals-whiteboard-demo/S016.wav": "1fb0e3f9dc5d743e32dd2b20503bbbb6616e5b437e59f194c2a133a1d8dcfa4e",
+            "public/audio/preschool-animals-whiteboard-demo/S017.wav": "9ff64574a3d89097a3ef76a68db1a36f78eff17f031a0a8bff4fbe9c6f69060f",
+            "public/audio/preschool-animals-whiteboard-demo/S018.wav": "c8a4bf81aa4ad50187114fd7ea5bee647d83cc56b2914730391caf56dec67759",
+            "public/audio/preschool-animals-whiteboard-demo/S019.wav": "b1823ea88607b44827df6fbf45c5cb34fbd503d0eb0b066304de450bc44864f6",
+            "public/audio/preschool-animals-whiteboard-demo/S020.wav": "ed49c1b7e971eb6653a404a57c3ddac347390a58b476088f7e0cd8c62700c7e7",
+            "public/audio/preschool-animals-whiteboard-demo/S021.wav": "9855fa06ffab6750921892aad75de49a2fa30deedc0bec5eaae65839c61f3a61",
+            "public/audio/preschool-animals-whiteboard-demo/S022.wav": "dd98180b0ba3fd216d27faf32b2942e773b2f96b459f3968b08cb984c9b940fb",
+            "public/audio/preschool-animals-whiteboard-demo/S023.wav": "a73ce661912139c88a607f941f061a0e5c633bc5c476b19db0161f6773766cbc",
+            "public/audio/preschool-animals-whiteboard-demo/S024.wav": "c2a4804f7a700ad60b20b867fa4cc3008b3c37fe9bbcb8cd49d6529ec6e34fd7",
+            "public/audio/preschool-animals-whiteboard-demo/S025.wav": "e5ec5188602a47762a7f1c9fa7989cc9438c11da8a523fca13104142aebf84f6",
+            "public/audio/preschool-animals-whiteboard-demo/S026.wav": "759dffd4fcb1ceaa7b8b5b5eaae4a69076f02b5b355e663e6db85f72a73d414c",
+            "public/audio/preschool-animals-whiteboard-demo/S027.wav": "afb16ca1d1398b53d860f2db36c60b17554a05f302061d7ea7110d8821efc499",
+            "public/audio/preschool-animals-whiteboard-demo/S028.wav": "dfbcfee1cbe7d4a4e99928d8d0db893d22873056d46a4b096e1e22be0a6a0290",
+            "public/audio/preschool-animals-whiteboard-demo/S029.wav": "8c134b92b7b87f1ebc339797a23ae85fb2b931a4acdbb6eddae8e7141bddcc38",
+            "public/audio/preschool-animals-whiteboard-demo/S030.wav": "03f0c65a6ac31bb91163d42c8a09a248f0099c7a1e8eb60c08b44a5a788eb36c",
+            "public/audio/preschool-animals-whiteboard-demo/S031.wav": "70fcc2368a67b49294d371e3a1a4f766ac6c0d1fd802dcf2d9335e3b962638c6",
+            "public/audio/preschool-animals-whiteboard-demo/S032.wav": "f251f913e621e28d1fb75de13a0b42993e7995a2ec243d0c0169709ab9833579",
+            "public/audio/preschool-animals-whiteboard-demo/S033.wav": "b9554d599132e47e223a806a24ac527ac2dcf85427db10878d68a3e3caf56464",
+            "public/audio/preschool-animals-whiteboard-demo/S034.wav": "a35aa8181ce65097432fa477b46bd963107d18f3c7fa314095ad902e1b555d0b",
+            "public/audio/preschool-animals-whiteboard-demo/S035.wav": "feb09c41e5d10c5c00e4cb1adf00f602abfac3e28db4811b607dadbdc1783efd",
+            "public/audio/preschool-animals-whiteboard-demo/S036.wav": "ef9d1134692ba2cc1718e12c69248f6c9e750651ae0fece2a51729e8787f6454",
+            "public/audio/preschool-animals-whiteboard-demo/S037.wav": "08092147811f63591f23748b0ca8bae77f22e2816340c035d9de02f8ae2dd5f7",
+            "public/audio/preschool-animals-whiteboard-demo/S038.wav": "c83f4025acfe3f47ed230fcfca2a88edde4c23fc585ddea645f0e669a99ca2dc",
+            "public/audio/preschool-animals-whiteboard-demo/S039.wav": "460755a4e5f5582f42fa1ac78e930e6cf329f4d8d0e5e0f104dba169fe75ea43",
+            "public/audio/preschool-animals-whiteboard-demo/S040.wav": "0ead62cad1b1f55088a0ecc05d23fb2cd3660eb69ea0e39e26d528d36ab8e865",
+            "public/audio/preschool-animals-whiteboard-demo/S041.wav": "9512aa71f96480f76a5d9766e899d9d23573ec63d9937886908b9eafc9972cef",
+            "public/audio/preschool-animals-whiteboard-demo/S042.wav": "3a51357d133925c9fb5f3db4fefbab69cdcca42482a04941853c2b80872accb6",
+            "public/audio/preschool-animals-whiteboard-demo/S043.wav": "725241062d43da51113bd21402438e2336a0b77df970fbfb52b86b6dfc152bba",
+            "public/audio/preschool-animals-whiteboard-demo/S044.wav": "1135d32ef3285c264a3e6fb0baed1c8d57fab6a843769666fc8e515a2cc634d0",
+            "public/audio/preschool-animals-whiteboard-demo/S045.wav": "e138cfeff783459989cdb1b2e1897eb28950ac55446646e152424a07dd2af5a3",
+            "public/audio/preschool-animals-whiteboard-demo/S046.wav": "77762c7ee93643ab8988142c6c0728505621a95f717bdcc4d8faab4ca714f7a1",
+            "public/audio/preschool-animals-whiteboard-demo/S047.wav": "0805d61f4e8fee94956a4e9c7f0a3fb15e941519e1e54765a1f9aaf0d73dbef8",
+            "public/audio/preschool-animals-whiteboard-demo/S048.wav": "1d7e4a5f8948d30e9ec116ea69d0cb51250882c791c6b5c9113ce8f545085f00",
+            "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json": "dd0fcb406601f34c0d41d8210e3d1e00ca8fb89664d5706a53d5e7a504bb5cf4",
+            "public/audio/preschool-animals-whiteboard-demo/tts_run.json": "36468ceeade884cd992388a32f056b957150a0cdd235b9b12fa8198c8236a2e1"
+          },
+          "dependencies": {
+            "script": "c659949fa39c0c52432f75cb01449f1decc3e66b8ac7c2be6e66bf63ea36c423"
+          }
+        }
+      }
+    },
+    "captions": {
+      "inputs": [
+        "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json",
+        "productions/preschool-animals-whiteboard-demo/storyboard.json",
+        "scripts/build-preschool-demo.mjs"
+      ],
+      "outputs": [
+        "public/audio/preschool-animals-whiteboard-demo/captions.srt",
+        "src/data/preschool-animals-whiteboard-demo/captions.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T18:12:30.021Z",
+        "note": "Final build script reviewed; 48 sentence SRT cues reflect 0.9 playback rate and all observation/countdown holds.",
+        "snapshot": {
+          "settings": "38eaa4781cc0a06e6396e134f1467b5c72f536efea2dfc350033f582c1c043b1",
+          "inputs": [
+            "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json",
+            "productions/preschool-animals-whiteboard-demo/storyboard.json",
+            "scripts/build-preschool-demo.mjs"
+          ],
+          "outputs": [
+            "public/audio/preschool-animals-whiteboard-demo/captions.srt",
+            "src/data/preschool-animals-whiteboard-demo/captions.json"
+          ],
+          "files": {
+            "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json": "dd0fcb406601f34c0d41d8210e3d1e00ca8fb89664d5706a53d5e7a504bb5cf4",
+            "productions/preschool-animals-whiteboard-demo/storyboard.json": "bedf06b71f730bac68b5e0b2409975cbb39d2f7d87ba481ebb991fac5238bcd9",
+            "scripts/build-preschool-demo.mjs": "4c51084d932292d84c790365eff2c97d5bfe1026a1de3b25c19c09ef6241a580",
+            "public/audio/preschool-animals-whiteboard-demo/captions.srt": "729a289014f151f602f5896d13e8663ce55d7d0e4fa0bb8c7b4e6531b653f565",
+            "src/data/preschool-animals-whiteboard-demo/captions.json": "dbc32e9beb946ada25360fb8ecd6f90e99581a51fa58992ce2b07b9ffb28c46b"
+          },
+          "dependencies": {
+            "audio": "aabbea9b948b2eed0caa615499e5c54a1032ba58edb9529a1b6fed551aa7dafd"
+          }
+        }
+      }
+    },
+    "composition": {
+      "inputs": [
+        "productions/preschool-animals-whiteboard-demo/storyboard.json",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+        "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+        "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json",
+        "scripts/build-preschool-strokes.py",
+        "scripts/build-preschool-demo.mjs",
+        "src/data/preschool-animals-whiteboard-demo/animals.json",
+        "public/music/Cozy Nook.wav",
+        "src/Root.tsx",
+        "src/index.ts",
+        "src/index.css",
+        "package.json",
+        "remotion.config.ts",
+        "public/audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+        "public/audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+        "public/audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+        "public/audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+        "src/components/transitions/SceneTransition.tsx",
+        "src/components/transitions/model.ts",
+        "src/components/effects/Atmosphere.tsx",
+        "src/components/effects/model.ts",
+        "scripts/generate-preschool-sfx.py"
+      ],
+      "outputs": [
+        "src/data/preschool-animals-whiteboard-demo/timeline.json",
+        "src/data/preschool-animals-whiteboard-demo/strokes.json",
+        "src/preschool/PreschoolAnimalsDemo.tsx",
+        "src/preschool/WhiteboardAnimal.tsx",
+        "src/preschool/Scenes.tsx",
+        "src/preschool/Celebration.tsx",
+        "src/PreschoolLibrary.tsx"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T18:12:30.292Z",
+        "note": "TypeScript passed; 15 stills and encoded quiz reviewed; Preschool-only 12 animals, friendly names, big digits and nonoverlapping ticks with BGM ducking.",
+        "snapshot": {
+          "settings": "38eaa4781cc0a06e6396e134f1467b5c72f536efea2dfc350033f582c1c043b1",
+          "inputs": [
+            "productions/preschool-animals-whiteboard-demo/storyboard.json",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+            "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json",
+            "scripts/build-preschool-strokes.py",
+            "scripts/build-preschool-demo.mjs",
+            "src/data/preschool-animals-whiteboard-demo/animals.json",
+            "public/music/Cozy Nook.wav",
+            "src/Root.tsx",
+            "src/index.ts",
+            "src/index.css",
+            "package.json",
+            "remotion.config.ts",
+            "public/audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+            "public/audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+            "public/audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+            "public/audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+            "src/components/transitions/SceneTransition.tsx",
+            "src/components/transitions/model.ts",
+            "scripts/generate-preschool-sfx.py"
+          ],
+          "outputs": [
+            "src/data/preschool-animals-whiteboard-demo/timeline.json",
+            "src/data/preschool-animals-whiteboard-demo/strokes.json",
+            "src/preschool/PreschoolAnimalsDemo.tsx",
+            "src/preschool/WhiteboardAnimal.tsx",
+            "src/preschool/Scenes.tsx",
+            "src/PreschoolLibrary.tsx"
+          ],
+          "files": {
+            "productions/preschool-animals-whiteboard-demo/storyboard.json": "bedf06b71f730bac68b5e0b2409975cbb39d2f7d87ba481ebb991fac5238bcd9",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png": "1e07fde6df4cb8da339754c6d7fe27399da5ef735776fcc4d9930e2ec8621497",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png": "52d51455d459acf8ee2b84c46d7e8dd3b5502fd8f100d9ec5ed921d507d0f960",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png": "b5dd2cefb09b3b0d6ddfa9e21d199e3db662d405103ed52225d79912250a3593",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png": "76dd21ed0f4fc8b4701700189452f3c67fa3e3fb65d9716f899a5e09ae762078",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png": "0bf387ecce8ae3ca684cadbe8d158d3d35894820f57dc7a25b940b392f19b31e",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png": "0114a71056884e6d9ec22e30df4b2b9616a379f952089418b879ac9fb773f830",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png": "3cf2e5411c2b1bf5920fc90d4942f8590d8eee616b715f9dfdcd1233cc4161ec",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png": "63eb639f1dc7ddf2b41e286e15ee72cfacfb02f92eb33bec326fd19e37a68921",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png": "41c41e3bb2927df4add1aa01c9dfa78af14acf46ddc5fc9b3db221d12d8b7a3f",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png": "069f21932908fe37cb6a6aa6d925ca3ce7866ad93aedc6f637d7220b1d02f751",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png": "d7223b88d23c2aac3026b2794b4c5ec24b3f8a10d7ca8350dc01ef789f4a61d4",
+            "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png": "3d227952eb9205fc2043f89a4314c73c379c53d9af765c1b2e0e0ea74f68e7a6",
+            "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json": "dd0fcb406601f34c0d41d8210e3d1e00ca8fb89664d5706a53d5e7a504bb5cf4",
+            "scripts/build-preschool-strokes.py": "c033e9bee002d731c5a5ce772e1ce8cf7378526f6a131e6aa740353d3355a452",
+            "scripts/build-preschool-demo.mjs": "4c51084d932292d84c790365eff2c97d5bfe1026a1de3b25c19c09ef6241a580",
+            "src/data/preschool-animals-whiteboard-demo/animals.json": "3fbde52453c3a603b7b119e4a046c2bef612a11a0943cc4d9fca1012dd52b4f7",
+            "public/music/Cozy Nook.wav": "2cab083b1eeb2e93f78403cfa124f55e5afae482e4dfbf84e629e2ac1b472e57",
+            "src/Root.tsx": "342053318810e55d3e95a1aa1094f7817a6f9d3eb20dc2edd4ac8ebd8ac3ee1a",
+            "src/index.ts": "540f6b91989917ea8a11f166bd77425acba4a61ddbff35d49c00968f209b867c",
+            "src/index.css": "8a760a784f79570e06fdcb0c6a2677ea66c304230b7925ea313d63b46d8ba407",
+            "package.json": "10e13ae6299cd98eb32699ad9d816e87797fdab84df803d708dccef9a1251584",
+            "remotion.config.ts": "d61eee367a661837a5b4734b064eb2f1091fc9ff9217c1ea39f4133626207937",
+            "public/audio/preschool-animals-whiteboard-demo/sfx/draw.wav": "eb87ec1acef532f71d418dcd0f77d9fac29f55bf50f5bfa8a050d952fbafdc06",
+            "public/audio/preschool-animals-whiteboard-demo/sfx/reveal.wav": "0473729cbc392a9192f42803891f4fb7c9e0879e8833bf65e0ecfbb5b24d63a6",
+            "public/audio/preschool-animals-whiteboard-demo/sfx/tick.wav": "230b68a376de661048be0ea5d427400ba92ba1c2d3cae85cabd6b38518eaf72a",
+            "public/audio/preschool-animals-whiteboard-demo/sfx/correct.wav": "a0b28dbd86f239bc2da455ec2793963fbaf682f92beb1bcc4a2299873a95b66e",
+            "src/components/transitions/SceneTransition.tsx": "10be87d8cb2ca5e30696f505b11a3f87be2f525186b4105d1246c20a47bcaea9",
+            "src/components/transitions/model.ts": "3717fead792eea9a5b55837fe5e590f6e039e9b07baefce8278015b04e33d1ad",
+            "scripts/generate-preschool-sfx.py": "ee64c104a2ebd834fbcac185c62e9a5fb4999dad99fd563f4f1accb6551f2be8",
+            "src/data/preschool-animals-whiteboard-demo/timeline.json": "806d0dc933d318d56152c36cc9d3bc0c2d6b11d202504e2bec17321602f3b75d",
+            "src/data/preschool-animals-whiteboard-demo/strokes.json": "5036ab8077ac81f11efe26312ab3c24ea35698ae48944df2b7bb8f2f0653734c",
+            "src/preschool/PreschoolAnimalsDemo.tsx": "5907e89009ad4144eab1e589ddbb16dd3d8e8c6e9baf754100406db989b4fc64",
+            "src/preschool/WhiteboardAnimal.tsx": "ced56962ba82932f50753dd51d10d1a5a73768ac53c3fb6e01f7dd97ce988b73",
+            "src/preschool/Scenes.tsx": "5f8e202b2fc38ff2e6bab1c4da087606ff63ab919c082834bd4fcb9ad8c1dc1e",
+            "src/PreschoolLibrary.tsx": "278ad21a1df9962653c96d7ffbeed50e7887c245d4dcbf0a2de4dc330abbbb5c"
+          },
+          "dependencies": {
+            "storyboard": "ff8bba77334fc38550560a150d7e5456a1ff6345f9edda73c175a030a10de141",
+            "images": "694ff19d2029011a53d698c4f028c0702aff9ea5f27b50e993cdf5d0888dbd70",
+            "audio": "aabbea9b948b2eed0caa615499e5c54a1032ba58edb9529a1b6fed551aa7dafd",
+            "captions": "a51661547c6702093f8587eba4db3f6ce60f769a1cdf904e09aaa10300baf1ba"
+          }
+        }
+      }
+    },
+    "qa": {
+      "inputs": [
+        "src/data/preschool-animals-whiteboard-demo/timeline.json",
+        "src/data/preschool-animals-whiteboard-demo/strokes.json",
+        "src/preschool/PreschoolAnimalsDemo.tsx",
+        "src/preschool/WhiteboardAnimal.tsx",
+        "src/preschool/Scenes.tsx",
+        "src/preschool/Celebration.tsx",
+        "src/PreschoolLibrary.tsx",
+        "scripts/qa-preschool-demo.py",
+        "scripts/qa-preschool-frames.py",
+        "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-guess-3s.mp4"
+      ],
+      "outputs": [
+        "productions/preschool-animals-whiteboard-demo/qa.md",
+        "productions/preschool-animals-whiteboard-demo/audio_qa.json",
+        "productions/preschool-animals-whiteboard-demo/visual_qa.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T18:30:15.205Z",
+        "note": "Final MP4 decoded: peak-2.932 truepeak-2.895 no clipping; all48 speech windows and84 ticks present; quiz ticks 30.526dB above music. Exact frame scan433panels passed and encoded frames visually reviewed; listening limitation documented.",
+        "snapshot": {
+          "settings": "38eaa4781cc0a06e6396e134f1467b5c72f536efea2dfc350033f582c1c043b1",
+          "inputs": [
+            "src/data/preschool-animals-whiteboard-demo/timeline.json",
+            "src/data/preschool-animals-whiteboard-demo/strokes.json",
+            "src/preschool/PreschoolAnimalsDemo.tsx",
+            "src/preschool/WhiteboardAnimal.tsx",
+            "src/preschool/Scenes.tsx",
+            "src/PreschoolLibrary.tsx",
+            "scripts/qa-preschool-demo.py",
+            "scripts/qa-preschool-frames.py",
+            "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-12-animals.mp4"
+          ],
+          "outputs": [
+            "productions/preschool-animals-whiteboard-demo/qa.md",
+            "productions/preschool-animals-whiteboard-demo/audio_qa.json",
+            "productions/preschool-animals-whiteboard-demo/visual_qa.json"
+          ],
+          "files": {
+            "src/data/preschool-animals-whiteboard-demo/timeline.json": "806d0dc933d318d56152c36cc9d3bc0c2d6b11d202504e2bec17321602f3b75d",
+            "src/data/preschool-animals-whiteboard-demo/strokes.json": "5036ab8077ac81f11efe26312ab3c24ea35698ae48944df2b7bb8f2f0653734c",
+            "src/preschool/PreschoolAnimalsDemo.tsx": "5907e89009ad4144eab1e589ddbb16dd3d8e8c6e9baf754100406db989b4fc64",
+            "src/preschool/WhiteboardAnimal.tsx": "ced56962ba82932f50753dd51d10d1a5a73768ac53c3fb6e01f7dd97ce988b73",
+            "src/preschool/Scenes.tsx": "5f8e202b2fc38ff2e6bab1c4da087606ff63ab919c082834bd4fcb9ad8c1dc1e",
+            "src/PreschoolLibrary.tsx": "278ad21a1df9962653c96d7ffbeed50e7887c245d4dcbf0a2de4dc330abbbb5c",
+            "scripts/qa-preschool-demo.py": "466537c5e2b5f3d15127025675da794414ab9c5ed2d36d52e5fac397d545eead",
+            "scripts/qa-preschool-frames.py": "3283ae9686400bbf787c2219bf033d5873571eb399b2bf26ab2ba3b7b054c959",
+            "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-12-animals.mp4": "6ff25c5af2a94301b16b6e49191206fa9df19f35507ce91a0f1df47ceabfc13d",
+            "productions/preschool-animals-whiteboard-demo/qa.md": "0b0e2be5a2a5dffa418183472ac211542b79735c0d620c9e260abd8599b12562",
+            "productions/preschool-animals-whiteboard-demo/audio_qa.json": "fd8cfc3279cc70a80948c957361b7fc1edc8c672c50e6983c1d00995a6b1f0b3",
+            "productions/preschool-animals-whiteboard-demo/visual_qa.json": "9bf9211c4bc489f27f7d930298cdb28501df8e73132126418708e0ebe8a791ec"
+          },
+          "dependencies": {
+            "composition": "1849e4945f30f4639e705e9ac011ce0c640e9c8c6fa62c8f73a8e5962dc72fc4"
+          }
+        }
+      }
+    },
+    "render": {
+      "inputs": [
+        "productions/preschool-animals-whiteboard-demo/qa.md"
+      ],
+      "outputs": [
+        "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-guess-3s.mp4",
+        "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-guess-3s.srt"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T18:30:15.430Z",
+        "note": "Full H2641920x1080 30fps AAC48k stereo235.69s MP4 and48cue SRT delivered separately from old video; final decode/audio/exact-frame QA passed.",
+        "snapshot": {
+          "settings": "38eaa4781cc0a06e6396e134f1467b5c72f536efea2dfc350033f582c1c043b1",
+          "inputs": [
+            "productions/preschool-animals-whiteboard-demo/qa.md"
+          ],
+          "outputs": [
+            "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-12-animals.mp4",
+            "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-12-animals.srt"
+          ],
+          "files": {
+            "productions/preschool-animals-whiteboard-demo/qa.md": "0b0e2be5a2a5dffa418183472ac211542b79735c0d620c9e260abd8599b12562",
+            "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-12-animals.mp4": "6ff25c5af2a94301b16b6e49191206fa9df19f35507ce91a0f1df47ceabfc13d",
+            "out/preschool-animals-whiteboard-demo/preschool-animals-whiteboard-demo-12-animals.srt": "729a289014f151f602f5896d13e8663ce55d7d0e4fa0bb8c7b4e6531b653f565"
+          },
+          "dependencies": {
+            "qa": "0f6b29c75b397c617dfcae0f81b920229a52b3f55a7fbfaabf51b1d8d89759c2"
+          }
+        }
+      }
+    }
+  }
+}

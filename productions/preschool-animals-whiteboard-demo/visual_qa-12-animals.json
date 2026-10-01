@@ -1,0 +1,9 @@
+{
+  "sampleRateFps": 2,
+  "decodedSourceFrames": 7069,
+  "sampledFrames": 472,
+  "subjectPanelChecks": 433,
+  "minimumDarkSubjectPixels": 126,
+  "emptyPanels": [],
+  "limitation": "Coarse missing-image detection; does not replace visual review of proportions, colors or text."
+}

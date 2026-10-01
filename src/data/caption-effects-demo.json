@@ -1,0 +1,95 @@
+[
+  {
+    "text": "Mỗi",
+    "startMs": 200,
+    "endMs": 560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " câu",
+    "startMs": 560,
+    "endMs": 930,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " chuyện",
+    "startMs": 930,
+    "endMs": 1500,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " có",
+    "startMs": 1500,
+    "endMs": 1840,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " một",
+    "startMs": 1840,
+    "endMs": 2210,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " nhịp",
+    "startMs": 2210,
+    "endMs": 2630,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " riêng.",
+    "startMs": 2630,
+    "endMs": 3100,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": "Thời",
+    "startMs": 3500,
+    "endMs": 3920,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " gian",
+    "startMs": 3920,
+    "endMs": 4390,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " kết",
+    "startMs": 4390,
+    "endMs": 4770,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " nối",
+    "startMs": 4770,
+    "endMs": 5200,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " thế",
+    "startMs": 5200,
+    "endMs": 5560,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": " giới.",
+    "startMs": 5560,
+    "endMs": 6100,
+    "timestampMs": null,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

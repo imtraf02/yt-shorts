@@ -1,0 +1,1134 @@
+{
+  "part1": [
+    {
+      "textVn": "Bên trong chiếc máy tính bạn đang dùng,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mọi thứ, từ video bạn xem,",
+      "textEn": ""
+    },
+    {
+      "textVn": "bài hát bạn nghe, đến dòng chat bạn gõ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đều chỉ được ghi lại bằng đúng hai con số: không và một.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không phải hai và một, không phải không và mười.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chỉ có không, và một.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghe có vẻ giới hạn đến vô lý.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Với chỉ hai ký hiệu, làm sao máy tính vẽ được một bức ảnh,",
+      "textEn": ""
+    },
+    {
+      "textVn": "phát được một bản nhạc, hay hiểu được câu bạn vừa gõ?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Câu trả lời nằm ở một thứ rất tầm thường: một cái công tắc đèn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng để đến được cái công tắc đó,",
+      "textEn": ""
+    },
+    {
+      "textVn": "loài người đã đi một quãng đường dài hơn bạn nghĩ.",
+      "textEn": ""
+    }
+  ],
+  "part2": [
+    {
+      "textVn": "Câu chuyện không bắt đầu với điện.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó bắt đầu với việc con người muốn đếm nhanh hơn mười ngón tay cho phép.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bàn tính cổ, với những hạt gỗ trượt trên que,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đã giúp con người tính toán suốt hàng nghìn năm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng nó vẫn đếm theo cách quen thuộc: một, hai, ba, cho đến chín.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ở Trung Quốc cổ đại, có một hệ thống bói toán tên Kinh Dịch,",
+      "textEn": ""
+    },
+    {
+      "textVn": "dùng sáu vạch, mỗi vạch hoặc liền",
+      "textEn": ""
+    },
+    {
+      "textVn": "hoặc đứt, xếp chồng lên nhau",
+      "textEn": ""
+    },
+    {
+      "textVn": "để tạo ra sáu mươi tư quẻ khác nhau.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Liền hoặc đứt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có hoặc không.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghe quen không?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đó gần như là một hệ nhị phân,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ra đời hàng nghìn năm trước",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi có máy tính, chỉ để dùng cho việc bói toán.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều thế kỷ sau, ở châu Âu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "một nhà toán học người Đức tên Gottfried Leibniz đã",
+      "textEn": ""
+    },
+    {
+      "textVn": "nghiên cứu về một hệ đếm chỉ dùng hai chữ số.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm một nghìn bảy trăm linh ba,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ông công bố một bài viết mô tả đầy đủ cách cộng,",
+      "textEn": ""
+    },
+    {
+      "textVn": "trừ với hệ nhị phân, điều",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà ba trăm năm sau sẽ trở thành nền tảng của mọi máy tính.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Điều thú vị là khi biết đến các quẻ của",
+      "textEn": ""
+    },
+    {
+      "textVn": "Kinh Dịch qua một người bạn truyền giáo ở Trung Quốc,",
+      "textEn": ""
+    },
+    {
+      "textVn": "Leibniz vô cùng phấn khích, vì ông thấy người xưa dường như",
+      "textEn": ""
+    },
+    {
+      "textVn": "đã chạm đến cùng một ý tưởng theo cách hoàn toàn khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng với Leibniz, đây vẫn chỉ là một trò chơi trí tuệ đẹp đẽ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không có cỗ máy nào lúc đó cần đến nó cả.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong lúc đó, những cỗ máy tính toán đầu tiên",
+      "textEn": ""
+    },
+    {
+      "textVn": "vẫn trung thành với hệ đếm quen thuộc của con người.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhà toán học Pháp Blaise Pascal đã chế tạo một cỗ",
+      "textEn": ""
+    },
+    {
+      "textVn": "máy cộng trừ bằng bánh răng vào giữa thế kỷ mười bảy,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mỗi bánh răng có đúng mười nấc,",
+      "textEn": ""
+    },
+    {
+      "textVn": "y hệt mười ngón tay của chúng ta.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cỗ máy đẹp, tinh xảo, nhưng cồng kềnh và dễ hỏng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hệ mười, hóa ra, không hợp với bánh răng cơ khí chút nào.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bước ngoặt cơ khí thực sự lại đến từ một khung cửi dệt vải.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm một nghìn tám trăm linh bốn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "kỹ sư người Pháp Joseph Marie Jacquard chế tạo một",
+      "textEn": ""
+    },
+    {
+      "textVn": "khung cửi được điều khiển bằng những tấm bìa đục lỗ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có lỗ, kim đan xuyên qua, chỉ được kéo lên.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không có lỗ, kim bị chặn lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đúng là \"có\" và \"không\" một lần nữa,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chỉ khác là lần này nó dệt ra hoa văn trên vải,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chứ không phải một con số.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Gần một trăm năm sau, ở nước Anh,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhà toán học Charles Babbage mơ về một cỗ",
+      "textEn": ""
+    },
+    {
+      "textVn": "máy tính toán khổng lồ chạy hoàn toàn tự động,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và ông mượn chính ý tưởng tấm bìa đục lỗ ấy để lập trình cho nó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Người viết những chỉ dẫn từng bước cho cỗ",
+      "textEn": ""
+    },
+    {
+      "textVn": "máy đó là một phụ nữ tên Ada Lovelace,",
+      "textEn": ""
+    },
+    {
+      "textVn": "con gái của nhà thơ Lord Byron.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều người xem những ghi chép của bà là",
+      "textEn": ""
+    },
+    {
+      "textVn": "chương trình máy tính đầu tiên trong lịch sử,",
+      "textEn": ""
+    },
+    {
+      "textVn": "dù cỗ máy chưa từng được hoàn thành lúc bà còn sống.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đến cuối thế kỷ mười chín,",
+      "textEn": ""
+    },
+    {
+      "textVn": "kỹ sư người Mỹ Herman Hollerith dùng lại tấm bìa đục lỗ",
+      "textEn": ""
+    },
+    {
+      "textVn": "để xử lý số liệu điều tra dân số,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhanh đến mức tiết kiệm được nhiều năm công sức đếm tay.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Công ty ông sáng lập sau này trở thành",
+      "textEn": ""
+    },
+    {
+      "textVn": "một phần của một tập đoàn công nghệ khổng lồ",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà có lẽ bạn từng nghe tên.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vậy là suốt hai nghìn năm trăm năm,",
+      "textEn": ""
+    },
+    {
+      "textVn": "từ các quẻ bói, một bài toán học thuần túy,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đến khung cửi và tấm bìa đục lỗ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ý tưởng \"có hoặc không\" cứ thấp thoáng xuất hiện,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhưng luôn ở rìa, chưa bao giờ là trung tâm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó chỉ thực sự bước ra ánh sáng",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi gặp một thứ có thể bật",
+      "textEn": ""
+    },
+    {
+      "textVn": "và tắt hàng triệu lần một giây,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà không mòn, không mỏi: dòng điện.",
+      "textEn": ""
+    }
+  ],
+  "part3": [
+    {
+      "textVn": "Công tắc đèn nhà bạn chỉ có hai trạng thái.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bật, đèn sáng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tắt, đèn tối.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không có mức nửa sáng nửa tối kiểu lưng chừng mà công tắc tự hiểu được.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Dòng điện chạy trong một mạch cũng vậy: hoặc đang chạy qua, hoặc bị chặn lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đơn giản, rõ ràng, không mập mờ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và sự rõ ràng đó lại chính là điều máy tính cần nhất.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hãy tưởng tượng nếu máy tính phải phân biệt mười mức điện áp khác nhau",
+      "textEn": ""
+    },
+    {
+      "textVn": "để đọc mười chữ số, từ không đến chín,",
+      "textEn": ""
+    },
+    {
+      "textVn": "giống hệt bánh răng mười nấc của Pascal ngày xưa, chỉ thay bằng điện.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chỉ cần nhiễu điện nhẹ, chỉ cần dây hơi nóng lên,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ranh giới giữa các mức có thể lẫn vào nhau,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và một con số đọc nhầm thành số khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng nếu chỉ cần phân biệt hai mức,",
+      "textEn": ""
+    },
+    {
+      "textVn": "có điện hoặc không điện, thì khoảng cách giữa hai mức đó có thể rất lớn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiễu nhỏ không còn là vấn đề.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tín hiệu vẫn rõ ràng: hoặc có, hoặc không.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đó là lý do quan trọng nhất khiến điện tử học chọn hai trạng thái,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chứ không phải mười: hai trạng thái đáng tin cậy",
+      "textEn": ""
+    },
+    {
+      "textVn": "hơn nhiều so với mười trạng thái chen chúc nhau.",
+      "textEn": ""
+    }
+  ],
+  "part4": [
+    {
+      "textVn": "Nhưng \"bật và tắt\" mới chỉ là phần cơ khí.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Để biến nó thành một cỗ máy biết suy luận,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cần một ý tưởng toán học,",
+      "textEn": ""
+    },
+    {
+      "textVn": "giống bài toán Leibniz từng nghĩ tới,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhưng lần này gắn liền với logic.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ý tưởng đó đến từ một nhà toán học người Anh tên George Boole,",
+      "textEn": ""
+    },
+    {
+      "textVn": "vào giữa thế kỷ mười chín.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Boole tự hỏi: liệu có thể viết logic,",
+      "textEn": ""
+    },
+    {
+      "textVn": "tức là những câu đúng hay sai,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thành các phép toán, giống như cộng trừ nhân chia, hay không?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ông xây dựng một hệ thống trong đó mỗi",
+      "textEn": ""
+    },
+    {
+      "textVn": "câu chỉ có hai giá trị: đúng, hoặc sai.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không có \"hơi đúng\" hay \"gần sai\".",
+      "textEn": ""
+    },
+    {
+      "textVn": "Rồi ông định nghĩa các phép toán logic",
+      "textEn": ""
+    },
+    {
+      "textVn": "để kết hợp chúng: và, hoặc,",
+      "textEn": ""
+    },
+    {
+      "textVn": "không, giống như những viên gạch",
+      "textEn": ""
+    },
+    {
+      "textVn": "để xây một lập luận phức tạp.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vào thời của ông, đây chỉ là một trò chơi trí tuệ thuần túy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Boole làm toán học vì đam mê, không hề biết nó sẽ đổi cả thế giới.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Suốt gần một trăm năm, ý tưởng của ông nằm yên trong sách toán,",
+      "textEn": ""
+    },
+    {
+      "textVn": "như một hạt giống chưa gặp đất,",
+      "textEn": ""
+    },
+    {
+      "textVn": "giống hệt số nhị phân của Leibniz trước đó.",
+      "textEn": ""
+    }
+  ],
+  "part5": [
+    {
+      "textVn": "Hạt giống đó nảy mầm vào năm một nghìn chín trăm ba mươi bảy,",
+      "textEn": ""
+    },
+    {
+      "textVn": "trong luận văn thạc sĩ của một sinh viên hai mươi mốt tuổi tên Claude Shannon.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Shannon nhận ra một điều đẹp đến sững sờ:",
+      "textEn": ""
+    },
+    {
+      "textVn": "mạch điện với công tắc bật tắt hoạt động chính xác theo logic đúng-sai của Boole.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hai công tắc nối tiếp nhau,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cả hai phải bật thì đèn mới sáng,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đó chính là phép \"và\" của Boole.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hai công tắc nối song song,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chỉ cần một cái bật là đèn sáng, đó chính là phép \"hoặc\".",
+      "textEn": ""
+    },
+    {
+      "textVn": "Luận văn đó sau này được nhiều người xem là một trong",
+      "textEn": ""
+    },
+    {
+      "textVn": "những luận văn thạc sĩ quan trọng nhất thế kỷ hai mươi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vì từ đó, người ta có một công thức rất gọn:",
+      "textEn": ""
+    },
+    {
+      "textVn": "muốn máy biết suy luận, chỉ cần sắp xếp đúng những cái công tắc.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Logic của con người, thứ tưởng chừng trừu tượng,",
+      "textEn": ""
+    },
+    {
+      "textVn": "hóa ra có thể xây bằng dây điện",
+      "textEn": ""
+    },
+    {
+      "textVn": "và kim loại, đúng như cách một tấm bìa",
+      "textEn": ""
+    },
+    {
+      "textVn": "đục lỗ từng dệt nên hoa văn trên vải.",
+      "textEn": ""
+    }
+  ],
+  "part6": [
+    {
+      "textVn": "Nhưng có logic thôi chưa đủ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cần một thứ đóng vai trò công tắc,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đóng và mở hàng triệu lần một giây, mà không mòn, không hỏng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Những chiếc máy tính đầu tiên dùng rơle điện cơ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "những công tắc bật bằng nam châm điện.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chúng kêu lách cách, tốn điện, và thỉnh thoảng...",
+      "textEn": ""
+    },
+    {
+      "textVn": "có côn trùng chui vào kẹt giữa hai tiếp điểm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đúng vậy, đó không phải chuyện đùa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có ghi chép về một con bướm đêm bị",
+      "textEn": ""
+    },
+    {
+      "textVn": "kẹt trong rơle của một máy tính đời đầu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và có lẽ đó là lý do",
+      "textEn": ""
+    },
+    {
+      "textVn": "vì sao ngày nay ta gọi lỗi phần mềm là \"con bọ\".",
+      "textEn": ""
+    },
+    {
+      "textVn": "Sau đó là bóng đèn chân không,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhanh hơn rơle nhiều, nhưng nóng,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cồng kềnh, và dễ cháy như một bóng đèn thật.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cả căn phòng đầy bóng đèn chỉ",
+      "textEn": ""
+    },
+    {
+      "textVn": "để làm công việc mà một con chip nhỏ hơn móng tay bạn làm hôm nay.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bước ngoặt đến vào năm một nghìn chín trăm bốn mươi bảy,",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi ba nhà khoa học ở phòng thí nghiệm Bell chế tạo ra transistor.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Transistor làm đúng việc của công tắc,",
+      "textEn": ""
+    },
+    {
+      "textVn": "bật và tắt dòng điện, nhưng nhỏ hơn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhanh hơn, bền hơn, và gần như không tốn hơi ấm",
+      "textEn": ""
+    },
+    {
+      "textVn": "để chứng minh nó đang hoạt động.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Rồi người ta học cách khắc hàng nghìn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "rồi hàng triệu, rồi hàng tỷ transistor lên một miếng silicon nhỏ xíu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đó chính là con chip.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm một nghìn chín trăm sáu mươi lăm,",
+      "textEn": ""
+    },
+    {
+      "textVn": "một trong những người đồng sáng lập Intel,",
+      "textEn": ""
+    },
+    {
+      "textVn": "Gordon Moore, nhận thấy số transistor nhét vừa trên một con chip",
+      "textEn": ""
+    },
+    {
+      "textVn": "gần như tăng gấp đôi sau mỗi khoảng một đến hai năm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhận xét đó, sau này gọi là định luật Moore,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đúng một cách kỳ lạ suốt nhiều thập kỷ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "dù gần đây tốc độ tăng đã chậm lại",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi các kỹ sư chạm gần giới hạn vật lý của kích thước nguyên tử.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ngày nay, một con chip trong điện thoại của",
+      "textEn": ""
+    },
+    {
+      "textVn": "bạn có thể chứa nhiều tỷ công tắc nhỏ xíu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "bật tắt hàng tỷ lần mỗi giây.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nói cách khác, bạn đang mang trong túi một thứ còn phức tạp",
+      "textEn": ""
+    },
+    {
+      "textVn": "hơn cả căn phòng đầy rơle năm xưa, chỉ nhỏ bằng bàn tay.",
+      "textEn": ""
+    }
+  ],
+  "part7": [
+    {
+      "textVn": "Vậy hàng tỷ công tắc bật tắt đó tạo ra con số như thế nào?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Máy tính đếm theo hệ nhị phân,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chỉ dùng hai chữ số, đúng như bài toán",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà Leibniz từng viết ra ba trăm năm trước.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mỗi công tắc là một chữ số,",
+      "textEn": ""
+    },
+    {
+      "textVn": "gọi là một bit: tắt là không, bật là một.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ghép nhiều bit lại, bạn đếm được nhiều số hơn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "giống như ghép nhiều chữ số thập phân để đếm cao hơn chín.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Với tám bit, bạn có thể đếm từ không đến hai trăm năm mươi lăm,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đủ để đại diện cho một pixel màu xám, hoặc một chữ cái.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tám bit như vậy được gọi là một byte.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vào những năm một nghìn chín trăm sáu mươi,",
+      "textEn": ""
+    },
+    {
+      "textVn": "các kỹ sư Mỹ ngồi lại",
+      "textEn": ""
+    },
+    {
+      "textVn": "và thống nhất một bảng quy ước chung,",
+      "textEn": ""
+    },
+    {
+      "textVn": "gọi là ASCII, gán cho mỗi chữ cái,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chữ số và dấu câu thông dụng một con số nhị phân riêng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhờ bảng quy ước đó, chữ \"A\" trên máy tính này",
+      "textEn": ""
+    },
+    {
+      "textVn": "và chữ \"A\" trên máy tính kia luôn được hiểu là cùng một con số,",
+      "textEn": ""
+    },
+    {
+      "textVn": "dù hai máy chưa từng gặp nhau.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng thế giới có nhiều ngôn ngữ hơn một bảng chữ cái tiếng Anh.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chữ Việt có dấu, chữ Hán,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chữ Ả Rập, và cả những biểu tượng cảm",
+      "textEn": ""
+    },
+    {
+      "textVn": "xúc nhỏ xinh bạn hay gửi cho bạn bè.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vì thế sau này người ta mở rộng thành một bảng quy ước lớn hơn nhiều,",
+      "textEn": ""
+    },
+    {
+      "textVn": "gọi là Unicode, đủ chỗ cho gần như",
+      "textEn": ""
+    },
+    {
+      "textVn": "mọi ký tự của mọi ngôn ngữ loài người,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và cả các biểu tượng cảm xúc.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ghép nhiều nhóm tám bit lại,",
+      "textEn": ""
+    },
+    {
+      "textVn": "bạn có đủ chỗ để đại diện cho hàng triệu màu sắc trong một bức ảnh,",
+      "textEn": ""
+    },
+    {
+      "textVn": "hoặc hàng nghìn ký tự trong một trang văn bản.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Âm thanh cũng vậy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Máy tính đo biên độ sóng âm hàng chục nghìn lần mỗi giây,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và ghi mỗi lần đo lại thành một con số nhị phân.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Video chỉ là rất nhiều bức ảnh nối tiếp nhau,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và bức ảnh chỉ là rất nhiều điểm màu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mỗi điểm màu chỉ là vài con số nhị phân đứng cạnh nhau.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có một câu hỏi thú vị:",
+      "textEn": ""
+    },
+    {
+      "textVn": "nếu chỉ một bit bị đọc nhầm,",
+      "textEn": ""
+    },
+    {
+      "textVn": "do nhiễu điện hay bụi vũ trụ va vào một con chip, chuyện gì xảy ra?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Các kỹ sư đã nghĩ ra cách:",
+      "textEn": ""
+    },
+    {
+      "textVn": "thêm một vài bit kiểm tra đi kèm,",
+      "textEn": ""
+    },
+    {
+      "textVn": "gọi là bit chẵn lẻ, giống như một người",
+      "textEn": ""
+    },
+    {
+      "textVn": "gác cổng luôn đếm lại tổng số bit bật,",
+      "textEn": ""
+    },
+    {
+      "textVn": "để phát hiện ngay khi có gì đó không khớp.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhờ vậy mà một bức ảnh bạn tải xuống,",
+      "textEn": ""
+    },
+    {
+      "textVn": "hay một tin nhắn bạn gửi đi,",
+      "textEn": ""
+    },
+    {
+      "textVn": "hiếm khi bị lỗi dù đi qua hàng",
+      "textEn": ""
+    },
+    {
+      "textVn": "nghìn cây số dây cáp và sóng vô tuyến.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nói cách khác, thế giới đầy màu sắc bạn thấy",
+      "textEn": ""
+    },
+    {
+      "textVn": "trên màn hình chỉ là hàng tỷ công tắc nhỏ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "được sắp xếp và bảo vệ theo đúng một trật tự.",
+      "textEn": ""
+    }
+  ],
+  "part8": [
+    {
+      "textVn": "Ghép các công tắc theo kiểu của Boole",
+      "textEn": ""
+    },
+    {
+      "textVn": "và Shannon, máy tính không chỉ lưu số,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà còn tính toán được với chúng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mạch cộng nhị phân, chẳng hạn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chỉ là một cách khéo léo sắp xếp vài cổng logic",
+      "textEn": ""
+    },
+    {
+      "textVn": "để hai bit đầu vào tạo ra bit tổng",
+      "textEn": ""
+    },
+    {
+      "textVn": "và bit nhớ, y hệt cách bạn cộng tay",
+      "textEn": ""
+    },
+    {
+      "textVn": "và nhớ số ở hàng chục.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ghép hàng nghìn mạch cộng nhỏ như vậy,",
+      "textEn": ""
+    },
+    {
+      "textVn": "bạn có một bộ xử lý biết làm toán phức tạp,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhanh đến mức bạn không kịp chớp mắt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và tất cả những phép tính phức tạp",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà máy tính làm, từ hiển thị một",
+      "textEn": ""
+    },
+    {
+      "textVn": "trang web đến chạy một trò chơi ba chiều,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cuối cùng đều được chẻ nhỏ thành hàng tỷ phép \"và\",",
+      "textEn": ""
+    },
+    {
+      "textVn": "\"hoặc\", \"không\" rất đơn giản như của Boole.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Sự phức tạp bạn thấy trên màn hình không đến",
+      "textEn": ""
+    },
+    {
+      "textVn": "từ việc máy tính \"thông minh\" theo kiểu con người.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó đến từ việc lặp lại một ý tưởng cực kỳ đơn giản,",
+      "textEn": ""
+    },
+    {
+      "textVn": "với tốc độ và số lượng vượt xa sức tưởng tượng.",
+      "textEn": ""
+    }
+  ],
+  "part9": [
+    {
+      "textVn": "Một câu hỏi cuối, dành cho những ai tò mò:",
+      "textEn": ""
+    },
+    {
+      "textVn": "liệu tương lai có thoát khỏi chỉ không và một?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong các phòng thí nghiệm hôm nay,",
+      "textEn": ""
+    },
+    {
+      "textVn": "có một hướng nghiên cứu gọi là máy tính lượng tử,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nơi đơn vị thông tin không buộc phải là hẳn không",
+      "textEn": ""
+    },
+    {
+      "textVn": "hoặc hẳn một, mà có thể ở một",
+      "textEn": ""
+    },
+    {
+      "textVn": "trạng thái mờ nhòe giữa cả hai cùng lúc.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghe rất khác với mọi thứ mình vừa kể phải không?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đúng vậy, và công nghệ này vẫn đang trong giai đoạn nghiên cứu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chưa thay thế được máy tính hàng ngày của bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng nó nhắc chúng ta một điều:",
+      "textEn": ""
+    },
+    {
+      "textVn": "\"chỉ không và một\" không phải quy luật bắt buộc của vũ trụ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà là một lựa chọn kỹ thuật rất khôn ngoan,",
+      "textEn": ""
+    },
+    {
+      "textVn": "phù hợp nhất với công nghệ",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà con người có trong tay suốt gần một trăm năm qua.",
+      "textEn": ""
+    }
+  ],
+  "part10": [
+    {
+      "textVn": "Từ các quẻ bói cổ, một bài toán học của Leibniz,",
+      "textEn": ""
+    },
+    {
+      "textVn": "tấm bìa đục lỗ của khung cửi,",
+      "textEn": ""
+    },
+    {
+      "textVn": "một nhà toán học nghĩ về đúng",
+      "textEn": ""
+    },
+    {
+      "textVn": "và sai, một sinh viên nối logic với dây điện,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đến hàng tỷ transistor trong túi bạn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đó là toàn bộ hành trình đằng sau con số không và một.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không cần thông minh hơn con người.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chỉ cần rất giỏi một việc rất nhỏ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và lặp lại nó hàng tỷ lần một giây.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cảm ơn bạn đã xem.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hẹn gặp lại.",
+      "textEn": ""
+    }
+  ]
+}

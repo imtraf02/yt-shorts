@@ -1,0 +1,1510 @@
+{
+  "part1": [
+    {
+      "textVn": "Bạn dùng Facebook mỗi ngày.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn lướt TikTok mỗi tối.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tổng số tiền bạn đã trả cho hai ứng dụng này là: không đồng nào.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vậy mà Meta, công ty mẹ của Facebook,",
+      "textEn": ""
+    },
+    {
+      "textVn": "là một trong những công ty giá trị nhất hành tinh, hơn một nghìn tỷ đô la.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Còn ByteDance, công ty đứng sau TikTok,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cũng nằm trong nhóm những công ty khởi nghiệp giá trị nhất lịch sử.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không công ty nào sống được bằng lời cảm ơn của người dùng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghĩa là có người đang trả tiền.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chỉ có điều, người đó không phải bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hoặc ít nhất, không phải bằng tiền.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong video này, mình sẽ đi sâu hơn một chút.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không chỉ trả lời câu hỏi \"ai trả tiền\", mà còn trả lời những câu hỏi khó hơn:",
+      "textEn": ""
+    },
+    {
+      "textVn": "vì sao \"miễn phí\" gần như là kết cục tất yếu của kinh tế học số,",
+      "textEn": ""
+    },
+    {
+      "textVn": "vì sao các nền tảng này thắng lớn đến vậy, bạn thật sự được gì và mất gì,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và ai là người thiệt thòi thầm lặng nhất.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mình hứa sẽ cố gắng không làm bạn tụt tâm trạng, dù sự thật hơi...",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhột.",
+      "textEn": ""
+    }
+  ],
+  "part2": [
+    {
+      "textVn": "Trước khi nói về Facebook, ta cần hiểu một điều căn bản:",
+      "textEn": ""
+    },
+    {
+      "textVn": "vì sao giá của các sản phẩm số cứ trượt dần về không.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong kinh tế học có một khái niệm gọi là chi phí biên.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hiểu đơn giản, đó là chi phí để sản xuất thêm một đơn vị.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nếu bạn làm bánh mì, mỗi ổ bánh thêm cần thêm bột, thêm điện, thêm công.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chi phí biên là khác không, và vì thế bạn phải bán có giá.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng với một sản phẩm số thì khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi Facebook đã xây xong hệ thống,",
+      "textEn": ""
+    },
+    {
+      "textVn": "việc phục vụ thêm một người dùng nữa gần như chỉ tốn vài xu tiền máy chủ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chi phí biên gần bằng không.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và đây là điểm mấu chốt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi nhiều công ty cạnh tranh nhau, giá có xu hướng bị kéo xuống sát chi phí biên.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ai bán cao hơn thì khách sang bên kia.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Kéo xuống mãi thì chạm đáy, và đáy đó là con số không.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nói cách khác, \"miễn phí\" không phải là lòng tốt của các ông chủ công nghệ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó là hệ quả của cạnh tranh và của một cấu trúc chi phí rất đặc biệt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn có thể hình dung như vậy: chi phí để xây dựng thì cực lớn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chi phí để phục vụ thêm một người thì cực nhỏ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cho nên thứ duy nhất còn lại để cạnh tranh là số lượng người dùng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ngày xưa cũng có một chuyện tương tự.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều quán rượu ở Mỹ treo biển: \"Ăn trưa miễn phí\".",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khách kéo đến đông nghịt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng bạn thử đoán xem món ăn miễn phí đó có vị gì?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mặn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Rất mặn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ăn xong thì khát, khát thì gọi bia.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và bia thì không miễn phí.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chuyện này nghe quen không?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Giống như quán cà phê có wifi miễn phí.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn vào ngồi bốn tiếng, gọi đúng một ly,",
+      "textEn": ""
+    },
+    {
+      "textVn": "rồi tự hỏi vì sao chủ quán nhìn mình bằng ánh mắt đó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vậy câu hỏi của chúng ta là: nếu Facebook là bữa trưa miễn phí,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thì \"ly bia\" của họ là gì?",
+      "textEn": ""
+    }
+  ],
+  "part3": [
+    {
+      "textVn": "Để trả lời, ta cần một công cụ phân tích gọi là thị trường hai mặt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khái niệm này được phát triển bài bản bởi Jean Tirole,",
+      "textEn": ""
+    },
+    {
+      "textVn": "người sau đó đoạt giải Nobel Kinh tế năm hai",
+      "textEn": ""
+    },
+    {
+      "textVn": "nghìn không trăm mười bốn, cùng với các đồng nghiệp.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ý tưởng rất đơn giản.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có những nơi mà một bên trung gian đứng giữa hai nhóm người cần nhau.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ví dụ tờ báo: độc giả muốn đọc tin,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhà quảng cáo muốn độc giả nhìn thấy sản phẩm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ví dụ thẻ tín dụng: người mua muốn quẹt thẻ, người bán muốn nhận tiền.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ví dụ cái chợ: người mua và người bán cần gặp nhau.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Điều thú vị của thị trường hai mặt là",
+      "textEn": ""
+    },
+    {
+      "textVn": "cấu trúc giá không cần công bằng cho từng bên.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nền tảng có thể bán dưới giá vốn, thậm chí cho không một bên,",
+      "textEn": ""
+    },
+    {
+      "textVn": "miễn là bên còn lại trả đủ để bù lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Kinh tế học gọi đó là trợ cấp chéo.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vậy nền tảng chọn trợ cấp cho bên nào?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Câu trả lời là: bên nào nhạy cảm với giá hơn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và bên nào kéo theo giá trị cho bên còn lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Với mạng xã hội, người dùng cực kỳ nhạy cảm với giá.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chỉ cần thu mười nghìn đồng mỗi tháng, phần lớn sẽ bỏ đi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mà khi người dùng biến mất, nhà quảng cáo cũng chẳng còn lý do ở lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vậy nên nền tảng làm điều hợp lý nhất:",
+      "textEn": ""
+    },
+    {
+      "textVn": "cho người dùng vào cửa miễn phí, thu tiền phía nhà quảng cáo.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bằng chứng cho lập luận này rất thú vị.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm hai nghìn không trăm hai mươi ba,",
+      "textEn": ""
+    },
+    {
+      "textVn": "Meta bắt đầu cho người dùng ở châu Âu một lựa chọn:",
+      "textEn": ""
+    },
+    {
+      "textVn": "trả khoảng mười euro mỗi tháng để dùng Facebook",
+      "textEn": ""
+    },
+    {
+      "textVn": "và Instagram không có quảng cáo dựa trên dữ liệu cá nhân.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nói cách khác, chính công ty đã tự định giá cho việc bạn không bị theo dõi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và con số đó, đối với hầu hết chúng ta, không hề nhỏ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đây là một trong những lần hiếm hoi bạn được nhìn thấy \"ly bia\" có bảng giá.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nói vui thì Facebook giống một cái chợ khổng lồ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và trong cái chợ đó, bạn không phải người đi mua sắm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn là cái chợ.",
+      "textEn": ""
+    }
+  ],
+  "part4": [
+    {
+      "textVn": "Đến đây có người sẽ hỏi: nếu mô hình này hay như vậy,",
+      "textEn": ""
+    },
+    {
+      "textVn": "sao không có hàng trăm mạng xã hội ngang ngửa Facebook?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Sao chỉ có vài cái tên thống trị?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Câu trả lời nằm ở một khái niệm gọi là hiệu ứng mạng lưới.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hiệu ứng mạng lưới nghĩa là một sản phẩm càng có nhiều người dùng",
+      "textEn": ""
+    },
+    {
+      "textVn": "thì càng có giá trị đối với mỗi người dùng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cái điện thoại đầu tiên trên thế giới vô dụng, vì bạn gọi cho ai?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đến khi cả thành phố có điện thoại, thì không có nó mới là chuyện lạ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Với nền tảng hai mặt, hiệu ứng này còn mạnh hơn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "vì nó chạy qua lại giữa hai phía.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều người dùng thì nhà quảng cáo kéo đến.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều nhà quảng cáo thì nền tảng có tiền đầu tư,",
+      "textEn": ""
+    },
+    {
+      "textVn": "làm sản phẩm tốt hơn, kéo thêm người dùng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vòng xoáy đó cứ thế quay.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hệ quả là các thị trường như thế có xu hướng \"kẻ thắng ăn hầu hết\".",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ai vượt qua một ngưỡng nhất định sẽ tăng tốc rất nhanh,",
+      "textEn": ""
+    },
+    {
+      "textVn": "còn ai chưa qua ngưỡng thì chết dần.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Kinh tế học gọi đó là điểm lật.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chính vì thế, giai đoạn đầu các nền tảng sẵn sàng đốt tiền.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lỗ hàng năm trời cũng không sao, miễn là giành được người dùng trước đối thủ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "TikTok từng chi số tiền rất lớn cho quảng bá",
+      "textEn": ""
+    },
+    {
+      "textVn": "và thưởng cho người mới, chỉ để vượt qua ngưỡng đó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và khi đã thắng thì có thêm một vũ khí thầm lặng: chi phí rời bỏ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn có bao giờ muốn xóa Facebook, rồi nhớ ra nhóm gia đình,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhóm lớp, nhóm mua bán đồ cũ đều nằm trong đó không?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó giống nhóm chat gia đình vậy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn có thể rời đi, nhưng sẽ bị hỏi thăm trong ba năm liền.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Còn một chi tiết lịch sử rất đáng nhớ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm hai nghìn không trăm mười hai, Facebook mua Instagram với giá khoảng một tỷ đô la,",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi công ty đó chỉ có mười mấy nhân viên.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hai năm sau, họ mua WhatsApp với giá khoảng mười chín tỷ đô la.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lúc đó nhiều người cho rằng họ trả quá đắt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng nhìn từ góc độ kinh tế học mạng lưới,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đó là cách rẻ nhất để loại bỏ những đối thủ có thể trở thành mối đe dọa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn không cần thắng đối thủ, bạn chỉ cần mua họ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Về phía TikTok, họ thắng bằng một cách khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Facebook xây dựa trên đồ thị bạn bè: bạn thấy gì phụ thuộc vào bạn quen ai.",
+      "textEn": ""
+    },
+    {
+      "textVn": "TikTok xây dựa trên đồ thị sở thích: bạn thấy gì phụ thuộc vào bạn xem gì.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghĩa là một người lạ đăng video hay vẫn có thể lên hàng triệu lượt xem.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Điều đó tạo ra nguồn nội dung dồi dào với chi phí rất thấp,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và giúp họ vượt qua ngưỡng nhanh hơn nhiều so với các đàn anh.",
+      "textEn": ""
+    }
+  ],
+  "part5": [
+    {
+      "textVn": "Vậy nhà quảng cáo trả tiền để mua cái gì?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Câu trả lời là: sự chú ý của bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm một nghìn chín trăm bảy mươi mốt, nhà kinh tế Herbert Simon,",
+      "textEn": ""
+    },
+    {
+      "textVn": "người sau này đoạt giải Nobel, đã viết một câu",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà bây giờ đọc lại thấy như tiên tri.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đại ý là: sự giàu có về thông tin tạo ra sự nghèo nàn về chú ý.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thông tin càng nhiều thì thứ khan hiếm không còn là thông tin nữa,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà là khả năng để ý đến nó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mỗi ngày chỉ có hai mươi bốn giờ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trừ giờ ngủ, giờ làm, giờ ăn, phần còn lại rất ít.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong kinh tế học, cái gì khan hiếm thì có giá.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và sự chú ý của con người là một trong những thứ khan hiếm nhất hiện nay.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cho nên các nền tảng cạnh tranh nhau không phải bằng giá,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà bằng việc giữ chân bạn lâu nhất có thể.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mỗi phút bạn ở lại là một phút quảng cáo được hiển thị.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mỗi phút bạn thoát ra là tiền chảy đi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và họ thiết kế sản phẩm đúng theo logic đó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn có để ý không?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không có trang cuối cùng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn cuộn hoài cuộn mãi, không bao giờ tới đáy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó giống một bát snack không đáy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có nút thông báo màu đỏ, vì màu đỏ khiến não bạn tưởng có chuyện gấp.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có video tự động phát tiếp, để bạn không phải quyết định gì cả.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Còn có một cơ chế tinh vi hơn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mỗi lần bạn vuốt, có thể bạn gặp một video cực hay,",
+      "textEn": ""
+    },
+    {
+      "textVn": "có thể bạn gặp một video chán.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn không biết trước.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Các nhà nghiên cứu hành vi thường so sánh cơ",
+      "textEn": ""
+    },
+    {
+      "textVn": "chế phần thưởng bất định này với máy đánh bạc:",
+      "textEn": ""
+    },
+    {
+      "textVn": "chính sự không chắc chắn khiến ta muốn thử thêm lần nữa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cộng thêm một đặc điểm của tâm lý con người,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà kinh tế học hành vi gọi là thiên lệch hiện tại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ta có xu hướng ưu tiên niềm vui ngay",
+      "textEn": ""
+    },
+    {
+      "textVn": "bây giờ hơn lợi ích lớn hơn ở tương lai.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Xem thêm một video thì sướng ngay lập tức,",
+      "textEn": ""
+    },
+    {
+      "textVn": "còn ngủ đủ giấc thì phải chờ đến sáng mai mới thấy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Kết quả là ta thua trong cuộc đấu này đến mức đáng thương.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và rồi là hai giờ sáng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn đang xem một người xa lạ làm bánh, trong khi bạn còn chưa chắc biết luộc trứng.",
+      "textEn": ""
+    }
+  ],
+  "part6": [
+    {
+      "textVn": "Nhưng giữ chân bạn mới chỉ là một nửa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nửa còn lại là làm cho quảng cáo trúng đích.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhà quảng cáo trả giá cao hơn rất nhiều cho việc đưa đúng thông điệp đến đúng người.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hãy tưởng tượng một tiệm áo cưới.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Phát tờ rơi ngoài đường thì tờ rơi đến tay",
+      "textEn": ""
+    },
+    {
+      "textVn": "cả cậu bé mười lăm tuổi lẫn bà cụ tám mươi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Còn quảng cáo trên nền tảng số",
+      "textEn": ""
+    },
+    {
+      "textVn": "thì có thể chỉ hiện ra trước mắt những người đang tìm hiểu về đám cưới.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tiết kiệm hơn, hiệu quả hơn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vì thế nền tảng bán được giá cao hơn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Để làm được việc đó, họ cần dữ liệu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn xem video nào, xem bao lâu, dừng ở đâu, xem lại lần thứ hai không.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tất cả đều được ghi nhận, và đều là tín hiệu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều người nói: \"Điện thoại nghe lén mình, vừa nói về đôi giày là thấy quảng cáo giày.\"",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thực ra nhiều khả năng họ không cần nghe lén.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn chỉ cần dừng lại ba giây ở một quảng cáo giày,",
+      "textEn": ""
+    },
+    {
+      "textVn": "hệ thống đã hiểu bạn quan tâm gì.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó không cần nghe bạn nói.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó chỉ cần quan sát bạn...",
+      "textEn": ""
+    },
+    {
+      "textVn": "im lặng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và điều thú vị nhất là cách bán.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mỗi lần bạn mở ứng dụng, trong chưa đầy một giây,",
+      "textEn": ""
+    },
+    {
+      "textVn": "các nhà quảng cáo đã đấu giá với nhau để giành một chỗ trên màn hình của bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng cuộc đấu giá này không đơn giản là ai trả cao nhất thì thắng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hệ thống còn cân nhắc xem khả năng bạn sẽ bấm vào là bao nhiêu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và quảng cáo đó có làm bạn khó chịu hay không.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Một quảng cáo trả giá thấp hơn",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhưng bạn rất muốn xem vẫn có thể thắng",
+      "textEn": ""
+    },
+    {
+      "textVn": "một quảng cáo trả giá cao nhưng bạn chán ngấy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghĩa là bạn đang là món hàng trong một phiên đấu giá",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà chính bạn không được mời tham dự.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và không chỉ vậy, phản ứng của bạn còn là dữ liệu",
+      "textEn": ""
+    },
+    {
+      "textVn": "để phiên đấu giá lần sau chính xác hơn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đến đây có một câu hỏi rất kinh tế học:",
+      "textEn": ""
+    },
+    {
+      "textVn": "nếu dữ liệu của bạn có giá trị như vậy, sao bạn lại cho không?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có ba lý do.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thứ nhất là bất đối xứng thông tin:",
+      "textEn": ""
+    },
+    {
+      "textVn": "bạn không biết dữ liệu của mình đáng giá bao nhiêu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "còn nền tảng thì biết rất rõ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thứ hai là bạn không thể đàm phán: điều khoản dài mấy chục trang,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chỉ có nút \"đồng ý\" hoặc \"rời đi\".",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thứ ba là cái mà các nhà nghiên cứu gọi là nghịch lý quyền riêng tư:",
+      "textEn": ""
+    },
+    {
+      "textVn": "hầu hết chúng ta nói rằng mình rất quan tâm đến quyền riêng tư,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhưng khi được hỏi giữa tiện lợi và riêng tư thì hành động lại chọn tiện lợi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có một con số đáng suy ngẫm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Doanh thu trung bình mà Meta kiếm được từ mỗi người dùng ở Mỹ",
+      "textEn": ""
+    },
+    {
+      "textVn": "và Canada cao gấp nhiều lần so với người dùng ở khu vực châu Á.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lý do không phải vì người ở đó \"thông minh hơn\" hay \"dại hơn\".",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đơn giản là nhà quảng cáo ở nơi thu nhập",
+      "textEn": ""
+    },
+    {
+      "textVn": "cao sẵn sàng trả nhiều hơn để tiếp cận bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nói cách khác, giá của sự chú ý phụ thuộc vào túi tiền của người bị nhắm tới.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạn ở đâu, bạn đáng giá chừng nấy.",
+      "textEn": ""
+    }
+  ],
+  "part7": [
+    {
+      "textVn": "Đến đây bạn có thể nghĩ: vậy là bị lợi dụng hoàn toàn rồi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng công bằng mà nói, câu chuyện phức tạp hơn thế.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Kinh tế học có một khái niệm gọi là thặng dư người tiêu dùng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó là khoảng chênh lệch giữa số tiền bạn sẵn sàng trả",
+      "textEn": ""
+    },
+    {
+      "textVn": "và số tiền bạn thực sự trả.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nếu bạn sẵn sàng trả một trăm nghìn cho một thứ mà chỉ phải trả năm mươi nghìn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thì thặng dư của bạn là năm mươi nghìn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Với hàng miễn phí, thặng dư có thể rất lớn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "vì bạn trả không đồng nào cho thứ bạn cho là có giá trị.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bản đồ, tìm kiếm, liên lạc với người thân ở xa,",
+      "textEn": ""
+    },
+    {
+      "textVn": "xem hướng dẫn sửa xe miễn phí: những thứ đó thực sự cải thiện cuộc sống.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có nghiên cứu thú vị về chuyện này.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Một nhóm nhà kinh tế học ở Mỹ đã hỏi người dùng Facebook:",
+      "textEn": ""
+    },
+    {
+      "textVn": "phải trả bạn bao nhiêu tiền để bạn tắt tài khoản trong bốn tuần?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Số tiền trung bình họ đưa ra vào khoảng một trăm đô la.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tức là với nhiều người, Facebook đáng giá hơn",
+      "textEn": ""
+    },
+    {
+      "textVn": "rất nhiều so với con số không mà họ trả.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Điều này còn dẫn tới một điểm lạ trong thống kê.",
+      "textEn": ""
+    },
+    {
+      "textVn": "GDP, thước đo mà quốc gia nào cũng dùng, chỉ đếm những thứ có giao dịch bằng tiền.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Một dịch vụ miễn phí mà cả tỷ người",
+      "textEn": ""
+    },
+    {
+      "textVn": "dùng mỗi ngày gần như không xuất hiện trong GDP.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Các nhà kinh tế vẫn đang tranh luận cách",
+      "textEn": ""
+    },
+    {
+      "textVn": "đo giá trị của những thứ này cho công bằng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng cũng chính nghiên cứu đó cho thấy một mặt còn lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Những người tạm ngưng dùng Facebook cho biết họ có xu hướng thấy dễ chịu hơn một chút,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đồng thời ít theo dõi tin tức hơn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghĩa là thứ có giá trị lớn với ta không hẳn là thứ tốt cho ta.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đôi khi ta chỉ đang trả giá cao cho một thói quen.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vì vậy câu trả lời trung thực là: cả hai đều đúng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nền tảng tạo ra giá trị thật,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhưng cũng lấy đi một thứ mà bạn không nhìn thấy trên hóa đơn.",
+      "textEn": ""
+    }
+  ],
+  "part8": [
+    {
+      "textVn": "Thứ đó chính là ngoại tác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ngoại tác là những chi phí mà người khác gánh thay, nhưng không nằm trên hóa đơn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ví dụ kinh điển là nhà máy xả khói.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhà máy thu lợi nhuận, còn cả khu dân cư hít khói.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nếu nhà máy không phải trả cho khói đó,",
+      "textEn": ""
+    },
+    {
+      "textVn": "họ sẽ xả nhiều hơn mức xã hội mong muốn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Với nền tảng số, có ít nhất ba loại chi phí như vậy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thứ nhất là thời gian và sự tập trung.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Giả sử bạn dùng mạng xã hội hai giờ mỗi ngày.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghe không nhiều đúng không?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng nhân lên, hai giờ mỗi ngày,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ba trăm sáu mươi lăm ngày, là bảy trăm ba mươi giờ mỗi năm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tức là hơn ba mươi ngày.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Mỗi năm, bạn tặng cho nền tảng trọn một tháng cuộc đời.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không lương, không thưởng, chỉ có vài trăm cái thông báo.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thứ hai là tác động lên tâm lý và xã hội.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ở đây mình muốn nói thật thà: bằng chứng khoa học còn tranh luận.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có nghiên cứu cho thấy dùng nhiều mạng xã hội liên quan đến lo âu",
+      "textEn": ""
+    },
+    {
+      "textVn": "và so sánh bản thân, đặc biệt ở người trẻ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có nghiên cứu khác cho thấy tác động nhỏ hơn nhiều so với lời đồn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Điều chắc chắn hơn là thiết kế gây nghiện được tối ưu vì lợi nhuận,",
+      "textEn": ""
+    },
+    {
+      "textVn": "không phải vì sức khỏe của bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thứ ba là tác động lên thông tin.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nội dung gây tức giận, gây sốc thường được chia sẻ nhiều hơn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà chia sẻ nhiều nghĩa là ở lại lâu, ở lại lâu nghĩa là nhiều quảng cáo.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi mô hình kinh doanh thưởng cho sự chú ý,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thì thứ thu hút chú ý nhất sẽ thắng, dù nó đúng hay sai.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Kinh tế học đã có cách nghĩ về chuyện này từ lâu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Với ô nhiễm, người ta đánh thuế lên người gây ô nhiễm",
+      "textEn": ""
+    },
+    {
+      "textVn": "để họ tính cả chi phí đó vào giá.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Câu hỏi hiện nay là: có nên làm điều tương",
+      "textEn": ""
+    },
+    {
+      "textVn": "tự với nền tảng số hay không, và làm thế nào?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đó là một trong những cuộc tranh luận chính sách nóng nhất thế giới.",
+      "textEn": ""
+    }
+  ],
+  "part9": [
+    {
+      "textVn": "Còn một nhân vật nữa cần nhắc tới: người sáng tạo nội dung,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và các doanh nghiệp nhỏ sống bằng nền tảng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nền tảng cần nội dung để giữ chân người xem, nhưng họ không tự làm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Họ nhờ hàng triệu người sáng tạo làm giúp, rồi chia lại một phần doanh thu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "qua quảng cáo, qua livestream bán hàng, qua các quỹ thưởng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ở Việt Nam, bán hàng qua livestream và các cửa hàng trên TikTok đang phát triển rất nhanh,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và nhiều người thực sự kiếm được thu nhập tốt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng có hai đặc điểm kinh tế học đáng chú ý.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đặc điểm thứ nhất là thị trường kiểu siêu sao.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thu nhập của người sáng tạo phân bố cực kỳ lệch:",
+      "textEn": ""
+    },
+    {
+      "textVn": "một nhóm nhỏ kiếm rất nhiều, phần đông kiếm rất ít.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó giống một cuộc xổ số hơn là một nghề ổn định.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Các nhà kinh tế đã mô tả hiện tượng này từ trước cả thời mạng xã hội,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ở ngành ca hát và thể thao,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và nền tảng số chỉ khuếch đại nó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đặc điểm thứ hai là quyền lực đơn phương.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nền tảng tự quyết định thuật toán, tự quyết định chia bao nhiêu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và có thể thay đổi luật chơi bất cứ lúc nào.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nói vui thì nền tảng là chủ đất, còn người sáng tạo là người thuê đất trồng lúa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trời nắng hay mưa, chủ đất vẫn thu tiền thuê.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và chỉ cần một lần cập nhật thuật toán,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mảnh ruộng của bạn có thể vắng như chùa Bà Đanh.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Doanh nghiệp nhỏ cũng vậy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều cửa hàng dựa hoàn toàn vào quảng cáo trên Facebook để tìm khách.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi ngày càng nhiều người chen chân vào đấu giá",
+      "textEn": ""
+    },
+    {
+      "textVn": "cùng một nhóm khách hàng, giá quảng cáo tăng lên,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và phần lợi nhuận bị bào mòn dần.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Người chủ shop nhìn vào bảng chi phí quảng cáo mỗi tháng, rồi thở dài.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có một nhà văn tên Cory Doctorow đặt tên",
+      "textEn": ""
+    },
+    {
+      "textVn": "cho chu kỳ này là \"enshittification\", tạm dịch là \"xuống cấp hóa\".",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ông mô tả ba giai đoạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lúc đầu, nền tảng đối xử rất tốt với người dùng để thu hút họ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Sau đó, họ bắt đầu bóp người dùng để phục vụ nhà quảng cáo và người bán.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cuối cùng, họ bóp cả nhà quảng cáo và người bán để đưa tiền về cho cổ đông.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Kết quả là một sản phẩm ngày càng nhiều quảng cáo,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ngày càng khó dùng, nhưng bạn vẫn ở lại vì...",
+      "textEn": ""
+    },
+    {
+      "textVn": "cả nhóm chat gia đình đang ở đó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Dù bạn có đồng ý hoàn toàn với cách",
+      "textEn": ""
+    },
+    {
+      "textVn": "nói này hay không, nó chỉ ra một điều thật:",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi bạn không phải là người trả tiền,",
+      "textEn": ""
+    },
+    {
+      "textVn": "bạn không phải là người mà công ty phải chiều nhất.",
+      "textEn": ""
+    }
+  ],
+  "part10": [
+    {
+      "textVn": "Vậy chuyện này sẽ đi về đâu?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hiện có vài hướng mà các nhà kinh tế, luật gia và chính phủ đang cân nhắc.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hướng thứ nhất là chống độc quyền.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Các nhà quản lý ở nhiều nước đang xem xét",
+      "textEn": ""
+    },
+    {
+      "textVn": "việc các công ty lớn thâu tóm đối thủ nhỏ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "như câu chuyện Instagram và WhatsApp, có làm hại cạnh tranh hay không.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lập luận ủng hộ là các nền tảng thống trị sẽ cản đường đổi mới.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lập luận phản đối là các thương vụ đó giúp sản phẩm phát triển nhanh hơn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và người dùng vẫn được dùng miễn phí.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ai đúng ai sai vẫn đang được tranh cãi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hướng thứ hai là quy định về dữ liệu và minh bạch.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Châu Âu đi đầu với các luật về bảo vệ",
+      "textEn": ""
+    },
+    {
+      "textVn": "dữ liệu cá nhân và trách nhiệm của nền tảng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ý tưởng là buộc công ty phải",
+      "textEn": ""
+    },
+    {
+      "textVn": "cho bạn quyền kiểm soát nhiều hơn đối với dữ liệu của mình,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và minh bạch hơn về cách thuật toán hoạt động.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Phía phản biện lo rằng quy định nặng nề sẽ làm tăng chi phí,",
+      "textEn": ""
+    },
+    {
+      "textVn": "chỉ các công ty khổng lồ mới đủ sức tuân thủ, còn công ty nhỏ bị bóp nghẹt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hướng thứ ba là thay đổi mô hình kinh doanh.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nếu bạn trả tiền trực tiếp, lợi ích của",
+      "textEn": ""
+    },
+    {
+      "textVn": "nền tảng sẽ gần với lợi ích của bạn hơn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đó là lý do gói đăng ký không quảng cáo ngày càng phổ biến.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng như đã nói, phần đông người dùng vẫn chọn miễn phí,",
+      "textEn": ""
+    },
+    {
+      "textVn": "vì con số không luôn có sức hút kỳ lạ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và hướng thứ tư là một ý tưởng khá táo bạo:",
+      "textEn": ""
+    },
+    {
+      "textVn": "coi dữ liệu là một dạng lao động,",
+      "textEn": ""
+    },
+    {
+      "textVn": "để người dùng được chia phần khi dữ liệu của họ tạo ra lợi nhuận.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ý tưởng nghe hấp dẫn, nhưng việc định giá và thực thi rất khó,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nên hiện vẫn chủ yếu nằm trên giấy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chưa có hướng nào là câu trả lời hoàn hảo.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng điểm chung là ngày càng nhiều người nhận ra \"miễn phí\"",
+      "textEn": ""
+    },
+    {
+      "textVn": "là một mô hình kinh doanh, chứ không phải một món quà.",
+      "textEn": ""
+    }
+  ],
+  "part11": [
+    {
+      "textVn": "Nếu bạn không muốn bỏ hết mạng xã hội, cũng không sao.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chỉ cần một vài thay đổi nhỏ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hãy coi thời gian của mình là một loại tiền, và đặt ngân sách cho nó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều điện thoại có sẵn tính năng giới hạn thời gian dùng ứng dụng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hãy tắt những thông báo không cần thiết,",
+      "textEn": ""
+    },
+    {
+      "textVn": "vì thông báo là cánh tay dài nhất của nền tảng để kéo bạn quay lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và thỉnh thoảng hãy tự hỏi: mình đang mở app vì cần một thứ gì đó,",
+      "textEn": ""
+    },
+    {
+      "textVn": "hay vì tay mình tự động mở?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nếu bạn làm nội dung hay kinh doanh trên nền tảng, đừng đặt hết trứng vào một giỏ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Xây dựng kênh riêng như danh sách email, trang web, hay cộng đồng của mình,",
+      "textEn": ""
+    },
+    {
+      "textVn": "để nếu thuật toán đổi chiều, bạn vẫn còn khách hàng của chính mình.",
+      "textEn": ""
+    }
+  ],
+  "part12": [
+    {
+      "textVn": "Tóm lại: miễn phí không có nghĩa là không mất gì.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó chỉ có nghĩa là bạn trả bằng thứ khác, thời gian, sự chú ý và dữ liệu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lần tới khi thấy hai chữ \"miễn phí\", hãy hỏi đúng một câu: ai đang trả tiền?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nếu tìm mãi không thấy ai, thì có lẽ đó là bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cảm ơn bạn đã xem.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hẹn gặp lại.",
+      "textEn": ""
+    }
+  ]
+}

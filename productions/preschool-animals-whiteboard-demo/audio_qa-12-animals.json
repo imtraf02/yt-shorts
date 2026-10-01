@@ -1,0 +1,702 @@
+{
+  "decodedSampleRate": 48000,
+  "decodedChannels": 2,
+  "decodedSeconds": 235.690667,
+  "samplePeakDbfs": -2.932,
+  "estimated4xTruePeakDbfs": -2.895,
+  "clippedDecodedSamples": 0,
+  "tailAfterLastSpeechRmsDbfs": -49.641,
+  "sentences": [
+    {
+      "id": "S001",
+      "speechRmsDbfs": -20.254
+    },
+    {
+      "id": "S002",
+      "speechRmsDbfs": -20.587
+    },
+    {
+      "id": "S003",
+      "speechRmsDbfs": -19.091
+    },
+    {
+      "id": "S004",
+      "speechRmsDbfs": -18.713
+    },
+    {
+      "id": "S005",
+      "speechRmsDbfs": -19.553
+    },
+    {
+      "id": "S006",
+      "speechRmsDbfs": -18.111
+    },
+    {
+      "id": "S007",
+      "speechRmsDbfs": -18.518
+    },
+    {
+      "id": "S008",
+      "speechRmsDbfs": -18.959
+    },
+    {
+      "id": "S009",
+      "speechRmsDbfs": -19.009
+    },
+    {
+      "id": "S010",
+      "speechRmsDbfs": -18.497
+    },
+    {
+      "id": "S011",
+      "speechRmsDbfs": -19.483
+    },
+    {
+      "id": "S012",
+      "speechRmsDbfs": -19.039
+    },
+    {
+      "id": "S013",
+      "speechRmsDbfs": -19.593
+    },
+    {
+      "id": "S014",
+      "speechRmsDbfs": -19.237
+    },
+    {
+      "id": "S015",
+      "speechRmsDbfs": -19.043
+    },
+    {
+      "id": "S016",
+      "speechRmsDbfs": -19.159
+    },
+    {
+      "id": "S017",
+      "speechRmsDbfs": -19.683
+    },
+    {
+      "id": "S018",
+      "speechRmsDbfs": -18.303
+    },
+    {
+      "id": "S019",
+      "speechRmsDbfs": -18.716
+    },
+    {
+      "id": "S020",
+      "speechRmsDbfs": -19.091
+    },
+    {
+      "id": "S021",
+      "speechRmsDbfs": -19.268
+    },
+    {
+      "id": "S022",
+      "speechRmsDbfs": -19.322
+    },
+    {
+      "id": "S023",
+      "speechRmsDbfs": -19.489
+    },
+    {
+      "id": "S024",
+      "speechRmsDbfs": -18.487
+    },
+    {
+      "id": "S025",
+      "speechRmsDbfs": -18.483
+    },
+    {
+      "id": "S026",
+      "speechRmsDbfs": -18.575
+    },
+    {
+      "id": "S027",
+      "speechRmsDbfs": -19.012
+    },
+    {
+      "id": "S028",
+      "speechRmsDbfs": -19.629
+    },
+    {
+      "id": "S029",
+      "speechRmsDbfs": -19.074
+    },
+    {
+      "id": "S030",
+      "speechRmsDbfs": -18.068
+    },
+    {
+      "id": "S031",
+      "speechRmsDbfs": -20.402
+    },
+    {
+      "id": "S032",
+      "speechRmsDbfs": -17.25
+    },
+    {
+      "id": "S033",
+      "speechRmsDbfs": -18.39
+    },
+    {
+      "id": "S034",
+      "speechRmsDbfs": -18.891
+    },
+    {
+      "id": "S035",
+      "speechRmsDbfs": -18.328
+    },
+    {
+      "id": "S036",
+      "speechRmsDbfs": -19.461
+    },
+    {
+      "id": "S037",
+      "speechRmsDbfs": -19.279
+    },
+    {
+      "id": "S038",
+      "speechRmsDbfs": -18.882
+    },
+    {
+      "id": "S039",
+      "speechRmsDbfs": -20.132
+    },
+    {
+      "id": "S040",
+      "speechRmsDbfs": -18.9
+    },
+    {
+      "id": "S041",
+      "speechRmsDbfs": -18.842
+    },
+    {
+      "id": "S042",
+      "speechRmsDbfs": -19.028
+    },
+    {
+      "id": "S043",
+      "speechRmsDbfs": -20.041
+    },
+    {
+      "id": "S044",
+      "speechRmsDbfs": -18.337
+    },
+    {
+      "id": "S045",
+      "speechRmsDbfs": -19.394
+    },
+    {
+      "id": "S046",
+      "speechRmsDbfs": -19.711
+    },
+    {
+      "id": "S047",
+      "speechRmsDbfs": -19.252
+    },
+    {
+      "id": "S048",
+      "speechRmsDbfs": -19.863
+    }
+  ],
+  "countdownTicks": [
+    {
+      "id": "C02-draw-tick-6",
+      "rmsDbfs": -15.804,
+      "peakDbfs": -4.229
+    },
+    {
+      "id": "C02-draw-tick-5",
+      "rmsDbfs": -18.388,
+      "peakDbfs": -7.979
+    },
+    {
+      "id": "C02-draw-tick-4",
+      "rmsDbfs": -26.226,
+      "peakDbfs": -13.435
+    },
+    {
+      "id": "C02-draw-tick-3",
+      "rmsDbfs": -26.236,
+      "peakDbfs": -13.407
+    },
+    {
+      "id": "C02-draw-tick-2",
+      "rmsDbfs": -26.213,
+      "peakDbfs": -13.273
+    },
+    {
+      "id": "C02-draw-tick-1",
+      "rmsDbfs": -26.224,
+      "peakDbfs": -13.556
+    },
+    {
+      "id": "C03-draw-tick-6",
+      "rmsDbfs": -15.969,
+      "peakDbfs": -2.932
+    },
+    {
+      "id": "C03-draw-tick-5",
+      "rmsDbfs": -16.562,
+      "peakDbfs": -3.421
+    },
+    {
+      "id": "C03-draw-tick-4",
+      "rmsDbfs": -26.212,
+      "peakDbfs": -13.274
+    },
+    {
+      "id": "C03-draw-tick-3",
+      "rmsDbfs": -26.227,
+      "peakDbfs": -13.475
+    },
+    {
+      "id": "C03-draw-tick-2",
+      "rmsDbfs": -26.216,
+      "peakDbfs": -13.502
+    },
+    {
+      "id": "C03-draw-tick-1",
+      "rmsDbfs": -26.217,
+      "peakDbfs": -13.501
+    },
+    {
+      "id": "C04-draw-tick-6",
+      "rmsDbfs": -19.271,
+      "peakDbfs": -7.34
+    },
+    {
+      "id": "C04-draw-tick-5",
+      "rmsDbfs": -18.165,
+      "peakDbfs": -6.316
+    },
+    {
+      "id": "C04-draw-tick-4",
+      "rmsDbfs": -26.217,
+      "peakDbfs": -13.233
+    },
+    {
+      "id": "C04-draw-tick-3",
+      "rmsDbfs": -26.225,
+      "peakDbfs": -13.424
+    },
+    {
+      "id": "C04-draw-tick-2",
+      "rmsDbfs": -26.214,
+      "peakDbfs": -13.178
+    },
+    {
+      "id": "C04-draw-tick-1",
+      "rmsDbfs": -26.227,
+      "peakDbfs": -13.545
+    },
+    {
+      "id": "C05-draw-tick-6",
+      "rmsDbfs": -16.086,
+      "peakDbfs": -5.359
+    },
+    {
+      "id": "C05-draw-tick-5",
+      "rmsDbfs": -19.505,
+      "peakDbfs": -7.122
+    },
+    {
+      "id": "C05-draw-tick-4",
+      "rmsDbfs": -26.227,
+      "peakDbfs": -13.503
+    },
+    {
+      "id": "C05-draw-tick-3",
+      "rmsDbfs": -26.212,
+      "peakDbfs": -13.448
+    },
+    {
+      "id": "C05-draw-tick-2",
+      "rmsDbfs": -26.232,
+      "peakDbfs": -13.383
+    },
+    {
+      "id": "C05-draw-tick-1",
+      "rmsDbfs": -26.212,
+      "peakDbfs": -13.533
+    },
+    {
+      "id": "C06-tick-4",
+      "rmsDbfs": -23.143,
+      "peakDbfs": -10.396
+    },
+    {
+      "id": "C06-tick-3",
+      "rmsDbfs": -23.153,
+      "peakDbfs": -10.472
+    },
+    {
+      "id": "C06-tick-2",
+      "rmsDbfs": -23.149,
+      "peakDbfs": -10.461
+    },
+    {
+      "id": "C06-tick-1",
+      "rmsDbfs": -23.163,
+      "peakDbfs": -10.505
+    },
+    {
+      "id": "C07-draw-tick-6",
+      "rmsDbfs": -19.819,
+      "peakDbfs": -7.508
+    },
+    {
+      "id": "C07-draw-tick-5",
+      "rmsDbfs": -16.025,
+      "peakDbfs": -6.333
+    },
+    {
+      "id": "C07-draw-tick-4",
+      "rmsDbfs": -26.217,
+      "peakDbfs": -13.095
+    },
+    {
+      "id": "C07-draw-tick-3",
+      "rmsDbfs": -26.228,
+      "peakDbfs": -13.615
+    },
+    {
+      "id": "C07-draw-tick-2",
+      "rmsDbfs": -26.23,
+      "peakDbfs": -13.524
+    },
+    {
+      "id": "C07-draw-tick-1",
+      "rmsDbfs": -26.208,
+      "peakDbfs": -13.449
+    },
+    {
+      "id": "C08-draw-tick-6",
+      "rmsDbfs": -16.976,
+      "peakDbfs": -6.852
+    },
+    {
+      "id": "C08-draw-tick-5",
+      "rmsDbfs": -16.399,
+      "peakDbfs": -5.428
+    },
+    {
+      "id": "C08-draw-tick-4",
+      "rmsDbfs": -26.214,
+      "peakDbfs": -13.287
+    },
+    {
+      "id": "C08-draw-tick-3",
+      "rmsDbfs": -26.216,
+      "peakDbfs": -13.47
+    },
+    {
+      "id": "C08-draw-tick-2",
+      "rmsDbfs": -26.211,
+      "peakDbfs": -13.476
+    },
+    {
+      "id": "C08-draw-tick-1",
+      "rmsDbfs": -26.229,
+      "peakDbfs": -13.395
+    },
+    {
+      "id": "C09-draw-tick-6",
+      "rmsDbfs": -18.424,
+      "peakDbfs": -7.593
+    },
+    {
+      "id": "C09-draw-tick-5",
+      "rmsDbfs": -18.855,
+      "peakDbfs": -7.532
+    },
+    {
+      "id": "C09-draw-tick-4",
+      "rmsDbfs": -26.214,
+      "peakDbfs": -13.305
+    },
+    {
+      "id": "C09-draw-tick-3",
+      "rmsDbfs": -26.237,
+      "peakDbfs": -13.363
+    },
+    {
+      "id": "C09-draw-tick-2",
+      "rmsDbfs": -26.216,
+      "peakDbfs": -13.095
+    },
+    {
+      "id": "C09-draw-tick-1",
+      "rmsDbfs": -26.222,
+      "peakDbfs": -13.506
+    },
+    {
+      "id": "C10-draw-tick-6",
+      "rmsDbfs": -16.464,
+      "peakDbfs": -6.486
+    },
+    {
+      "id": "C10-draw-tick-5",
+      "rmsDbfs": -20.123,
+      "peakDbfs": -8.386
+    },
+    {
+      "id": "C10-draw-tick-4",
+      "rmsDbfs": -26.219,
+      "peakDbfs": -13.502
+    },
+    {
+      "id": "C10-draw-tick-3",
+      "rmsDbfs": -26.223,
+      "peakDbfs": -13.598
+    },
+    {
+      "id": "C10-draw-tick-2",
+      "rmsDbfs": -26.211,
+      "peakDbfs": -13.419
+    },
+    {
+      "id": "C10-draw-tick-1",
+      "rmsDbfs": -26.219,
+      "peakDbfs": -13.345
+    },
+    {
+      "id": "C11-tick-4",
+      "rmsDbfs": -23.153,
+      "peakDbfs": -10.409
+    },
+    {
+      "id": "C11-tick-3",
+      "rmsDbfs": -23.152,
+      "peakDbfs": -10.412
+    },
+    {
+      "id": "C11-tick-2",
+      "rmsDbfs": -23.158,
+      "peakDbfs": -10.403
+    },
+    {
+      "id": "C11-tick-1",
+      "rmsDbfs": -23.152,
+      "peakDbfs": -10.46
+    },
+    {
+      "id": "C12-draw-tick-6",
+      "rmsDbfs": -18.743,
+      "peakDbfs": -7.634
+    },
+    {
+      "id": "C12-draw-tick-5",
+      "rmsDbfs": -19.419,
+      "peakDbfs": -7.562
+    },
+    {
+      "id": "C12-draw-tick-4",
+      "rmsDbfs": -26.215,
+      "peakDbfs": -13.506
+    },
+    {
+      "id": "C12-draw-tick-3",
+      "rmsDbfs": -26.224,
+      "peakDbfs": -13.565
+    },
+    {
+      "id": "C12-draw-tick-2",
+      "rmsDbfs": -26.222,
+      "peakDbfs": -13.393
+    },
+    {
+      "id": "C12-draw-tick-1",
+      "rmsDbfs": -26.227,
+      "peakDbfs": -13.473
+    },
+    {
+      "id": "C13-draw-tick-6",
+      "rmsDbfs": -14.791,
+      "peakDbfs": -4.863
+    },
+    {
+      "id": "C13-draw-tick-5",
+      "rmsDbfs": -17.724,
+      "peakDbfs": -6.289
+    },
+    {
+      "id": "C13-draw-tick-4",
+      "rmsDbfs": -26.22,
+      "peakDbfs": -13.292
+    },
+    {
+      "id": "C13-draw-tick-3",
+      "rmsDbfs": -26.241,
+      "peakDbfs": -13.449
+    },
+    {
+      "id": "C13-draw-tick-2",
+      "rmsDbfs": -26.208,
+      "peakDbfs": -13.492
+    },
+    {
+      "id": "C13-draw-tick-1",
+      "rmsDbfs": -26.228,
+      "peakDbfs": -13.415
+    },
+    {
+      "id": "C14-draw-tick-6",
+      "rmsDbfs": -19.946,
+      "peakDbfs": -9.877
+    },
+    {
+      "id": "C14-draw-tick-5",
+      "rmsDbfs": -18.021,
+      "peakDbfs": -5.761
+    },
+    {
+      "id": "C14-draw-tick-4",
+      "rmsDbfs": -26.217,
+      "peakDbfs": -13.289
+    },
+    {
+      "id": "C14-draw-tick-3",
+      "rmsDbfs": -26.222,
+      "peakDbfs": -13.448
+    },
+    {
+      "id": "C14-draw-tick-2",
+      "rmsDbfs": -26.219,
+      "peakDbfs": -13.157
+    },
+    {
+      "id": "C14-draw-tick-1",
+      "rmsDbfs": -26.23,
+      "peakDbfs": -13.563
+    },
+    {
+      "id": "C15-draw-tick-6",
+      "rmsDbfs": -16.989,
+      "peakDbfs": -3.431
+    },
+    {
+      "id": "C15-draw-tick-5",
+      "rmsDbfs": -22.152,
+      "peakDbfs": -9.879
+    },
+    {
+      "id": "C15-draw-tick-4",
+      "rmsDbfs": -26.215,
+      "peakDbfs": -13.484
+    },
+    {
+      "id": "C15-draw-tick-3",
+      "rmsDbfs": -26.223,
+      "peakDbfs": -13.555
+    },
+    {
+      "id": "C15-draw-tick-2",
+      "rmsDbfs": -26.212,
+      "peakDbfs": -13.361
+    },
+    {
+      "id": "C15-draw-tick-1",
+      "rmsDbfs": -26.219,
+      "peakDbfs": -13.494
+    },
+    {
+      "id": "C16-tick-4",
+      "rmsDbfs": -23.163,
+      "peakDbfs": -10.469
+    },
+    {
+      "id": "C16-tick-3",
+      "rmsDbfs": -23.15,
+      "peakDbfs": -10.497
+    },
+    {
+      "id": "C16-tick-2",
+      "rmsDbfs": -23.159,
+      "peakDbfs": -10.432
+    },
+    {
+      "id": "C16-tick-1",
+      "rmsDbfs": -23.152,
+      "peakDbfs": -10.453
+    }
+  ],
+  "quietestTickRmsDbfs": -26.241,
+  "isolatedQuizTicks": [
+    {
+      "id": "C06-tick-4",
+      "tickRmsDbfs": -23.143,
+      "musicGapRmsDbfs": -55.556,
+      "aboveMusicDb": 32.413
+    },
+    {
+      "id": "C06-tick-3",
+      "tickRmsDbfs": -23.153,
+      "musicGapRmsDbfs": -56.666,
+      "aboveMusicDb": 33.513
+    },
+    {
+      "id": "C06-tick-2",
+      "tickRmsDbfs": -23.149,
+      "musicGapRmsDbfs": -54.164,
+      "aboveMusicDb": 31.015
+    },
+    {
+      "id": "C06-tick-1",
+      "tickRmsDbfs": -23.163,
+      "musicGapRmsDbfs": -61.54,
+      "aboveMusicDb": 38.377
+    },
+    {
+      "id": "C11-tick-4",
+      "tickRmsDbfs": -23.153,
+      "musicGapRmsDbfs": -53.679,
+      "aboveMusicDb": 30.526
+    },
+    {
+      "id": "C11-tick-3",
+      "tickRmsDbfs": -23.152,
+      "musicGapRmsDbfs": -57.877,
+      "aboveMusicDb": 34.725
+    },
+    {
+      "id": "C11-tick-2",
+      "tickRmsDbfs": -23.158,
+      "musicGapRmsDbfs": -56.033,
+      "aboveMusicDb": 32.875
+    },
+    {
+      "id": "C11-tick-1",
+      "tickRmsDbfs": -23.152,
+      "musicGapRmsDbfs": -54.148,
+      "aboveMusicDb": 30.996
+    },
+    {
+      "id": "C16-tick-4",
+      "tickRmsDbfs": -23.163,
+      "musicGapRmsDbfs": -59.473,
+      "aboveMusicDb": 36.31
+    },
+    {
+      "id": "C16-tick-3",
+      "tickRmsDbfs": -23.15,
+      "musicGapRmsDbfs": -65.353,
+      "aboveMusicDb": 42.203
+    },
+    {
+      "id": "C16-tick-2",
+      "tickRmsDbfs": -23.159,
+      "musicGapRmsDbfs": -56.919,
+      "aboveMusicDb": 33.76
+    },
+    {
+      "id": "C16-tick-1",
+      "tickRmsDbfs": -23.152,
+      "musicGapRmsDbfs": -57.768,
+      "aboveMusicDb": 34.616
+    }
+  ],
+  "minimumQuizTickAboveMusicDb": 30.526,
+  "limitation": "Waveform checks are not subjective listening; human playback review remains required before publishing."
+}

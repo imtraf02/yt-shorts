@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "slug": "savings-paradox-excerpt",
+  "settings": {
+    "format": "long",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice": "Trúc Ly",
+    "sampleRate": 48000,
+    "style": "Vox-style anime 2D",
+    "backgroundMusic": false
+  },
+  "blockers": [
+    {
+      "stage": "images",
+      "reason": "usage_limit_reached",
+      "retryAfter": "2026-10-01T12:30:24+07:00",
+      "observedAt": "2026-09-30T19:40:42.0109063+07:00",
+      "detail": "Image generation quota was already exhausted by the same built-in service during the preceding production run; no redundant request was sent."
+    }
+  ],
+  "stages": {
+    "script": {
+      "inputs": [
+        "productions/savings-paradox-excerpt/brief.md"
+      ],
+      "outputs": [
+        "productions/savings-paradox-excerpt/script.md",
+        "productions/savings-paradox-excerpt/narration.txt",
+        "productions/savings-paradox-excerpt/sources.md"
+      ],
+      "checkpoint": null
+    },
+    "storyboard": {
+      "inputs": [
+        "productions/savings-paradox-excerpt/script.md"
+      ],
+      "outputs": [
+        "productions/savings-paradox-excerpt/storyboard.json"
+      ],
+      "checkpoint": null
+    },
+    "images": {
+      "inputs": [
+        "productions/savings-paradox-excerpt/storyboard.json"
+      ],
+      "outputs": [],
+      "checkpoint": null
+    },
+    "audio": {
+      "inputs": [
+        "productions/savings-paradox-excerpt/narration.txt",
+        "scripts/generate_tts_sentences.py"
+      ],
+      "outputs": [
+        "public/audio/savings-paradox-excerpt/sentences_manifest.json"
+      ],
+      "checkpoint": null
+    },
+    "captions": {
+      "inputs": [
+        "public/audio/savings-paradox-excerpt/sentences_manifest.json",
+        "productions/savings-paradox-excerpt/narration.txt"
+      ],
+      "outputs": [
+        "src/data/savings-paradox-excerpt/captions.json"
+      ],
+      "checkpoint": null
+    },
+    "composition": {
+      "inputs": [
+        "productions/savings-paradox-excerpt/storyboard.json"
+      ],
+      "outputs": [],
+      "checkpoint": null
+    },
+    "qa": {
+      "inputs": [],
+      "outputs": [
+        "productions/savings-paradox-excerpt/qa.md"
+      ],
+      "checkpoint": null
+    },
+    "render": {
+      "inputs": [
+        "productions/savings-paradox-excerpt/qa.md"
+      ],
+      "outputs": [
+        "out/savings-paradox-excerpt/savings-paradox-excerpt.mp4"
+      ],
+      "checkpoint": null
+    }
+  }
+}

@@ -1,0 +1,1026 @@
+{
+  "part1": [
+    {
+      "textVn": "Có một loại thuốc mà tổ tiên của nó bắt nguồn từ...",
+      "textEn": ""
+    },
+    {
+      "textVn": "một con bò.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không phải bò biết bào chế thuốc.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng một bác sĩ nông thôn đã",
+      "textEn": ""
+    },
+    {
+      "textVn": "để ý thấy một điều lạ ở những người vắt sữa bò.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Từ chi tiết nhỏ đó, con người bắt đầu cuộc chạm trán",
+      "textEn": ""
+    },
+    {
+      "textVn": "với một trong những căn bệnh giết nhiều người nhất lịch sử.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hôm nay mình sẽ kể câu chuyện đó,",
+      "textEn": ""
+    },
+    {
+      "textVn": "từ những thầy lang thời xưa đến phòng thí nghiệm của Pasteur,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và mình sẽ dẫn theo hai người bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đây là Bin, cậu bé thích đi xuyên thời gian,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và lần này cậu ấy chọn đúng chuyến tàu về quá khứ xóc nhất.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Còn đây là Bạch, một bạch cầu nhỏ, lính gác của cơ thể bạn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạch làm việc hai mươi bốn giờ một ngày,",
+      "textEn": ""
+    },
+    {
+      "textVn": "không lương, không ngày nghỉ, và không bao giờ than phiền.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lưu ý nhỏ: video này chỉ mang tính giáo dục và kể chuyện lịch sử.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Quyết định về sức khỏe của bạn, hãy hỏi nhân viên y tế nhé.",
+      "textEn": ""
+    }
+  ],
+  "part2": [
+    {
+      "textVn": "Trước khi có vacxin, có một kẻ thù",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà nhiều nền văn minh đều biết: bệnh đậu mùa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó lây qua đường hô hấp,",
+      "textEn": ""
+    },
+    {
+      "textVn": "gây sốt cao và nổi những mụn nước khắp cơ thể.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong nhiều đợt dịch, ước tính khoảng ba trong mười người mắc bệnh không qua khỏi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Người sống sót thường mang sẹo trên mặt, và một số người bị mù.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Một số nhà nghiên cứu cho rằng dấu vết",
+      "textEn": ""
+    },
+    {
+      "textVn": "của bệnh đã có từ hơn ba nghìn năm trước,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ngay trên xác ướp của một pharaoh Ai Cập.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đến thế kỷ mười tám, ở châu Âu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đậu mùa ước tính giết hàng trăm nghìn người mỗi năm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi người châu Âu đặt chân đến châu Mỹ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "họ mang theo cả đậu mùa và nhiều bệnh khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Những cộng đồng bản địa chưa từng tiếp xúc",
+      "textEn": ""
+    },
+    {
+      "textVn": "với chúng đã chịu những tổn thất khủng khiếp.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đậu mùa không phân biệt giàu nghèo.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vua chúa cũng chết vì nó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ở nhiều nơi ở châu Á,",
+      "textEn": ""
+    },
+    {
+      "textVn": "người ta thậm chí lập miếu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thờ cúng một vị thần bảo hộ trẻ nhỏ khỏi đậu mùa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi khoa học chưa có câu trả lời, con người cầu xin những gì họ có.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chỉ có một điểm sáng: ai đã mắc",
+      "textEn": ""
+    },
+    {
+      "textVn": "và sống sót thì gần như không bao giờ mắc lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Con người để ý điều đó từ rất sớm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và nếu ai từng bị rồi thì không bị nữa...",
+      "textEn": ""
+    },
+    {
+      "textVn": "thì tại sao không thử bị một cách nhẹ nhàng?",
+      "textEn": ""
+    }
+  ],
+  "part3": [
+    {
+      "textVn": "Và đó chính xác là điều người xưa đã làm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Họ gọi là cấy đậu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ý tưởng là lấy một chút mủ",
+      "textEn": ""
+    },
+    {
+      "textVn": "hoặc vảy từ người mắc đậu mùa thể nhẹ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cho người khỏe mạnh tiếp xúc,",
+      "textEn": ""
+    },
+    {
+      "textVn": "để họ bị bệnh nhẹ và có miễn dịch về sau.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ở Trung Quốc, có nơi người ta thổi bột vảy đậu khô vào mũi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ở Ấn Độ và Trung Đông, người ta rạch nhẹ da rồi đưa chất đó vào.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghe thì đáng sợ, và đúng là có rủi ro.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Một phần nhỏ người được cấy vẫn chết,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và họ còn có thể lây bệnh cho người khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng so với nguy cơ chết",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi mắc đậu mùa tự nhiên,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhiều gia đình vẫn chấp nhận đánh cược.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Câu chuyện đưa cách này sang châu Âu có",
+      "textEn": ""
+    },
+    {
+      "textVn": "một nhân vật rất đáng nhớ: bà Mary Wortley Montagu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bà từng mắc đậu mùa và sống sót,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhưng gương mặt đầy sẹo, và em trai bà đã mất vì căn bệnh này.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi theo chồng, một đại sứ Anh,",
+      "textEn": ""
+    },
+    {
+      "textVn": "sang Constantinople, bà thấy người Ottoman cấy đậu như một việc bình thường của làng xóm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bà cho con trai mình được cấy đậu ở đó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Rồi khi về Anh, bà cho con gái cấy đậu ngay trước mặt các bác sĩ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Các bác sĩ khi ấy nhìn bà như nhìn một",
+      "textEn": ""
+    },
+    {
+      "textVn": "người vừa mang một món hàng lạ từ chợ về.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Để thuyết phục công chúng, các bác sĩ thử",
+      "textEn": ""
+    },
+    {
+      "textVn": "trên sáu tù nhân tử tội ở nhà tù Newgate,",
+      "textEn": ""
+    },
+    {
+      "textVn": "được hứa tha nếu sống sót.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cả sáu người đều qua khỏi, và người ta bắt đầu lắng nghe hơn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cùng thời, ở Boston, một người đàn ông bị bắt làm nô lệ tên",
+      "textEn": ""
+    },
+    {
+      "textVn": "là Onesimus đã kể cho mục sư Cotton Mather nghe về cách cấy đậu",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà ông biết từ quê hương ở châu Phi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong đợt dịch năm một nghìn bảy trăm hai mươi mốt,",
+      "textEn": ""
+    },
+    {
+      "textVn": "bác sĩ Zabdiel Boylston đã cấy đậu cho hàng trăm người dân Boston.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ông ghi chép rất kỹ, và số liệu cho thấy tỷ lệ tử vong",
+      "textEn": ""
+    },
+    {
+      "textVn": "ở người được cấy thấp hơn nhiều so với người mắc bệnh tự nhiên.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhiều khi khoa học bắt đầu bằng một việc rất giản dị:",
+      "textEn": ""
+    },
+    {
+      "textVn": "có người chịu ghi chép lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cấy đậu cứu được nhiều người, nhưng vẫn là một canh bạc.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thế giới cần một cách an toàn hơn.",
+      "textEn": ""
+    }
+  ],
+  "part4": [
+    {
+      "textVn": "Cách an toàn hơn đến từ một bác sĩ nông thôn ở Gloucestershire,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nước Anh, tên là Edward Jenner.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Jenner lớn lên giữa đồng quê, nơi người ta truyền tai nhau một câu chuyện lạ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Những cô gái vắt sữa, sau",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi nhiễm bệnh đậu bò, một bệnh nhẹ hơn nhiều,",
+      "textEn": ""
+    },
+    {
+      "textVn": "dường như không bao giờ bị đậu mùa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và không chỉ Jenner để ý chuyện này.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Một nông dân tên Benjamin Jesty đã tự cho vợ con mình",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhiễm đậu bò từ hơn hai mươi năm trước Jenner, khi có dịch.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng Jenner là người muốn chứng minh chuyện đó cho ra ngô ra khoai.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ngày mười bốn tháng năm năm một nghìn bảy trăm chín mươi sáu,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ông lấy chất từ vết mụn đậu bò trên",
+      "textEn": ""
+    },
+    {
+      "textVn": "tay một cô gái vắt sữa tên Sarah Nelmes.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Rồi ông đưa chất ấy vào cánh tay của James Phipps,",
+      "textEn": ""
+    },
+    {
+      "textVn": "một cậu bé tám tuổi, con của người làm vườn nhà ông.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cậu bé sốt nhẹ, khó chịu vài ngày, rồi khỏe lại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vài tuần sau, Jenner làm điều",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà ngày nay không hội đồng đạo đức nào cho phép:",
+      "textEn": ""
+    },
+    {
+      "textVn": "ông cố tình cho cậu bé tiếp xúc với đậu mùa thật.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cậu bé không mắc bệnh.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thí nghiệm, dù đáng bàn về đạo đức, đã cho thấy điều Jenner nghĩ là đúng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Jenner gửi báo cáo cho Hội Hoàng gia.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Theo các ghi chép, ban đầu họ khuyên ông thu thập thêm bằng chứng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Jenner không nản.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ông làm thêm, tự xuất bản năm một nghìn bảy trăm chín mươi tám,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và chữ vacxin bắt nguồn từ chữ Latin vacca, nghĩa là con bò.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghĩa là mỗi lần bạn nói \"đi tiêm vacxin\", bạn đang nhắc đến một con bò.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Con bò đó chắc chắn không hề hay biết.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Jenner còn dựng một túp lều nhỏ trong vườn nhà,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đặt cho nó cái tên đầy tự hào là \"Đền thờ Vaccinia\",",
+      "textEn": ""
+    },
+    {
+      "textVn": "và tiêm cho người nghèo miễn phí.",
+      "textEn": ""
+    }
+  ],
+  "part5": [
+    {
+      "textVn": "Tin tốt lan nhanh.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong vài năm, vacxin đậu bò được dùng ở nhiều nước châu Âu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Các bác sĩ trao đổi mẫu vacxin qua thư từ",
+      "textEn": ""
+    },
+    {
+      "textVn": "và tàu thuyền, gửi đi khắp nơi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng có một vấn đề: vacxin lúc đó cần sống.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chất đậu bò phải truyền từ người này sang người khác,",
+      "textEn": ""
+    },
+    {
+      "textVn": "từ cánh tay này sang cánh tay kia,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nếu không nó mất tác dụng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vì thế, năm một nghìn tám trăm linh ba,",
+      "textEn": ""
+    },
+    {
+      "textVn": "vua Tây Ban Nha cử một đoàn thám hiểm",
+      "textEn": ""
+    },
+    {
+      "textVn": "mang vacxin vượt Đại Tây Dương tới các thuộc địa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cách họ làm khiến ta vừa thán phục,",
+      "textEn": ""
+    },
+    {
+      "textVn": "vừa lạnh gáy: đoàn mang theo một nhóm trẻ mồ côi,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cứ vài ngày lại cấy vacxin cho một cậu bé mới,",
+      "textEn": ""
+    },
+    {
+      "textVn": "để chất ấy sống suốt chuyến đi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đoàn cứu được vô số người ở châu Mỹ",
+      "textEn": ""
+    },
+    {
+      "textVn": "và cả Philippines, nhưng cái giá đạo đức thì",
+      "textEn": ""
+    },
+    {
+      "textVn": "đến nay vẫn được các nhà sử học bàn luận.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ngay cả Napoleon, người đang đánh nhau với nước Anh,",
+      "textEn": ""
+    },
+    {
+      "textVn": "theo nhiều nguồn cũng cho tiêm cho quân đội của mình,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và còn cho đúc huy chương vinh danh Jenner.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trong lúc đó, không phải ai cũng hoan hô.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có người lo rằng tiêm chất từ bò sẽ biến con người thành...",
+      "textEn": ""
+    },
+    {
+      "textVn": "một nửa con bò.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm một nghìn tám trăm linh hai,",
+      "textEn": ""
+    },
+    {
+      "textVn": "một họa sĩ biếm họa nổi tiếng vẽ cảnh người ta mọc sừng bò",
+      "textEn": ""
+    },
+    {
+      "textVn": "và đầu bò ngay sau khi tiêm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tất nhiên, không ai thực sự mọc sừng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng mối lo về một thứ mới,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thứ lạ, thứ được tiêm vào cơ thể mình,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thì có từ ngày đầu tiên",
+      "textEn": ""
+    },
+    {
+      "textVn": "và vẫn còn đến hôm nay.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Điều đáng nói là những lo lắng đó không đáng bị cười nhạo.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đó là phản ứng rất người trước một thứ chưa hiểu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cách đáp lại tốt nhất là kiên nhẫn giải thích và đưa ra bằng chứng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi chính phủ Anh bắt buộc tiêm đậu bò",
+      "textEn": ""
+    },
+    {
+      "textVn": "vào năm một nghìn tám trăm năm mươi ba,",
+      "textEn": ""
+    },
+    {
+      "textVn": "các cuộc phản đối nổ ra.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Người dân lo về an toàn, và lo cả về quyền tự do cá nhân.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cuộc tranh luận giữa tự do cá nhân",
+      "textEn": ""
+    },
+    {
+      "textVn": "và lợi ích cộng đồng, hóa ra,",
+      "textEn": ""
+    },
+    {
+      "textVn": "có từ thế kỷ mười chín.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và bằng chứng dần chiếm ưu thế.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Số ca đậu mùa ở những nơi tiêm chủng giảm rõ rệt.",
+      "textEn": ""
+    }
+  ],
+  "part6": [
+    {
+      "textVn": "Hơn tám mươi năm sau Jenner,",
+      "textEn": ""
+    },
+    {
+      "textVn": "một nhà hóa học người Pháp bước vào câu chuyện: Louis Pasteur.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Pasteur đã chứng minh rằng nhiều bệnh do vi sinh vật gây ra,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhưng ông vẫn chưa biết cách phòng chúng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Rồi vào năm một nghìn tám trăm bảy mươi chín,",
+      "textEn": ""
+    },
+    {
+      "textVn": "nhờ một sự tình cờ, ông tìm ra một bước ngoặt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ông đang nghiên cứu bệnh tả gà.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Trước kỳ nghỉ hè, ông để quên mẫu vi khuẩn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi trở lại, vi khuẩn đã yếu đi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Khi ông tiêm cho gà, chúng chỉ bị bệnh nhẹ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và điều bất ngờ: những con gà đó không ngã bệnh",
+      "textEn": ""
+    },
+    {
+      "textVn": "khi được tiêm loại vi khuẩn mạnh sau đó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ông nhận ra một nguyên lý rất đẹp:",
+      "textEn": ""
+    },
+    {
+      "textVn": "nếu làm yếu mầm bệnh, ta có thể luyện cho cơ thể nhận diện nó,",
+      "textEn": ""
+    },
+    {
+      "textVn": "mà không bị nó đánh gục.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cách Bạch, lính gác nhỏ của chúng ta, vẫn làm mỗi ngày.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cơ thể có trí nhớ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Lần đầu gặp mầm bệnh lạ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bạch và đồng đội phải mất vài ngày mới nhận diện và đánh trả.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng lần sau, họ nhớ mặt kẻ thù, và ra tay nhanh hơn nhiều.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Chính Pasteur từng nói một câu nổi tiếng,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đại ý: trong lĩnh vực quan sát,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cơ hội chỉ đến với những người có sự chuẩn bị.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Con gà tình cờ ấy không phải may mắn thuần túy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ông đã chuẩn bị nhiều năm để hiểu ý nghĩa của nó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Pasteur gọi quá trình đó bằng một cái tên dành",
+      "textEn": ""
+    },
+    {
+      "textVn": "để kính trọng Jenner: vacxin, mở rộng chữ này cho mọi cách phòng bệnh tương tự.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm một nghìn tám trăm tám mươi mốt,",
+      "textEn": ""
+    },
+    {
+      "textVn": "ông làm một cuộc thử nghiệm công khai với bệnh than ở cừu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Những con được tiêm vacxin thì khỏe, những con không được tiêm thì ngã bệnh.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đám đông xem, và có lẽ vài người đã quên cả nghi ngờ.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Pasteur cũng không hoàn hảo.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Các nhà sử học về sau phát hiện ông không",
+      "textEn": ""
+    },
+    {
+      "textVn": "công bố hết mọi chi tiết trong ghi chép của mình,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và cuộc tranh luận về chuyện đó vẫn còn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhà khoa học cũng là con người.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nhưng thử nghiệm nổi tiếng nhất của Pasteur là với bệnh dại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bệnh dại khi ấy gần như là án tử.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Bị chó dại cắn, thường không ai qua khỏi.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm một nghìn tám trăm tám mươi lăm,",
+      "textEn": ""
+    },
+    {
+      "textVn": "một bà mẹ dẫn đứa con trai chín tuổi tên Joseph Meister đến gặp Pasteur,",
+      "textEn": ""
+    },
+    {
+      "textVn": "sau khi cậu bé bị chó dại cắn nặng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Pasteur không phải bác sĩ, nên ông hỏi ý kiến",
+      "textEn": ""
+    },
+    {
+      "textVn": "các đồng nghiệp là bác sĩ, rồi mới quyết định.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nếu không làm gì, cậu bé gần như chắc chắn sẽ chết.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ông tiêm cho cậu bé một chuỗi mũi vacxin trong nhiều ngày.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cậu bé không phát bệnh.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cậu bé Joseph sống sót, lớn lên,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và sau này làm người gác cổng chính Viện Pasteur.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Từ chuyện đó, một thế giới mới mở ra.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nếu mầm bệnh yếu đi có thể dạy cho cơ thể nhận diện,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thì có thể làm điều đó với nhiều bệnh khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và các nhà khoa học đã làm đúng như vậy, hết bệnh này đến bệnh khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có một điều thú vị trong cả câu chuyện:",
+      "textEn": ""
+    },
+    {
+      "textVn": "người tìm ra vacxin đầu tiên không hiểu cơ chế của nó.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Jenner không biết virus là gì.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thời của ông, còn chưa ai nhìn thấy virus.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nghĩa là ông đã cứu người nhờ quan sát",
+      "textEn": ""
+    },
+    {
+      "textVn": "và kiên trì, trước khi khoa học kịp giải thích vì sao.",
+      "textEn": ""
+    }
+  ],
+  "part7": [
+    {
+      "textVn": "Từ những mũi tiêm đầu tiên ấy, vacxin đã đi rất xa.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thế kỷ hai mươi chứng kiến vacxin phòng nhiều bệnh nguy hiểm:",
+      "textEn": ""
+    },
+    {
+      "textVn": "bạch hầu, ho gà, uốn ván, sởi, bại liệt.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Ở Việt Nam, nhiều thế hệ còn nhớ tấm sổ tiêm chủng cũ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "và những buổi sáng dắt con đến trạm y tế đầu xóm.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và đậu mùa, căn bệnh từng giết hàng trăm triệu người,",
+      "textEn": ""
+    },
+    {
+      "textVn": "cuối cùng đã bị đánh bại.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Năm một nghìn chín trăm tám mươi,",
+      "textEn": ""
+    },
+    {
+      "textVn": "Tổ chức Y tế Thế giới tuyên bố",
+      "textEn": ""
+    },
+    {
+      "textVn": "đậu mùa đã bị xóa sổ trên toàn cầu.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Đến nay đó vẫn là bệnh ở người duy nhất được xóa sổ hoàn toàn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Điều kỳ diệu là công cụ giúp chiến thắng,",
+      "textEn": ""
+    },
+    {
+      "textVn": "sau gần hai trăm năm, vẫn là chính ý tưởng của Jenner:",
+      "textEn": ""
+    },
+    {
+      "textVn": "cho cơ thể một buổi diễn tập.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Có một nghịch lý của vacxin: khi chúng làm việc tốt, chẳng có gì xảy ra.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Không có dịch, không có tin nóng, không có ai để ăn mừng.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Thành công của vacxin, ở mức tốt nhất, là một ngày rất bình thường.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Còn câu chuyện vacxin hôm nay,",
+      "textEn": ""
+    },
+    {
+      "textVn": "với những công nghệ mới, sẽ là một câu chuyện khác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vì sao câu chuyện này đáng kể?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Vì nó cho thấy khoa học hiếm khi bắt đầu bằng một phát minh lớn.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Nó bắt đầu bằng một câu hỏi nhỏ:",
+      "textEn": ""
+    },
+    {
+      "textVn": "sao những cô gái vắt sữa lại không bị bệnh?",
+      "textEn": ""
+    },
+    {
+      "textVn": "Rồi có người chịu để ý, chịu ghi chép, chịu thử, chịu sửa sai.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Và nhiều thế hệ những người như thế,",
+      "textEn": ""
+    },
+    {
+      "textVn": "thầy lang, bà mẹ, người bị bắt làm nô lệ,",
+      "textEn": ""
+    },
+    {
+      "textVn": "bác sĩ làng, nhà hóa học,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đã cùng nhau viết nên câu chuyện ấy.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Còn Bạch thì vẫn đứng gác.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hai mươi bốn giờ một ngày, không nghỉ.",
+      "textEn": ""
+    }
+  ],
+  "part8": [
+    {
+      "textVn": "Từ một con bò ở Anh,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đến người gác cổng Viện Pasteur,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đến tấm sổ tiêm chủng của bạn,",
+      "textEn": ""
+    },
+    {
+      "textVn": "đó là hành trình dài để loài người học cách tập luyện trước khi ra trận.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Cảm ơn bạn đã xem.",
+      "textEn": ""
+    },
+    {
+      "textVn": "Hẹn gặp lại.",
+      "textEn": ""
+    }
+  ]
+}

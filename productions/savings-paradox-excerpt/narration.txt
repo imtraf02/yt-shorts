@@ -1,0 +1,59 @@
+# Narration — savings-paradox-excerpt
+
+S105	Nếu người gửi rút tiền theo nhịp bình thường, ngân hàng có thể quản lý dòng tiền đó bằng thanh khoản và nguồn tài trợ khác.
+S106	Điều nguy hiểm là khi quá nhiều người cùng đòi tiền ngay lập tức.
+S107	Khi đó, ngân hàng có thể phải bán tài sản gấp hoặc tìm nguồn tiền khẩn cấp.
+S108	Nếu tài sản dài hạn phải bán trong lúc giá thấp, ngân hàng có thể ghi nhận thua lỗ lớn.
+S109	Đây là cơ chế cơ bản của một cuộc bank run: vấn đề nằm ở rút tiền đồng loạt, không phải gửi tiền đồng loạt.
+S110	Bảo hiểm tiền gửi tồn tại một phần để giảm động cơ hoảng loạn của người gửi nhỏ lẻ.
+S111	Tại Việt Nam, từ ngày 13 tháng 7 năm 2026, hạn mức chi trả bảo hiểm là 350 triệu đồng cho một người tại một tổ chức tham gia.
+S112	Hạn mức đó bao gồm cả tiền gốc và tiền lãi thuộc phạm vi được bảo hiểm theo quy định.
+S113	Bảo hiểm không xóa mọi rủi ro, nhưng nó là một phần của hệ thống bảo vệ niềm tin và ổn định tài chính.
+S114	Nhật Bản thường được nhắc đến khi nói về tiết kiệm, lãi suất thấp và giảm phát kéo dài.
+S115	Sau khi bong bóng tài sản vỡ đầu thập niên 1990, nền kinh tế Nhật trải qua nhiều năm tăng trưởng yếu.
+S116	Từ cuối thập niên 1990 đến đầu thập niên 2010, Nhật còn trải qua một giai đoạn giảm phát kéo dài.
+S117	Nhưng nói 'người Nhật tiết kiệm quá nhiều nên gây giảm phát' là cách kể quá đơn giản.
+S118	Nghiên cứu của Bank of Japan cho thấy tỷ lệ tiết kiệm hộ gia đình Nhật giảm mạnh trong thập niên 1990.
+S119	Một phần quan trọng của sự suy giảm đó được nghiên cứu liên hệ với thay đổi nhân khẩu học và vòng đời.
+S120	Điều này làm Nhật Bản trở thành ví dụ tốt về sự nguy hiểm của việc nhầm tương quan với nguyên nhân.
+S121	Nhật Bản còn chịu tác động của khủng hoảng bảng cân đối, nợ xấu, giá tài sản giảm và đầu tư doanh nghiệp yếu.
+S122	Dân số già hóa cũng làm thay đổi hành vi tiêu dùng, tiết kiệm và nhu cầu đầu tư theo thời gian.
+S123	Các yếu tố này tương tác với kỳ vọng lạm phát thấp và chính sách tiền tệ trong nhiều năm.
+S124	Vì thế, Nhật Bản không chứng minh rằng tiết kiệm nhiều tự động tạo ra giảm phát.
+S125	Nhật Bản chỉ cho thấy một nền kinh tế có thể mắc kẹt lâu khi cầu yếu, kỳ vọng thấp và bảng cân đối bị tổn thương.
+S126	Nó cũng cho thấy nhân khẩu học có thể làm câu chuyện tiết kiệm thay đổi rất khác so với trực giác ban đầu.
+S127	Nếu dùng Nhật Bản trong video, nên gọi đây là đối chứng về giảm phát kéo dài, không phải bằng chứng trực tiếp của nghịch lý tiết kiệm.
+S128	Đây là cách giữ câu chuyện hấp dẫn mà vẫn không biến một nền kinh tế phức tạp thành ví dụ sai.
+S129	Ở Việt Nam, gửi tiết kiệm vẫn là một kênh giữ tiền rất lớn của khu vực dân cư.
+S130	Theo số liệu được Bảo hiểm tiền gửi Việt Nam dẫn từ Ngân hàng Nhà nước, cuối tháng 7 năm 2026 tiền gửi dân cư đạt khoảng 11,22 triệu tỷ đồng.
+S131	Con số đó tăng 8,56 phần trăm so với cuối năm 2025.
+S132	Quy mô lớn không có nghĩa người Việt đang ngừng tiêu dùng hàng loạt.
+S133	Năm 2025, tổng mức bán lẻ hàng hóa và doanh thu dịch vụ tiêu dùng theo giá hiện hành vẫn tăng so với năm trước.
+S134	Vì một hộ gia đình có thể vừa gửi tiết kiệm, vừa chi tiêu từ phần thu nhập còn lại.
+S135	Quan trọng hơn, tiền gửi ngân hàng không giống khái niệm tiết kiệm quốc gia trong tài khoản quốc dân.
+S136	Một người chuyển tiền từ chứng khoán sang tiền gửi có thể làm tiền gửi tăng mà tổng tiết kiệm của nền kinh tế không đổi.
+S137	Tương tự, bán một tài sản rồi gửi số tiền thu được vào ngân hàng cũng không nhất thiết tạo ra tiết kiệm mới.
+S138	Vì vậy, không nên lấy số dư tiền gửi để suy ra trực tiếp rằng người dân đang cắt tiêu dùng bao nhiêu.
+S139	Muốn biết nền kinh tế đang tiết kiệm bao nhiêu, phải nhìn các chỉ tiêu tiết kiệm và đầu tư trong hệ thống tài khoản quốc gia.
+S140	Báo cáo IMF năm 2025 từng dự phóng tổng tiết kiệm quốc gia Việt Nam năm 2026 ở mức khoảng một phần ba GDP.
+S141	Nhưng đó là dự phóng, không phải số thực tế cuối năm 2026.
+S142	Kịch bản đáng lo chỉ xuất hiện nếu tiền gửi tăng vì các hộ đồng loạt co mạnh chi tiêu trong khi đầu tư không tăng bù.
+S143	Khi đó, bán lẻ và dịch vụ có thể chậm lại trước, rồi tác động lan sang việc làm và thu nhập.
+S144	Ngược lại, nếu ngân hàng chuyển được nguồn vốn sang doanh nghiệp hiệu quả, tiền gửi cao có thể hỗ trợ tăng trưởng thay vì bóp nghẹt nó.
+S145	Vì thế, với Việt Nam cũng phải nhìn đồng thời tiền gửi, tín dụng, đầu tư, tiêu dùng, lạm phát và chất lượng tài sản ngân hàng.
+S146	Bây giờ hãy đẩy giả định đến cực đoan: mọi hộ gia đình đều tránh cổ phiếu, vàng, bất động sản và kinh doanh trực tiếp.
+S147	Rủi ro đầu tiên với từng hộ là danh mục tài sản trở nên quá tập trung vào tiền gửi ngân hàng.
+S148	Nếu lãi suất thực thấp trong thời gian dài, sức mua của khối tài sản đó có thể tăng rất chậm hoặc giảm.
+S149	Nhưng nói các thị trường khác sẽ 'không còn vốn' cũng không chính xác.
+S150	Ngân hàng có thể mua chứng khoán, tài trợ doanh nghiệp hoặc cho người mua nhà vay, nên vốn vẫn có thể chảy gián tiếp sang các tài sản khác.
+S151	Tuy vậy, một hệ thống quá phụ thuộc vào ngân hàng sẽ đặt nhiều trách nhiệm phân bổ vốn lên khu vực ngân hàng.
+S152	Nếu ngân hàng đánh giá sai rủi ro, tín dụng có thể dồn vào những lĩnh vực kém hiệu quả dù tiền gửi rất dồi dào.
+S153	Vì vậy, đa dạng hóa không chỉ là chuyện lợi suất của cá nhân mà còn liên quan cấu trúc tài chính của cả nền kinh tế.
+S154	Một nền kinh tế khỏe thường cần cả tiết kiệm an toàn lẫn vốn chấp nhận rủi ro cho đổi mới và doanh nghiệp mới.
+S155	Nói ngắn gọn, chỉ gửi ngân hàng không làm tiền biến mất, nhưng có thể làm cách phân bổ vốn trở nên kém đa dạng hơn.
+S156	Nếu ai cũng gửi tiết kiệm, điều tốt nhất có thể xảy ra là nguồn vốn ổn định chảy mạnh vào đầu tư hiệu quả.
+S157	Điều xấu nhất là mọi người cùng đóng ví, doanh nghiệp không muốn đầu tư và dòng tiền mắc kẹt trong tâm lý phòng thủ.
+S158	Giữa hai cực đó là thế giới thật, nơi lãi suất, kỳ vọng, chính sách và cơ hội đầu tư liên tục điều chỉnh hành vi.
+S159	Vì thế, nghịch lý lớn nhất không phải 'tiết kiệm là xấu', mà là tiền tiết kiệm cần tìm được nơi sử dụng có ích.
+S160	Một đồng nằm yên bảo vệ người sở hữu; một đồng được phân bổ tốt còn có thể giúp cả nền kinh tế lớn lên.
+

@@ -1,0 +1,74 @@
+{
+  "cat": {
+    "name": "Bạn Mèo",
+    "hint": "Tai nhọn · Ria mèo",
+    "color": "#bc671b",
+    "feature": "Bạn Mèo có đôi tai nhọn và những sợi ria ở hai bên má."
+  },
+  "dog": {
+    "name": "Bạn Chó",
+    "hint": "Tai cụp · Đuôi cong",
+    "color": "#98642e",
+    "feature": "Bạn Chó trong tranh có đôi tai cụp và chiếc đuôi cong."
+  },
+  "rabbit": {
+    "name": "Bạn Thỏ",
+    "hint": "Tai dài · Đuôi tròn",
+    "color": "#b75e79",
+    "feature": "Bạn Thỏ có đôi tai dài và chiếc đuôi nhỏ tròn."
+  },
+  "duck": {
+    "name": "Bạn Vịt",
+    "hint": "Mỏ rộng · Chân có màng",
+    "color": "#b87819",
+    "feature": "Bạn Vịt có chiếc mỏ rộng và bàn chân có màng để bơi."
+  },
+  "cow": {
+    "name": "Bạn Bò",
+    "hint": "Đốm đen trắng · Đuôi dài",
+    "color": "#6b665e",
+    "feature": "Bạn Bò trong tranh có những đốm đen trắng và chiếc đuôi dài."
+  },
+  "pig": {
+    "name": "Bạn Lợn",
+    "hint": "Mũi tròn · Đuôi xoăn",
+    "color": "#b75e79",
+    "feature": "Bạn Lợn có chiếc mũi tròn và chiếc đuôi xoăn xinh xắn."
+  },
+  "goat": {
+    "name": "Bạn Dê",
+    "hint": "Sừng cong · Râu nhỏ",
+    "color": "#98642e",
+    "feature": "Bạn Dê trong tranh có đôi sừng cong và chòm râu nhỏ."
+  },
+  "hen": {
+    "name": "Bạn Gà mái",
+    "hint": "Mào đỏ · Đôi cánh",
+    "color": "#bc671b",
+    "feature": "Bạn Gà mái trong tranh có chiếc mào đỏ và đôi cánh."
+  },
+  "elephant": {
+    "name": "Bạn Voi",
+    "hint": "Vòi dài · Tai to",
+    "color": "#627f87",
+    "feature": "Bạn Voi có chiếc vòi dài và đôi tai to."
+  },
+  "giraffe": {
+    "name": "Bạn Hươu cao cổ",
+    "hint": "Cổ dài · Đốm nâu",
+    "color": "#98642e",
+    "feature": "Bạn Hươu cao cổ có chiếc cổ dài và những đốm nâu trên mình."
+  },
+  "tortoise": {
+    "name": "Bạn Rùa",
+    "hint": "Chiếc mai · Bốn chân",
+    "color": "#68783e",
+    "feature": "Bạn Rùa trong tranh có chiếc mai trên lưng và bốn chân."
+  },
+  "goldfish": {
+    "name": "Bạn Cá vàng",
+    "hint": "Đôi vây · Đuôi mềm",
+    "color": "#bc671b",
+    "feature": "Bạn Cá vàng có những chiếc vây và chiếc đuôi mềm để bơi."
+  }
+}

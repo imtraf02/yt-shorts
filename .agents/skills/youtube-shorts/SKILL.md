@@ -29,6 +29,7 @@ Comprehensive rules and workflows for generating vertical YouTube Shorts (9:16) 
    - Keyword highlights: Contrasting yellow (`#FACC15`) or cyan (`#38BDF8`).
    - Regular words: White with thick black stroke (`WebkitTextStroke: "10px #000000"`, `paintOrder: "stroke fill"`).
 6. **Housekeeping (Cleanup)**:
+   - **IMMEDIATE TMP CLEANUP**: As soon as images and audio are copied/moved from `tmp/` to `public/`, IMMEDIATELY clean/delete everything inside `tmp/` (`Remove-Item -Path "tmp\*" -Recurse -Force`) so the user can prepare the next video's assets without waiting for rendering.
    - When render finishes, always clean up all preview/test images in `out/*.png`:
      `Remove-Item -Path "out\*.png" -Force`.
 
@@ -44,8 +45,15 @@ Comprehensive rules and workflows for generating vertical YouTube Shorts (9:16) 
 
 ## 3. Step-by-Step Production Pipeline
 
+0. **TTS Voiceover Generation (MANDATORY DEFAULT VOICE: `Trúc Ly`)**:
+   - Use **VieNeu-TTS** with default voice **`Trúc Ly`** (Female · Northern Vietnamese · Natural & expressive style):
+     ```powershell
+     $env:PYTHONIOENCODING="utf-8"
+     & ".\VieNeu-TTS\.venv\Scripts\python.exe" scripts\generate_tts.py --text "Kịch bản..." --out "public/audio/<name>.wav"
+     ```
+   - See [docs/TTS_GUIDE.md](file:///C:/Users/studi/Documents/Codex/2026-09-23/cl/yt-shorts/docs/TTS_GUIDE.md) for details.
 1. **Audio & Duration**:
-   - Copy TTS audio to `public/audio/<name>.wav`.
+   - Audio is saved at `public/audio/<name>.wav`.
    - Read byte rate and data size using node to get exact seconds and 30fps frame count.
 2. **16kHz Conversion**:
    - `npx.cmd remotion ffmpeg -y -i public/audio/<name>.wav -ar 16000 -ac 1 -c:a pcm_s16le temp_16k_<name>.wav`.

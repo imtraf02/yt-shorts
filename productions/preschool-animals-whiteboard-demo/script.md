@@ -1,0 +1,51 @@
+# Bé làm quen với 12 bạn động vật
+
+- S001 · C01 · welcome: Chào các bé!
+- S002 · C01 · intro: Chúng mình cùng nhìn nét vẽ và đoán tên các bạn động vật nhé!
+- S003 · C01 · rules: Vẽ xong, bé sẽ có ba giây để đoán tên bạn.
+- S004 · C02 · draw: Bé nhìn nét vẽ nhé, người bạn đầu tiên là ai nhỉ?
+- S005 · C02 · name: Đây là bạn mèo!
+- S006 · C02 · feature: Bạn Mèo có đôi tai nhọn và những sợi ria ở hai bên má.
+- S007 · C03 · draw: Một bạn mới đang xuất hiện, bé nhìn thật kỹ nhé!
+- S008 · C03 · name: Đây là bạn chó!
+- S009 · C03 · feature: Bạn Chó trong tranh có đôi tai cụp và chiếc đuôi cong.
+- S010 · C04 · draw: Chúng mình cùng khám phá người bạn tiếp theo nhé!
+- S011 · C04 · name: Đây là bạn thỏ!
+- S012 · C04 · feature: Bạn Thỏ có đôi tai dài và chiếc đuôi nhỏ tròn.
+- S013 · C05 · draw: Bé nhìn những nét vẽ này và thử đoán nhé!
+- S014 · C05 · name: Đây là bạn vịt!
+- S015 · C05 · feature: Bạn Vịt có chiếc mỏ rộng và bàn chân có màng để bơi.
+- S016 · C06 · question: Bé tìm bạn có đôi tai dài nhé!
+- S017 · C06 · answer: Đáp án là bạn thỏ!
+- S018 · C07 · draw: Bây giờ, chúng mình gặp những bạn ở nông trại nhé!
+- S019 · C07 · name: Đây là bạn bò!
+- S020 · C07 · feature: Bạn Bò trong tranh có những đốm đen trắng và chiếc đuôi dài.
+- S021 · C08 · draw: Người bạn này trông thật đáng yêu, bé đoán xem nhé!
+- S022 · C08 · name: Đây là bạn lợn!
+- S023 · C08 · feature: Bạn Lợn có chiếc mũi tròn và chiếc đuôi xoăn xinh xắn.
+- S024 · C09 · draw: Bé cùng nhìn nét vẽ để tìm người bạn mới nhé!
+- S025 · C09 · name: Đây là bạn dê!
+- S026 · C09 · feature: Bạn Dê trong tranh có đôi sừng cong và chòm râu nhỏ.
+- S027 · C10 · draw: Thêm một người bạn nữa đang xuất hiện rồi!
+- S028 · C10 · name: Đây là bạn gà mái!
+- S029 · C10 · feature: Bạn Gà mái trong tranh có chiếc mào đỏ và đôi cánh.
+- S030 · C11 · question: Bé tìm bạn có chiếc đuôi xoăn nhé!
+- S031 · C11 · answer: Đáp án là bạn lợn!
+- S032 · C12 · draw: Chúng mình cùng khám phá thêm những bạn mới nhé!
+- S033 · C12 · name: Đây là bạn voi!
+- S034 · C12 · feature: Bạn Voi có chiếc vòi dài và đôi tai to.
+- S035 · C13 · draw: Bé nhìn kỹ nhé, bạn nào đang dần hiện ra?
+- S036 · C13 · name: Đây là bạn hươu cao cổ!
+- S037 · C13 · feature: Bạn Hươu cao cổ có chiếc cổ dài và những đốm nâu trên mình.
+- S038 · C14 · draw: Mình cùng tìm người bạn tiếp theo qua nét vẽ nhé!
+- S039 · C14 · name: Đây là bạn rùa!
+- S040 · C14 · feature: Bạn Rùa trong tranh có chiếc mai trên lưng và bốn chân.
+- S041 · C15 · draw: Bé thử đoán người bạn cuối cùng nhé!
+- S042 · C15 · name: Đây là bạn cá vàng!
+- S043 · C15 · feature: Bạn Cá vàng có những chiếc vây và chiếc đuôi mềm để bơi.
+- S044 · C16 · question: Bé tìm bạn có chiếc cổ dài nhé!
+- S045 · C16 · answer: Đáp án là bạn hươu cao cổ!
+- S046 · C17 · review: Bé cùng gọi tên bạn mèo, bạn chó, bạn thỏ và bạn vịt nhé!
+- S047 · C17 · review: Bé cùng gọi tên bạn bò, bạn lợn, bạn dê và bạn gà mái nhé!
+- S048 · C17 · review: Bé cùng gọi tên bạn voi, bạn hươu cao cổ, bạn rùa và bạn cá vàng nhé!
+- S049 · C17 · bye: Bé hãy cùng người lớn gọi tên các bạn lần nữa nhé!

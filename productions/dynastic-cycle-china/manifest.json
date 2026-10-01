@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "slug": "dynastic-cycle-china",
+  "settings": {
+    "format": "long",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice": "Trúc Ly",
+    "sampleRate": 48000,
+    "style": "Vox-style anime 2D",
+    "backgroundMusic": false
+  },
+  "blockers": [
+    {
+      "stage": "images",
+      "reason": "usage_limit_reached",
+      "retryAfter": "2026-10-01T12:30:24+07:00",
+      "observedAt": "2026-09-30T18:35:41.6003613+07:00",
+      "detail": "Built-in image generation returned HTTP 429 while requesting I119; resets_at=1790832624."
+    }
+  ],
+  "stages": {
+    "script": {
+      "inputs": [
+        "productions/dynastic-cycle-china/brief.md"
+      ],
+      "outputs": [
+        "productions/dynastic-cycle-china/script.md",
+        "productions/dynastic-cycle-china/narration.txt",
+        "productions/dynastic-cycle-china/sources.md"
+      ],
+      "checkpoint": null
+    },
+    "storyboard": {
+      "inputs": [
+        "productions/dynastic-cycle-china/script.md"
+      ],
+      "outputs": [
+        "productions/dynastic-cycle-china/storyboard.json"
+      ],
+      "checkpoint": null
+    },
+    "images": {
+      "inputs": [
+        "productions/dynastic-cycle-china/storyboard.json"
+      ],
+      "outputs": [],
+      "checkpoint": null
+    },
+    "audio": {
+      "inputs": [
+        "productions/dynastic-cycle-china/narration.txt",
+        "scripts/generate_tts.py"
+      ],
+      "outputs": [
+        "public/audio/dynastic-cycle-china/narration.wav"
+      ],
+      "checkpoint": null
+    },
+    "captions": {
+      "inputs": [
+        "public/audio/dynastic-cycle-china/narration.wav",
+        "productions/dynastic-cycle-china/narration.txt"
+      ],
+      "outputs": [
+        "src/data/dynastic-cycle-china/captions.json"
+      ],
+      "checkpoint": null
+    },
+    "composition": {
+      "inputs": [
+        "productions/dynastic-cycle-china/storyboard.json"
+      ],
+      "outputs": [],
+      "checkpoint": null
+    },
+    "qa": {
+      "inputs": [],
+      "outputs": [
+        "productions/dynastic-cycle-china/qa.md"
+      ],
+      "checkpoint": null
+    },
+    "render": {
+      "inputs": [
+        "productions/dynastic-cycle-china/qa.md"
+      ],
+      "outputs": [
+        "out/dynastic-cycle-china/dynastic-cycle-china.mp4"
+      ],
+      "checkpoint": null
+    }
+  }
+}

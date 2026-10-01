@@ -1,0 +1,2698 @@
+{
+  "version": 1,
+  "slug": "world-time-documentary",
+  "format": "long",
+  "aspectRatio": "16:9",
+  "frameRate": 30,
+  "visualDirection": "Vox-style anime 2D documentary explainer. Generate individual full-frame shots, never a multi-panel contact sheet.",
+  "assets": [
+    {
+      "id": "I001",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S001"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/001.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Split-screen modern world, Vietnamese city at night, European city in late afternoon, New York-like skyline in morning light, three people checking smartphones showing different local clock positions, glowing Earth connecting all three locations with thin synchronization lines. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I002",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S001"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/002.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Earth floating in dark blue space, multiple cities around the globe illuminated at different stages of daylight, dozens of clock faces around Earth showing different hours but all connected to one glowing central timeline, elegant scientific infographic feeling. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I003",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S002"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/003.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Central glowing universal clock at the center of composition, branching outward toward several local clocks around Earth, each local clock showing different hand positions, elegant visual metaphor of one reference producing many local times. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I004",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S002"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/004.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Futuristic infographic showing one bright horizontal timeline passing through Earth, several cities connected vertically to the same instant while their wall clocks display different hours, clean educational composition. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I005",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S003"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/005.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Ancient world panorama with isolated villages, desert settlement, European medieval town and Asian farming community, no global network, each community living independently under its own sky and sun. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I006",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S003"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/006.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Old parchment world map fragmented into many regions, each region containing a separate sundial or local clock disconnected from every other region, visual metaphor for a world without common time. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I007",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S004"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/007.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Ancient village square at solar noon, vertical sundial casting its shortest shadow, villagers working and merchants looking upward at the bright midday sun, warm natural light. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I008",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S004"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/008.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Close educational view of a sundial, shadow approaching the noon line while the Sun stands high overhead, village rooftops in background, simple visual explanation of local solar noon. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I009",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S005"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/009.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Scientific infographic of rotating Earth divided into 24 longitudinal slices, sunlight illuminating one side, one 15-degree segment highlighted, arrows showing planetary rotation, clean geometry. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I010",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S005"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/010.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Close-up globe with two nearby longitude lines separated by one degree, tiny clocks beside each longitude showing four-minute difference, Sun rays coming from one side, no text except simple clock hands. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I011",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S006"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/011.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Two nineteenth-century towns shown side by side across a landscape, Sun already at highest point over eastern town while still slightly lower over western town, separate church clocks showing different times. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I012",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S006"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/012.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Top-down map with two towns on different longitudes, sweeping sunlight line crossing the eastern town first, elegant arrows illustrating local noon occurring at different moments. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I013",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S007"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/013.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Peaceful preindustrial countryside, horse-drawn carriage traveling slowly between two distant villages, traveler holding a pocket watch casually, warm pastoral atmosphere. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I014",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S007"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/014.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Old sailing boat and horse carriage moving across a stylized map at slow speed, several town clocks differing slightly, nobody concerned, calm humorous educational composition. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I015",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S008"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/015.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Dynamic transition composition: horse carriage on left fading into steam locomotive and telegraph poles racing toward the right, multiple clocks beginning to clash visually, industrial revolution energy. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I016",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S008"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/016.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Old peaceful town clocks shattered apart visually by a speeding steam train and electric telegraph signal, glowing lightning-like information lines crossing the landscape. **Nguồn kiểm chứng phần 1:** cách xác định kinh độ dựa vào chênh lệch thời gian và quan hệ 360°/24 giờ, tức 15° mỗi giờ hay khoảng bốn phút mỗi độ, được Royal Museums Greenwich giải thích trực tiếp. :chatgpt-content-reference{index=\"1\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I017",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S009"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/017.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Eighteenth-century wooden sailing ship crossing a vast stormy ocean, navigator studying instruments on deck, dramatic blue sea and golden sunset. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I018",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S009"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/018.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Ship captain inside wooden navigation cabin surrounded by maps, sextant, compass and marine chronometer, worried expression, candlelit atmosphere. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I019",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S010"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/019.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Navigator using sextant beneath stars on ship deck, transparent overlay showing latitude lines easy to determine while longitude lines remain uncertain, scientific editorial composition. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I020",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S010"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/020.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Split composition: left local Sun observation above a ship, right precision reference clock back at a distant observatory, glowing line connecting the two measurements to determine longitude. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I021",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S011"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/021.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Globe viewed from above with reference meridian and ship 15 degrees away, two clocks showing exactly one-hour difference, ocean route highlighted. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I022",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S011"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/022.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Navigator comparing a marine chronometer with solar noon, floating transparent globe showing a 15-degree longitude arc, expression of sudden understanding. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I023",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S012"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/023.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Royal Observatory Greenwich in the late seventeenth century under construction on a hill, astronomers carrying telescopes and charts, London and River Thames in distance, historically inspired scene. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I024",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S012"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/024.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Seventeenth-century astronomer at Greenwich observing stars through an early telescope, star chart overlaid with faint longitude grid and sailing ship below. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I025",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S013"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/025.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Eighteenth-century astronomer Nevil Maskelyne-inspired figure at a wooden desk preparing astronomical tables, open almanac pages, quill, star charts and telescope, warm candlelight. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I026",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S013"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/026.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Old maritime almanac resting beside a sextant and navigation charts on captain's desk, ocean visible through ship cabin window, rich parchment and navy palette. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I027",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S014"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/027.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Large world map with thin glowing navigation routes radiating outward from Greenwich toward ships across Atlantic, Indian and Pacific oceans. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I028",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S014"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/028.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Montage of cartographer drawing map, astronomer observing stars and ship navigator using chronometer, all connected visually to Royal Observatory Greenwich. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I029",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S015"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/029.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Royal Observatory Greenwich in 1833, large red time ball dropping from rooftop mast exactly at one o'clock, multiple ships on Thames below, sailors watching with pocket chronometers. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I030",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S015"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/030.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Close-up sailor on Thames ship deck staring at distant Greenwich time ball while adjusting brass marine chronometer, atmospheric London skyline behind him. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I031",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S016"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/031.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Conceptual transition from Sun and sundial on left to precision observatory clock in center and multiple synchronized clocks spreading outward on right. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I032",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S016"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/032.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Glowing pulse originating from Royal Observatory clock and traveling across London toward ships and buildings, visual metaphor for time becoming a distributed signal. Royal Museums Greenwich ghi nhận Observatory được lập nhằm hỗ trợ bài toán kinh độ; Nautical Almanac đầu tiên ra đời năm 1767, còn Time Ball Greenwich bắt đầu hoạt động năm 1833. :chatgpt-content-reference{index=\"2\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I033",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S017"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/033.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Powerful nineteenth-century steam locomotive racing toward a station, giant clock looming above platform, dramatic motion lines emphasizing speed. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I034",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S017"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/034.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Map filled with towns, each carrying a slightly different clock, steam railway line cutting rapidly across all of them, increasingly chaotic composition. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I035",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S018"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/035.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Victorian passenger stepping from train holding pocket watch, confused by large station clock showing noticeably different time, bustling platform. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I036",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S018"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/036.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Train traveling through three towns along one route, each station clock displaying a slightly shifted minute hand, clean sequential infographic. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I037",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S019"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/037.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Overwhelmed railway clerk surrounded by dozens of timetables and clocks showing different times, papers flying, humorous but informative scene. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I038",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S019"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/038.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Two steam trains approaching a junction while stationmaster nervously compares mismatched clocks and schedules, tension without showing an accident. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I039",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S020"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/039.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Victorian Great Western-style railway station, workers resetting several platform clocks to match one master clock, steam locomotive waiting nearby. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I040",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S020"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/040.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Stylized map of southern Britain with multiple local clocks snapping into alignment as one Greenwich clock sends a golden synchronization wave westward. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I041",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S021"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/041.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Train driver, stationmaster and passengers each holding watches that now point to exactly the same time, steam train in background, sense of coordination. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I042",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S021"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/042.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Rail network map across Britain, synchronized station clocks glowing along every branch, one master pulse traveling through the network. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I043",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S022"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/043.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Victorian telegraph operator sending electrical pulse along wires stretching across countryside, lightning-like signal racing past a steam train. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I044",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S022"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/044.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Close-up telegraph key and cable, glowing pulse splitting toward multiple distant city clocks, dramatic technological infographic. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I045",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S023"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/045.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Interior Royal Observatory master clock in 1850s sending electric signals through brass wires and telegraph equipment, astronomer supervising. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I046",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S023"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/046.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Victorian Britain map with glowing telegraph lines radiating from Greenwich into railway stations and post offices across the country. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I047",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S024"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/047.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Town sundial fading into background while railway tracks, telegraph poles and synchronized clocks form an organized national network in foreground. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I048",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S024"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/048.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Large mechanical clock fused visually with railway tracks and telegraph wires, workers and passengers moving rhythmically around it, metaphor for time infrastructure. Các bảo tàng Anh ghi nhận Great Western Railway dùng “London time/Greenwich time” từ đầu thập niên 1840, trong khi điện báo từ Greenwich bắt đầu phân phối tín hiệu thời gian từ năm 1852. :chatgpt-content-reference{index=\"3\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I049",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S025"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/049.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Nineteenth-century North America map covered with dozens of tiny clocks all showing different times, dense railway network weaving chaotically between cities. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I050",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S025"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/050.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Busy American railway office filled wall-to-wall with clocks labeled only by visual city icons, exhausted dispatcher trying to manage many train schedules. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I051",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S026"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/051.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: William F. Allen-inspired nineteenth-century railway planner seated at desk covered with North America maps, compasses and schedules, focused expression. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I052",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S026"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/052.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Railway executives gathered around a large chaotic time map, handing responsibility to one planner standing beside blank map board. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I053",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S027"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/053.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: North America globe segment divided into broad vertical time bands, central meridians evenly spaced, clocks shifting exactly one hour from band to band. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I054",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S027"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/054.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Clean infographic of Earth circumference sliced into 15-degree sections, adjacent clocks one hour apart, railway track running smoothly across bands. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I055",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S028"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/055.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Dramatic synchronized moment in 1883, railway station clocks across multiple North American cities being reset simultaneously, telegraph pulse connecting them. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I056",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S028"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/056.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Large station at noon, stationmaster turns hands of giant clock while passengers watch, multiple distant station clocks echoed in background all aligning together. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I057",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S029"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/057.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Victorian city with trains, shops, telegraph office and factories all operating around synchronized clocks, organized energetic atmosphere. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I058",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S029"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/058.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Before-and-after split: left chaotic schedules and mismatched clocks, right orderly railway departures and coordinated city life after standardization. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I059",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S030"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/059.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Small-town residents arguing beneath town clock while railway official presents a standardized clock, expressive faces but balanced neutral composition. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I060",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S030"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/060.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Symbolic scene with traditional sundial on one side and giant railway clock on the other, townspeople standing between them uncertain and divided. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I061",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S031"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/061.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Sandford Fleming-inspired bearded Victorian engineer standing before a globe divided into 24 equal bands, holding a unique 24-hour pocket watch. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I062",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S031"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/062.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Close-up Victorian pocket watch with 24-hour circular design in foreground, Fleming-inspired engineer presenting a world map to an audience behind. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I063",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S032"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/063.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Collage of astronomer, railway engineer, telegraph operator, cartographer and diplomat all assembling pieces of a giant clock-shaped world map together. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I064",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S032"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/064.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Multiple historical figures from different professions standing around a globe, each holding a different component—clock, telescope, map, telegraph key—forming one unified time system. Smithsonian ghi nhận trước năm 1883 Bắc Mỹ có hàng trăm giờ địa phương và khoảng 50 giờ đường sắt; William F. Allen đóng vai trò thực tiễn quan trọng trong cuộc cải cách 1883, còn Fleming là một trong những người vận động nổi bật cho hệ thống toàn cầu. :chatgpt-content-reference{index=\"4\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I065",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S033"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/065.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: 1884 international diplomatic conference in Washington D.C., large formal room filled with delegates in nineteenth-century suits and uniforms, world maps on walls. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I066",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S033"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/066.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Group of diverse nineteenth-century international delegates standing on grand building steps, globe and longitude grid subtly overlaid behind them. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I067",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S034"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/067.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Old world map showing several competing zero-longitude meridians crossing Paris, Greenwich and other observatory cities, visually confusing overlapping lines. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I068",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S034"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/068.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Several nineteenth-century cartographers from different countries each holding a different map whose longitude grid begins at a different location. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I069",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S035"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/069.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Massive nineteenth-century harbor filled with international sailing and steam ships, navigators studying charts whose longitude grid converges toward Greenwich. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I070",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S035"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/070.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Globe covered by shipping routes with Greenwich glowing brightly as common navigation reference, dozens of ships around oceans using matching charts. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I071",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S036"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/071.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Globe with bright zero meridian running through Greenwich from pole to pole, midnight darkness centered on Greenwich, 24-hour circular ring surrounding Earth. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I072",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S036"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/072.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: 1884 delegates raising hands in vote while large projected-style globe behind them highlights Greenwich prime meridian and a 24-hour clock ring. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I073",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S037"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/073.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Clean correction infographic: formal conference table beside globe with prime meridian highlighted, while separate time-zone bands remain faint and unfinished, visual distinction between meridian agreement and civil zones. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I074",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S037"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/074.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Diplomats agreeing on one vertical zero-meridian line while leaving local clocks around the globe untouched, emphasizing limited scope of agreement. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I075",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S038"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/075.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: World map gradually filling with broad colored time bands decade by decade, local governments adjusting national clocks relative to central Greenwich reference. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I076",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S038"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/076.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Row of national clocks connected to Greenwich master reference, each shifted by different whole-hour positions, politicians and engineers adjusting them. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I077",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S039"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/077.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: World time-zone map with theoretical straight longitude bands underneath and irregular real-world zone boundaries bending around countries on top. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I078",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S039"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/078.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: A straight geometric longitude line encounters country borders and bends into irregular shapes, clocks and government buildings placed along the altered boundary. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I079",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S040"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/079.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Many different local clocks orbiting one central Greenwich reference clock, thin lines translating each local clock back to the same central timeline. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I080",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S040"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/080.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: World citizens in different landscapes holding clocks with different times while standing on one continuous glowing timeline wrapping around Earth. Greenwich được chọn làm kinh tuyến gốc tại Hội nghị 1884; Royal Museums Greenwich cho biết gần hai phần ba tàu trên thế giới khi ấy đã sử dụng các hải đồ dựa trên Greenwich. Quan trọng hơn, văn bản nghị quyết cho thấy hội nghị **không thông qua một hệ thống múi giờ dân sự toàn cầu**. :chatgpt-content-reference{index=\"5\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I081",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S041"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/081.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Earth spinning beside a perfectly regular mechanical clock, Earth's rotation subtly wobbling while clock ticks evenly, scientific contrast. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I082",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S041"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/082.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Close-up planet Earth surrounded by uneven rotation arrows, next to ideal evenly spaced tick marks representing uniform time. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I083",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S042"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/083.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Scientific Earth with Moon, oceans and atmosphere subtly influencing rotation, tiny variations visualized as irregular tick marks around planet. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I084",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S042"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/084.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Magnified comparison between slightly uneven Earth-rotation pulses and perfectly regular laboratory pulses, high-tech infographic style. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I085",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S043"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/085.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: 1950s laboratory with early atomic clock apparatus, scientists in period clothing observing vacuum tubes and electronics, Earth clock diagram in background. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I086",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S043"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/086.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Symbolic transition from rotating Earth on left to glowing cesium atom and precise atomic clock on right, perfectly regular pulse lines. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I087",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S044"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/087.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Cesium-133 atom depicted as elegant scientific visualization, microwave oscillations radiating outward into a precise digital second pulse, laboratory background. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I088",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S044"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/088.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: 1967 metrology conference scene with scientists approving a new atomic definition, enormous glowing cesium atom and precision clock visual behind them, no readable text. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I089",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S045"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/089.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Earth-based sundial and astronomical clock fading into background while atomic clock becomes brightly illuminated in foreground. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I090",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S045"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/090.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Broken symbolic chain between Earth's rotation and definition of one second, new glowing chain connecting cesium atom directly to a clock tick. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I091",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S046"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/091.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Global network of national metrology laboratories, each containing atomic clocks, all sending glowing timing data toward a central international hub. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I092",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S046"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/092.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Earth surrounded by many atomic-clock icons in laboratories across continents, streams of precise pulses combining into one smooth central timeline. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I093",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S047"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/093.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Two parallel glowing timelines labeled visually by distinct symbolic icons—atomic timeline and civil universal timeline—running at identical speed but separated by a fixed gap. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I094",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S047"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/094.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Atomic clock pulses moving beside rotating Earth, UTC bridge connecting the perfectly regular atomic scale to the astronomical world. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I095",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S048"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/095.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Central UTC clock in middle, arrows branching to Tokyo-like, Vietnam-like, London-like and American cities, local clocks shifted by different offsets. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I096",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S048"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/096.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Smartphone world clock interface concept floating over globe, central UTC timeline beneath while city clocks above display different local hours, no legible interface text. NIST và BIPM xác nhận giây nguyên tử được chuẩn hóa trên cesium-133 từ năm 1967; UTC hiện được tạo dựa trên thời gian nguyên tử và là thang thời gian tham chiếu quốc tế, đồng thời là cơ sở của giờ dân sự ở phần lớn quốc gia. :chatgpt-content-reference{index=\"6\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I097",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S049"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/097.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Atomic UTC clock on one side and Earth-rotation astronomical clock on other, scientists measuring tiny difference between the two with precision instruments. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I098",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S049"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/098.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Sun, rotating Earth and atomic timeline arranged in triangular infographic, tiny gap between astronomical and atomic time being monitored. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I099",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S050"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/099.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Digital clock sequence approaching midnight with an extra glowing second inserted between final second and midnight, Earth in background. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I100",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S050"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/100.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Two timelines slowly drifting apart, scientist inserts one small glowing block marked visually as an extra tick, bringing timelines close together again. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I101",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S051"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/101.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Historical timeline from 1972 to 2016 with 27 small glowing leap-second markers accumulating, atomic and UTC clocks shown separated at end. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I102",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S051"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/102.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Two modern digital timelines side by side, atomic TAI slightly ahead of UTC, 37 small luminous tick blocks visualizing accumulated offset without relying on generated text. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I103",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S052"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/103.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Ordinary person sleeping peacefully while behind the wall giant server racks react dramatically to an extra clock tick, humorous contrast. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I104",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S052"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/104.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Data center with servers, telecom towers and financial transaction lines all depending on a precise timeline, one unusual extra second causing warning-like visual distortions. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I105",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S053"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/105.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Humorous image of an empty dramatic vault where one giant master clock would supposedly sit, crossed by visual transition toward many laboratories worldwide. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I106",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S053"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/106.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Wide globe with numerous metrology institutes instead of a single clock tower, all contributing data toward the shared UTC reference. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I107",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S054"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/107.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Precision laboratory with several atomic clocks labeled only by simple color-coded symbols, data lines connecting to international metrology center. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I108",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S054"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/108.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: World map of synchronized national laboratories, pulses meeting at central BIPM-like hub and returning as correction signals, clean high-tech infographic. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I109",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S055"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/109.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: GPS satellite orbiting Earth, cutaway showing multiple glowing atomic clock modules inside, precise timing beams directed toward ground receivers. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I110",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S055"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/110.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Several GPS satellites surrounding Earth and sending synchronized pulses to smartphone, telecommunications tower and scientific receiver on ground. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I111",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S056"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/111.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Long visual chain: atomic laboratory to satellite to data center to cell tower to smartphone, one glowing time pulse traveling through every stage. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I112",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S056"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/112.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Modern person checking smartphone while invisible layered infrastructure behind them shows satellites, fiber cables, servers and atomic clocks synchronized together. BIPM mô tả UTC được xây dựng từ đóng góp của các viện đo lường và các hiện thực thời gian địa phương UTC(k). NIST ghi nhận 27 leap second dương đã được thêm từ năm 1972, lần cuối vào 31/12/2016, và TAI hiện nhanh hơn UTC 37 giây. GPS cũng phân phối thời gian nguyên tử tới người dùng với độ chính xác rất cao. :chatgpt-content-reference{index=\"7\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I113",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S057"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/113.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Layered infographic: bottom universal UTC timeline, middle different offset bands, top government buildings and seasonal sun icons modifying local clocks. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I114",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S057"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/114.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: World map where national clocks are adjusted by officials moving clock hands, with sunlight and seasonal symbols showing daylight-saving rules. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I115",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S058"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/115.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Ideal globe with 24 perfectly straight theoretical bands dissolving into irregular real-world time-zone map with several narrower offset regions. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I116",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S058"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/116.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Three local clocks showing whole-hour, half-hour and quarter-hour offset differences, positioned over different irregular regions on stylized world map. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I117",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S059"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/117.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Developer-style workstation displaying abstract world time-zone database structure, map regions flowing into organized digital records, no readable code. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I118",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S059"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/118.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Giant digital globe broken into time-zone regions, streams of rule cards and clock symbols entering a central software database. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I119",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S060"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/119.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Government announcement visually sends update into cloud servers, then to millions of smartphones whose clock hands shift simultaneously. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I120",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S060"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/120.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Rows of smartphones across a country automatically changing their clocks after a software update pulse travels through network, modern synchronized scene. IANA cho biết quy tắc múi giờ và daylight saving do từng chính phủ kiểm soát và có thể thay đổi với ít cảnh báo; `tz` database được cập nhật để hệ điều hành và phần mềm xử lý đúng các thay đổi này. :chatgpt-content-reference{index=\"8\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I121",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S061"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/121.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Atomic clock and rotating Earth connected by leap-second bridge, massive data center beneath showing strain each time an extra tick is inserted. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I122",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S061"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/122.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Perfectly smooth digital timeline disrupted by one sudden additional block, with satellites, telecom networks and servers surrounding it. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I123",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S062"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/123.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Modern international scientific conference, delegates viewing two timelines labeled symbolically as atomic and Earth rotation, choosing a future continuous path toward 2035. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I124",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S062"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/124.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Timeline moving from leap-second bumps in present toward a long smooth continuous line in future, Earth and atomic clock slowly diverging by a tiny amount. BIPM quyết định năm 2022 rằng mức chênh lệch tối đa cho phép giữa UT1 và UTC sẽ được tăng **vào hoặc trước năm 2035**, nhằm tạo điều kiện cho UTC liên tục trong thời gian dài hơn; ITU sau đó tiếp tục phối hợp triển khai. :chatgpt-content-reference{index=\"9\"} Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I125",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S063"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/125.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: People in Vietnam, Europe, Africa, America and Japan holding clocks with different local times while one glowing universal second pulse passes through all of them simultaneously. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I126",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S063"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/126.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Multiple different clock faces collapse into one precise universal timeline made from evenly spaced atomic ticks, Earth glowing behind it. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I127",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S064"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/127.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Epic horizontal historical montage flowing left to right: ancient sundial, sailing ship, Greenwich Observatory, steam locomotive, telegraph poles, international conference, atomic laboratory, GPS satellite and modern smartphone, all connected by one golden timeline. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I128",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S064"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/world-time-documentary/128.png",
+      "prompt": "Vox-style explainer illustration, 2D anime art style, clean bold outlines, flat vibrant colors, minimalistic vector shading, editorial infographic composition, soft cel-shading, cinematic high-contrast lighting, expressive characters, dynamic composition, subtle paper-grain texture, historically accurate architecture and clothing when relevant, clean visual storytelling, anatomically correct hands and fingers, no extra limbs, no malformed hands, no watermark, no logo, no unnecessary text, landscape 16:9. Primary scene: Final cinematic Earth from space at night, glowing cities connected by a delicate global synchronization network, transparent atomic clock pulse surrounding planet, hopeful blue-and-gold ending composition. Composition: one coherent full-frame scene, with a deliberately clear focal point and generous safe negative space for editor-added Vietnamese captions. Do not render readable words, labels, logos, UI, clocks with legible numbers, or watermarks.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+    "status": "generated",
+    "qa": {
+      "generatedAt": "2026-09-30",
+        "reviewedAt": null,
+        "notes": null
+      }
+    }
+  ]
+}

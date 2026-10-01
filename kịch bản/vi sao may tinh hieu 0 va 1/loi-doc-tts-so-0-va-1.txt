@@ -1,0 +1,187 @@
+[Mở đầu]
+
+Bên trong chiếc máy tính bạn đang dùng, mọi thứ, từ video bạn xem, bài hát bạn nghe, đến dòng chat bạn gõ, đều chỉ được ghi lại bằng đúng hai con số: không và một.
+
+Không phải hai và một, không phải không và mười. Chỉ có không, và một.
+
+Nghe có vẻ giới hạn đến vô lý. Với chỉ hai ký hiệu, làm sao máy tính vẽ được một bức ảnh, phát được một bản nhạc, hay hiểu được câu bạn vừa gõ?
+
+Câu trả lời nằm ở một thứ rất tầm thường: một cái công tắc đèn. Nhưng để đến được cái công tắc đó, loài người đã đi một quãng đường dài hơn bạn nghĩ.
+
+[Phần một: Trước cả điện, con người đã mơ về số nhị phân]
+
+Câu chuyện không bắt đầu với điện. Nó bắt đầu với việc con người muốn đếm nhanh hơn mười ngón tay cho phép.
+
+Bàn tính cổ, với những hạt gỗ trượt trên que, đã giúp con người tính toán suốt hàng nghìn năm. Nhưng nó vẫn đếm theo cách quen thuộc: một, hai, ba, cho đến chín.
+
+Ở Trung Quốc cổ đại, có một hệ thống bói toán tên Kinh Dịch, dùng sáu vạch, mỗi vạch hoặc liền hoặc đứt, xếp chồng lên nhau để tạo ra sáu mươi tư quẻ khác nhau.
+
+Liền hoặc đứt. Có hoặc không. Nghe quen không? Đó gần như là một hệ nhị phân, ra đời hàng nghìn năm trước khi có máy tính, chỉ để dùng cho việc bói toán.
+
+Nhiều thế kỷ sau, ở châu Âu, một nhà toán học người Đức tên Gottfried Leibniz đã nghiên cứu về một hệ đếm chỉ dùng hai chữ số.
+
+Năm một nghìn bảy trăm linh ba, ông công bố một bài viết mô tả đầy đủ cách cộng, trừ với hệ nhị phân, điều mà ba trăm năm sau sẽ trở thành nền tảng của mọi máy tính.
+
+Điều thú vị là khi biết đến các quẻ của Kinh Dịch qua một người bạn truyền giáo ở Trung Quốc, Leibniz vô cùng phấn khích, vì ông thấy người xưa dường như đã chạm đến cùng một ý tưởng theo cách hoàn toàn khác.
+
+Nhưng với Leibniz, đây vẫn chỉ là một trò chơi trí tuệ đẹp đẽ. Không có cỗ máy nào lúc đó cần đến nó cả.
+
+Trong lúc đó, những cỗ máy tính toán đầu tiên vẫn trung thành với hệ đếm quen thuộc của con người.
+
+Nhà toán học Pháp Blaise Pascal đã chế tạo một cỗ máy cộng trừ bằng bánh răng vào giữa thế kỷ mười bảy, mỗi bánh răng có đúng mười nấc, y hệt mười ngón tay của chúng ta.
+
+Cỗ máy đẹp, tinh xảo, nhưng cồng kềnh và dễ hỏng. Hệ mười, hóa ra, không hợp với bánh răng cơ khí chút nào.
+
+Bước ngoặt cơ khí thực sự lại đến từ một khung cửi dệt vải.
+
+Năm một nghìn tám trăm linh bốn, kỹ sư người Pháp Joseph Marie Jacquard chế tạo một khung cửi được điều khiển bằng những tấm bìa đục lỗ.
+
+Có lỗ, kim đan xuyên qua, chỉ được kéo lên. Không có lỗ, kim bị chặn lại. Đúng là "có" và "không" một lần nữa, chỉ khác là lần này nó dệt ra hoa văn trên vải, chứ không phải một con số.
+
+Gần một trăm năm sau, ở nước Anh, nhà toán học Charles Babbage mơ về một cỗ máy tính toán khổng lồ chạy hoàn toàn tự động, và ông mượn chính ý tưởng tấm bìa đục lỗ ấy để lập trình cho nó.
+
+Người viết những chỉ dẫn từng bước cho cỗ máy đó là một phụ nữ tên Ada Lovelace, con gái của nhà thơ Lord Byron. Nhiều người xem những ghi chép của bà là chương trình máy tính đầu tiên trong lịch sử, dù cỗ máy chưa từng được hoàn thành lúc bà còn sống.
+
+Đến cuối thế kỷ mười chín, kỹ sư người Mỹ Herman Hollerith dùng lại tấm bìa đục lỗ để xử lý số liệu điều tra dân số, nhanh đến mức tiết kiệm được nhiều năm công sức đếm tay. Công ty ông sáng lập sau này trở thành một phần của một tập đoàn công nghệ khổng lồ mà có lẽ bạn từng nghe tên.
+
+Vậy là suốt hai nghìn năm trăm năm, từ các quẻ bói, một bài toán học thuần túy, đến khung cửi và tấm bìa đục lỗ, ý tưởng "có hoặc không" cứ thấp thoáng xuất hiện, nhưng luôn ở rìa, chưa bao giờ là trung tâm.
+
+Nó chỉ thực sự bước ra ánh sáng khi gặp một thứ có thể bật và tắt hàng triệu lần một giây, mà không mòn, không mỏi: dòng điện.
+
+[Phần hai: Điện chỉ biết bật và tắt]
+
+Công tắc đèn nhà bạn chỉ có hai trạng thái. Bật, đèn sáng. Tắt, đèn tối. Không có mức nửa sáng nửa tối kiểu lưng chừng mà công tắc tự hiểu được.
+
+Dòng điện chạy trong một mạch cũng vậy: hoặc đang chạy qua, hoặc bị chặn lại. Đơn giản, rõ ràng, không mập mờ.
+
+Và sự rõ ràng đó lại chính là điều máy tính cần nhất.
+
+Hãy tưởng tượng nếu máy tính phải phân biệt mười mức điện áp khác nhau để đọc mười chữ số, từ không đến chín, giống hệt bánh răng mười nấc của Pascal ngày xưa, chỉ thay bằng điện.
+
+Chỉ cần nhiễu điện nhẹ, chỉ cần dây hơi nóng lên, ranh giới giữa các mức có thể lẫn vào nhau, và một con số đọc nhầm thành số khác.
+
+Nhưng nếu chỉ cần phân biệt hai mức, có điện hoặc không điện, thì khoảng cách giữa hai mức đó có thể rất lớn.
+
+Nhiễu nhỏ không còn là vấn đề. Tín hiệu vẫn rõ ràng: hoặc có, hoặc không.
+
+Đó là lý do quan trọng nhất khiến điện tử học chọn hai trạng thái, chứ không phải mười: hai trạng thái đáng tin cậy hơn nhiều so với mười trạng thái chen chúc nhau.
+
+[Phần ba: Một nhà toán học nghĩ về đúng và sai]
+
+Nhưng "bật và tắt" mới chỉ là phần cơ khí. Để biến nó thành một cỗ máy biết suy luận, cần một ý tưởng toán học, giống bài toán Leibniz từng nghĩ tới, nhưng lần này gắn liền với logic.
+
+Ý tưởng đó đến từ một nhà toán học người Anh tên George Boole, vào giữa thế kỷ mười chín.
+
+Boole tự hỏi: liệu có thể viết logic, tức là những câu đúng hay sai, thành các phép toán, giống như cộng trừ nhân chia, hay không?
+
+Ông xây dựng một hệ thống trong đó mỗi câu chỉ có hai giá trị: đúng, hoặc sai. Không có "hơi đúng" hay "gần sai".
+
+Rồi ông định nghĩa các phép toán logic để kết hợp chúng: và, hoặc, không, giống như những viên gạch để xây một lập luận phức tạp.
+
+Vào thời của ông, đây chỉ là một trò chơi trí tuệ thuần túy. Boole làm toán học vì đam mê, không hề biết nó sẽ đổi cả thế giới.
+
+Suốt gần một trăm năm, ý tưởng của ông nằm yên trong sách toán, như một hạt giống chưa gặp đất, giống hệt số nhị phân của Leibniz trước đó.
+
+[Phần bốn: Người nối logic với dây điện]
+
+Hạt giống đó nảy mầm vào năm một nghìn chín trăm ba mươi bảy, trong luận văn thạc sĩ của một sinh viên hai mươi mốt tuổi tên Claude Shannon.
+
+Shannon nhận ra một điều đẹp đến sững sờ: mạch điện với công tắc bật tắt hoạt động chính xác theo logic đúng-sai của Boole.
+
+Hai công tắc nối tiếp nhau, cả hai phải bật thì đèn mới sáng, đó chính là phép "và" của Boole.
+
+Hai công tắc nối song song, chỉ cần một cái bật là đèn sáng, đó chính là phép "hoặc".
+
+Luận văn đó sau này được nhiều người xem là một trong những luận văn thạc sĩ quan trọng nhất thế kỷ hai mươi.
+
+Vì từ đó, người ta có một công thức rất gọn: muốn máy biết suy luận, chỉ cần sắp xếp đúng những cái công tắc.
+
+Logic của con người, thứ tưởng chừng trừu tượng, hóa ra có thể xây bằng dây điện và kim loại, đúng như cách một tấm bìa đục lỗ từng dệt nên hoa văn trên vải.
+
+[Phần năm: Từ cái công tắc to bằng bàn tay đến con chip nhỏ hơn hạt gạo]
+
+Nhưng có logic thôi chưa đủ. Cần một thứ đóng vai trò công tắc, đóng và mở hàng triệu lần một giây, mà không mòn, không hỏng.
+
+Những chiếc máy tính đầu tiên dùng rơle điện cơ, những công tắc bật bằng nam châm điện. Chúng kêu lách cách, tốn điện, và thỉnh thoảng... có côn trùng chui vào kẹt giữa hai tiếp điểm.
+
+Đúng vậy, đó không phải chuyện đùa. Có ghi chép về một con bướm đêm bị kẹt trong rơle của một máy tính đời đầu, và có lẽ đó là lý do vì sao ngày nay ta gọi lỗi phần mềm là "con bọ".
+
+Sau đó là bóng đèn chân không, nhanh hơn rơle nhiều, nhưng nóng, cồng kềnh, và dễ cháy như một bóng đèn thật.
+
+Cả căn phòng đầy bóng đèn chỉ để làm công việc mà một con chip nhỏ hơn móng tay bạn làm hôm nay.
+
+Bước ngoặt đến vào năm một nghìn chín trăm bốn mươi bảy, khi ba nhà khoa học ở phòng thí nghiệm Bell chế tạo ra transistor.
+
+Transistor làm đúng việc của công tắc, bật và tắt dòng điện, nhưng nhỏ hơn, nhanh hơn, bền hơn, và gần như không tốn hơi ấm để chứng minh nó đang hoạt động.
+
+Rồi người ta học cách khắc hàng nghìn, rồi hàng triệu, rồi hàng tỷ transistor lên một miếng silicon nhỏ xíu. Đó chính là con chip.
+
+Năm một nghìn chín trăm sáu mươi lăm, một trong những người đồng sáng lập Intel, Gordon Moore, nhận thấy số transistor nhét vừa trên một con chip gần như tăng gấp đôi sau mỗi khoảng một đến hai năm.
+
+Nhận xét đó, sau này gọi là định luật Moore, đúng một cách kỳ lạ suốt nhiều thập kỷ, dù gần đây tốc độ tăng đã chậm lại khi các kỹ sư chạm gần giới hạn vật lý của kích thước nguyên tử.
+
+Ngày nay, một con chip trong điện thoại của bạn có thể chứa nhiều tỷ công tắc nhỏ xíu, bật tắt hàng tỷ lần mỗi giây.
+
+Nói cách khác, bạn đang mang trong túi một thứ còn phức tạp hơn cả căn phòng đầy rơle năm xưa, chỉ nhỏ bằng bàn tay.
+
+[Phần sáu: Xây một con số, một chữ cái, một bức ảnh từ những cái công tắc]
+
+Vậy hàng tỷ công tắc bật tắt đó tạo ra con số như thế nào?
+
+Máy tính đếm theo hệ nhị phân, chỉ dùng hai chữ số, đúng như bài toán mà Leibniz từng viết ra ba trăm năm trước. Mỗi công tắc là một chữ số, gọi là một bit: tắt là không, bật là một.
+
+Ghép nhiều bit lại, bạn đếm được nhiều số hơn, giống như ghép nhiều chữ số thập phân để đếm cao hơn chín.
+
+Với tám bit, bạn có thể đếm từ không đến hai trăm năm mươi lăm, đủ để đại diện cho một pixel màu xám, hoặc một chữ cái. Tám bit như vậy được gọi là một byte.
+
+Vào những năm một nghìn chín trăm sáu mươi, các kỹ sư Mỹ ngồi lại và thống nhất một bảng quy ước chung, gọi là ASCII, gán cho mỗi chữ cái, chữ số và dấu câu thông dụng một con số nhị phân riêng.
+
+Nhờ bảng quy ước đó, chữ "A" trên máy tính này và chữ "A" trên máy tính kia luôn được hiểu là cùng một con số, dù hai máy chưa từng gặp nhau.
+
+Nhưng thế giới có nhiều ngôn ngữ hơn một bảng chữ cái tiếng Anh. Chữ Việt có dấu, chữ Hán, chữ Ả Rập, và cả những biểu tượng cảm xúc nhỏ xinh bạn hay gửi cho bạn bè.
+
+Vì thế sau này người ta mở rộng thành một bảng quy ước lớn hơn nhiều, gọi là Unicode, đủ chỗ cho gần như mọi ký tự của mọi ngôn ngữ loài người, và cả các biểu tượng cảm xúc.
+
+Ghép nhiều nhóm tám bit lại, bạn có đủ chỗ để đại diện cho hàng triệu màu sắc trong một bức ảnh, hoặc hàng nghìn ký tự trong một trang văn bản.
+
+Âm thanh cũng vậy. Máy tính đo biên độ sóng âm hàng chục nghìn lần mỗi giây, và ghi mỗi lần đo lại thành một con số nhị phân.
+
+Video chỉ là rất nhiều bức ảnh nối tiếp nhau, và bức ảnh chỉ là rất nhiều điểm màu, mỗi điểm màu chỉ là vài con số nhị phân đứng cạnh nhau.
+
+Có một câu hỏi thú vị: nếu chỉ một bit bị đọc nhầm, do nhiễu điện hay bụi vũ trụ va vào một con chip, chuyện gì xảy ra?
+
+Các kỹ sư đã nghĩ ra cách: thêm một vài bit kiểm tra đi kèm, gọi là bit chẵn lẻ, giống như một người gác cổng luôn đếm lại tổng số bit bật, để phát hiện ngay khi có gì đó không khớp.
+
+Nhờ vậy mà một bức ảnh bạn tải xuống, hay một tin nhắn bạn gửi đi, hiếm khi bị lỗi dù đi qua hàng nghìn cây số dây cáp và sóng vô tuyến.
+
+Nói cách khác, thế giới đầy màu sắc bạn thấy trên màn hình chỉ là hàng tỷ công tắc nhỏ, được sắp xếp và bảo vệ theo đúng một trật tự.
+
+[Phần bảy: Từ công tắc đến phép tính]
+
+Ghép các công tắc theo kiểu của Boole và Shannon, máy tính không chỉ lưu số, mà còn tính toán được với chúng.
+
+Mạch cộng nhị phân, chẳng hạn, chỉ là một cách khéo léo sắp xếp vài cổng logic để hai bit đầu vào tạo ra bit tổng và bit nhớ, y hệt cách bạn cộng tay và nhớ số ở hàng chục.
+
+Ghép hàng nghìn mạch cộng nhỏ như vậy, bạn có một bộ xử lý biết làm toán phức tạp, nhanh đến mức bạn không kịp chớp mắt.
+
+Và tất cả những phép tính phức tạp mà máy tính làm, từ hiển thị một trang web đến chạy một trò chơi ba chiều, cuối cùng đều được chẻ nhỏ thành hàng tỷ phép "và", "hoặc", "không" rất đơn giản như của Boole.
+
+Sự phức tạp bạn thấy trên màn hình không đến từ việc máy tính "thông minh" theo kiểu con người. Nó đến từ việc lặp lại một ý tưởng cực kỳ đơn giản, với tốc độ và số lượng vượt xa sức tưởng tượng.
+
+[Phần tám: Liệu có cần mãi chỉ hai trạng thái?]
+
+Một câu hỏi cuối, dành cho những ai tò mò: liệu tương lai có thoát khỏi chỉ không và một?
+
+Trong các phòng thí nghiệm hôm nay, có một hướng nghiên cứu gọi là máy tính lượng tử, nơi đơn vị thông tin không buộc phải là hẳn không hoặc hẳn một, mà có thể ở một trạng thái mờ nhòe giữa cả hai cùng lúc.
+
+Nghe rất khác với mọi thứ mình vừa kể phải không? Đúng vậy, và công nghệ này vẫn đang trong giai đoạn nghiên cứu, chưa thay thế được máy tính hàng ngày của bạn.
+
+Nhưng nó nhắc chúng ta một điều: "chỉ không và một" không phải quy luật bắt buộc của vũ trụ, mà là một lựa chọn kỹ thuật rất khôn ngoan, phù hợp nhất với công nghệ mà con người có trong tay suốt gần một trăm năm qua.
+
+[Kết]
+
+Từ các quẻ bói cổ, một bài toán học của Leibniz, tấm bìa đục lỗ của khung cửi, một nhà toán học nghĩ về đúng và sai, một sinh viên nối logic với dây điện, đến hàng tỷ transistor trong túi bạn, đó là toàn bộ hành trình đằng sau con số không và một.
+
+Không cần thông minh hơn con người. Chỉ cần rất giỏi một việc rất nhỏ, và lặp lại nó hàng tỷ lần một giây.
+
+Cảm ơn bạn đã xem. Hẹn gặp lại.

@@ -1,0 +1,163 @@
+# Narration — dynastic-cycle-china
+
+Mỗi dòng là một câu/cảnh ổn định, sẵn sàng cho TTS từng câu khi được yêu cầu.
+
+S001	Nhà Tần tồn tại đúng 15 năm. Nhà Hán tồn tại hơn 400 năm. Vậy mà cả hai đều chết theo một kịch bản quen thuộc đến lạ.
+S002	Suốt hơn hai nghìn năm, Trung Hoa thay hết triều đại này đến triều đại khác: Tần, Hán, Tùy, Đường, Tống, Nguyên, Minh, Thanh.
+S003	Ngay cả những triều đại hùng mạnh nhất như Đường, Minh, Thanh cũng chỉ trụ được khoảng ba thế kỷ.
+S004	Điều kỳ lạ không phải là chúng sụp đổ, mà là chúng sụp đổ theo những cách giống nhau đến kinh ngạc.
+S005	Các sử gia gọi đó là vòng xoáy triều đại.
+S006	Nhưng đó mới chỉ là cái tên. Câu hỏi thật sự là: cái gì đang làm cho vòng xoáy ấy quay?
+S007	Hôm nay, ta sẽ đi qua năm triều đại, ba lý thuyết, và một học giả Ả Rập thế kỷ 14 để tìm câu trả lời.
+S008	Câu trả lời không phải là 'vì hoàng đế xấu'. Hoàng đế xấu chỉ là triệu chứng.
+S009	Nó nằm ở ba thứ nhàm chán hơn nhiều: ruộng đất, thuế, và số người muốn làm quan.
+S010	Nhưng trước hết, hãy hiểu luật chơi mà mọi hoàng đế Trung Hoa đều phải theo: Thiên mệnh.
+S011	Khoảng thế kỷ 11 trước Công nguyên, nhà Chu lật đổ nhà Thương. Họ cần một lý do.
+S012	Lý do đó là Thiên mệnh: Trời trao quyền cai trị cho người có đức.
+S013	Nhưng quyền đó có điều kiện: nếu vua bạo ngược, Trời sẽ thu hồi.
+S014	Dấu hiệu Trời thu hồi? Lũ lụt, hạn hán, dịch bệnh, nạn đói.
+S015	Nghe như một cách kiềm chế quyền lực rất khôn ngoan.
+S016	Nhưng nó có một tác dụng phụ: Thiên mệnh chỉ được xác nhận sau khi bạn đã thắng.
+S017	Nghĩa là ai nổi dậy thành công thì tự động có chính nghĩa. Ai thất bại thì là phản loạn.
+S018	Một hệ thống như thế luôn có sẵn một nút 'khởi động lại'. Và mỗi lần thiên tai xảy ra, ai cũng nhìn vào cái nút đó.
+S019	Mỗi vòng xoáy bắt đầu từ một cuộc nội chiến.
+S020	Sau nhiều năm chiến tranh, dân số sụt giảm, ruộng đồng bỏ hoang.
+S021	Nghe thảm khốc, nhưng nó tạo ra một thứ quý hơn vàng: đất thừa mà người thiếu.
+S022	Người lập triều đại thường xuất thân bình dân, hoặc đã sống giữa chiến trận.
+S023	Lưu Bang chỉ là một viên đình trưởng nhỏ ở làng. Chu Nguyên Chương từng là đứa trẻ mồ côi đi xin ăn.
+S024	Họ hiểu một bát cơm nặng bao nhiêu.
+S025	Nên họ giảm thuế, chia lại ruộng, dẹp bớt quan tham, vì họ còn nhớ mình đã nổi dậy vì điều gì.
+S026	Học giả Ả Rập Ibn Khaldun, thế kỷ 14, gọi thứ keo kết dính đó là 'asabiyyah': tinh thần đoàn kết được rèn trong gian khổ.
+S027	Rồi hòa bình kéo dài. Nông dân được yên ổn cày cấy.
+S028	Dân số tăng. Chợ búa, thành thị lớn lên. Kho lúa đầy, ngân khố đầy.
+S029	Đó là thời hoàng kim: Văn Cảnh nhà Hán, Trinh Quán rồi Khai Nguyên nhà Đường.
+S030	Và chính lúc này, những hạt giống của sự sụp đổ nảy mầm.
+S031	Vì dân số cứ tăng, còn đất thì không.
+S032	Mỗi thế hệ, mỗi người chia nhau một mảnh ruộng nhỏ hơn.
+S033	Đây là cơ chế đầu tiên: ruộng đất và thuế.
+S034	Nhà nước Trung Hoa cổ đại sống nhờ gần như một nguồn duy nhất: nông dân tự canh.
+S035	Nông dân đóng thuế, đi lính, đi phu. Ba thứ đó nuôi cả đế chế.
+S036	Nhưng mảnh ruộng nhỏ đi. Một năm mất mùa, nông dân phải vay nặng lãi.
+S037	Không trả nổi, họ bán ruộng cho địa chủ, rồi ở lại cày chính mảnh đất đó với thân phận tá điền.
+S038	Địa chủ và quan lại lớn thì có đặc quyền miễn thuế, hoặc biết cách giấu ruộng, giấu người khỏi sổ sách.
+S039	Kết quả: ruộng đất dồn vào tay ít người, và những người này gần như không đóng thuế.
+S040	Nhà nước mất nguồn thu. Nhưng chi tiêu thì không giảm: quân đội, cung đình, đê điều, cứu đói.
+S041	Thế là nhà nước làm điều dễ nhất: tăng thuế lên những người còn nằm trong sổ, tức là những nông dân nghèo nhất.
+S042	Nông dân nghèo đóng không nổi, bỏ làng, chạy sang làm tá điền cho địa chủ để trốn thuế.
+S043	Sổ sách càng ít người, thuế trên đầu mỗi người còn lại càng nặng. Một vòng luẩn quẩn.
+S044	Nhà Đường có hẳn một chế độ chia ruộng công bằng, gọi là quân điền, để chặn chuyện này. Nhưng nó thua thực tế.
+S045	Năm 780, nhà Đường đành bỏ hẳn chế độ ấy, chuyển sang đánh thuế theo tài sản đang có.
+S046	Sửa được sổ sách. Nhưng không sửa được quyền lực.
+S047	Cơ chế thứ hai nằm ở tầng trên: giới tinh hoa.
+S048	Triều đại thịnh trị đẻ ra rất nhiều người có học, có tiền, và có tham vọng.
+S049	Trung Hoa có khoa cử: ai học giỏi cũng có thể mơ làm quan.
+S050	Nhưng số ghế quan thì gần như cố định.
+S051	Mỗi thế hệ, số người thi đậu vượt xa số chức để phân.
+S052	Các nhà sử học gọi đó là 'sản xuất dư thừa tinh hoa'. Những người có chữ nghĩa, biết tổ chức, và có lý do để tức giận.
+S053	Trong khi đó, những người đã có ghế thì chia bè kéo cánh để giữ ghế.
+S054	Nhà Hán chia thành hai phe: ngoại thích, tức họ hàng bên nhà hoàng hậu, và hoạn quan.
+S055	Cả hai phe đều giành nhau kiểm soát một hoàng đế còn nhỏ.
+S056	Nhà Minh thì có phái Đông Lâm đấu với hoạn quan Ngụy Trung Hiền. Chính sự thành cuộc chiến bè phái.
+S057	Và ở đỉnh tất cả là chính hoàng đế.
+S058	Người lập triều đại từng cày ruộng, từng đánh trận. Con cháu ông thì sinh ra trong cung.
+S059	Họ lớn lên giữa cung nữ và hoạn quan, chưa từng thấy một người nông dân đói.
+S060	Ibn Khaldun viết rằng đến thế hệ thứ ba, sự cứng cỏi của người sáng lập đã bị hưởng thụ gặm mòn.
+S061	Ông cho rằng một triều đại hiếm khi vượt quá ba thế hệ, khoảng 120 năm.
+S062	Thực tế, các triều đại Trung Hoa sống lâu hơn thế nhiều. Nhưng nhịp điệu thì rất giống.
+S063	Còn nếu hoàng đế chết sớm, ngai vàng thuộc về một đứa trẻ. Và một đứa trẻ thì rất dễ bị điều khiển.
+S064	Vua Vạn Lịch nhà Minh trong nhiều thập kỷ hầu như không ra thiết triều. Quan lại bên dưới cứ thế tự quyết, tự vơ vét.
+S065	Cơ chế thứ tư: quân đội.
+S066	Biên giới rộng, kẻ thù du mục cưỡi ngựa nhanh. Triều đình không thể đợi lệnh từ kinh đô.
+S067	Nên họ trao cho tướng biên cương quyền lớn: được giữ quân, thu thuế, bổ quan ngay tại chỗ.
+S068	Quyền lực đó giải quyết vấn đề trước mắt. Nhưng nó tạo ra một vấn đề lớn hơn.
+S069	Nhà Đường gọi họ là tiết độ sứ.
+S070	Khi ngân khố cạn và triều đình yếu đi, những vị tướng ấy nhận ra một điều đơn giản: họ mạnh hơn kinh đô.
+S071	Cuối thời Hán cũng vậy. Khởi nghĩa Khăn Vàng năm 184 bị dẹp bằng quân địa phương, và quân địa phương thì không chịu buông.
+S072	Đây là một mô-típ lặp lại: thuốc chữa bệnh trở thành bệnh.
+S073	Cơ chế cuối cùng không nằm ở con người. Đó là thiên tai.
+S074	Sông Hoàng Hà được gọi là 'nỗi buồn của Trung Hoa'. Mỗi lần vỡ đê, hàng loạt làng mạc biến mất.
+S075	Năm 11 sau Công nguyên, Hoàng Hà đổi dòng. Vài năm sau, khởi nghĩa Xích Mi nổ ra, và Vương Mãng mất ngôi.
+S076	Cuối thời Hán, dịch bệnh hoành hành hàng chục năm trước khi Khăn Vàng nổi dậy.
+S077	Theo một số nghiên cứu, từ khoảng 1627 đến 1642, miền đông Trung Quốc trải qua đợt hạn kéo dài nhất kể từ năm 500.
+S078	Đó là thời Tiểu băng hà: nhiệt độ ở miền bắc Trung Quốc giảm hơn một độ C chỉ trong vài chục năm.
+S079	Thiên tai tự nó không giết triều đại. Nhiều triều đại đã sống sót qua hạn hán.
+S080	Nó giết những triều đại đã hết dự trữ: kho lương rỗng, sổ thuế thủng, quan lại tham.
+S081	Và khi thiên tai đến, dân nhớ tới Thiên mệnh. Nếu Trời giận, thì chắc hoàng đế đã sai.
+S082	Đó là lý do một cơn hạn hán có thể trở thành một cuộc cách mạng.
+S083	Rồi còn kẻ thù bên ngoài.
+S084	Thảo nguyên phương Bắc luôn là mối đe dọa: người Hung Nô, Khiết Đan, Nữ Chân, Mông Cổ, Mãn.
+S085	Nhà Tống mất miền Bắc cho người Nữ Chân năm 1127, rồi mất tất cả cho người Mông Cổ năm 1279.
+S086	Nhưng ngoại xâm hiếm khi hạ được một triều đại đang khỏe. Nó thường chỉ đến đúng lúc bên trong đã mục.
+S087	Nghiên cứu về nhà Thanh cũng kết luận tương tự: thiên tai và ngoại xâm, tự chúng, chưa đủ để đánh sập một triều đại.
+S088	Giờ hãy xem những cơ chế ấy vận hành trong vài triều đại cụ thể.
+S089	Nhà Tần thống nhất Trung Hoa năm 221 trước Công nguyên. Và chỉ tồn tại 15 năm.
+S090	Họ thống nhất chữ viết, cân đo, tiền tệ, xây đường xá và trường thành, chỉ trong vài năm.
+S091	Nhưng nhà nước đòi hỏi hàng trăm nghìn người đi phu, đi lính, với hình luật cực kỳ nghiêm khắc.
+S092	Năm 209 trước Công nguyên, hai người lính nghèo là Trần Thắng và Ngô Quảng gặp mưa lớn, biết mình sẽ đến trễ hạn. Mà đến trễ thì bị chém.
+S093	Họ quyết định nổi dậy, vì trễ hạn hay nổi loạn thì cũng chết như nhau.
+S094	Ba năm sau, nhà Tần sụp đổ.
+S095	Khoảng tám thế kỷ sau, nhà Tùy lặp lại đúng kịch bản: kênh đào khổng lồ, những chiến dịch đánh Cao Câu Ly liên tiếp, dân phu kiệt sức.
+S096	Nhà Tùy tồn tại 37 năm. Hai triều đại ấy chết nhanh vì cùng một lỗi: đòi quá nhiều từ dân trong quá ít thời gian.
+S097	Nhà Đường thì khôn hơn: họ sống tới 289 năm.
+S098	Đến thời Huyền Tông, Trường An là một trong những thành phố lớn nhất thế giới.
+S099	Nhưng đến thập niên 750, chế độ chia ruộng đã mục, quân phủ binh tan rã, và biên quân nằm trong tay các tướng.
+S100	Năm 755, An Lộc Sơn, một tướng gốc Sogdia và Turk chỉ huy ba đạo quân biên cương, nổi dậy.
+S101	Ông chiếm Lạc Dương rồi Trường An. Hoàng đế phải bỏ chạy.
+S102	Cuộc loạn kéo dài tới năm 763. Và triều đình dẹp loạn bằng cách... phong cho các tướng phản loạn làm tiết độ sứ.
+S103	Từ đó, sổ hộ tịch tụt từ khoảng chín triệu hộ xuống còn chừng hai triệu, một phần vì triều đình mất kiểm soát sổ sách.
+S104	Nhà Đường còn sống thêm 144 năm, như một cơ thể mất quyền điều khiển tay chân. Rồi Hoàng Sào nổi dậy năm 875 và đập vỡ nốt.
+S105	Năm 907, nhà Đường kết thúc. Trung Hoa rơi vào một thời loạn.
+S106	Nhà Minh được Chu Nguyên Chương, cậu bé ăn xin ngày nào, lập nên năm 1368.
+S107	Đến cuối thế kỷ 16, hệ thống mục ruỗng: thuế bạc, quan tham, hoạn quan, bè phái, và một hoàng đế bỏ triều.
+S108	Nhà Minh thu thuế bằng bạc. Mà bạc phần lớn được nhập từ châu Mỹ và Nhật Bản.
+S109	Đầu thế kỷ 17, dòng bạc chậm lại, bạc tăng giá, nông dân phải bán nhiều lúa hơn để nộp cùng một khoản thuế.
+S110	Đúng lúc đó là hạn hán, dịch bệnh, đói. Triều đình cắt giảm trạm dịch để tiết kiệm, và một anh lính trạm tên Lý Tự Thành mất việc.
+S111	Anh ta trở thành thủ lĩnh quân khởi nghĩa. Năm 1644, quân của Lý Tự Thành tiến vào Bắc Kinh.
+S112	Hoàng đế Sùng Trinh tự kết liễu đời mình trên ngọn đồi sau vườn cung.
+S113	Rồi tướng Ngô Tam Quế mở cửa ải Sơn Hải cho quân Mãn Thanh, vì ông thấy phe nổi loạn nguy hiểm hơn.
+S114	Nhà Thanh tồn tại 268 năm, từ 1644 đến 1912.
+S115	Năm 1712, hoàng đế Khang Hi tuyên bố cố định thuế đinh theo số dân đương thời, dù dân số sau này có tăng.
+S116	Nghe rất nhân đức. Nhưng dân số Trung Quốc rồi tăng khoảng gấp bốn lần, trong khi số ghế quan và nguồn thu gần như đứng yên.
+S117	Cùng lúc đó là Chiến tranh Thuốc phiện năm 1839, rồi Thái Bình Thiên Quốc năm 1850, một cuộc nội chiến giết hàng chục triệu người.
+S118	Sau đó, các tỉnh giữ lại thuế, dựng quân đội riêng. Nghe quen chưa?
+S119	Năm 1911, khởi nghĩa Vũ Xương bùng nổ. Tháng 2 năm 1912, vị hoàng đế cuối cùng, khi ấy vẫn còn là một đứa trẻ, thoái vị.
+S120	Hơn hai nghìn năm đế chế kết thúc, với đúng những nhân tố cũ: đất, thuế, quan, quân, và thêm một cú sốc từ bên ngoài.
+S121	Vậy sao họ không sửa? Nhiều hoàng đế thông minh cũng thấy vấn đề mà.
+S122	Có người đã thử.
+S123	Vương Mãng, người lập nhà Tân năm 9, đòi quốc hữu hóa ruộng đất và cấm mua bán nô lệ.
+S124	Giới đại địa chủ chống lại, cộng với Hoàng Hà vỡ đê. Năm 23, ông bị giết và cải cách tan biến.
+S125	Vương An Thạch đời Tống, từ năm 1069, cải cách thuế và cho nông dân vay tín dụng. Phe bảo thủ phản đối, và các cải cách bị bãi bỏ dần.
+S126	Trương Cư Chính đời Minh cho đo lại ruộng đất và siết việc thu thuế. Ông mất năm 1582; ít năm sau bị truy cứu, cải cách tan.
+S127	Mẫu số chung: cải cách phải cắt vào lợi ích của chính những người đang vận hành nhà nước.
+S128	Muốn cứu triều đại thì phải lấy đất và đặc quyền từ quan lại, tức là những người hoàng đế cần để cai trị.
+S129	Cho nên hầu hết cải cách hoặc bị bóp chết, hoặc chỉ làm chậm cuộc suy tàn.
+S130	Cái bẫy nằm ở đây: người có quyền sửa hệ thống thường lại là người hưởng lợi từ hệ thống.
+S131	Vậy sự sụp đổ có phải chỉ là thảm họa không? Với những người sống trong đó, chắc chắn là vậy.
+S132	Nhưng với hệ thống, nó là một nút khởi động lại.
+S133	Chiến tranh giết hàng triệu người, đốt sổ sách, xóa sạch tài sản và đặc quyền của địa chủ.
+S134	Triều đại mới nhận một tờ giấy trắng: đất thừa, người thiếu, không ai giữ đặc quyền.
+S135	Và một nhóm mới, cứng cỏi từ vùng biên, khởi động vòng xoáy lần nữa.
+S136	Câu chuyện này không xa lạ với Việt Nam.
+S137	Nhà Lý tồn tại 216 năm, từ 1009 đến 1225.
+S138	Nhà Trần kéo dài 175 năm, từ 1225 đến 1400, và ba lần đánh bại quân Nguyên Mông.
+S139	Nhưng cuối thế kỷ 14, vua yếu, ngoại thích lấn quyền, ruộng đất và nô tỳ dồn vào tay quý tộc, nông dân nổi dậy nhiều nơi.
+S140	Hồ Quý Ly, một ngoại thích, ra tay cải cách: hạn điền, hạn nô, phát hành tiền giấy.
+S141	Năm 1400, ông lập nhà Hồ. Những cải cách ấy chạm thẳng vào quyền lợi của quý tộc.
+S142	Nhà Hồ tồn tại bảy năm, rồi thất bại trước quân Minh vào năm 1407.
+S143	Nhà Lê sơ, từ 1428 đến 1527, đạt đỉnh cao thời Lê Thánh Tông, rồi rơi vào nội loạn và bị Mạc Đăng Dung cướp ngôi.
+S144	Nhà Nguyễn, từ 1802 đến 1945, là triều đại cuối cùng, kết thúc khi vua Bảo Đại thoái vị vào tháng 8 năm 1945.
+S145	Mỗi triều đại có cú sốc riêng, nhưng cái khung — đất, thuế, quan, quân — thì rất giống.
+S146	Vậy có chế độ nào sống rất lâu không?
+S147	Hoàng gia Nhật Bản tồn tại hơn một nghìn năm. Nhưng trong phần lớn thời gian, họ trị vì mà không trực tiếp cai trị.
+S148	Khi chính sách thất bại, người chịu trách nhiệm là người nắm thực quyền, chứ không phải người ngồi trên ngai.
+S149	Trung Hoa thì ngược lại: triều đại thay đi thay lại, nhưng bộ máy quan liêu, khoa cử và chữ viết vẫn tiếp tục.
+S150	Nghĩa là triều đại sụp không có nghĩa là văn minh sụp.
+S151	Triều đại chỉ là bộ vỏ. Và bộ vỏ nào rồi cũng cũ.
+S152	Vậy vì sao không triều đại nào sống mãi?
+S153	Vì mỗi thành công của nó gieo mầm cho thất bại.
+S154	Hòa bình làm dân số tăng. Dân số làm ruộng đất khan hiếm. Đất khan hiếm làm giàu nghèo cách biệt. Cách biệt làm mất nguồn thu, và nhà nước siết dân.
+S155	Trong khi đó, tầng trên cũng tự nở ra, tranh nhau ghế, chia bè phái.
+S156	Rồi một cơn hạn, một trận dịch, một cuộc chiến bên ngoài. Chỉ cần một cú đẩy.
+S157	Không cần ai độc ác hay ngu ngốc. Chỉ cần hệ thống hoạt động đúng như nó được xây.
+S158	Và có lẽ đó là bài học lớn nhất: thứ làm ta mạnh hôm nay, nếu không được điều chỉnh, sẽ là thứ làm ta yếu ngày mai.
+

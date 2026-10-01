@@ -1,0 +1,1198 @@
+{
+  "slug": "preschool-animals-whiteboard-demo",
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "S001",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S001"
+      ],
+      "group": "intro",
+      "animal": "cat",
+      "phase": "welcome",
+      "text": "Chào các bé!",
+      "holdFrames": 15,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 0,
+        "endMs": 2200
+      }
+    },
+    {
+      "id": "S002",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S002"
+      ],
+      "group": "intro",
+      "animal": "cat",
+      "phase": "intro",
+      "text": "Chúng mình cùng nhìn nét vẽ và đoán tên các bạn động vật nhé!",
+      "holdFrames": 15,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 2200,
+        "endMs": 6267
+      }
+    },
+    {
+      "id": "S003",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S003"
+      ],
+      "group": "intro",
+      "animal": "cat",
+      "phase": "rules",
+      "text": "Vẽ xong, bé sẽ có ba giây để đoán tên bạn.",
+      "holdFrames": 25,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 6267,
+        "endMs": 10567
+      }
+    },
+    {
+      "id": "S004",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S004"
+      ],
+      "group": "learn",
+      "animal": "cat",
+      "phase": "draw",
+      "text": "Bé nhìn nét vẽ nhé, người bạn đầu tiên là ai nhỉ?",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 1,
+      "section": 0,
+      "timing": {
+        "startMs": 10567,
+        "endMs": 19567
+      }
+    },
+    {
+      "id": "S005",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S005"
+      ],
+      "group": "learn",
+      "animal": "cat",
+      "phase": "name",
+      "text": "Đây là bạn mèo!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Mèo"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 19567,
+        "endMs": 22133
+      }
+    },
+    {
+      "id": "S006",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S006"
+      ],
+      "group": "learn",
+      "animal": "cat",
+      "phase": "feature",
+      "text": "Bạn Mèo có đôi tai nhọn và những sợi ria ở hai bên má.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 22133,
+        "endMs": 27067
+      }
+    },
+    {
+      "id": "S007",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S007"
+      ],
+      "group": "learn",
+      "animal": "dog",
+      "phase": "draw",
+      "text": "Một bạn mới đang xuất hiện, bé nhìn thật kỹ nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 2,
+      "section": 0,
+      "timing": {
+        "startMs": 27067,
+        "endMs": 36067
+      }
+    },
+    {
+      "id": "S008",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S008"
+      ],
+      "group": "learn",
+      "animal": "dog",
+      "phase": "name",
+      "text": "Đây là bạn chó!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Chó"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 36067,
+        "endMs": 38633
+      }
+    },
+    {
+      "id": "S009",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S009"
+      ],
+      "group": "learn",
+      "animal": "dog",
+      "phase": "feature",
+      "text": "Bạn Chó trong tranh có đôi tai cụp và chiếc đuôi cong.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 38633,
+        "endMs": 43400
+      }
+    },
+    {
+      "id": "S010",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S010"
+      ],
+      "group": "learn",
+      "animal": "rabbit",
+      "phase": "draw",
+      "text": "Chúng mình cùng khám phá người bạn tiếp theo nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 3,
+      "section": 0,
+      "timing": {
+        "startMs": 43400,
+        "endMs": 52400
+      }
+    },
+    {
+      "id": "S011",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S011"
+      ],
+      "group": "learn",
+      "animal": "rabbit",
+      "phase": "name",
+      "text": "Đây là bạn thỏ!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Thỏ"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 52400,
+        "endMs": 54967
+      }
+    },
+    {
+      "id": "S012",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S012"
+      ],
+      "group": "learn",
+      "animal": "rabbit",
+      "phase": "feature",
+      "text": "Bạn Thỏ có đôi tai dài và chiếc đuôi nhỏ tròn.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 54967,
+        "endMs": 59533
+      }
+    },
+    {
+      "id": "S013",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S013"
+      ],
+      "group": "learn",
+      "animal": "duck",
+      "phase": "draw",
+      "text": "Bé nhìn những nét vẽ này và thử đoán nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 4,
+      "section": 0,
+      "timing": {
+        "startMs": 59533,
+        "endMs": 68533
+      }
+    },
+    {
+      "id": "S014",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S014"
+      ],
+      "group": "learn",
+      "animal": "duck",
+      "phase": "name",
+      "text": "Đây là bạn vịt!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Vịt"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 68533,
+        "endMs": 71033
+      }
+    },
+    {
+      "id": "S015",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S015"
+      ],
+      "group": "learn",
+      "animal": "duck",
+      "phase": "feature",
+      "text": "Bạn Vịt có chiếc mỏ rộng và bàn chân có màng để bơi.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 71033,
+        "endMs": 75800
+      }
+    },
+    {
+      "id": "S016",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S016"
+      ],
+      "group": "quiz",
+      "animal": "rabbit",
+      "phase": "question",
+      "text": "Bé tìm bạn có đôi tai dài nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "cat",
+        "rabbit"
+      ],
+      "question": "Bé tìm bạn có đôi tai dài nhé!",
+      "timing": {
+        "startMs": 75800,
+        "endMs": 81300
+      }
+    },
+    {
+      "id": "S017",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S017"
+      ],
+      "group": "quiz",
+      "animal": "rabbit",
+      "phase": "answer",
+      "text": "Đáp án là bạn thỏ!",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "cat",
+        "rabbit"
+      ],
+      "question": "Bé tìm bạn có đôi tai dài nhé!",
+      "timing": {
+        "startMs": 81300,
+        "endMs": 84467
+      }
+    },
+    {
+      "id": "S018",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S018"
+      ],
+      "group": "learn",
+      "animal": "cow",
+      "phase": "draw",
+      "text": "Bây giờ, chúng mình gặp những bạn ở nông trại nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 5,
+      "section": 1,
+      "timing": {
+        "startMs": 84467,
+        "endMs": 93467
+      }
+    },
+    {
+      "id": "S019",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S019"
+      ],
+      "group": "learn",
+      "animal": "cow",
+      "phase": "name",
+      "text": "Đây là bạn bò!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Bò"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 93467,
+        "endMs": 96033
+      }
+    },
+    {
+      "id": "S020",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S020"
+      ],
+      "group": "learn",
+      "animal": "cow",
+      "phase": "feature",
+      "text": "Bạn Bò trong tranh có những đốm đen trắng và chiếc đuôi dài.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 96033,
+        "endMs": 100967
+      }
+    },
+    {
+      "id": "S021",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S021"
+      ],
+      "group": "learn",
+      "animal": "pig",
+      "phase": "draw",
+      "text": "Người bạn này trông thật đáng yêu, bé đoán xem nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 6,
+      "section": 1,
+      "timing": {
+        "startMs": 100967,
+        "endMs": 109967
+      }
+    },
+    {
+      "id": "S022",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S022"
+      ],
+      "group": "learn",
+      "animal": "pig",
+      "phase": "name",
+      "text": "Đây là bạn lợn!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Lợn"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 109967,
+        "endMs": 112467
+      }
+    },
+    {
+      "id": "S023",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S023"
+      ],
+      "group": "learn",
+      "animal": "pig",
+      "phase": "feature",
+      "text": "Bạn Lợn có chiếc mũi tròn và chiếc đuôi xoăn xinh xắn.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 112467,
+        "endMs": 117233
+      }
+    },
+    {
+      "id": "S024",
+      "chapterId": "C09",
+      "sentenceIds": [
+        "S024"
+      ],
+      "group": "learn",
+      "animal": "goat",
+      "phase": "draw",
+      "text": "Bé cùng nhìn nét vẽ để tìm người bạn mới nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 7,
+      "section": 1,
+      "timing": {
+        "startMs": 117233,
+        "endMs": 126233
+      }
+    },
+    {
+      "id": "S025",
+      "chapterId": "C09",
+      "sentenceIds": [
+        "S025"
+      ],
+      "group": "learn",
+      "animal": "goat",
+      "phase": "name",
+      "text": "Đây là bạn dê!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Dê"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 126233,
+        "endMs": 128733
+      }
+    },
+    {
+      "id": "S026",
+      "chapterId": "C09",
+      "sentenceIds": [
+        "S026"
+      ],
+      "group": "learn",
+      "animal": "goat",
+      "phase": "feature",
+      "text": "Bạn Dê trong tranh có đôi sừng cong và chòm râu nhỏ.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 128733,
+        "endMs": 133400
+      }
+    },
+    {
+      "id": "S027",
+      "chapterId": "C10",
+      "sentenceIds": [
+        "S027"
+      ],
+      "group": "learn",
+      "animal": "hen",
+      "phase": "draw",
+      "text": "Thêm một người bạn nữa đang xuất hiện rồi!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 8,
+      "section": 1,
+      "timing": {
+        "startMs": 133400,
+        "endMs": 142400
+      }
+    },
+    {
+      "id": "S028",
+      "chapterId": "C10",
+      "sentenceIds": [
+        "S028"
+      ],
+      "group": "learn",
+      "animal": "hen",
+      "phase": "name",
+      "text": "Đây là bạn gà mái!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Gà mái"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 142400,
+        "endMs": 145167
+      }
+    },
+    {
+      "id": "S029",
+      "chapterId": "C10",
+      "sentenceIds": [
+        "S029"
+      ],
+      "group": "learn",
+      "animal": "hen",
+      "phase": "feature",
+      "text": "Bạn Gà mái trong tranh có chiếc mào đỏ và đôi cánh.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 145167,
+        "endMs": 149733
+      }
+    },
+    {
+      "id": "S030",
+      "chapterId": "C11",
+      "sentenceIds": [
+        "S030"
+      ],
+      "group": "quiz",
+      "animal": "pig",
+      "phase": "question",
+      "text": "Bé tìm bạn có chiếc đuôi xoăn nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "pig",
+        "hen"
+      ],
+      "question": "Bé tìm bạn có chiếc đuôi xoăn nhé!",
+      "timing": {
+        "startMs": 149733,
+        "endMs": 155233
+      }
+    },
+    {
+      "id": "S031",
+      "chapterId": "C11",
+      "sentenceIds": [
+        "S031"
+      ],
+      "group": "quiz",
+      "animal": "pig",
+      "phase": "answer",
+      "text": "Đáp án là bạn lợn!",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "pig",
+        "hen"
+      ],
+      "question": "Bé tìm bạn có chiếc đuôi xoăn nhé!",
+      "timing": {
+        "startMs": 155233,
+        "endMs": 158400
+      }
+    },
+    {
+      "id": "S032",
+      "chapterId": "C12",
+      "sentenceIds": [
+        "S032"
+      ],
+      "group": "learn",
+      "animal": "elephant",
+      "phase": "draw",
+      "text": "Chúng mình cùng khám phá thêm những bạn mới nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 9,
+      "section": 2,
+      "timing": {
+        "startMs": 158400,
+        "endMs": 167400
+      }
+    },
+    {
+      "id": "S033",
+      "chapterId": "C12",
+      "sentenceIds": [
+        "S033"
+      ],
+      "group": "learn",
+      "animal": "elephant",
+      "phase": "name",
+      "text": "Đây là bạn voi!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Voi"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 167400,
+        "endMs": 169967
+      }
+    },
+    {
+      "id": "S034",
+      "chapterId": "C12",
+      "sentenceIds": [
+        "S034"
+      ],
+      "group": "learn",
+      "animal": "elephant",
+      "phase": "feature",
+      "text": "Bạn Voi có chiếc vòi dài và đôi tai to.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 169967,
+        "endMs": 174200
+      }
+    },
+    {
+      "id": "S035",
+      "chapterId": "C13",
+      "sentenceIds": [
+        "S035"
+      ],
+      "group": "learn",
+      "animal": "giraffe",
+      "phase": "draw",
+      "text": "Bé nhìn kỹ nhé, bạn nào đang dần hiện ra?",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 10,
+      "section": 2,
+      "timing": {
+        "startMs": 174200,
+        "endMs": 183200
+      }
+    },
+    {
+      "id": "S036",
+      "chapterId": "C13",
+      "sentenceIds": [
+        "S036"
+      ],
+      "group": "learn",
+      "animal": "giraffe",
+      "phase": "name",
+      "text": "Đây là bạn hươu cao cổ!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Hươu cao cổ"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 183200,
+        "endMs": 186033
+      }
+    },
+    {
+      "id": "S037",
+      "chapterId": "C13",
+      "sentenceIds": [
+        "S037"
+      ],
+      "group": "learn",
+      "animal": "giraffe",
+      "phase": "feature",
+      "text": "Bạn Hươu cao cổ có chiếc cổ dài và những đốm nâu trên mình.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 186033,
+        "endMs": 190967
+      }
+    },
+    {
+      "id": "S038",
+      "chapterId": "C14",
+      "sentenceIds": [
+        "S038"
+      ],
+      "group": "learn",
+      "animal": "tortoise",
+      "phase": "draw",
+      "text": "Mình cùng tìm người bạn tiếp theo qua nét vẽ nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 210,
+      "lessonIndex": 11,
+      "section": 2,
+      "timing": {
+        "startMs": 190967,
+        "endMs": 200967
+      }
+    },
+    {
+      "id": "S039",
+      "chapterId": "C14",
+      "sentenceIds": [
+        "S039"
+      ],
+      "group": "learn",
+      "animal": "tortoise",
+      "phase": "name",
+      "text": "Đây là bạn rùa!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Rùa"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 200967,
+        "endMs": 203633
+      }
+    },
+    {
+      "id": "S040",
+      "chapterId": "C14",
+      "sentenceIds": [
+        "S040"
+      ],
+      "group": "learn",
+      "animal": "tortoise",
+      "phase": "feature",
+      "text": "Bạn Rùa trong tranh có chiếc mai trên lưng và bốn chân.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 203633,
+        "endMs": 208400
+      }
+    },
+    {
+      "id": "S041",
+      "chapterId": "C15",
+      "sentenceIds": [
+        "S041"
+      ],
+      "group": "learn",
+      "animal": "goldfish",
+      "phase": "draw",
+      "text": "Bé thử đoán người bạn cuối cùng nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 12,
+      "section": 2,
+      "timing": {
+        "startMs": 208400,
+        "endMs": 217400
+      }
+    },
+    {
+      "id": "S042",
+      "chapterId": "C15",
+      "sentenceIds": [
+        "S042"
+      ],
+      "group": "learn",
+      "animal": "goldfish",
+      "phase": "name",
+      "text": "Đây là bạn cá vàng!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Cá vàng"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 217400,
+        "endMs": 220233
+      }
+    },
+    {
+      "id": "S043",
+      "chapterId": "C15",
+      "sentenceIds": [
+        "S043"
+      ],
+      "group": "learn",
+      "animal": "goldfish",
+      "phase": "feature",
+      "text": "Bạn Cá vàng có những chiếc vây và chiếc đuôi mềm để bơi.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 220233,
+        "endMs": 225067
+      }
+    },
+    {
+      "id": "S044",
+      "chapterId": "C16",
+      "sentenceIds": [
+        "S044"
+      ],
+      "group": "quiz",
+      "animal": "giraffe",
+      "phase": "question",
+      "text": "Bé tìm bạn có chiếc cổ dài nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "elephant",
+        "giraffe"
+      ],
+      "question": "Bé tìm bạn có chiếc cổ dài nhé!",
+      "timing": {
+        "startMs": 225067,
+        "endMs": 230733
+      }
+    },
+    {
+      "id": "S045",
+      "chapterId": "C16",
+      "sentenceIds": [
+        "S045"
+      ],
+      "group": "quiz",
+      "animal": "giraffe",
+      "phase": "answer",
+      "text": "Đáp án là bạn hươu cao cổ!",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "elephant",
+        "giraffe"
+      ],
+      "question": "Bé tìm bạn có chiếc cổ dài nhé!",
+      "timing": {
+        "startMs": 230733,
+        "endMs": 234333
+      }
+    },
+    {
+      "id": "S046",
+      "chapterId": "C17",
+      "sentenceIds": [
+        "S046"
+      ],
+      "group": "outro",
+      "animal": "cat",
+      "phase": "review",
+      "text": "Bé cùng gọi tên bạn mèo, bạn chó, bạn thỏ và bạn vịt nhé!",
+      "holdFrames": 40,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "reviewAnimals": [
+        "cat",
+        "dog",
+        "rabbit",
+        "duck"
+      ],
+      "timing": {
+        "startMs": 234333,
+        "endMs": 239500
+      }
+    },
+    {
+      "id": "S047",
+      "chapterId": "C17",
+      "sentenceIds": [
+        "S047"
+      ],
+      "group": "outro",
+      "animal": "cow",
+      "phase": "review",
+      "text": "Bé cùng gọi tên bạn bò, bạn lợn, bạn dê và bạn gà mái nhé!",
+      "holdFrames": 40,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "reviewAnimals": [
+        "cow",
+        "pig",
+        "goat",
+        "hen"
+      ],
+      "timing": {
+        "startMs": 239500,
+        "endMs": 244933
+      }
+    },
+    {
+      "id": "S048",
+      "chapterId": "C17",
+      "sentenceIds": [
+        "S048"
+      ],
+      "group": "outro",
+      "animal": "elephant",
+      "phase": "review",
+      "text": "Bé cùng gọi tên bạn voi, bạn hươu cao cổ, bạn rùa và bạn cá vàng nhé!",
+      "holdFrames": 40,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "reviewAnimals": [
+        "elephant",
+        "giraffe",
+        "tortoise",
+        "goldfish"
+      ],
+      "timing": {
+        "startMs": 244933,
+        "endMs": 250800
+      }
+    },
+    {
+      "id": "S049",
+      "chapterId": "C17",
+      "sentenceIds": [
+        "S049"
+      ],
+      "group": "outro",
+      "animal": "goldfish",
+      "phase": "bye",
+      "text": "Bé hãy cùng người lớn gọi tên các bạn lần nữa nhé!",
+      "holdFrames": 40,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "reviewAnimals": [
+        "elephant",
+        "giraffe",
+        "tortoise",
+        "goldfish"
+      ],
+      "timing": {
+        "startMs": 250800,
+        "endMs": 255333
+      }
+    }
+  ]
+}

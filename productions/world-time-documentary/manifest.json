@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "slug": "world-time-documentary",
+  "settings": {
+    "format": "long",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice": "Trúc Ly",
+    "sampleRate": 48000,
+    "style": "Vox-style anime 2D",
+    "backgroundMusic": false
+  },
+  "blockers": [],
+  "stages": {
+    "script": {
+      "inputs": [
+        "productions/world-time-documentary/brief.md"
+      ],
+      "outputs": [
+        "productions/world-time-documentary/script.md",
+        "productions/world-time-documentary/narration.txt",
+        "productions/world-time-documentary/sources.md"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T09:48:52.370Z",
+        "note": "Reviewed 64 Vietnamese narration sentences, sources, and documentary editorial claim.",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [
+            "productions/world-time-documentary/brief.md"
+          ],
+          "outputs": [
+            "productions/world-time-documentary/script.md",
+            "productions/world-time-documentary/narration.txt",
+            "productions/world-time-documentary/sources.md"
+          ],
+          "files": {
+            "productions/world-time-documentary/brief.md": "d627b6002b2fa5bb164e8e737df8632d5bfbcbd4b2e91fce17e0178f3275bdee",
+            "productions/world-time-documentary/script.md": "d2fab2f128e41eaddcb1c0eea0aeacfe849281d8b00c87bfca2a6bce398785e4",
+            "productions/world-time-documentary/narration.txt": "3bf728a89818cc9c9fbc16e3497c71a156f9cf7f45cc3d0d6f3d774da6154aca",
+            "productions/world-time-documentary/sources.md": "91130fefe6e1ca3edfd2600f3cc630d6e52a93e478bbfabca6c3c483326286d0"
+          },
+          "dependencies": {}
+        }
+      }
+    },
+    "storyboard": {
+      "inputs": [
+        "productions/world-time-documentary/script.md"
+      ],
+      "outputs": [
+        "productions/world-time-documentary/storyboard.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T09:48:52.450Z",
+        "note": "Validated 128 scene-to-sentence records and 16:9 prompts.",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [
+            "productions/world-time-documentary/script.md"
+          ],
+          "outputs": [
+            "productions/world-time-documentary/storyboard.json"
+          ],
+          "files": {
+            "productions/world-time-documentary/script.md": "d2fab2f128e41eaddcb1c0eea0aeacfe849281d8b00c87bfca2a6bce398785e4",
+            "productions/world-time-documentary/storyboard.json": "ea636336222e9f6ef96bcb4dc051df247101dcf9f61f46f7fc5beb4929b12432"
+          },
+          "dependencies": {
+            "script": "6dcc2533c6e6a61db55ca9a45a085e4850d0f259ed7b43a2e4b49da2d87e0d31"
+          }
+        }
+      }
+    },
+    "images": {
+      "inputs": [
+        "productions/world-time-documentary/storyboard.json"
+      ],
+      "outputs": [
+        "productions/world-time-documentary/image-assets.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T09:48:52.534Z",
+        "note": "Verified 128 non-empty generated PNG assets and matching image inventory.",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [
+            "productions/world-time-documentary/storyboard.json"
+          ],
+          "outputs": [
+            "productions/world-time-documentary/image-assets.json"
+          ],
+          "files": {
+            "productions/world-time-documentary/storyboard.json": "ea636336222e9f6ef96bcb4dc051df247101dcf9f61f46f7fc5beb4929b12432",
+            "productions/world-time-documentary/image-assets.json": "77b4f28ce3b11c9811a6ba6f4190b7d4264ccdc20ecdcb0a0a47fdcea238ec78"
+          },
+          "dependencies": {
+            "storyboard": "0f7463344332d6c78ac7503af2d06b0b2d9f0269ffdc9971b937249ab1320fe8"
+          }
+        }
+      }
+    },
+    "audio": {
+      "inputs": [
+        "productions/world-time-documentary/narration.txt",
+        "scripts/generate_tts_sentences.py"
+      ],
+      "outputs": [
+        "public/audio/world-time-documentary/sentences_manifest.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T10:12:20.229Z",
+        "note": "Generated 64 WAV sentences with Trúc Ly VieNeu-TTS v3 Turbo on CUDA RTX 3060",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [
+            "productions/world-time-documentary/narration.txt",
+            "scripts/generate_tts_sentences.py"
+          ],
+          "outputs": [
+            "public/audio/world-time-documentary/sentences_manifest.json"
+          ],
+          "files": {
+            "productions/world-time-documentary/narration.txt": "3bf728a89818cc9c9fbc16e3497c71a156f9cf7f45cc3d0d6f3d774da6154aca",
+            "scripts/generate_tts_sentences.py": "fc71cdda51c7314ce834b667bb16513c694dd3c388a239651097e4433e7303f3",
+            "public/audio/world-time-documentary/sentences_manifest.json": "b8930122ba64f4067f24e347dc463c30787225135f55292970ea1a0141566002"
+          },
+          "dependencies": {
+            "script": "6dcc2533c6e6a61db55ca9a45a085e4850d0f259ed7b43a2e4b49da2d87e0d31"
+          }
+        }
+      }
+    },
+    "captions": {
+      "inputs": [
+        "public/audio/world-time-documentary/sentences_manifest.json",
+        "productions/world-time-documentary/narration.txt"
+      ],
+      "outputs": [
+        "src/data/world-time-documentary/captions.json"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T10:17:12.827Z",
+        "note": "Transcribed with whisper.cpp and aligned bilingual English subtitles",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [
+            "public/audio/world-time-documentary/sentences_manifest.json",
+            "productions/world-time-documentary/narration.txt"
+          ],
+          "outputs": [
+            "src/data/world-time-documentary/captions.json"
+          ],
+          "files": {
+            "public/audio/world-time-documentary/sentences_manifest.json": "b8930122ba64f4067f24e347dc463c30787225135f55292970ea1a0141566002",
+            "productions/world-time-documentary/narration.txt": "3bf728a89818cc9c9fbc16e3497c71a156f9cf7f45cc3d0d6f3d774da6154aca",
+            "src/data/world-time-documentary/captions.json": "28b81828af3eef6b0c99be584bd0fc762eb8aa31167239f6c9b98040f8b17219"
+          },
+          "dependencies": {
+            "audio": "fbaa31b2a8e7d4f3f256a9ea3516e9d5a64c128e381af1a0c0a7af39eaa0e35f"
+          }
+        }
+      }
+    },
+    "composition": {
+      "inputs": [
+        "productions/world-time-documentary/storyboard.json",
+        "src/data/world-time-documentary/captions.json"
+      ],
+      "outputs": [
+        "src/WorldTimeDocumentary.tsx",
+        "src/data/worldTimeData.ts",
+        "src/data/worldTimeCaptions.ts"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T10:36:09.853Z",
+        "note": "Added WorldTimeAtmosphere and TransitionOverlay",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [
+            "productions/world-time-documentary/storyboard.json",
+            "src/data/world-time-documentary/captions.json"
+          ],
+          "outputs": [
+            "src/WorldTimeDocumentary.tsx",
+            "src/data/worldTimeData.ts",
+            "src/data/worldTimeCaptions.ts"
+          ],
+          "files": {
+            "productions/world-time-documentary/storyboard.json": "ea636336222e9f6ef96bcb4dc051df247101dcf9f61f46f7fc5beb4929b12432",
+            "src/data/world-time-documentary/captions.json": "28b81828af3eef6b0c99be584bd0fc762eb8aa31167239f6c9b98040f8b17219",
+            "src/WorldTimeDocumentary.tsx": "1df1ec6f69365a17438e6856bb8ef678d4412c490c94c1d67f5ada9f8b250ac0",
+            "src/data/worldTimeData.ts": "f06df43bd8a4e63a5b3978d02fb9377e145beeb12bb706e1a7c22c7b54026428",
+            "src/data/worldTimeCaptions.ts": "6a1576916cfb2e438f8892c097504bafe4cdccd6e6fed4e20d25d629a39a608f"
+          },
+          "dependencies": {
+            "storyboard": "0f7463344332d6c78ac7503af2d06b0b2d9f0269ffdc9971b937249ab1320fe8",
+            "images": "c941ff1136568c954c5392b8e35b5ed6c3134fa6a44050067d4005ded373e57d",
+            "audio": "fbaa31b2a8e7d4f3f256a9ea3516e9d5a64c128e381af1a0c0a7af39eaa0e35f",
+            "captions": "208690fbc82d0458715da555df7739dc79cc2efb1fa723c94c5209538b20fea6"
+          }
+        }
+      }
+    },
+    "qa": {
+      "inputs": [],
+      "outputs": [
+        "productions/world-time-documentary/qa.md"
+      ],
+      "checkpoint": {
+        "at": "2026-09-30T10:36:09.922Z",
+        "note": "Verified atmosphere effects, transitions, captions, and Trà Xanh poses",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [],
+          "outputs": [
+            "productions/world-time-documentary/qa.md"
+          ],
+          "files": {
+            "productions/world-time-documentary/qa.md": "a27cc4d2dae2388617bbe0a82783210da28a034b9ff5b56fc56797b1c2fd8ee5"
+          },
+          "dependencies": {
+            "composition": "360c09def25502fdb831d3c5fb62779a94720a88391201ccf15a66ac0660eb97"
+          }
+        }
+      }
+    },
+    "render": {
+      "inputs": [
+        "productions/world-time-documentary/qa.md"
+      ],
+      "outputs": [
+        "out/world-time-documentary/world-time-documentary.mp4"
+      ],
+      "checkpoint": null
+    }
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "slug": "world-time-documentary",
+  "aspectRatio": "16:9",
+  "generatedCount": 128,
+  "assets": [
+    {
+      "id": "I001",
+      "file": "public/images/world-time-documentary/001.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I002",
+      "file": "public/images/world-time-documentary/002.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I003",
+      "file": "public/images/world-time-documentary/003.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I004",
+      "file": "public/images/world-time-documentary/004.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I005",
+      "file": "public/images/world-time-documentary/005.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I006",
+      "file": "public/images/world-time-documentary/006.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I007",
+      "file": "public/images/world-time-documentary/007.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I008",
+      "file": "public/images/world-time-documentary/008.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I009",
+      "file": "public/images/world-time-documentary/009.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I010",
+      "file": "public/images/world-time-documentary/010.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I011",
+      "file": "public/images/world-time-documentary/011.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I012",
+      "file": "public/images/world-time-documentary/012.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I013",
+      "file": "public/images/world-time-documentary/013.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I014",
+      "file": "public/images/world-time-documentary/014.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I015",
+      "file": "public/images/world-time-documentary/015.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I016",
+      "file": "public/images/world-time-documentary/016.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I017",
+      "file": "public/images/world-time-documentary/017.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I018",
+      "file": "public/images/world-time-documentary/018.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I019",
+      "file": "public/images/world-time-documentary/019.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I020",
+      "file": "public/images/world-time-documentary/020.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I021",
+      "file": "public/images/world-time-documentary/021.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I022",
+      "file": "public/images/world-time-documentary/022.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I023",
+      "file": "public/images/world-time-documentary/023.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I024",
+      "file": "public/images/world-time-documentary/024.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I025",
+      "file": "public/images/world-time-documentary/025.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I026",
+      "file": "public/images/world-time-documentary/026.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I027",
+      "file": "public/images/world-time-documentary/027.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I028",
+      "file": "public/images/world-time-documentary/028.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I029",
+      "file": "public/images/world-time-documentary/029.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I030",
+      "file": "public/images/world-time-documentary/030.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I031",
+      "file": "public/images/world-time-documentary/031.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I032",
+      "file": "public/images/world-time-documentary/032.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I033",
+      "file": "public/images/world-time-documentary/033.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I034",
+      "file": "public/images/world-time-documentary/034.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I035",
+      "file": "public/images/world-time-documentary/035.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I036",
+      "file": "public/images/world-time-documentary/036.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I037",
+      "file": "public/images/world-time-documentary/037.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I038",
+      "file": "public/images/world-time-documentary/038.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I039",
+      "file": "public/images/world-time-documentary/039.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I040",
+      "file": "public/images/world-time-documentary/040.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I041",
+      "file": "public/images/world-time-documentary/041.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I042",
+      "file": "public/images/world-time-documentary/042.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I043",
+      "file": "public/images/world-time-documentary/043.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I044",
+      "file": "public/images/world-time-documentary/044.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I045",
+      "file": "public/images/world-time-documentary/045.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I046",
+      "file": "public/images/world-time-documentary/046.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I047",
+      "file": "public/images/world-time-documentary/047.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I048",
+      "file": "public/images/world-time-documentary/048.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I049",
+      "file": "public/images/world-time-documentary/049.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I050",
+      "file": "public/images/world-time-documentary/050.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I051",
+      "file": "public/images/world-time-documentary/051.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I052",
+      "file": "public/images/world-time-documentary/052.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I053",
+      "file": "public/images/world-time-documentary/053.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I054",
+      "file": "public/images/world-time-documentary/054.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I055",
+      "file": "public/images/world-time-documentary/055.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I056",
+      "file": "public/images/world-time-documentary/056.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I057",
+      "file": "public/images/world-time-documentary/057.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I058",
+      "file": "public/images/world-time-documentary/058.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I059",
+      "file": "public/images/world-time-documentary/059.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I060",
+      "file": "public/images/world-time-documentary/060.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I061",
+      "file": "public/images/world-time-documentary/061.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I062",
+      "file": "public/images/world-time-documentary/062.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I063",
+      "file": "public/images/world-time-documentary/063.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I064",
+      "file": "public/images/world-time-documentary/064.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I065",
+      "file": "public/images/world-time-documentary/065.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I066",
+      "file": "public/images/world-time-documentary/066.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I067",
+      "file": "public/images/world-time-documentary/067.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I068",
+      "file": "public/images/world-time-documentary/068.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I069",
+      "file": "public/images/world-time-documentary/069.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I070",
+      "file": "public/images/world-time-documentary/070.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I071",
+      "file": "public/images/world-time-documentary/071.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I072",
+      "file": "public/images/world-time-documentary/072.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I073",
+      "file": "public/images/world-time-documentary/073.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I074",
+      "file": "public/images/world-time-documentary/074.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I075",
+      "file": "public/images/world-time-documentary/075.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I076",
+      "file": "public/images/world-time-documentary/076.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I077",
+      "file": "public/images/world-time-documentary/077.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I078",
+      "file": "public/images/world-time-documentary/078.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I079",
+      "file": "public/images/world-time-documentary/079.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I080",
+      "file": "public/images/world-time-documentary/080.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I081",
+      "file": "public/images/world-time-documentary/081.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I082",
+      "file": "public/images/world-time-documentary/082.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I083",
+      "file": "public/images/world-time-documentary/083.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I084",
+      "file": "public/images/world-time-documentary/084.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I085",
+      "file": "public/images/world-time-documentary/085.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I086",
+      "file": "public/images/world-time-documentary/086.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I087",
+      "file": "public/images/world-time-documentary/087.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I088",
+      "file": "public/images/world-time-documentary/088.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I089",
+      "file": "public/images/world-time-documentary/089.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I090",
+      "file": "public/images/world-time-documentary/090.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I091",
+      "file": "public/images/world-time-documentary/091.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I092",
+      "file": "public/images/world-time-documentary/092.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I093",
+      "file": "public/images/world-time-documentary/093.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I094",
+      "file": "public/images/world-time-documentary/094.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I095",
+      "file": "public/images/world-time-documentary/095.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I096",
+      "file": "public/images/world-time-documentary/096.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I097",
+      "file": "public/images/world-time-documentary/097.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I098",
+      "file": "public/images/world-time-documentary/098.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I099",
+      "file": "public/images/world-time-documentary/099.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I100",
+      "file": "public/images/world-time-documentary/100.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I101",
+      "file": "public/images/world-time-documentary/101.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I102",
+      "file": "public/images/world-time-documentary/102.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I103",
+      "file": "public/images/world-time-documentary/103.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I104",
+      "file": "public/images/world-time-documentary/104.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I105",
+      "file": "public/images/world-time-documentary/105.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I106",
+      "file": "public/images/world-time-documentary/106.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I107",
+      "file": "public/images/world-time-documentary/107.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I108",
+      "file": "public/images/world-time-documentary/108.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I109",
+      "file": "public/images/world-time-documentary/109.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I110",
+      "file": "public/images/world-time-documentary/110.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I111",
+      "file": "public/images/world-time-documentary/111.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I112",
+      "file": "public/images/world-time-documentary/112.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I113",
+      "file": "public/images/world-time-documentary/113.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I114",
+      "file": "public/images/world-time-documentary/114.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I115",
+      "file": "public/images/world-time-documentary/115.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I116",
+      "file": "public/images/world-time-documentary/116.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I117",
+      "file": "public/images/world-time-documentary/117.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I118",
+      "file": "public/images/world-time-documentary/118.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I119",
+      "file": "public/images/world-time-documentary/119.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I120",
+      "file": "public/images/world-time-documentary/120.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I121",
+      "file": "public/images/world-time-documentary/121.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I122",
+      "file": "public/images/world-time-documentary/122.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I123",
+      "file": "public/images/world-time-documentary/123.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I124",
+      "file": "public/images/world-time-documentary/124.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I125",
+      "file": "public/images/world-time-documentary/125.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I126",
+      "file": "public/images/world-time-documentary/126.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I127",
+      "file": "public/images/world-time-documentary/127.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    },
+    {
+      "id": "I128",
+      "file": "public/images/world-time-documentary/128.png",
+      "status": "generated",
+      "generatedAt": "2026-09-30"
+    }
+  ]
+}
+

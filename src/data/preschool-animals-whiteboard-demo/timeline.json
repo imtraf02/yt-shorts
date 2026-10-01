@@ -1,0 +1,2434 @@
+{
+  "slug": "preschool-animals-whiteboard-demo",
+  "fps": 30,
+  "playbackRate": 0.9,
+  "durationInFrames": 7660,
+  "sentences": [
+    {
+      "id": "S001",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S001"
+      ],
+      "group": "intro",
+      "animal": "cat",
+      "phase": "welcome",
+      "text": "Chào các bé!",
+      "holdFrames": 15,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 0,
+        "endMs": 2200
+      },
+      "start": 0,
+      "duration": 66,
+      "audioFrames": 51,
+      "speechMs": 1066.6666666666667,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S001.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S002",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S002"
+      ],
+      "group": "intro",
+      "animal": "cat",
+      "phase": "intro",
+      "text": "Chúng mình cùng nhìn nét vẽ và đoán tên các bạn động vật nhé!",
+      "holdFrames": 15,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 2200,
+        "endMs": 6267
+      },
+      "start": 66,
+      "duration": 122,
+      "audioFrames": 107,
+      "speechMs": 2933.3333333333335,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S002.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S003",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S003"
+      ],
+      "group": "intro",
+      "animal": "cat",
+      "phase": "rules",
+      "text": "Vẽ xong, bé sẽ có ba giây để đoán tên bạn.",
+      "holdFrames": 25,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 6267,
+        "endMs": 10567
+      },
+      "start": 188,
+      "duration": 129,
+      "audioFrames": 104,
+      "speechMs": 2844.4444444444443,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S003.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S004",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S004"
+      ],
+      "group": "learn",
+      "animal": "cat",
+      "phase": "draw",
+      "text": "Bé nhìn nét vẽ nhé, người bạn đầu tiên là ai nhỉ?",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 1,
+      "section": 0,
+      "timing": {
+        "startMs": 10567,
+        "endMs": 19567
+      },
+      "start": 317,
+      "duration": 270,
+      "audioFrames": 99,
+      "speechMs": 2666.6666666666665,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S004.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S005",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S005"
+      ],
+      "group": "learn",
+      "animal": "cat",
+      "phase": "name",
+      "text": "Đây là bạn mèo!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Mèo"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 19567,
+        "endMs": 22133
+      },
+      "start": 587,
+      "duration": 77,
+      "audioFrames": 53,
+      "speechMs": 1155.5555555555554,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S005.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S006",
+      "chapterId": "C02",
+      "sentenceIds": [
+        "S006"
+      ],
+      "group": "learn",
+      "animal": "cat",
+      "phase": "feature",
+      "text": "Bạn Mèo có đôi tai nhọn và những sợi ria ở hai bên má.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 22133,
+        "endMs": 27067
+      },
+      "start": 664,
+      "duration": 148,
+      "audioFrames": 112,
+      "speechMs": 3111.111111111111,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S006.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S007",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S007"
+      ],
+      "group": "learn",
+      "animal": "dog",
+      "phase": "draw",
+      "text": "Một bạn mới đang xuất hiện, bé nhìn thật kỹ nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 2,
+      "section": 0,
+      "timing": {
+        "startMs": 27067,
+        "endMs": 36067
+      },
+      "start": 812,
+      "duration": 270,
+      "audioFrames": 99,
+      "speechMs": 2666.6666666666665,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S007.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S008",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S008"
+      ],
+      "group": "learn",
+      "animal": "dog",
+      "phase": "name",
+      "text": "Đây là bạn chó!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Chó"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 36067,
+        "endMs": 38633
+      },
+      "start": 1082,
+      "duration": 77,
+      "audioFrames": 53,
+      "speechMs": 1155.5555555555554,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S008.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S009",
+      "chapterId": "C03",
+      "sentenceIds": [
+        "S009"
+      ],
+      "group": "learn",
+      "animal": "dog",
+      "phase": "feature",
+      "text": "Bạn Chó trong tranh có đôi tai cụp và chiếc đuôi cong.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 38633,
+        "endMs": 43400
+      },
+      "start": 1159,
+      "duration": 143,
+      "audioFrames": 107,
+      "speechMs": 2933.3333333333335,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S009.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S010",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S010"
+      ],
+      "group": "learn",
+      "animal": "rabbit",
+      "phase": "draw",
+      "text": "Chúng mình cùng khám phá người bạn tiếp theo nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 3,
+      "section": 0,
+      "timing": {
+        "startMs": 43400,
+        "endMs": 52400
+      },
+      "start": 1302,
+      "duration": 270,
+      "audioFrames": 88,
+      "speechMs": 2311.111111111111,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S010.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S011",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S011"
+      ],
+      "group": "learn",
+      "animal": "rabbit",
+      "phase": "name",
+      "text": "Đây là bạn thỏ!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Thỏ"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 52400,
+        "endMs": 54967
+      },
+      "start": 1572,
+      "duration": 77,
+      "audioFrames": 53,
+      "speechMs": 1155.5555555555554,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S011.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S012",
+      "chapterId": "C04",
+      "sentenceIds": [
+        "S012"
+      ],
+      "group": "learn",
+      "animal": "rabbit",
+      "phase": "feature",
+      "text": "Bạn Thỏ có đôi tai dài và chiếc đuôi nhỏ tròn.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 54967,
+        "endMs": 59533
+      },
+      "start": 1649,
+      "duration": 137,
+      "audioFrames": 101,
+      "speechMs": 2755.5555555555557,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S012.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S013",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S013"
+      ],
+      "group": "learn",
+      "animal": "duck",
+      "phase": "draw",
+      "text": "Bé nhìn những nét vẽ này và thử đoán nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 4,
+      "section": 0,
+      "timing": {
+        "startMs": 59533,
+        "endMs": 68533
+      },
+      "start": 1786,
+      "duration": 270,
+      "audioFrames": 85,
+      "speechMs": 2222.222222222222,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S013.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S014",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S014"
+      ],
+      "group": "learn",
+      "animal": "duck",
+      "phase": "name",
+      "text": "Đây là bạn vịt!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Vịt"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 68533,
+        "endMs": 71033
+      },
+      "start": 2056,
+      "duration": 75,
+      "audioFrames": 51,
+      "speechMs": 1066.6666666666667,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S014.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S015",
+      "chapterId": "C05",
+      "sentenceIds": [
+        "S015"
+      ],
+      "group": "learn",
+      "animal": "duck",
+      "phase": "feature",
+      "text": "Bạn Vịt có chiếc mỏ rộng và bàn chân có màng để bơi.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 71033,
+        "endMs": 75800
+      },
+      "start": 2131,
+      "duration": 143,
+      "audioFrames": 107,
+      "speechMs": 2933.3333333333335,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S015.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S016",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S016"
+      ],
+      "group": "quiz",
+      "animal": "rabbit",
+      "phase": "question",
+      "text": "Bé tìm bạn có đôi tai dài nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "cat",
+        "rabbit"
+      ],
+      "question": "Bé tìm bạn có đôi tai dài nhé!",
+      "timing": {
+        "startMs": 75800,
+        "endMs": 81300
+      },
+      "start": 2274,
+      "duration": 165,
+      "audioFrames": 75,
+      "speechMs": 1866.6666666666665,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S016.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S017",
+      "chapterId": "C06",
+      "sentenceIds": [
+        "S017"
+      ],
+      "group": "quiz",
+      "animal": "rabbit",
+      "phase": "answer",
+      "text": "Đáp án là bạn thỏ!",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "cat",
+        "rabbit"
+      ],
+      "question": "Bé tìm bạn có đôi tai dài nhé!",
+      "timing": {
+        "startMs": 81300,
+        "endMs": 84467
+      },
+      "start": 2439,
+      "duration": 95,
+      "audioFrames": 59,
+      "speechMs": 1333.3333333333333,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S017.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S018",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S018"
+      ],
+      "group": "learn",
+      "animal": "cow",
+      "phase": "draw",
+      "text": "Bây giờ, chúng mình gặp những bạn ở nông trại nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 5,
+      "section": 1,
+      "timing": {
+        "startMs": 84467,
+        "endMs": 93467
+      },
+      "start": 2534,
+      "duration": 270,
+      "audioFrames": 99,
+      "speechMs": 2666.6666666666665,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S018.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S019",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S019"
+      ],
+      "group": "learn",
+      "animal": "cow",
+      "phase": "name",
+      "text": "Đây là bạn bò!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Bò"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 93467,
+        "endMs": 96033
+      },
+      "start": 2804,
+      "duration": 77,
+      "audioFrames": 53,
+      "speechMs": 1155.5555555555554,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S019.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S020",
+      "chapterId": "C07",
+      "sentenceIds": [
+        "S020"
+      ],
+      "group": "learn",
+      "animal": "cow",
+      "phase": "feature",
+      "text": "Bạn Bò trong tranh có những đốm đen trắng và chiếc đuôi dài.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 96033,
+        "endMs": 100967
+      },
+      "start": 2881,
+      "duration": 148,
+      "audioFrames": 112,
+      "speechMs": 3111.111111111111,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S020.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S021",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S021"
+      ],
+      "group": "learn",
+      "animal": "pig",
+      "phase": "draw",
+      "text": "Người bạn này trông thật đáng yêu, bé đoán xem nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 6,
+      "section": 1,
+      "timing": {
+        "startMs": 100967,
+        "endMs": 109967
+      },
+      "start": 3029,
+      "duration": 270,
+      "audioFrames": 104,
+      "speechMs": 2844.4444444444443,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S021.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S022",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S022"
+      ],
+      "group": "learn",
+      "animal": "pig",
+      "phase": "name",
+      "text": "Đây là bạn lợn!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Lợn"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 109967,
+        "endMs": 112467
+      },
+      "start": 3299,
+      "duration": 75,
+      "audioFrames": 51,
+      "speechMs": 1066.6666666666667,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S022.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S023",
+      "chapterId": "C08",
+      "sentenceIds": [
+        "S023"
+      ],
+      "group": "learn",
+      "animal": "pig",
+      "phase": "feature",
+      "text": "Bạn Lợn có chiếc mũi tròn và chiếc đuôi xoăn xinh xắn.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 112467,
+        "endMs": 117233
+      },
+      "start": 3374,
+      "duration": 143,
+      "audioFrames": 107,
+      "speechMs": 2933.3333333333335,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S023.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S024",
+      "chapterId": "C09",
+      "sentenceIds": [
+        "S024"
+      ],
+      "group": "learn",
+      "animal": "goat",
+      "phase": "draw",
+      "text": "Bé cùng nhìn nét vẽ để tìm người bạn mới nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 7,
+      "section": 1,
+      "timing": {
+        "startMs": 117233,
+        "endMs": 126233
+      },
+      "start": 3517,
+      "duration": 270,
+      "audioFrames": 93,
+      "speechMs": 2488.8888888888887,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S024.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S025",
+      "chapterId": "C09",
+      "sentenceIds": [
+        "S025"
+      ],
+      "group": "learn",
+      "animal": "goat",
+      "phase": "name",
+      "text": "Đây là bạn dê!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Dê"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 126233,
+        "endMs": 128733
+      },
+      "start": 3787,
+      "duration": 75,
+      "audioFrames": 51,
+      "speechMs": 1066.6666666666667,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S025.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S026",
+      "chapterId": "C09",
+      "sentenceIds": [
+        "S026"
+      ],
+      "group": "learn",
+      "animal": "goat",
+      "phase": "feature",
+      "text": "Bạn Dê trong tranh có đôi sừng cong và chòm râu nhỏ.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 128733,
+        "endMs": 133400
+      },
+      "start": 3862,
+      "duration": 140,
+      "audioFrames": 104,
+      "speechMs": 2844.4444444444443,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S026.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S027",
+      "chapterId": "C10",
+      "sentenceIds": [
+        "S027"
+      ],
+      "group": "learn",
+      "animal": "hen",
+      "phase": "draw",
+      "text": "Thêm một người bạn nữa đang xuất hiện rồi!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 8,
+      "section": 1,
+      "timing": {
+        "startMs": 133400,
+        "endMs": 142400
+      },
+      "start": 4002,
+      "duration": 270,
+      "audioFrames": 85,
+      "speechMs": 2222.222222222222,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S027.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S028",
+      "chapterId": "C10",
+      "sentenceIds": [
+        "S028"
+      ],
+      "group": "learn",
+      "animal": "hen",
+      "phase": "name",
+      "text": "Đây là bạn gà mái!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Gà mái"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 142400,
+        "endMs": 145167
+      },
+      "start": 4272,
+      "duration": 83,
+      "audioFrames": 59,
+      "speechMs": 1333.3333333333333,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S028.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S029",
+      "chapterId": "C10",
+      "sentenceIds": [
+        "S029"
+      ],
+      "group": "learn",
+      "animal": "hen",
+      "phase": "feature",
+      "text": "Bạn Gà mái trong tranh có chiếc mào đỏ và đôi cánh.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 145167,
+        "endMs": 149733
+      },
+      "start": 4355,
+      "duration": 137,
+      "audioFrames": 101,
+      "speechMs": 2755.5555555555557,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S029.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S030",
+      "chapterId": "C11",
+      "sentenceIds": [
+        "S030"
+      ],
+      "group": "quiz",
+      "animal": "pig",
+      "phase": "question",
+      "text": "Bé tìm bạn có chiếc đuôi xoăn nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "pig",
+        "hen"
+      ],
+      "question": "Bé tìm bạn có chiếc đuôi xoăn nhé!",
+      "timing": {
+        "startMs": 149733,
+        "endMs": 155233
+      },
+      "start": 4492,
+      "duration": 165,
+      "audioFrames": 75,
+      "speechMs": 1866.6666666666665,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S030.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S031",
+      "chapterId": "C11",
+      "sentenceIds": [
+        "S031"
+      ],
+      "group": "quiz",
+      "animal": "pig",
+      "phase": "answer",
+      "text": "Đáp án là bạn lợn!",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "pig",
+        "hen"
+      ],
+      "question": "Bé tìm bạn có chiếc đuôi xoăn nhé!",
+      "timing": {
+        "startMs": 155233,
+        "endMs": 158400
+      },
+      "start": 4657,
+      "duration": 95,
+      "audioFrames": 59,
+      "speechMs": 1333.3333333333333,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S031.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S032",
+      "chapterId": "C12",
+      "sentenceIds": [
+        "S032"
+      ],
+      "group": "learn",
+      "animal": "elephant",
+      "phase": "draw",
+      "text": "Chúng mình cùng khám phá thêm những bạn mới nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 9,
+      "section": 2,
+      "timing": {
+        "startMs": 158400,
+        "endMs": 167400
+      },
+      "start": 4752,
+      "duration": 270,
+      "audioFrames": 85,
+      "speechMs": 2222.222222222222,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S032.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S033",
+      "chapterId": "C12",
+      "sentenceIds": [
+        "S033"
+      ],
+      "group": "learn",
+      "animal": "elephant",
+      "phase": "name",
+      "text": "Đây là bạn voi!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Voi"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 167400,
+        "endMs": 169967
+      },
+      "start": 5022,
+      "duration": 77,
+      "audioFrames": 53,
+      "speechMs": 1155.5555555555554,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S033.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S034",
+      "chapterId": "C12",
+      "sentenceIds": [
+        "S034"
+      ],
+      "group": "learn",
+      "animal": "elephant",
+      "phase": "feature",
+      "text": "Bạn Voi có chiếc vòi dài và đôi tai to.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 169967,
+        "endMs": 174200
+      },
+      "start": 5099,
+      "duration": 127,
+      "audioFrames": 91,
+      "speechMs": 2400,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S034.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S035",
+      "chapterId": "C13",
+      "sentenceIds": [
+        "S035"
+      ],
+      "group": "learn",
+      "animal": "giraffe",
+      "phase": "draw",
+      "text": "Bé nhìn kỹ nhé, bạn nào đang dần hiện ra?",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 10,
+      "section": 2,
+      "timing": {
+        "startMs": 174200,
+        "endMs": 183200
+      },
+      "start": 5226,
+      "duration": 270,
+      "audioFrames": 99,
+      "speechMs": 2666.6666666666665,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S035.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S036",
+      "chapterId": "C13",
+      "sentenceIds": [
+        "S036"
+      ],
+      "group": "learn",
+      "animal": "giraffe",
+      "phase": "name",
+      "text": "Đây là bạn hươu cao cổ!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Hươu cao cổ"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 183200,
+        "endMs": 186033
+      },
+      "start": 5496,
+      "duration": 85,
+      "audioFrames": 61,
+      "speechMs": 1422.2222222222222,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S036.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S037",
+      "chapterId": "C13",
+      "sentenceIds": [
+        "S037"
+      ],
+      "group": "learn",
+      "animal": "giraffe",
+      "phase": "feature",
+      "text": "Bạn Hươu cao cổ có chiếc cổ dài và những đốm nâu trên mình.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 186033,
+        "endMs": 190967
+      },
+      "start": 5581,
+      "duration": 148,
+      "audioFrames": 112,
+      "speechMs": 3111.111111111111,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S037.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S038",
+      "chapterId": "C14",
+      "sentenceIds": [
+        "S038"
+      ],
+      "group": "learn",
+      "animal": "tortoise",
+      "phase": "draw",
+      "text": "Mình cùng tìm người bạn tiếp theo qua nét vẽ nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 210,
+      "lessonIndex": 11,
+      "section": 2,
+      "timing": {
+        "startMs": 190967,
+        "endMs": 200967
+      },
+      "start": 5729,
+      "duration": 300,
+      "audioFrames": 91,
+      "speechMs": 2400,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S038.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S039",
+      "chapterId": "C14",
+      "sentenceIds": [
+        "S039"
+      ],
+      "group": "learn",
+      "animal": "tortoise",
+      "phase": "name",
+      "text": "Đây là bạn rùa!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Rùa"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 200967,
+        "endMs": 203633
+      },
+      "start": 6029,
+      "duration": 80,
+      "audioFrames": 56,
+      "speechMs": 1244.4444444444443,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S039.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S040",
+      "chapterId": "C14",
+      "sentenceIds": [
+        "S040"
+      ],
+      "group": "learn",
+      "animal": "tortoise",
+      "phase": "feature",
+      "text": "Bạn Rùa trong tranh có chiếc mai trên lưng và bốn chân.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 203633,
+        "endMs": 208400
+      },
+      "start": 6109,
+      "duration": 143,
+      "audioFrames": 107,
+      "speechMs": 2933.3333333333335,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S040.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S041",
+      "chapterId": "C15",
+      "sentenceIds": [
+        "S041"
+      ],
+      "group": "learn",
+      "animal": "goldfish",
+      "phase": "draw",
+      "text": "Bé thử đoán người bạn cuối cùng nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "drawingFrames": 180,
+      "lessonIndex": 12,
+      "section": 2,
+      "timing": {
+        "startMs": 208400,
+        "endMs": 217400
+      },
+      "start": 6252,
+      "duration": 270,
+      "audioFrames": 77,
+      "speechMs": 1955.5555555555554,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S041.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S042",
+      "chapterId": "C15",
+      "sentenceIds": [
+        "S042"
+      ],
+      "group": "learn",
+      "animal": "goldfish",
+      "phase": "name",
+      "text": "Đây là bạn cá vàng!",
+      "holdFrames": 24,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [
+        "Bạn Cá vàng"
+      ],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 217400,
+        "endMs": 220233
+      },
+      "start": 6522,
+      "duration": 85,
+      "audioFrames": 61,
+      "speechMs": 1422.2222222222222,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S042.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S043",
+      "chapterId": "C15",
+      "sentenceIds": [
+        "S043"
+      ],
+      "group": "learn",
+      "animal": "goldfish",
+      "phase": "feature",
+      "text": "Bạn Cá vàng có những chiếc vây và chiếc đuôi mềm để bơi.",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "timing": {
+        "startMs": 220233,
+        "endMs": 225067
+      },
+      "start": 6607,
+      "duration": 145,
+      "audioFrames": 109,
+      "speechMs": 3022.222222222222,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S043.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S044",
+      "chapterId": "C16",
+      "sentenceIds": [
+        "S044"
+      ],
+      "group": "quiz",
+      "animal": "giraffe",
+      "phase": "question",
+      "text": "Bé tìm bạn có chiếc cổ dài nhé!",
+      "holdFrames": 0,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "elephant",
+        "giraffe"
+      ],
+      "question": "Bé tìm bạn có chiếc cổ dài nhé!",
+      "timing": {
+        "startMs": 225067,
+        "endMs": 230733
+      },
+      "start": 6752,
+      "duration": 170,
+      "audioFrames": 80,
+      "speechMs": 2044.4444444444443,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S044.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S045",
+      "chapterId": "C16",
+      "sentenceIds": [
+        "S045"
+      ],
+      "group": "quiz",
+      "animal": "giraffe",
+      "phase": "answer",
+      "text": "Đáp án là bạn hươu cao cổ!",
+      "holdFrames": 36,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "options": [
+        "elephant",
+        "giraffe"
+      ],
+      "question": "Bé tìm bạn có chiếc cổ dài nhé!",
+      "timing": {
+        "startMs": 230733,
+        "endMs": 234333
+      },
+      "start": 6922,
+      "duration": 108,
+      "audioFrames": 72,
+      "speechMs": 1777.7777777777778,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S045.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S046",
+      "chapterId": "C17",
+      "sentenceIds": [
+        "S046"
+      ],
+      "group": "outro",
+      "animal": "cat",
+      "phase": "review",
+      "text": "Bé cùng gọi tên bạn mèo, bạn chó, bạn thỏ và bạn vịt nhé!",
+      "holdFrames": 40,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "reviewAnimals": [
+        "cat",
+        "dog",
+        "rabbit",
+        "duck"
+      ],
+      "timing": {
+        "startMs": 234333,
+        "endMs": 239500
+      },
+      "start": 7030,
+      "duration": 155,
+      "audioFrames": 115,
+      "speechMs": 3200,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S046.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S047",
+      "chapterId": "C17",
+      "sentenceIds": [
+        "S047"
+      ],
+      "group": "outro",
+      "animal": "cow",
+      "phase": "review",
+      "text": "Bé cùng gọi tên bạn bò, bạn lợn, bạn dê và bạn gà mái nhé!",
+      "holdFrames": 40,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "reviewAnimals": [
+        "cow",
+        "pig",
+        "goat",
+        "hen"
+      ],
+      "timing": {
+        "startMs": 239500,
+        "endMs": 244933
+      },
+      "start": 7185,
+      "duration": 163,
+      "audioFrames": 123,
+      "speechMs": 3466.6666666666665,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S047.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S048",
+      "chapterId": "C17",
+      "sentenceIds": [
+        "S048"
+      ],
+      "group": "outro",
+      "animal": "elephant",
+      "phase": "review",
+      "text": "Bé cùng gọi tên bạn voi, bạn hươu cao cổ, bạn rùa và bạn cá vàng nhé!",
+      "holdFrames": 40,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "reviewAnimals": [
+        "elephant",
+        "giraffe",
+        "tortoise",
+        "goldfish"
+      ],
+      "timing": {
+        "startMs": 244933,
+        "endMs": 250800
+      },
+      "start": 7348,
+      "duration": 176,
+      "audioFrames": 136,
+      "speechMs": 3911.111111111111,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S048.wav",
+      "playbackRate": 0.9
+    },
+    {
+      "id": "S049",
+      "chapterId": "C17",
+      "sentenceIds": [
+        "S049"
+      ],
+      "group": "outro",
+      "animal": "goldfish",
+      "phase": "bye",
+      "text": "Bé hãy cùng người lớn gọi tên các bạn lần nữa nhé!",
+      "holdFrames": 40,
+      "kind": "existing-image",
+      "file": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+      "prompt": "User-provided preschool cartoon; user-approved local transparent-background extraction.",
+      "overlayText": [],
+      "status": "verified",
+      "qa": "Original illustration visually inspected; identify visible traits, no invented animal sounds.",
+      "reviewAnimals": [
+        "elephant",
+        "giraffe",
+        "tortoise",
+        "goldfish"
+      ],
+      "timing": {
+        "startMs": 250800,
+        "endMs": 255333
+      },
+      "start": 7524,
+      "duration": 136,
+      "audioFrames": 96,
+      "speechMs": 2577.777777777778,
+      "audioSrc": "audio/preschool-animals-whiteboard-demo/S049.wav",
+      "playbackRate": 0.9
+    }
+  ],
+  "chapters": [
+    {
+      "id": "C01",
+      "group": "intro",
+      "animal": "cat",
+      "start": 0,
+      "duration": 317,
+      "options": [],
+      "question": "",
+      "lessonIndex": 0,
+      "section": 0,
+      "drawEndAt": 0,
+      "countdownAt": 0,
+      "revealAt": 0,
+      "questionSpeechFrames": 32
+    },
+    {
+      "id": "C02",
+      "group": "learn",
+      "animal": "cat",
+      "start": 317,
+      "duration": 495,
+      "options": [],
+      "question": "",
+      "lessonIndex": 1,
+      "section": 0,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 80
+    },
+    {
+      "id": "C03",
+      "group": "learn",
+      "animal": "dog",
+      "start": 812,
+      "duration": 490,
+      "options": [],
+      "question": "",
+      "lessonIndex": 2,
+      "section": 0,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 80
+    },
+    {
+      "id": "C04",
+      "group": "learn",
+      "animal": "rabbit",
+      "start": 1302,
+      "duration": 484,
+      "options": [],
+      "question": "",
+      "lessonIndex": 3,
+      "section": 0,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 70
+    },
+    {
+      "id": "C05",
+      "group": "learn",
+      "animal": "duck",
+      "start": 1786,
+      "duration": 488,
+      "options": [],
+      "question": "",
+      "lessonIndex": 4,
+      "section": 0,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 67
+    },
+    {
+      "id": "C06",
+      "group": "quiz",
+      "animal": "rabbit",
+      "start": 2274,
+      "duration": 260,
+      "options": [
+        "cat",
+        "rabbit"
+      ],
+      "question": "Bé tìm bạn có đôi tai dài nhé!",
+      "lessonIndex": 0,
+      "section": 0,
+      "drawEndAt": 0,
+      "countdownAt": 75,
+      "revealAt": 165,
+      "questionSpeechFrames": 56
+    },
+    {
+      "id": "C07",
+      "group": "learn",
+      "animal": "cow",
+      "start": 2534,
+      "duration": 495,
+      "options": [],
+      "question": "",
+      "lessonIndex": 5,
+      "section": 1,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 80
+    },
+    {
+      "id": "C08",
+      "group": "learn",
+      "animal": "pig",
+      "start": 3029,
+      "duration": 488,
+      "options": [],
+      "question": "",
+      "lessonIndex": 6,
+      "section": 1,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 86
+    },
+    {
+      "id": "C09",
+      "group": "learn",
+      "animal": "goat",
+      "start": 3517,
+      "duration": 485,
+      "options": [],
+      "question": "",
+      "lessonIndex": 7,
+      "section": 1,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 75
+    },
+    {
+      "id": "C10",
+      "group": "learn",
+      "animal": "hen",
+      "start": 4002,
+      "duration": 490,
+      "options": [],
+      "question": "",
+      "lessonIndex": 8,
+      "section": 1,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 67
+    },
+    {
+      "id": "C11",
+      "group": "quiz",
+      "animal": "pig",
+      "start": 4492,
+      "duration": 260,
+      "options": [
+        "pig",
+        "hen"
+      ],
+      "question": "Bé tìm bạn có chiếc đuôi xoăn nhé!",
+      "lessonIndex": 0,
+      "section": 0,
+      "drawEndAt": 0,
+      "countdownAt": 75,
+      "revealAt": 165,
+      "questionSpeechFrames": 56
+    },
+    {
+      "id": "C12",
+      "group": "learn",
+      "animal": "elephant",
+      "start": 4752,
+      "duration": 474,
+      "options": [],
+      "question": "",
+      "lessonIndex": 9,
+      "section": 2,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 67
+    },
+    {
+      "id": "C13",
+      "group": "learn",
+      "animal": "giraffe",
+      "start": 5226,
+      "duration": 503,
+      "options": [],
+      "question": "",
+      "lessonIndex": 10,
+      "section": 2,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 80
+    },
+    {
+      "id": "C14",
+      "group": "learn",
+      "animal": "tortoise",
+      "start": 5729,
+      "duration": 523,
+      "options": [],
+      "question": "",
+      "lessonIndex": 11,
+      "section": 2,
+      "drawEndAt": 210,
+      "countdownAt": 210,
+      "revealAt": 300,
+      "questionSpeechFrames": 72
+    },
+    {
+      "id": "C15",
+      "group": "learn",
+      "animal": "goldfish",
+      "start": 6252,
+      "duration": 500,
+      "options": [],
+      "question": "",
+      "lessonIndex": 12,
+      "section": 2,
+      "drawEndAt": 180,
+      "countdownAt": 180,
+      "revealAt": 270,
+      "questionSpeechFrames": 59
+    },
+    {
+      "id": "C16",
+      "group": "quiz",
+      "animal": "giraffe",
+      "start": 6752,
+      "duration": 278,
+      "options": [
+        "elephant",
+        "giraffe"
+      ],
+      "question": "Bé tìm bạn có chiếc cổ dài nhé!",
+      "lessonIndex": 0,
+      "section": 0,
+      "drawEndAt": 0,
+      "countdownAt": 80,
+      "revealAt": 170,
+      "questionSpeechFrames": 62
+    },
+    {
+      "id": "C17",
+      "group": "outro",
+      "animal": "cat",
+      "start": 7030,
+      "duration": 630,
+      "options": [],
+      "question": "",
+      "lessonIndex": 0,
+      "section": 0,
+      "drawEndAt": 0,
+      "countdownAt": 0,
+      "revealAt": 0,
+      "questionSpeechFrames": 96
+    }
+  ],
+  "sfx": [
+    {
+      "id": "C02-ink",
+      "from": 327,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C02-color",
+      "from": 587,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C02-tick-3",
+      "from": 497,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C02-tick-2",
+      "from": 527,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C02-tick-1",
+      "from": 557,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C02-answer",
+      "from": 587,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C03-ink",
+      "from": 822,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C03-color",
+      "from": 1082,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C03-tick-3",
+      "from": 992,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C03-tick-2",
+      "from": 1022,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C03-tick-1",
+      "from": 1052,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C03-answer",
+      "from": 1082,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C04-ink",
+      "from": 1312,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C04-color",
+      "from": 1572,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C04-tick-3",
+      "from": 1482,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C04-tick-2",
+      "from": 1512,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C04-tick-1",
+      "from": 1542,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C04-answer",
+      "from": 1572,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C05-ink",
+      "from": 1796,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C05-color",
+      "from": 2056,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C05-tick-3",
+      "from": 1966,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C05-tick-2",
+      "from": 1996,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C05-tick-1",
+      "from": 2026,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C05-answer",
+      "from": 2056,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C06-tick-3",
+      "from": 2349,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C06-tick-2",
+      "from": 2379,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C06-tick-1",
+      "from": 2409,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C06-answer",
+      "from": 2439,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C07-ink",
+      "from": 2544,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C07-color",
+      "from": 2804,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C07-tick-3",
+      "from": 2714,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C07-tick-2",
+      "from": 2744,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C07-tick-1",
+      "from": 2774,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C07-answer",
+      "from": 2804,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C08-ink",
+      "from": 3039,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C08-color",
+      "from": 3299,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C08-tick-3",
+      "from": 3209,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C08-tick-2",
+      "from": 3239,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C08-tick-1",
+      "from": 3269,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C08-answer",
+      "from": 3299,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C09-ink",
+      "from": 3527,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C09-color",
+      "from": 3787,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C09-tick-3",
+      "from": 3697,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C09-tick-2",
+      "from": 3727,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C09-tick-1",
+      "from": 3757,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C09-answer",
+      "from": 3787,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C10-ink",
+      "from": 4012,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C10-color",
+      "from": 4272,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C10-tick-3",
+      "from": 4182,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C10-tick-2",
+      "from": 4212,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C10-tick-1",
+      "from": 4242,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C10-answer",
+      "from": 4272,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C11-tick-3",
+      "from": 4567,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C11-tick-2",
+      "from": 4597,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C11-tick-1",
+      "from": 4627,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C11-answer",
+      "from": 4657,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C12-ink",
+      "from": 4762,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C12-color",
+      "from": 5022,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C12-tick-3",
+      "from": 4932,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C12-tick-2",
+      "from": 4962,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C12-tick-1",
+      "from": 4992,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C12-answer",
+      "from": 5022,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C13-ink",
+      "from": 5236,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C13-color",
+      "from": 5496,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C13-tick-3",
+      "from": 5406,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C13-tick-2",
+      "from": 5436,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C13-tick-1",
+      "from": 5466,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C13-answer",
+      "from": 5496,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C14-ink",
+      "from": 5739,
+      "duration": 188,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C14-color",
+      "from": 6029,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C14-tick-3",
+      "from": 5939,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C14-tick-2",
+      "from": 5969,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C14-tick-1",
+      "from": 5999,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C14-answer",
+      "from": 6029,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C15-ink",
+      "from": 6262,
+      "duration": 158,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/draw.wav",
+      "volume": 0.055,
+      "label": "Tiếng bút vẽ nhẹ"
+    },
+    {
+      "id": "C15-color",
+      "from": 6522,
+      "duration": 18,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/reveal.wav",
+      "volume": 0.08,
+      "label": "Hiện màu"
+    },
+    {
+      "id": "C15-tick-3",
+      "from": 6432,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C15-tick-2",
+      "from": 6462,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C15-tick-1",
+      "from": 6492,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C15-answer",
+      "from": 6522,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    },
+    {
+      "id": "C16-tick-3",
+      "from": 6832,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 3"
+    },
+    {
+      "id": "C16-tick-2",
+      "from": 6862,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 2"
+    },
+    {
+      "id": "C16-tick-1",
+      "from": 6892,
+      "duration": 8,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/tick.wav",
+      "volume": 0.5,
+      "label": "Đếm ngược 1"
+    },
+    {
+      "id": "C16-answer",
+      "from": 6922,
+      "duration": 24,
+      "src": "audio/preschool-animals-whiteboard-demo/sfx/correct.wav",
+      "volume": 0.16,
+      "label": "Chime mở đáp án"
+    }
+  ]
+}

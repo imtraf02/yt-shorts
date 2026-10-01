@@ -1,0 +1,2095 @@
+[
+  {
+    "text": "Một",
+    "startMs": 0,
+    "endMs": 280,
+    "timestampMs": 660,
+    "confidence": 0.746767
+  },
+  {
+    "text": " câu",
+    "startMs": 280,
+    "endMs": 400,
+    "timestampMs": 660,
+    "confidence": 0.928373
+  },
+  {
+    "text": " hỏi",
+    "startMs": 400,
+    "endMs": 620,
+    "timestampMs": 660,
+    "confidence": 0.921547
+  },
+  {
+    "text": " tự",
+    "startMs": 620,
+    "endMs": 800,
+    "timestampMs": 860,
+    "confidence": 0.862829
+  },
+  {
+    "text": " nhiên",
+    "startMs": 800,
+    "endMs": 1080,
+    "timestampMs": 1020,
+    "confidence": 0.997537
+  },
+  {
+    "text": " được",
+    "startMs": 1080,
+    "endMs": 1470,
+    "timestampMs": 1260,
+    "confidence": 0.947976
+  },
+  {
+    "text": " đặt",
+    "startMs": 1470,
+    "endMs": 1810,
+    "timestampMs": 1320,
+    "confidence": 0.934643
+  },
+  {
+    "text": " ra,",
+    "startMs": 1810,
+    "endMs": 2010,
+    "timestampMs": 1740,
+    "confidence": 0.88915
+  },
+  {
+    "text": " với",
+    "startMs": 2010,
+    "endMs": 2150,
+    "timestampMs": 2080,
+    "confidence": 0.950832
+  },
+  {
+    "text": " quy",
+    "startMs": 2150,
+    "endMs": 2270,
+    "timestampMs": 2200,
+    "confidence": 0.420958
+  },
+  {
+    "text": " mô",
+    "startMs": 2270,
+    "endMs": 2400,
+    "timestampMs": 2380,
+    "confidence": 0.686454
+  },
+  {
+    "text": " đồ",
+    "startMs": 2400,
+    "endMs": 2670,
+    "timestampMs": 2540,
+    "confidence": 0.667901
+  },
+  {
+    "text": " sộ",
+    "startMs": 2670,
+    "endMs": 2810,
+    "timestampMs": 2740,
+    "confidence": 0.659721
+  },
+  {
+    "text": " như",
+    "startMs": 2810,
+    "endMs": 2990,
+    "timestampMs": 2920,
+    "confidence": 0.904413
+  },
+  {
+    "text": " vậy,",
+    "startMs": 2990,
+    "endMs": 3430,
+    "timestampMs": 3140,
+    "confidence": 0.992954
+  },
+  {
+    "text": " được",
+    "startMs": 3430,
+    "endMs": 3650,
+    "timestampMs": 3560,
+    "confidence": 0.30805
+  },
+  {
+    "text": " xây",
+    "startMs": 3650,
+    "endMs": 3780,
+    "timestampMs": 3740,
+    "confidence": 0.350461
+  },
+  {
+    "text": " dựa",
+    "startMs": 3780,
+    "endMs": 3920,
+    "timestampMs": 3800,
+    "confidence": 0.940134
+  },
+  {
+    "text": " liên",
+    "startMs": 3920,
+    "endMs": 4100,
+    "timestampMs": 4020,
+    "confidence": 0.934147
+  },
+  {
+    "text": " tục",
+    "startMs": 4100,
+    "endMs": 4280,
+    "timestampMs": 4180,
+    "confidence": 0.877742
+  },
+  {
+    "text": " xuất",
+    "startMs": 4280,
+    "endMs": 4480,
+    "timestampMs": 4400,
+    "confidence": 0.518794
+  },
+  {
+    "text": " gần",
+    "startMs": 4480,
+    "endMs": 4660,
+    "timestampMs": 4580,
+    "confidence": 0.273173
+  },
+  {
+    "text": " 2005,",
+    "startMs": 4660,
+    "endMs": 5300,
+    "timestampMs": 5200,
+    "confidence": 0.632193
+  },
+  {
+    "text": " nguồn",
+    "startMs": 5300,
+    "endMs": 5580,
+    "timestampMs": 5660,
+    "confidence": 0.353324
+  },
+  {
+    "text": " của",
+    "startMs": 5580,
+    "endMs": 5780,
+    "timestampMs": 5820,
+    "confidence": 0.73728
+  },
+  {
+    "text": " cải",
+    "startMs": 5780,
+    "endMs": 5980,
+    "timestampMs": 5980,
+    "confidence": 0.217036
+  },
+  {
+    "text": " khổng",
+    "startMs": 5980,
+    "endMs": 6260,
+    "timestampMs": 6140,
+    "confidence": 0.894269
+  },
+  {
+    "text": " lồ",
+    "startMs": 6260,
+    "endMs": 6420,
+    "timestampMs": 6340,
+    "confidence": 0.867533
+  },
+  {
+    "text": " nào",
+    "startMs": 6420,
+    "endMs": 6580,
+    "timestampMs": 6660,
+    "confidence": 0.985695
+  },
+  {
+    "text": " đã",
+    "startMs": 6580,
+    "endMs": 6740,
+    "timestampMs": 6780,
+    "confidence": 0.987379
+  },
+  {
+    "text": " được",
+    "startMs": 6740,
+    "endMs": 7060,
+    "timestampMs": 6920,
+    "confidence": 0.967353
+  },
+  {
+    "text": " dùng",
+    "startMs": 7060,
+    "endMs": 7260,
+    "timestampMs": 7100,
+    "confidence": 0.925694
+  },
+  {
+    "text": " để",
+    "startMs": 7260,
+    "endMs": 7460,
+    "timestampMs": 7280,
+    "confidence": 0.936694
+  },
+  {
+    "text": " tài",
+    "startMs": 7460,
+    "endMs": 7620,
+    "timestampMs": 7420,
+    "confidence": 0.693297
+  },
+  {
+    "text": " trợ",
+    "startMs": 7620,
+    "endMs": 7820,
+    "timestampMs": 7600,
+    "confidence": 0.400521
+  },
+  {
+    "text": " cho",
+    "startMs": 7820,
+    "endMs": 7940,
+    "timestampMs": 7840,
+    "confidence": 0.971905
+  },
+  {
+    "text": " toàn",
+    "startMs": 7940,
+    "endMs": 8140,
+    "timestampMs": 7980,
+    "confidence": 0.842056
+  },
+  {
+    "text": " bộ",
+    "startMs": 8140,
+    "endMs": 8300,
+    "timestampMs": 8140,
+    "confidence": 0.963962
+  },
+  {
+    "text": " công",
+    "startMs": 8300,
+    "endMs": 8500,
+    "timestampMs": 8360,
+    "confidence": 0.96877
+  },
+  {
+    "text": " trình",
+    "startMs": 8500,
+    "endMs": 8740,
+    "timestampMs": 8480,
+    "confidence": 0.492759
+  },
+  {
+    "text": " này.",
+    "startMs": 8740,
+    "endMs": 9040,
+    "timestampMs": 8740,
+    "confidence": 0.96133
+  },
+  {
+    "text": " Câu",
+    "startMs": 9040,
+    "endMs": 9280,
+    "timestampMs": 9780,
+    "confidence": 0.814626
+  },
+  {
+    "text": " chả",
+    "startMs": 9280,
+    "endMs": 9400,
+    "timestampMs": 9980,
+    "confidence": 0.675631
+  },
+  {
+    "text": " lời",
+    "startMs": 9400,
+    "endMs": 9640,
+    "timestampMs": 10100,
+    "confidence": 0.954097
+  },
+  {
+    "text": " nằm",
+    "startMs": 9640,
+    "endMs": 9800,
+    "timestampMs": 10340,
+    "confidence": 0.389614
+  },
+  {
+    "text": " ở",
+    "startMs": 9800,
+    "endMs": 9920,
+    "timestampMs": 10540,
+    "confidence": 0.995344
+  },
+  {
+    "text": " chính",
+    "startMs": 9920,
+    "endMs": 10160,
+    "timestampMs": 10680,
+    "confidence": 0.719239
+  },
+  {
+    "text": " sự",
+    "startMs": 10160,
+    "endMs": 10320,
+    "timestampMs": 10860,
+    "confidence": 0.856464
+  },
+  {
+    "text": " thay",
+    "startMs": 10320,
+    "endMs": 10480,
+    "timestampMs": 11040,
+    "confidence": 0.841238
+  },
+  {
+    "text": " đổi",
+    "startMs": 10480,
+    "endMs": 10720,
+    "timestampMs": 11160,
+    "confidence": 0.939885
+  },
+  {
+    "text": " trong",
+    "startMs": 10720,
+    "endMs": 10950,
+    "timestampMs": 11360,
+    "confidence": 0.976321
+  },
+  {
+    "text": " bản",
+    "startMs": 10950,
+    "endMs": 11120,
+    "timestampMs": 11520,
+    "confidence": 0.904996
+  },
+  {
+    "text": " chất",
+    "startMs": 11120,
+    "endMs": 11360,
+    "timestampMs": 11680,
+    "confidence": 0.872459
+  },
+  {
+    "text": " quyền",
+    "startMs": 11360,
+    "endMs": 11630,
+    "timestampMs": 11860,
+    "confidence": 0.987839
+  },
+  {
+    "text": " lực",
+    "startMs": 11630,
+    "endMs": 11840,
+    "timestampMs": 12040,
+    "confidence": 0.92582
+  },
+  {
+    "text": " của",
+    "startMs": 11840,
+    "endMs": 12040,
+    "timestampMs": 12240,
+    "confidence": 0.988938
+  },
+  {
+    "text": " ai",
+    "startMs": 12040,
+    "endMs": 12160,
+    "timestampMs": 12380,
+    "confidence": 0.863747
+  },
+  {
+    "text": " cập",
+    "startMs": 12160,
+    "endMs": 12320,
+    "timestampMs": 12480,
+    "confidence": 0.831568
+  },
+  {
+    "text": " bước",
+    "startMs": 12320,
+    "endMs": 12600,
+    "timestampMs": 12720,
+    "confidence": 0.945869
+  },
+  {
+    "text": " sáng",
+    "startMs": 12600,
+    "endMs": 12820,
+    "timestampMs": 12900,
+    "confidence": 0.428764
+  },
+  {
+    "text": " thời",
+    "startMs": 12820,
+    "endMs": 13040,
+    "timestampMs": 13080,
+    "confidence": 0.963827
+  },
+  {
+    "text": " kỳ",
+    "startMs": 13040,
+    "endMs": 13200,
+    "timestampMs": 13240,
+    "confidence": 0.852498
+  },
+  {
+    "text": " tên",
+    "startMs": 13200,
+    "endMs": 13360,
+    "timestampMs": 13400,
+    "confidence": 0.702998
+  },
+  {
+    "text": " vương",
+    "startMs": 13360,
+    "endMs": 13640,
+    "timestampMs": 13560,
+    "confidence": 0.790482
+  },
+  {
+    "text": " quốc.",
+    "startMs": 13640,
+    "endMs": 14060,
+    "timestampMs": 13800,
+    "confidence": 0.641199
+  },
+  {
+    "text": " Đây",
+    "startMs": 14060,
+    "endMs": 14370,
+    "timestampMs": 14460,
+    "confidence": 0.97229
+  },
+  {
+    "text": " là",
+    "startMs": 14370,
+    "endMs": 14410,
+    "timestampMs": 14620,
+    "confidence": 0.998032
+  },
+  {
+    "text": " giá",
+    "startMs": 14410,
+    "endMs": 14590,
+    "timestampMs": 14740,
+    "confidence": 0.499062
+  },
+  {
+    "text": " đoạn",
+    "startMs": 14590,
+    "endMs": 14900,
+    "timestampMs": 14880,
+    "confidence": 0.508975
+  },
+  {
+    "text": " ai",
+    "startMs": 14900,
+    "endMs": 15010,
+    "timestampMs": 15140,
+    "confidence": 0.912036
+  },
+  {
+    "text": " cập,",
+    "startMs": 15010,
+    "endMs": 15300,
+    "timestampMs": 15260,
+    "confidence": 0.967992
+  },
+  {
+    "text": " dưới",
+    "startMs": 15300,
+    "endMs": 15740,
+    "timestampMs": 15820,
+    "confidence": 0.629769
+  },
+  {
+    "text": " sự",
+    "startMs": 15740,
+    "endMs": 15790,
+    "timestampMs": 16020,
+    "confidence": 0.90023
+  },
+  {
+    "text": " lãnh",
+    "startMs": 15790,
+    "endMs": 16010,
+    "timestampMs": 16180,
+    "confidence": 0.92638
+  },
+  {
+    "text": " đạo",
+    "startMs": 16010,
+    "endMs": 16280,
+    "timestampMs": 16360,
+    "confidence": 0.852571
+  },
+  {
+    "text": " của",
+    "startMs": 16280,
+    "endMs": 16510,
+    "timestampMs": 16580,
+    "confidence": 0.996004
+  },
+  {
+    "text": " nhiều",
+    "startMs": 16510,
+    "endMs": 16880,
+    "timestampMs": 16740,
+    "confidence": 0.837146
+  },
+  {
+    "text": " ferro",
+    "startMs": 16880,
+    "endMs": 17040,
+    "timestampMs": 16960,
+    "confidence": 0.11352
+  },
+  {
+    "text": " có",
+    "startMs": 17040,
+    "endMs": 17220,
+    "timestampMs": 17280,
+    "confidence": 0.941672
+  },
+  {
+    "text": " tay",
+    "startMs": 17220,
+    "endMs": 17340,
+    "timestampMs": 17460,
+    "confidence": 0.43053
+  },
+  {
+    "text": " năng",
+    "startMs": 17340,
+    "endMs": 17520,
+    "timestampMs": 17600,
+    "confidence": 0.775941
+  },
+  {
+    "text": " quân",
+    "startMs": 17520,
+    "endMs": 17740,
+    "timestampMs": 17800,
+    "confidence": 0.960917
+  },
+  {
+    "text": " sự",
+    "startMs": 17740,
+    "endMs": 17940,
+    "timestampMs": 18000,
+    "confidence": 0.983505
+  },
+  {
+    "text": " xuất",
+    "startMs": 17940,
+    "endMs": 18190,
+    "timestampMs": 18160,
+    "confidence": 0.856052
+  },
+  {
+    "text": " sắc,",
+    "startMs": 18190,
+    "endMs": 18560,
+    "timestampMs": 18380,
+    "confidence": 0.610404
+  },
+  {
+    "text": " đã",
+    "startMs": 18560,
+    "endMs": 18730,
+    "timestampMs": 18800,
+    "confidence": 0.870754
+  },
+  {
+    "text": " mở",
+    "startMs": 18730,
+    "endMs": 18880,
+    "timestampMs": 18940,
+    "confidence": 0.937172
+  },
+  {
+    "text": " dọng",
+    "startMs": 18880,
+    "endMs": 19100,
+    "timestampMs": 19140,
+    "confidence": 0.501672
+  },
+  {
+    "text": " đáng",
+    "startMs": 19100,
+    "endMs": 19280,
+    "timestampMs": 19340,
+    "confidence": 0.95762
+  },
+  {
+    "text": " kể",
+    "startMs": 19280,
+    "endMs": 19420,
+    "timestampMs": 19560,
+    "confidence": 0.960554
+  },
+  {
+    "text": " phạm",
+    "startMs": 19420,
+    "endMs": 19630,
+    "timestampMs": 19780,
+    "confidence": 0.943405
+  },
+  {
+    "text": " vì",
+    "startMs": 19630,
+    "endMs": 19740,
+    "timestampMs": 19980,
+    "confidence": 0.38873
+  },
+  {
+    "text": " anh",
+    "startMs": 19740,
+    "endMs": 19850,
+    "timestampMs": 20140,
+    "confidence": 0.358943
+  },
+  {
+    "text": " hưởng",
+    "startMs": 19850,
+    "endMs": 20150,
+    "timestampMs": 20300,
+    "confidence": 0.809622
+  },
+  {
+    "text": " và",
+    "startMs": 20150,
+    "endMs": 20260,
+    "timestampMs": 20520,
+    "confidence": 0.819163
+  },
+  {
+    "text": " chính",
+    "startMs": 20260,
+    "endMs": 20490,
+    "timestampMs": 20660,
+    "confidence": 0.819833
+  },
+  {
+    "text": " phạt",
+    "startMs": 20490,
+    "endMs": 20710,
+    "timestampMs": 20840,
+    "confidence": 0.917701
+  },
+  {
+    "text": " của",
+    "startMs": 20710,
+    "endMs": 20980,
+    "timestampMs": 21040,
+    "confidence": 0.998924
+  },
+  {
+    "text": " mình",
+    "startMs": 20980,
+    "endMs": 21090,
+    "timestampMs": 21160,
+    "confidence": 0.982204
+  },
+  {
+    "text": " ra",
+    "startMs": 21090,
+    "endMs": 21160,
+    "timestampMs": 21360,
+    "confidence": 0.931312
+  },
+  {
+    "text": " bên",
+    "startMs": 21160,
+    "endMs": 21310,
+    "timestampMs": 21500,
+    "confidence": 0.979608
+  },
+  {
+    "text": " ngoài",
+    "startMs": 21310,
+    "endMs": 21530,
+    "timestampMs": 21680,
+    "confidence": 0.994107
+  },
+  {
+    "text": " lãnh",
+    "startMs": 21530,
+    "endMs": 21700,
+    "timestampMs": 21880,
+    "confidence": 0.854427
+  },
+  {
+    "text": " thổ",
+    "startMs": 21700,
+    "endMs": 21890,
+    "timestampMs": 22060,
+    "confidence": 0.90711
+  },
+  {
+    "text": " chuyên",
+    "startMs": 21890,
+    "endMs": 22190,
+    "timestampMs": 22260,
+    "confidence": 0.28522
+  },
+  {
+    "text": " thống.",
+    "startMs": 22190,
+    "endMs": 22760,
+    "timestampMs": 22440,
+    "confidence": 0.943171
+  },
+  {
+    "text": " Điến",
+    "startMs": 22840,
+    "endMs": 23050,
+    "timestampMs": 22980,
+    "confidence": 0.248205
+  },
+  {
+    "text": " hành",
+    "startMs": 23050,
+    "endMs": 23260,
+    "timestampMs": 23160,
+    "confidence": 0.899039
+  },
+  {
+    "text": " nhiều",
+    "startMs": 23260,
+    "endMs": 23560,
+    "timestampMs": 23360,
+    "confidence": 0.975603
+  },
+  {
+    "text": " chiến",
+    "startMs": 23560,
+    "endMs": 23860,
+    "timestampMs": 23500,
+    "confidence": 0.89856
+  },
+  {
+    "text": " dịch",
+    "startMs": 23860,
+    "endMs": 24170,
+    "timestampMs": 23760,
+    "confidence": 0.682881
+  },
+  {
+    "text": " quân",
+    "startMs": 24170,
+    "endMs": 24310,
+    "timestampMs": 23880,
+    "confidence": 0.869687
+  },
+  {
+    "text": " sự",
+    "startMs": 24310,
+    "endMs": 24480,
+    "timestampMs": 24060,
+    "confidence": 0.990747
+  },
+  {
+    "text": " quy",
+    "startMs": 24480,
+    "endMs": 24610,
+    "timestampMs": 24260,
+    "confidence": 0.898853
+  },
+  {
+    "text": " môn",
+    "startMs": 24610,
+    "endMs": 24770,
+    "timestampMs": 24420,
+    "confidence": 0.863343
+  },
+  {
+    "text": " lớn",
+    "startMs": 24770,
+    "endMs": 24980,
+    "timestampMs": 24640,
+    "confidence": 0.908463
+  },
+  {
+    "text": " ở",
+    "startMs": 24980,
+    "endMs": 25180,
+    "timestampMs": 24940,
+    "confidence": 0.989002
+  },
+  {
+    "text": " khu",
+    "startMs": 25180,
+    "endMs": 25230,
+    "timestampMs": 24980,
+    "confidence": 0.989292
+  },
+  {
+    "text": " vực",
+    "startMs": 25230,
+    "endMs": 25440,
+    "timestampMs": 25080,
+    "confidence": 0.969642
+  },
+  {
+    "text": " cận",
+    "startMs": 25440,
+    "endMs": 25650,
+    "timestampMs": 25380,
+    "confidence": 0.754669
+  },
+  {
+    "text": " đông",
+    "startMs": 25650,
+    "endMs": 25900,
+    "timestampMs": 25400,
+    "confidence": 0.567369
+  },
+  {
+    "text": " và",
+    "startMs": 25900,
+    "endMs": 26060,
+    "timestampMs": 25640,
+    "confidence": 0.690036
+  },
+  {
+    "text": " vùng",
+    "startMs": 26060,
+    "endMs": 26240,
+    "timestampMs": 25800,
+    "confidence": 0.845342
+  },
+  {
+    "text": " Nubia",
+    "startMs": 26240,
+    "endMs": 26440,
+    "timestampMs": 25980,
+    "confidence": 0.277693
+  },
+  {
+    "text": " Phía",
+    "startMs": 26440,
+    "endMs": 26640,
+    "timestampMs": 26460,
+    "confidence": 0.342282
+  },
+  {
+    "text": " Nam.",
+    "startMs": 26640,
+    "endMs": 26890,
+    "timestampMs": 26740,
+    "confidence": 0.947419
+  },
+  {
+    "text": " Cả",
+    "startMs": 26890,
+    "endMs": 27050,
+    "timestampMs": 27520,
+    "confidence": 0.711658
+  },
+  {
+    "text": " nát",
+    "startMs": 27050,
+    "endMs": 27410,
+    "timestampMs": 27620,
+    "confidence": 0.718639
+  },
+  {
+    "text": " trên",
+    "startMs": 27410,
+    "endMs": 27430,
+    "timestampMs": 28020,
+    "confidence": 0.515419
+  },
+  {
+    "text": " thực",
+    "startMs": 27430,
+    "endMs": 27680,
+    "timestampMs": 28200,
+    "confidence": 0.81276
+  },
+  {
+    "text": " tế",
+    "startMs": 27680,
+    "endMs": 27940,
+    "timestampMs": 28340,
+    "confidence": 0.924007
+  },
+  {
+    "text": " được",
+    "startMs": 27940,
+    "endMs": 28220,
+    "timestampMs": 28840,
+    "confidence": 0.707266
+  },
+  {
+    "text": " xây",
+    "startMs": 28220,
+    "endMs": 28340,
+    "timestampMs": 29000,
+    "confidence": 0.914709
+  },
+  {
+    "text": " dựng",
+    "startMs": 28340,
+    "endMs": 28730,
+    "timestampMs": 29160,
+    "confidence": 0.974481
+  },
+  {
+    "text": " chủ",
+    "startMs": 28730,
+    "endMs": 28790,
+    "timestampMs": 29400,
+    "confidence": 0.762708
+  },
+  {
+    "text": " yếu",
+    "startMs": 28790,
+    "endMs": 29000,
+    "timestampMs": 29500,
+    "confidence": 0.520192
+  },
+  {
+    "text": " bằng",
+    "startMs": 29000,
+    "endMs": 29270,
+    "timestampMs": 29680,
+    "confidence": 0.913626
+  },
+  {
+    "text": " nguồn",
+    "startMs": 29270,
+    "endMs": 29530,
+    "timestampMs": 29880,
+    "confidence": 0.149324
+  },
+  {
+    "text": " tiền",
+    "startMs": 29530,
+    "endMs": 29780,
+    "timestampMs": 30060,
+    "confidence": 0.564138
+  },
+  {
+    "text": " thuế",
+    "startMs": 29780,
+    "endMs": 30030,
+    "timestampMs": 30280,
+    "confidence": 0.26219
+  },
+  {
+    "text": " thu",
+    "startMs": 30030,
+    "endMs": 30180,
+    "timestampMs": 30480,
+    "confidence": 0.901139
+  },
+  {
+    "text": " được",
+    "startMs": 30180,
+    "endMs": 30500,
+    "timestampMs": 30660,
+    "confidence": 0.907586
+  },
+  {
+    "text": " từ",
+    "startMs": 30500,
+    "endMs": 30750,
+    "timestampMs": 30820,
+    "confidence": 0.95522
+  },
+  {
+    "text": " khắp",
+    "startMs": 30750,
+    "endMs": 30940,
+    "timestampMs": 31000,
+    "confidence": 0.924374
+  },
+  {
+    "text": " ai",
+    "startMs": 30940,
+    "endMs": 30990,
+    "timestampMs": 31220,
+    "confidence": 0.981411
+  },
+  {
+    "text": " cập,",
+    "startMs": 30990,
+    "endMs": 31660,
+    "timestampMs": 31320,
+    "confidence": 0.956074
+  },
+  {
+    "text": " cùng",
+    "startMs": 31660,
+    "endMs": 31860,
+    "timestampMs": 31960,
+    "confidence": 0.884144
+  },
+  {
+    "text": " với",
+    "startMs": 31860,
+    "endMs": 32060,
+    "timestampMs": 32080,
+    "confidence": 0.994315
+  },
+  {
+    "text": " một",
+    "startMs": 32060,
+    "endMs": 32340,
+    "timestampMs": 32240,
+    "confidence": 0.961896
+  },
+  {
+    "text": " khối",
+    "startMs": 32340,
+    "endMs": 32500,
+    "timestampMs": 32400,
+    "confidence": 0.969079
+  },
+  {
+    "text": " lượng",
+    "startMs": 32500,
+    "endMs": 32820,
+    "timestampMs": 32560,
+    "confidence": 0.962727
+  },
+  {
+    "text": " khóng",
+    "startMs": 32820,
+    "endMs": 33070,
+    "timestampMs": 32760,
+    "confidence": 0.617292
+  },
+  {
+    "text": " lồ",
+    "startMs": 33070,
+    "endMs": 33220,
+    "timestampMs": 32920,
+    "confidence": 0.939082
+  },
+  {
+    "text": " chiến",
+    "startMs": 33220,
+    "endMs": 33500,
+    "timestampMs": 33140,
+    "confidence": 0.409406
+  },
+  {
+    "text": " lợi",
+    "startMs": 33500,
+    "endMs": 33780,
+    "timestampMs": 33320,
+    "confidence": 0.975463
+  },
+  {
+    "text": " phẩm",
+    "startMs": 33780,
+    "endMs": 33940,
+    "timestampMs": 33520,
+    "confidence": 0.985697
+  },
+  {
+    "text": " mà",
+    "startMs": 33940,
+    "endMs": 34060,
+    "timestampMs": 33960,
+    "confidence": 0.848726
+  },
+  {
+    "text": " các",
+    "startMs": 34060,
+    "endMs": 34260,
+    "timestampMs": 34120,
+    "confidence": 0.891422
+  },
+  {
+    "text": " ferro",
+    "startMs": 34260,
+    "endMs": 34430,
+    "timestampMs": 34360,
+    "confidence": 0.980583
+  },
+  {
+    "text": " mang",
+    "startMs": 34430,
+    "endMs": 34580,
+    "timestampMs": 34720,
+    "confidence": 0.985678
+  },
+  {
+    "text": " về",
+    "startMs": 34580,
+    "endMs": 34730,
+    "timestampMs": 34880,
+    "confidence": 0.903505
+  },
+  {
+    "text": " từ",
+    "startMs": 34730,
+    "endMs": 34900,
+    "timestampMs": 35060,
+    "confidence": 0.664715
+  },
+  {
+    "text": " những",
+    "startMs": 34900,
+    "endMs": 35180,
+    "timestampMs": 35200,
+    "confidence": 0.96292
+  },
+  {
+    "text": " chiến",
+    "startMs": 35180,
+    "endMs": 35460,
+    "timestampMs": 35400,
+    "confidence": 0.996888
+  },
+  {
+    "text": " dịch",
+    "startMs": 35460,
+    "endMs": 35700,
+    "timestampMs": 35560,
+    "confidence": 0.982969
+  },
+  {
+    "text": " quân",
+    "startMs": 35700,
+    "endMs": 35900,
+    "timestampMs": 35740,
+    "confidence": 0.998296
+  },
+  {
+    "text": " sự",
+    "startMs": 35900,
+    "endMs": 36060,
+    "timestampMs": 35920,
+    "confidence": 0.997887
+  },
+  {
+    "text": " thắng",
+    "startMs": 36060,
+    "endMs": 36340,
+    "timestampMs": 36080,
+    "confidence": 0.98032
+  },
+  {
+    "text": " lợi",
+    "startMs": 36340,
+    "endMs": 36540,
+    "timestampMs": 36280,
+    "confidence": 0.957725
+  },
+  {
+    "text": " này.",
+    "startMs": 36540,
+    "endMs": 36880,
+    "timestampMs": 36540,
+    "confidence": 0.922963
+  },
+  {
+    "text": " Nó",
+    "startMs": 36880,
+    "endMs": 37110,
+    "timestampMs": 37200,
+    "confidence": 0.726344
+  },
+  {
+    "text": " cách",
+    "startMs": 37110,
+    "endMs": 37200,
+    "timestampMs": 37340,
+    "confidence": 0.140234
+  },
+  {
+    "text": " khác,",
+    "startMs": 37200,
+    "endMs": 37480,
+    "timestampMs": 37580,
+    "confidence": 0.946644
+  },
+  {
+    "text": " mỗi",
+    "startMs": 37480,
+    "endMs": 37800,
+    "timestampMs": 37920,
+    "confidence": 0.897214
+  },
+  {
+    "text": " khi",
+    "startMs": 37800,
+    "endMs": 37860,
+    "timestampMs": 38120,
+    "confidence": 0.920518
+  },
+  {
+    "text": " ai",
+    "startMs": 37860,
+    "endMs": 37880,
+    "timestampMs": 38240,
+    "confidence": 0.978946
+  },
+  {
+    "text": " tập",
+    "startMs": 37880,
+    "endMs": 38080,
+    "timestampMs": 38360,
+    "confidence": 0.937833
+  },
+  {
+    "text": " dành",
+    "startMs": 38080,
+    "endMs": 38340,
+    "timestampMs": 38560,
+    "confidence": 0.597338
+  },
+  {
+    "text": " được",
+    "startMs": 38340,
+    "endMs": 38600,
+    "timestampMs": 38740,
+    "confidence": 0.886265
+  },
+  {
+    "text": " một",
+    "startMs": 38600,
+    "endMs": 38800,
+    "timestampMs": 38900,
+    "confidence": 0.854805
+  },
+  {
+    "text": " chiến",
+    "startMs": 38800,
+    "endMs": 39080,
+    "timestampMs": 39060,
+    "confidence": 0.999011
+  },
+  {
+    "text": " thắng",
+    "startMs": 39080,
+    "endMs": 39360,
+    "timestampMs": 39260,
+    "confidence": 0.956829
+  },
+  {
+    "text": " quân",
+    "startMs": 39360,
+    "endMs": 39560,
+    "timestampMs": 39420,
+    "confidence": 0.95564
+  },
+  {
+    "text": " sự",
+    "startMs": 39560,
+    "endMs": 39720,
+    "timestampMs": 39600,
+    "confidence": 0.999073
+  },
+  {
+    "text": " quan",
+    "startMs": 39720,
+    "endMs": 39890,
+    "timestampMs": 39780,
+    "confidence": 0.979544
+  },
+  {
+    "text": " trọng,",
+    "startMs": 39890,
+    "endMs": 40370,
+    "timestampMs": 39940,
+    "confidence": 0.831016
+  },
+  {
+    "text": " một",
+    "startMs": 40370,
+    "endMs": 40550,
+    "timestampMs": 40480,
+    "confidence": 0.771432
+  },
+  {
+    "text": " phần",
+    "startMs": 40550,
+    "endMs": 40710,
+    "timestampMs": 40600,
+    "confidence": 0.935782
+  },
+  {
+    "text": " đáng",
+    "startMs": 40710,
+    "endMs": 40920,
+    "timestampMs": 40760,
+    "confidence": 0.689211
+  },
+  {
+    "text": " kể",
+    "startMs": 40920,
+    "endMs": 41050,
+    "timestampMs": 40940,
+    "confidence": 0.979802
+  },
+  {
+    "text": " của",
+    "startMs": 41050,
+    "endMs": 41220,
+    "timestampMs": 41100,
+    "confidence": 0.932407
+  },
+  {
+    "text": " cải",
+    "startMs": 41220,
+    "endMs": 41390,
+    "timestampMs": 41260,
+    "confidence": 0.60956
+  },
+  {
+    "text": " thu",
+    "startMs": 41390,
+    "endMs": 41490,
+    "timestampMs": 41440,
+    "confidence": 0.964816
+  },
+  {
+    "text": " được",
+    "startMs": 41490,
+    "endMs": 41840,
+    "timestampMs": 41640,
+    "confidence": 0.994518
+  },
+  {
+    "text": " từ",
+    "startMs": 41840,
+    "endMs": 41960,
+    "timestampMs": 41840,
+    "confidence": 0.963567
+  },
+  {
+    "text": " chiến",
+    "startMs": 41960,
+    "endMs": 42170,
+    "timestampMs": 42020,
+    "confidence": 0.989664
+  },
+  {
+    "text": " thắng",
+    "startMs": 42170,
+    "endMs": 42380,
+    "timestampMs": 42200,
+    "confidence": 0.981133
+  },
+  {
+    "text": " đó",
+    "startMs": 42380,
+    "endMs": 42570,
+    "timestampMs": 42420,
+    "confidence": 0.944824
+  },
+  {
+    "text": " sẽ",
+    "startMs": 42570,
+    "endMs": 42650,
+    "timestampMs": 42600,
+    "confidence": 0.807753
+  },
+  {
+    "text": " được",
+    "startMs": 42650,
+    "endMs": 42910,
+    "timestampMs": 42760,
+    "confidence": 0.948744
+  },
+  {
+    "text": " dùng",
+    "startMs": 42910,
+    "endMs": 43070,
+    "timestampMs": 42920,
+    "confidence": 0.940026
+  },
+  {
+    "text": " để",
+    "startMs": 43070,
+    "endMs": 43300,
+    "timestampMs": 43060,
+    "confidence": 0.67339
+  },
+  {
+    "text": " tiếp",
+    "startMs": 43300,
+    "endMs": 43430,
+    "timestampMs": 43240,
+    "confidence": 0.962406
+  },
+  {
+    "text": " tục",
+    "startMs": 43430,
+    "endMs": 43580,
+    "timestampMs": 43340,
+    "confidence": 0.961166
+  },
+  {
+    "text": " mở",
+    "startMs": 43580,
+    "endMs": 43700,
+    "timestampMs": 43540,
+    "confidence": 0.878775
+  },
+  {
+    "text": " dọng.",
+    "startMs": 43700,
+    "endMs": 44020,
+    "timestampMs": 43740,
+    "confidence": 0.388937
+  },
+  {
+    "text": " Tô",
+    "startMs": 44020,
+    "endMs": 44200,
+    "timestampMs": 44280,
+    "confidence": 0.458328
+  },
+  {
+    "text": " điểm",
+    "startMs": 44200,
+    "endMs": 44480,
+    "timestampMs": 44400,
+    "confidence": 0.802554
+  },
+  {
+    "text": " thêm",
+    "startMs": 44480,
+    "endMs": 44710,
+    "timestampMs": 44640,
+    "confidence": 0.702993
+  },
+  {
+    "text": " cho",
+    "startMs": 44710,
+    "endMs": 44850,
+    "timestampMs": 44840,
+    "confidence": 0.417997
+  },
+  {
+    "text": " ngôi",
+    "startMs": 44850,
+    "endMs": 45080,
+    "timestampMs": 44960,
+    "confidence": 0.838388
+  },
+  {
+    "text": " đền",
+    "startMs": 45080,
+    "endMs": 45410,
+    "timestampMs": 45100,
+    "confidence": 0.550658
+  },
+  {
+    "text": " của",
+    "startMs": 45410,
+    "endMs": 45600,
+    "timestampMs": 45320,
+    "confidence": 0.995771
+  },
+  {
+    "text": " Thần",
+    "startMs": 45600,
+    "endMs": 45880,
+    "timestampMs": 45480,
+    "confidence": 0.683095
+  },
+  {
+    "text": " Amun",
+    "startMs": 45880,
+    "endMs": 46060,
+    "timestampMs": 45720,
+    "confidence": 0.56245
+  },
+  {
+    "text": " ra,",
+    "startMs": 46060,
+    "endMs": 46220,
+    "timestampMs": 46180,
+    "confidence": 0.348121
+  },
+  {
+    "text": " vị",
+    "startMs": 46220,
+    "endMs": 46520,
+    "timestampMs": 46620,
+    "confidence": 0.811563
+  },
+  {
+    "text": " thân",
+    "startMs": 46520,
+    "endMs": 46720,
+    "timestampMs": 46780,
+    "confidence": 0.836065
+  },
+  {
+    "text": " mà",
+    "startMs": 46720,
+    "endMs": 46800,
+    "timestampMs": 47000,
+    "confidence": 0.956722
+  },
+  {
+    "text": " các",
+    "startMs": 46800,
+    "endMs": 46990,
+    "timestampMs": 47140,
+    "confidence": 0.981648
+  },
+  {
+    "text": " ferro",
+    "startMs": 46990,
+    "endMs": 47250,
+    "timestampMs": 47340,
+    "confidence": 0.995184
+  },
+  {
+    "text": " tin",
+    "startMs": 47250,
+    "endMs": 47360,
+    "timestampMs": 47680,
+    "confidence": 0.948905
+  },
+  {
+    "text": " rằng",
+    "startMs": 47360,
+    "endMs": 47640,
+    "timestampMs": 47880,
+    "confidence": 0.898822
+  },
+  {
+    "text": " đã",
+    "startMs": 47640,
+    "endMs": 47830,
+    "timestampMs": 48060,
+    "confidence": 0.946895
+  },
+  {
+    "text": " bàn",
+    "startMs": 47830,
+    "endMs": 48010,
+    "timestampMs": 48180,
+    "confidence": 0.582482
+  },
+  {
+    "text": " phước,",
+    "startMs": 48010,
+    "endMs": 48660,
+    "timestampMs": 48380,
+    "confidence": 0.937641
+  },
+  {
+    "text": " xuống",
+    "startMs": 48740,
+    "endMs": 48940,
+    "timestampMs": 49000,
+    "confidence": 0.213917
+  },
+  {
+    "text": " họ",
+    "startMs": 48940,
+    "endMs": 49100,
+    "timestampMs": 49160,
+    "confidence": 0.720974
+  },
+  {
+    "text": " dành",
+    "startMs": 49100,
+    "endMs": 49300,
+    "timestampMs": 49340,
+    "confidence": 0.631927
+  },
+  {
+    "text": " được",
+    "startMs": 49300,
+    "endMs": 49620,
+    "timestampMs": 49560,
+    "confidence": 0.735938
+  },
+  {
+    "text": " những",
+    "startMs": 49620,
+    "endMs": 49920,
+    "timestampMs": 49620,
+    "confidence": 0.972589
+  },
+  {
+    "text": " chiến",
+    "startMs": 49920,
+    "endMs": 50200,
+    "timestampMs": 49820,
+    "confidence": 0.978103
+  },
+  {
+    "text": " thắng",
+    "startMs": 50200,
+    "endMs": 50640,
+    "timestampMs": 50000,
+    "confidence": 0.992562
+  },
+  {
+    "text": " đó.",
+    "startMs": 50640,
+    "endMs": 50960,
+    "timestampMs": 50360,
+    "confidence": 0.997067
+  },
+  {
+    "text": " Đây",
+    "startMs": 50960,
+    "endMs": 51090,
+    "timestampMs": 51200,
+    "confidence": 0.684092
+  },
+  {
+    "text": " chính",
+    "startMs": 51090,
+    "endMs": 51210,
+    "timestampMs": 51380,
+    "confidence": 0.898319
+  },
+  {
+    "text": " là",
+    "startMs": 51210,
+    "endMs": 51330,
+    "timestampMs": 51480,
+    "confidence": 0.593382
+  },
+  {
+    "text": " một",
+    "startMs": 51330,
+    "endMs": 51530,
+    "timestampMs": 51640,
+    "confidence": 0.956094
+  },
+  {
+    "text": " vòng",
+    "startMs": 51530,
+    "endMs": 51730,
+    "timestampMs": 51760,
+    "confidence": 0.773559
+  },
+  {
+    "text": " toàn",
+    "startMs": 51730,
+    "endMs": 51930,
+    "timestampMs": 51960,
+    "confidence": 0.413271
+  },
+  {
+    "text": " hoàn",
+    "startMs": 51930,
+    "endMs": 52130,
+    "timestampMs": 52180,
+    "confidence": 0.469243
+  },
+  {
+    "text": " quyền",
+    "startMs": 52130,
+    "endMs": 52410,
+    "timestampMs": 52360,
+    "confidence": 0.56996
+  },
+  {
+    "text": " lực",
+    "startMs": 52410,
+    "endMs": 52640,
+    "timestampMs": 52500,
+    "confidence": 0.987215
+  },
+  {
+    "text": " rất",
+    "startMs": 52640,
+    "endMs": 52810,
+    "timestampMs": 52700,
+    "confidence": 0.961983
+  },
+  {
+    "text": " thú",
+    "startMs": 52810,
+    "endMs": 52950,
+    "timestampMs": 52900,
+    "confidence": 0.67305
+  },
+  {
+    "text": " vị,",
+    "startMs": 52950,
+    "endMs": 53440,
+    "timestampMs": 53120,
+    "confidence": 0.992387
+  },
+  {
+    "text": " chiến",
+    "startMs": 53440,
+    "endMs": 53620,
+    "timestampMs": 53560,
+    "confidence": 0.757517
+  },
+  {
+    "text": " thắng",
+    "startMs": 53620,
+    "endMs": 53860,
+    "timestampMs": 53700,
+    "confidence": 0.992371
+  },
+  {
+    "text": " quân",
+    "startMs": 53860,
+    "endMs": 54050,
+    "timestampMs": 53840,
+    "confidence": 0.80844
+  },
+  {
+    "text": " sự",
+    "startMs": 54050,
+    "endMs": 54190,
+    "timestampMs": 54000,
+    "confidence": 0.998685
+  },
+  {
+    "text": " mang",
+    "startMs": 54190,
+    "endMs": 54330,
+    "timestampMs": 54180,
+    "confidence": 0.955252
+  },
+  {
+    "text": " lại",
+    "startMs": 54330,
+    "endMs": 54570,
+    "timestampMs": 54340,
+    "confidence": 0.982457
+  },
+  {
+    "text": " của",
+    "startMs": 54570,
+    "endMs": 54690,
+    "timestampMs": 54480,
+    "confidence": 0.894331
+  },
+  {
+    "text": " cải,",
+    "startMs": 54690,
+    "endMs": 54960,
+    "timestampMs": 54660,
+    "confidence": 0.946967
+  },
+  {
+    "text": " của",
+    "startMs": 54960,
+    "endMs": 55190,
+    "timestampMs": 55120,
+    "confidence": 0.448417
+  },
+  {
+    "text": " cải",
+    "startMs": 55190,
+    "endMs": 55360,
+    "timestampMs": 55260,
+    "confidence": 0.994613
+  },
+  {
+    "text": " được",
+    "startMs": 55360,
+    "endMs": 55680,
+    "timestampMs": 55440,
+    "confidence": 0.686506
+  },
+  {
+    "text": " dùng",
+    "startMs": 55680,
+    "endMs": 55910,
+    "timestampMs": 55620,
+    "confidence": 0.954361
+  },
+  {
+    "text": " để",
+    "startMs": 55910,
+    "endMs": 56080,
+    "timestampMs": 55800,
+    "confidence": 0.975749
+  },
+  {
+    "text": " xây",
+    "startMs": 56080,
+    "endMs": 56240,
+    "timestampMs": 56000,
+    "confidence": 0.90267
+  },
+  {
+    "text": " dựng",
+    "startMs": 56240,
+    "endMs": 56480,
+    "timestampMs": 56100,
+    "confidence": 0.981963
+  },
+  {
+    "text": " đền",
+    "startMs": 56480,
+    "endMs": 56720,
+    "timestampMs": 56280,
+    "confidence": 0.234735
+  },
+  {
+    "text": " thơ,",
+    "startMs": 56720,
+    "endMs": 56960,
+    "timestampMs": 56960,
+    "confidence": 0.926751
+  },
+  {
+    "text": " đền",
+    "startMs": 56960,
+    "endMs": 57280,
+    "timestampMs": 57440,
+    "confidence": 0.73994
+  },
+  {
+    "text": " thơ,",
+    "startMs": 57280,
+    "endMs": 57440,
+    "timestampMs": 57600,
+    "confidence": 0.987082
+  },
+  {
+    "text": " đền",
+    "startMs": 57440,
+    "endMs": 57680,
+    "timestampMs": 57760,
+    "confidence": 0.84687
+  },
+  {
+    "text": " thơ,",
+    "startMs": 57680,
+    "endMs": 57920,
+    "timestampMs": 57760,
+    "confidence": 0.988472
+  },
+  {
+    "text": " đến",
+    "startMs": 57920,
+    "endMs": 58160,
+    "timestampMs": 57860,
+    "confidence": 0.592213
+  },
+  {
+    "text": " lợi",
+    "startMs": 58160,
+    "endMs": 58350,
+    "timestampMs": 58000,
+    "confidence": 0.982654
+  },
+  {
+    "text": " nó",
+    "startMs": 58350,
+    "endMs": 58650,
+    "timestampMs": 58300,
+    "confidence": 0.888374
+  },
+  {
+    "text": " lại",
+    "startMs": 58650,
+    "endMs": 58680,
+    "timestampMs": 58760,
+    "confidence": 0.568612
+  },
+  {
+    "text": " cùng",
+    "startMs": 58680,
+    "endMs": 58880,
+    "timestampMs": 58920,
+    "confidence": 0.984526
+  },
+  {
+    "text": " cố",
+    "startMs": 58880,
+    "endMs": 59040,
+    "timestampMs": 59120,
+    "confidence": 0.451554
+  },
+  {
+    "text": " thêm",
+    "startMs": 59040,
+    "endMs": 59240,
+    "timestampMs": 59220,
+    "confidence": 0.662638
+  },
+  {
+    "text": " tính",
+    "startMs": 59240,
+    "endMs": 59440,
+    "timestampMs": 59400,
+    "confidence": 0.395272
+  },
+  {
+    "text": " chính",
+    "startMs": 59440,
+    "endMs": 59680,
+    "timestampMs": 59660,
+    "confidence": 0.717037
+  },
+  {
+    "text": " dân",
+    "startMs": 59680,
+    "endMs": 59840,
+    "timestampMs": 59800,
+    "confidence": 0.325209
+  },
+  {
+    "text": " thành",
+    "startMs": 59840,
+    "endMs": 60120,
+    "timestampMs": 60180,
+    "confidence": 0.778444
+  },
+  {
+    "text": " thánh",
+    "startMs": 60120,
+    "endMs": 60320,
+    "timestampMs": 60320,
+    "confidence": 0.57561
+  },
+  {
+    "text": " của",
+    "startMs": 60320,
+    "endMs": 60520,
+    "timestampMs": 60400,
+    "confidence": 0.96845
+  },
+  {
+    "text": " phá",
+    "startMs": 60520,
+    "endMs": 60680,
+    "timestampMs": 60600,
+    "confidence": 0.670409
+  },
+  {
+    "text": " rộ.",
+    "startMs": 60680,
+    "endMs": 60960,
+    "timestampMs": 60680,
+    "confidence": 0.25114
+  },
+  {
+    "text": " Dục",
+    "startMs": 60960,
+    "endMs": 61180,
+    "timestampMs": 61220,
+    "confidence": 0.620671
+  },
+  {
+    "text": " ông",
+    "startMs": 61180,
+    "endMs": 61310,
+    "timestampMs": 61440,
+    "confidence": 0.784617
+  },
+  {
+    "text": " tiếp",
+    "startMs": 61310,
+    "endMs": 61510,
+    "timestampMs": 61580,
+    "confidence": 0.938963
+  },
+  {
+    "text": " tục",
+    "startMs": 61510,
+    "endMs": 61670,
+    "timestampMs": 61760,
+    "confidence": 0.949741
+  },
+  {
+    "text": " quy",
+    "startMs": 61670,
+    "endMs": 61750,
+    "timestampMs": 61900,
+    "confidence": 0.0641728
+  },
+  {
+    "text": " đọng",
+    "startMs": 61750,
+    "endMs": 61990,
+    "timestampMs": 62020,
+    "confidence": 0.725555
+  },
+  {
+    "text": " đường",
+    "startMs": 61990,
+    "endMs": 62310,
+    "timestampMs": 62300,
+    "confidence": 0.259512
+  },
+  {
+    "text": " môn",
+    "startMs": 62310,
+    "endMs": 62440,
+    "timestampMs": 62400,
+    "confidence": 0.754091
+  },
+  {
+    "text": " lực",
+    "startMs": 62440,
+    "endMs": 62670,
+    "timestampMs": 62520,
+    "confidence": 0.960954
+  },
+  {
+    "text": " cho",
+    "startMs": 62670,
+    "endMs": 62710,
+    "timestampMs": 62760,
+    "confidence": 0.994338
+  },
+  {
+    "text": " những",
+    "startMs": 62710,
+    "endMs": 62990,
+    "timestampMs": 62860,
+    "confidence": 0.957454
+  },
+  {
+    "text": " chiến",
+    "startMs": 62990,
+    "endMs": 63210,
+    "timestampMs": 63080,
+    "confidence": 0.998887
+  },
+  {
+    "text": " dịch",
+    "startMs": 63210,
+    "endMs": 63400,
+    "timestampMs": 63260,
+    "confidence": 0.982309
+  },
+  {
+    "text": " quân",
+    "startMs": 63400,
+    "endMs": 63590,
+    "timestampMs": 63480,
+    "confidence": 0.988583
+  },
+  {
+    "text": " sự",
+    "startMs": 63590,
+    "endMs": 63760,
+    "timestampMs": 63640,
+    "confidence": 0.99954
+  },
+  {
+    "text": " tiếp",
+    "startMs": 63760,
+    "endMs": 63940,
+    "timestampMs": 63820,
+    "confidence": 0.993906
+  },
+  {
+    "text": " theo.",
+    "startMs": 63940,
+    "endMs": 64300,
+    "timestampMs": 64100,
+    "confidence": 0.609412
+  }
+]

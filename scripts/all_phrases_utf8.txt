@@ -1,0 +1,1209 @@
+
+==================== PART1 (77 phrases) ====================
+[  0.07s | frame     2] Trong hơn một trăm năm
+[  0.81s | frame    24] qua nước Mỹ đã có
+[  1.66s | frame    49] mặt trong gần như mọi
+[  2.60s | frame    78] cuộc chiến lớn của thế
+[  3.62s | frame   108] giới Thế chiến thứ nhất
+[  5.50s | frame   165] Thế chiến thứ
+[  6.15s | frame   184] hai Triều Tiên Việt Nam
+[  7.04s | frame   211] Vùng Vịnh Afghanistan Iraq Nhưng
+[  9.35s | frame   280] có một điều rất kỳ
+[ 10.50s | frame   315] lạ mà nếu để ý
+[ 11.66s | frame   349] kỹ bạn sẽ thấy nó
+[ 12.78s | frame   383] lặp đi lặp lại như
+[ 13.75s | frame   412] một quy luật Châu Âu
+[ 14.84s | frame   445] sau hai cuộc thế chiến
+[ 15.80s | frame   474] tan hoang Hàng triệu người
+[ 16.92s | frame   507] chết thành phố thành đống
+[ 18.12s | frame   543] gạch vụn cả một thế
+[ 19.41s | frame   582] hệ mất đi Việt Nam
+[ 20.49s | frame   614] sau hai mươi năm chiến
+[ 21.44s | frame   643] tranh kiệt quệ đến mức
+[ 22.67s | frame   680] phải mất hàng chục năm
+[ 23.84s | frame   715] để hồi phục Iraq sau
+[ 25.52s | frame   765] cuộc xâm lược năm 2003
+[ 27.20s | frame   816] chìm trong hỗn loạn suốt
+[ 28.66s | frame   859] gần hai thập kỷ Afghanistan
+[ 31.24s | frame   937] sau hai mươi năm chiến
+[ 32.02s | frame   960] tranh dài nhất trong lịch
+[ 33.18s | frame   995] sử nước Mỹ kết thúc
+[ 34.20s | frame  1026] bằng một cuộc rút quân
+[ 35.09s | frame  1052] hỗn loạn để lại một
+[ 35.95s | frame  1078] đất nước gần như trở
+[ 36.86s | frame  1105] lại điểm xuất phát Còn
+[ 38.39s | frame  1151] nước Mỹ thì sao? Sau
+[ 39.62s | frame  1188] mỗi cuộc chiến đó nước
+[ 40.65s | frame  1219] Mỹ lại giàu có hơn
+[ 41.59s | frame  1247] Mạnh hơn Có nhiều tập
+[ 42.51s | frame  1275] đoàn hùng mạnh hơn Đồng
+[ 43.78s | frame  1313] đô la trở thành đồng
+[ 44.65s | frame  1339] tiền dự trữ của thế
+[ 45.57s | frame  1367] giới New York thay London
+[ 46.92s | frame  1407] làm trung tâm tài chính
+[ 47.90s | frame  1437] toàn cầu Và cổ phiếu
+[ 48.98s | frame  1469] của những công ty vũ
+[ 49.92s | frame  1497] khí lớn nhất qua từng
+[ 51.12s | frame  1533] cuộc chiến cứ liên tục
+[ 52.26s | frame  1567] lập đỉnh mới Đây là
+[ 53.76s | frame  1612] trùng hợp? Hay là có
+[ 54.84s | frame  1645] một công thức nào đó
+[ 56.03s | frame  1680] một mô hình lặp đi
+[ 57.08s | frame  1712] lặp lại mà nước Mỹ
+[ 58.26s | frame  1747] đã áp dụng suốt hơn
+[ 59.07s | frame  1772] một thế kỷ để biến
+[ 59.93s | frame  1797] chiến tranh chiến tranh của
+[ 61.19s | frame  1835] người khác và đôi khi
+[ 62.14s | frame  1864] cả chiến tranh của chính
+[ 63.00s | frame  1890] mình thành lợi nhuận? Hôm
+[ 64.58s | frame  1937] nay mình sẽ không nói
+[ 65.55s | frame  1966] về ai đúng ai sai
+[ 66.29s | frame  1988] trong các cuộc chiến này
+[ 67.55s | frame  2026] Đó là một câu chuyện
+[ 68.62s | frame  2058] khác phức tạp hơn nhiều
+[ 70.26s | frame  2107] và không phải trọng tâm
+[ 71.11s | frame  2133] của video này Cái mình
+[ 72.23s | frame  2166] muốn làm rõ là dòng
+[ 73.27s | frame  2198] tiền Ai kiếm được gì
+[ 74.61s | frame  2238] khi nào bằng cách nào
+[ 75.60s | frame  2268] và tại sao mô hình
+[ 76.44s | frame  2293] đó cứ lặp lại hết
+[ 77.70s | frame  2331] thế hệ này đến thế
+[ 78.56s | frame  2356] hệ khác Và để làm
+[ 79.85s | frame  2395] điều đó chúng ta sẽ
+[ 81.04s | frame  2431] đi qua sáu giai đoạn
+[ 82.00s | frame  2460] lịch sử trải dài từ
+[ 83.20s | frame  2496] năm 1914 cho đến tận
+[ 84.64s | frame  2539] bây giờ chia thành bốn
+[ 86.02s | frame  2580] mô hình kiếm tiền cốt
+[ 86.91s | frame  2607] lõi
+
+==================== PART2 (256 phrases) ====================
+[  0.06s | frame     1] Năm 1914 chiến tranh nổ
+[  2.22s | frame    66] ra ở châu Âu Tổng
+[  3.40s | frame   102] thống Mỹ lúc đó Woodrow
+[  4.48s | frame   134] Wilson lập tức tuyên bố
+[  5.67s | frame   170] nước Mỹ trung lập Ông
+[  6.90s | frame   207] còn nói một câu rất
+[  7.74s | frame   232] nổi tiếng đại ý là
+[  8.77s | frame   263] người Mỹ nên trung lập
+[  9.87s | frame   296] ngay cả trong suy nghĩ
+[ 10.99s | frame   329] tuyệt đối trung lập không
+[ 12.33s | frame   369] thiên vị bên nào Nghe
+[ 13.63s | frame   408] thì rất đẹp Nhưng thực
+[ 14.81s | frame   444] tế diễn ra hoàn toàn
+[ 15.81s | frame   474] khác và nó bắt đầu
+[ 16.92s | frame   507] thay đổi rất nhanh Ban
+[ 18.58s | frame   557] đầu cả hai phe tham
+[ 19.26s | frame   577] chiến đều nghĩ cuộc chiến
+[ 20.50s | frame   615] sẽ ngắn thôi kiểu vài
+[ 21.53s | frame   645] tháng là xong quân đội
+[ 22.66s | frame   679] các nước tự lo được
+[ 23.50s | frame   705] vũ khí đạn dược của
+[ 24.50s | frame   735] mình bằng năng lực sản
+[ 25.54s | frame   766] xuất trong nước Nhưng chiến
+[ 26.89s | frame   806] tranh không kết thúc nhanh
+[ 27.75s | frame   832] như vậy Thực ra mãi
+[ 28.82s | frame   864] đến nửa cuối năm 1915
+[ 30.30s | frame   909] việc mua bán vật tư
+[ 31.21s | frame   936] chiến tranh quy mô lớn
+[ 32.18s | frame   965] từ Mỹ mới thực sự
+[ 33.17s | frame   995] bắt đầu diễn ra một
+[ 34.20s | frame  1026] cách nghiêm túc Trước đó
+[ 35.95s | frame  1078] châu Âu vẫn còn nghĩ
+[ 36.93s | frame  1107] họ tự xoay xở được
+[ 38.22s | frame  1146] Nhưng khi cuộc chiến kéo
+[ 39.26s | frame  1177] dài khi hàng triệu quả
+[ 40.30s | frame  1209] đạn pháo được bắn ra
+[ 41.34s | frame  1240] mỗi tháng vượt xa mọi
+[ 42.34s | frame  1270] dự đoán trước chiến tranh
+[ 43.63s | frame  1308] nhu cầu vũ khí ở
+[ 44.24s | frame  1327] châu Âu bắt đầu vượt
+[ 45.11s | frame  1353] quá khả năng sản xuất
+[ 46.02s | frame  1380] trong nước một cách nghiêm
+[ 47.03s | frame  1410] trọng Và đó là lúc
+[ 48.11s | frame  1443] các đơn hàng khổng lồ
+[ 49.10s | frame  1473] bắt đầu đổ về nước
+[ 50.23s | frame  1506] Mỹ Nước Anh đặt một
+[ 51.55s | frame  1546] triệu khẩu súng trường Enfield
+[ 53.08s | frame  1592] từ hãng Remington của Mỹ
+[ 54.42s | frame  1632] Chỉ riêng một đơn hàng
+[ 55.46s | frame  1663] đó thôi đã là một
+[ 56.30s | frame  1689] con số khổng lồ vào
+[ 57.10s | frame  1713] thời điểm đó Nhưng đó
+[ 58.47s | frame  1754] chỉ là khởi đầu Cứ
+[ 59.78s | frame  1793] đơn hàng này nối tiếp
+[ 60.84s | frame  1825] đơn hàng kia xuất khẩu
+[ 62.06s | frame  1861] quân sự của Mỹ tăng
+[ 63.05s | frame  1891] với tốc độ chóng mặt
+[ 64.22s | frame  1926] từ 40 triệu đô la
+[ 65.27s | frame  1958] năm 1914 lên 1,3 tỷ
+[ 67.63s | frame  2028] đô la năm 1916 rồi
+[ 69.26s | frame  2077] lên tới 2,3 tỷ đô
+[ 70.50s | frame  2115] la chỉ trong 19 tháng
+[ 71.73s | frame  2151] cuối cùng của cuộc chiến
+[ 73.35s | frame  2200] Bạn cứ hình dung: chỉ
+[ 74.37s | frame  2231] trong vòng hai năm giá
+[ 75.57s | frame  2267] trị xuất khẩu vũ khí
+[ 76.64s | frame  2299] của Mỹ đã tăng hơn
+[ 77.67s | frame  2330] ba mươi lần Và đây
+[ 78.86s | frame  2365] là con số đáng chú
+[ 79.91s | frame  2397] ý nhất để bạn thấy
+[ 81.11s | frame  2433] quy mô thực sự của
+[ 82.16s | frame  2464] việc này: đến năm 1920
+[ 83.72s | frame  2511] tức là chỉ hai năm
+[ 84.72s | frame  2541] sau khi chiến tranh kết
+[ 85.92s | frame  2577] thúc nước Mỹ chiếm hơn
+[ 87.21s | frame  2616] 52% tổng lượng vũ khí
+[ 88.46s | frame  2653] xuất khẩu của cả thế
+[ 89.58s | frame  2687] giới Hơn một nửa lượng
+[ 91.01s | frame  2730] vũ khí xuất khẩu toàn
+[ 91.95s | frame  2758] cầu Đến từ một quốc
+[ 93.05s | frame  2791] gia mà phần lớn thời
+[ 93.99s | frame  2819] gian cuộc chiến về mặt
+[ 95.28s | frame  2858] chính thức vẫn đang trung
+[ 96.52s | frame  2895] lập Nhưng vũ khí chỉ
+[ 97.58s | frame  2927] là một phần câu chuyện
+[ 98.94s | frame  2968] Phần còn lại và có
+[ 99.90s | frame  2997] lẽ còn quan trọng hơn
+[101.26s | frame  3037] nằm ở tài chính Tập
+[102.38s | frame  3071] đoàn ngân hàng J.P Morgan
+[103.78s | frame  3113] trở thành đại lý thu
+[104.74s | frame  3142] mua chính thức cho phe
+[105.58s | frame  3167] Đồng minh tức là Anh
+[106.97s | frame  3209] Pháp Nga Morgan đứng ra
+[108.48s | frame  3254] thu xếp việc mua hơn
+[109.29s | frame  3278] 3 tỷ đô la vật
+[110.02s | frame  3300] tư chiến tranh và hàng
+[111.02s | frame  3330] hóa khác cho các nước
+[111.98s | frame  3359] này Ba tỷ đô la
+[113.09s | frame  3392] vào thời điểm hơn một
+[114.25s | frame  3427] trăm năm trước khi cả
+[115.51s | frame  3465] nền kinh tế Mỹ còn
+[116.40s | frame  3492] nhỏ hơn bây giờ rất
+[117.32s | frame  3519] nhiều lần là một con
+[118.37s | frame  3551] số gần như không tưởng
+[119.72s | frame  3591] Ban đầu chính quyền Wilson
+[121.06s | frame  3631] còn cấm việc cho các
+[122.05s | frame  3661] nước tham chiến vay tiền
+[123.28s | frame  3698] vì sợ vi phạm nguyên
+[124.23s | frame  3726] tắc trung lập Ngoại trưởng
+[125.63s | frame  3768] lúc đó William Jennings Bryan
+[127.34s | frame  3820] kiên quyết phản đối việc
+[128.46s | frame  3853] này Nhưng đến cuối năm
+[129.80s | frame  3894] 1914 lệnh cấm đó được
+[131.58s | frame  3947] nới lỏng và Bryan cuối
+[132.72s | frame  3981] cùng cũng mất đi ảnh
+[133.53s | frame  4005] hưởng của mình trong chính
+[134.93s | frame  4047] sách này Phố Wall chính
+[136.35s | frame  4090] thức trở thành nhà tài
+[137.39s | frame  4121] trợ chính cho cuộc chiến
+[138.41s | frame  4152] ở châu Âu Và một
+[139.59s | frame  4187] khi tiền của bạn đã
+[140.43s | frame  4212] đổ vào cuộc chiến của
+[141.58s | frame  4247] một bên bạn có thực
+[142.64s | frame  4279] sự còn trung lập không?
+[144.01s | frame  4320] Hay bạn đã có một
+[144.78s | frame  4343] lý do rất thực tế
+[145.67s | frame  4370] để mong bên đó chiến
+[146.74s | frame  4402] thắng vì nếu họ thua
+[147.77s | frame  4433] những khoản đầu tư khổng
+[149.07s | frame  4472] lồ đó cũng mất theo?
+[150.44s | frame  4513] Đây chính xác là điều
+[151.64s | frame  4549] mà nhiều nhà sử học
+[152.80s | frame  4584] sau này chỉ ra Nước
+[153.78s | frame  4613] Anh với sức mạnh hải
+[154.87s | frame  4646] quân của mình đã áp
+[155.87s | frame  4676] đặt một cuộc phong tỏa
+[156.84s | frame  4705] lên các cảng của Đức
+[158.20s | frame  4746] khiến thương mại của Mỹ
+[159.19s | frame  4775] với phe Liên minh Trung
+[159.99s | frame  4799] tâm tức là Đức và
+[161.34s | frame  4840] Áo-Hung gần như biến mất
+[162.72s | frame  4881] Con số đưa ra rất
+[163.77s | frame  4913] rõ ràng: thương mại Mỹ
+[165.24s | frame  4957] với phe Liên minh Trung
+[166.40s | frame  4992] tâm giảm từ 169 triệu
+[167.98s | frame  5039] đô la năm 1914 xuống
+[169.33s | frame  5079] chỉ còn 1 triệu đô
+[170.40s | frame  5112] la năm 1916 Gần như
+[171.92s | frame  5157] về không Trong khi đó
+[173.51s | frame  5205] thương mại với phe Đồng
+[174.58s | frame  5237] minh thì bùng nổ theo
+[175.39s | frame  5261] chiều ngược lại Nói cách
+[176.78s | frame  5303] khác dù về lý thuyết
+[177.88s | frame  5336] nước Mỹ buôn bán với
+[178.96s | frame  5368] cả hai bên trên thực
+[180.05s | frame  5401] tế sự phong tỏa của
+[180.89s | frame  5426] Anh đã biến trung lập
+[181.80s | frame  5454] thành chỉ bán cho một
+[182.84s | frame  5485] phe và nước Mỹ dù
+[184.10s | frame  5523] biết rõ điều này vẫn
+[185.07s | frame  5552] chọn không phản đối mạnh
+[186.15s | frame  5584] mẽ vì lợi ích thương
+[187.26s | frame  5617] mại quá lớn Khi nước
+[188.66s | frame  5659] Đức bắt đầu dùng tàu
+[189.93s | frame  5697] ngầm để tấn công tàu
+[191.14s | frame  5734] buôn kể cả tàu chở
+[192.13s | frame  5763] khách như con tàu Lusitania
+[193.76s | frame  5812] khiến hàng trăm người thiệt
+[194.95s | frame  5848] mạng trong đó có công
+[195.84s | frame  5875] dân Mỹ nó không chỉ
+[196.79s | frame  5903] là một hành động quân
+[197.68s | frame  5930] sự đơn thuần trong mắt
+[198.60s | frame  5958] công chúng Mỹ Nó còn
+[199.60s | frame  5988] đe dọa trực tiếp đến
+[200.78s | frame  6023] dòng chảy thương mại và
+[201.85s | frame  6055] tài chính khổng lồ mà
+[202.72s | frame  6081] nước Mỹ đã đặt cược
+[203.82s | frame  6114] vào phe Đồng minh Có
+[205.07s | frame  6152] một chi tiết rất đáng
+[206.13s | frame  6183] nói ở đây Một trong
+[207.30s | frame  6219] những công ty hưởng lợi
+[208.38s | frame  6251] lớn nhất từ làn sóng
+[209.42s | frame  6282] đơn hàng này là Bethlehem
+[210.46s | frame  6313] Steel công ty thép lớn
+[211.52s | frame  6345] thứ ba nước Mỹ vào
+[212.49s | frame  6374] thời điểm đó Công ty
+[213.67s | frame  6410] này sản xuất tới sáu
+[214.92s | frame  6447] mươi phần trăm số vũ
+[215.40s | frame  6462] khí mà quân đội Mỹ
+[216.63s | frame  6498] sử dụng và bốn mươi
+[217.80s | frame  6534] phần trăm số đạn pháo
+[218.41s | frame  6552] được dùng trong chiến tranh
+[220.12s | frame  6603] Ngay cả sau khi Tổng
+[220.96s | frame  6628] thống Wilson áp đặt kiểm
+[222.14s | frame  6664] soát giá và giới hạn
+[223.10s | frame  6693] biên độ lợi nhuận đối
+[224.48s | frame  6734] với hàng hóa sản xuất
+[225.68s | frame  6770] lợi nhuận của Bethlehem Steel
+[227.00s | frame  6810] từ các đơn hàng thời
+[228.07s | frame  6842] chiến vẫn tiếp tục tăng
+[229.31s | frame  6879] vọt biến công ty này
+[230.34s | frame  6910] trở thành một trong những
+[231.39s | frame  6941] tập đoàn sản xuất lớn
+[232.30s | frame  6969] nhất cả nước Sau chiến
+[233.66s | frame  7009] tranh một ủy ban của
+[234.71s | frame  7041] Thượng viện Mỹ gọi là
+[236.27s | frame  7088] Ủy ban Nye do Thượng
+[237.32s | frame  7119] nghị sĩ Gerald Nye đứng
+[238.51s | frame  7155] đầu được lập ra để
+[239.85s | frame  7195] điều tra xem liệu các
+[240.84s | frame  7225] nhà sản xuất vũ khí
+[241.79s | frame  7253] và giới ngân hàng có
+[242.55s | frame  7276] thực sự thao túng để
+[243.40s | frame  7302] đẩy nước Mỹ vào cuộc
+[244.36s | frame  7330] chiến hay không Và công
+[245.54s | frame  7366] bằng mà nói ủy ban
+[246.42s | frame  7392] này không tìm ra bằng
+[247.45s | frame  7423] chứng nào cho thấy có
+[248.53s | frame  7455] một âm mưu phối hợp
+[250.09s | frame  7502] có tổ chức giữa các
+[251.13s | frame  7533] nhà sản xuất vũ khí
+[252.04s | frame  7561] để cố tình kéo nước
+[253.13s | frame  7593] Mỹ vào chiến tranh Nhưng
+[254.57s | frame  7637] điều mà không ai phủ
+[255.58s | frame  7667] nhận được là những con
+[256.75s | frame  7702] số Là việc nước Mỹ
+[257.92s | frame  7737] từ một quốc gia còn
+[258.90s | frame  7766] nợ nần trước chiến tranh
+[260.09s | frame  7802] đã trở thành chủ nợ
+[261.15s | frame  7834] lớn nhất thế giới sau
+[262.30s | frame  7869] chiến tranh Là việc New
+[263.70s | frame  7911] York chính thức thay thế
+[264.72s | frame  7941] London trở thành trung tâm
+[265.78s | frame  7973] tài chính toàn cầu Nói
+[267.27s | frame  8018] cách khác Mỹ đã tìm
+[268.08s | frame  8042] ra một công thức: đứng
+[269.16s | frame  8074] ngoài chiến trường nhưng đứng
+[270.66s | frame  8119] giữa dòng tiền Bán vũ
+[271.96s | frame  8158] khí cho vay tiền thu
+[273.02s | frame  8190] lợi từ cả hai đầu
+[274.43s | frame  8232] và chỉ chính thức tham
+[275.26s | frame  8257] chiến khi lợi ích của
+[276.08s | frame  8282] mình bị đe dọa trực
+[276.90s | frame  8307] tiếp cụ thể là năm
+[278.13s | frame  8343] 1917 sau vụ chìm tàu
+[279.57s | frame  8387] và bức điện tín Zimmermann
+[280.86s | frame  8425] nổi tiếng trong đó Đức
+[282.24s | frame  8467] đề nghị Mexico tấn công
+[283.44s | frame  8503] lại Mỹ để đòi lại
+[284.46s | frame  8533] lãnh thổ Texas New Mexico
+[286.73s | frame  8601] và Arizona Đó là bài
+[288.31s | frame  8649] học đầu tiên Và nó
+[289.55s | frame  8686] sẽ được lặp lại với
+[290.83s | frame  8724] một phiên bản tinh vi
+[292.11s | frame  8763] hơn chỉ hai mươi năm
+[292.78s | frame  8783] sau
+
+==================== PART3 (206 phrases) ====================
+[  0.13s | frame     3] Sau Thế chiến I dư
+[  1.13s | frame    33] luận Mỹ bắt đầu hoài
+[  2.18s | frame    65] nghi sâu sắc Nhiều người
+[  3.52s | frame   105] tin rằng chính lòng tham
+[  4.40s | frame   132] của các nhà sản xuất
+[  5.28s | frame   158] vũ khí và giới ngân
+[  6.09s | frame   182] hàng đã kéo nước Mỹ
+[  6.96s | frame   208] vào một cuộc chiến không
+[  8.10s | frame   243] phải của mình Năm 1934
+[  9.88s | frame   296] nhà báo Helmuth Engelbrecht và
+[ 11.35s | frame   340] Frank Hanighen xuất bản một
+[ 12.91s | frame   387] cuốn sách gây chấn động
+[ 14.64s | frame   439] tựa đề Những kẻ buôn
+[ 15.62s | frame   468] cái chết cáo buộc rằng
+[ 16.78s | frame   503] các nhà sản xuất vũ
+[ 17.66s | frame   529] khí và giới ngân hàng
+[ 18.64s | frame   559] đã thao túng để đẩy
+[ 19.51s | frame   585] nước Mỹ vào Thế chiến
+[ 20.68s | frame   620] I nhằm bảo vệ lợi
+[ 21.49s | frame   644] nhuận của họ Cuốn sách
+[ 22.70s | frame   681] này trở thành một hiện
+[ 23.64s | frame   709] tượng làm dấy lên làn
+[ 24.73s | frame   741] sóng phản đối can thiệp
+[ 25.95s | frame   778] quân sự trên khắp nước
+[ 27.30s | frame   819] Mỹ Kết quả là giữa
+[ 28.75s | frame   862] những năm 1930 Quốc hội
+[ 30.59s | frame   917] Mỹ thông qua một loạt
+[ 31.51s | frame   945] Đạo luật Trung lập với
+[ 32.49s | frame   974] mục đích rất rõ ràng:
+[ 33.67s | frame  1010] không để lịch sử lặp
+[ 34.62s | frame  1038] lại Đạo luật Trung lập
+[ 35.95s | frame  1078] đầu tiên được thông qua
+[ 37.20s | frame  1116] vào tháng 8 năm 1935
+[ 38.72s | frame  1161] Các đạo luật này cấm
+[ 39.71s | frame  1191] cho vay tiền cho các
+[ 40.49s | frame  1214] nước tham chiến cấm bán
+[ 42.02s | frame  1260] vũ khí giữ nước Mỹ
+[ 43.23s | frame  1296] đứng hẳn ngoài mọi cuộc
+[ 44.31s | frame  1329] xung đột trong tương lai
+[ 45.48s | frame  1364] Nhưng rồi năm 1939 chiến
+[ 47.70s | frame  1431] tranh lại nổ ra ở
+[ 48.78s | frame  1463] châu Âu Và lần này
+[ 49.72s | frame  1491] nước Mỹ tìm ra một
+[ 50.53s | frame  1515] cách rất khéo léo để
+[ 51.42s | frame  1542] vừa giữ được vẻ ngoài
+[ 52.46s | frame  1573] trung lập vừa không bỏ
+[ 53.83s | frame  1614] lỡ cơ hội kiếm tiền
+[ 55.18s | frame  1655] Đó là chính sách mang
+[ 56.23s | frame  1686] tên Cash and Carry tạm
+[ 57.28s | frame  1718] dịch là trả tiền mặt
+[ 58.63s | frame  1758] tự vận chuyển Nghe cái
+[ 60.01s | frame  1800] tên thì có vẻ đơn
+[ 60.86s | frame  1825] giản nhưng đây thực ra
+[ 62.00s | frame  1860] là một nước cờ rất
+[ 63.09s | frame  1892] thông minh Ban đầu theo
+[ 64.50s | frame  1935] Đạo luật Trung lập năm
+[ 65.87s | frame  1976] 1937 các nước tham chiến
+[ 67.64s | frame  2029] chỉ được phép mua hàng
+[ 68.68s | frame  2060] hóa phi quân sự từ
+[ 69.52s | frame  2085] Mỹ với điều kiện trả
+[ 70.59s | frame  2117] tiền mặt ngay và tự
+[ 71.46s | frame  2143] vận chuyển bằng tàu của
+[ 72.69s | frame  2180] mình Nhưng đến năm 1939
+[ 74.70s | frame  2241] một bản sửa đổi mới
+[ 76.15s | frame  2284] Đạo luật Trung lập 1939
+[ 77.88s | frame  2336] đã mở rộng thêm cho
+[ 79.03s | frame  2370] phép bán cả vũ khí
+[ 80.06s | frame  2401] quân sự cho các nước
+[ 81.27s | frame  2438] tham chiến vẫn theo nguyên
+[ 82.73s | frame  2481] tắc cash and carry đó
+[ 84.24s | frame  2527] Bạn thấy sự khôn ngoan
+[ 85.31s | frame  2559] ở đây chưa? Nước Mỹ
+[ 86.71s | frame  2601] vẫn bán được hàng vẫn
+[ 87.96s | frame  2638] thu tiền về đều đặn
+[ 89.22s | frame  2676] mà lại chẳng phải chịu
+[ 90.24s | frame  2707] rủi ro gì Không cho
+[ 91.41s | frame  2742] vay nên không sợ mất
+[ 92.66s | frame  2779] nợ nếu bên mua thua
+[ 93.71s | frame  2811] trận đây chính là bài
+[ 94.98s | frame  2849] học rút ra từ Thế
+[ 95.98s | frame  2879] chiến I khi các khoản
+[ 97.08s | frame  2912] vay khổng lồ cho phe
+[ 97.98s | frame  2939] Đồng minh trở thành một
+[ 99.10s | frame  2973] phần lý do kéo Mỹ
+[ 99.86s | frame  2995] vào cuộc chiến Không dùng
+[101.19s | frame  3035] tàu của mình để vận
+[102.18s | frame  3065] chuyển nên không sợ tàu
+[103.24s | frame  3097] Mỹ bị tàu ngầm Đức
+[104.20s | frame  3126] đánh chìm không có công
+[105.55s | frame  3166] dân Mỹ nào thiệt mạng
+[106.65s | frame  3199] trên biển để phải viện
+[107.90s | frame  3237] cớ tham chiến như hồi
+[108.92s | frame  3267] vụ tàu Lusitania Nói thẳng
+[110.51s | frame  3315] ra: bán vũ khí mà
+[111.43s | frame  3342] không đổ máu Thu lợi
+[112.82s | frame  3384] nhuận mà đẩy hết rủi
+[114.12s | frame  3423] ro sang cho bên mua
+[115.28s | frame  3458] Và ai là bên có
+[116.04s | frame  3481] đủ tiền mặt và đủ
+[117.19s | frame  3515] tàu để mua theo kiểu
+[118.36s | frame  3550] này? Chủ yếu là nước
+[119.77s | frame  3593] Anh và Pháp hai cường
+[120.84s | frame  3625] quốc hải quân có khả
+[122.04s | frame  3661] năng vận chuyển hàng hóa
+[123.04s | frame  3691] xuyên Đại Tây Dương Trong
+[124.28s | frame  3728] khi đó phe Trục Đức
+[125.53s | frame  3765] Ý gần như không thể
+[126.55s | frame  3796] tiếp cận nguồn cung này
+[127.71s | frame  3831] vì không có đủ tàu
+[128.66s | frame  3859] hoặc bị phong tỏa trên
+[129.73s | frame  3891] biển bởi chính hải quân
+[130.93s | frame  3927] Anh Vậy nên dù về
+[132.36s | frame  3970] mặt luật pháp chính sách
+[133.70s | frame  4010] này áp dụng cho tất
+[134.66s | frame  4039] cả các bên tham chiến
+[135.74s | frame  4072] như nhau trên thực tế
+[136.90s | frame  4107] nó chỉ có lợi cho
+[137.80s | frame  4134] một phía Đây chính là
+[139.22s | frame  4176] điều mà nhiều nhà quan
+[140.29s | frame  4208] sát gọi là trung lập
+[141.21s | frame  4236] trên giấy tờ nhưng thiên
+[142.56s | frame  4276] vị trên thực tế Đến
+[144.05s | frame  4321] năm 1941 khi tình hình
+[145.37s | frame  4361] chiến sự ở châu Âu
+[146.37s | frame  4391] ngày càng căng thẳng và
+[147.51s | frame  4425] nước Anh dần cạn tiền
+[148.68s | frame  4460] mặt dự trữ nước Mỹ
+[150.04s | frame  4501] lại tiến thêm một bước
+[151.22s | frame  4536] nữa với chương trình Lend-Lease
+[152.51s | frame  4575] tạm dịch là cho mượn
+[153.47s | frame  4604] cho thuê Về bản chất
+[154.84s | frame  4645] đây là cách để tiếp
+[155.94s | frame  4678] tục cung cấp vũ khí
+[156.81s | frame  4704] cho Anh và các đồng
+[157.69s | frame  4730] minh khác mà không cần
+[158.79s | frame  4763] họ phải trả tiền mặt
+[159.95s | frame  4798] ngay mà ghi nợ để
+[160.91s | frame  4827] tính sau dưới danh nghĩa
+[162.17s | frame  4865] cho mượn thiết bị quân
+[163.14s | frame  4894] sự giống như cho mượn
+[164.14s | frame  4924] một cái vòi cứu hỏa
+[164.95s | frame  4948] khi nhà hàng xóm đang
+[165.65s | frame  4969] cháy đó chính xác là
+[166.81s | frame  5004] ví dụ mà Tổng thống
+[167.73s | frame  5031] Roosevelt dùng để thuyết phục
+[169.03s | frame  5070] công chúng Mỹ ủng hộ
+[169.90s | frame  5097] chương trình này Chương trình
+[171.55s | frame  5146] này đã bơm một lượng
+[172.48s | frame  5174] khổng lồ vũ khí xe
+[173.30s | frame  5199] tăng máy bay tàu chiến
+[174.52s | frame  5235] vào cuộc chiến sản xuất
+[175.80s | frame  5274] tại các nhà máy Mỹ
+[176.62s | frame  5298] bằng nhân công Mỹ tạo
+[178.13s | frame  5343] ra hàng triệu việc làm
+[179.48s | frame  5384] và đưa nền kinh tế
+[180.20s | frame  5406] Mỹ ra khỏi cuộc Đại
+[181.24s | frame  5437] Suy Thoái nhanh hơn bất
+[182.27s | frame  5468] kỳ chính sách kinh tế
+[183.06s | frame  5491] trong nước nào trước đó
+[184.19s | frame  5525] từng làm được Và khi
+[185.40s | frame  5562] Nhật Bản tấn công Trân
+[186.56s | frame  5596] Châu Cảng cuối năm 1941
+[188.28s | frame  5648] nước Mỹ chính thức tham
+[189.59s | frame  5687] chiến Nhưng vào thời điểm
+[191.07s | frame  5732] đó ngành công nghiệp quốc
+[192.12s | frame  5763] phòng Mỹ đã hoạt động
+[193.05s | frame  5791] hết công suất được hơn
+[194.05s | frame  5821] hai năm rồi nhờ các
+[195.19s | frame  5855] đơn hàng cash and carry
+[196.36s | frame  5890] và Lend-Lease Cỗ máy đã
+[197.48s | frame  5924] được khởi động từ trước
+[198.85s | frame  5965] chiến tranh chính thức chỉ
+[199.82s | frame  5994] là lúc nó chuyển sang
+[200.63s | frame  6018] số cao nhất Sau chiến
+[201.98s | frame  6059] tranh một lần nữa nước
+[203.09s | frame  6092] Mỹ là quốc gia duy
+[203.85s | frame  6115] nhất trong số các cường
+[204.96s | frame  6148] quốc lớn mà lãnh thổ
+[205.92s | frame  6177] gần như không hề hấn
+[206.89s | frame  6206] gì trước bom đạn Trong
+[208.44s | frame  6253] khi châu Âu và châu
+[209.14s | frame  6274] Á phải mất hàng thập
+[210.22s | frame  6306] kỷ để xây dựng lại
+[211.23s | frame  6336] từ đống tro tàn các
+[212.48s | frame  6374] nhà máy của Mỹ vẫn
+[213.36s | frame  6400] nguyên vẹn đội ngũ công
+[214.54s | frame  6436] nhân vẫn còn đó và
+[215.66s | frame  6469] giờ đây họ nắm trong
+[216.52s | frame  6495] tay năng lực sản xuất
+[217.49s | frame  6524] công nghiệp lớn nhất hành
+[218.64s | frame  6559] tinh Đây là lúc nước
+[219.85s | frame  6595] Mỹ chính thức trở thành
+[221.15s | frame  6634] siêu cường số một thế
+[222.16s | frame  6664] giới Không chỉ về quân
+[223.41s | frame  6702] sự mà về kinh tế
+[224.58s | frame  6737] Bài học rút ra từ
+[225.43s | frame  6762] mô hình này là gì?
+[226.31s | frame  6789] Là việc bạn không cần
+[227.44s | frame  6823] phải vi phạm luật để
+[228.61s | frame  6858] kiếm lợi từ chiến tranh
+[230.18s | frame  6905] Bạn chỉ cần viết ra
+[230.98s | frame  6929] luật chơi theo cách chỉ
+[232.02s | frame  6960] có lợi cho mình và
+[232.88s | frame  6986] để địa lý hải quân
+[234.15s | frame  7024] của đồng minh làm phần
+[235.34s | frame  7060] còn lại
+
+==================== PART4 (204 phrases) ====================
+[  0.13s | frame     3] Sau Thế chiến II có
+[  0.91s | frame    27] một điều thay đổi rất
+[  2.07s | frame    62] quan trọng mà không phải
+[  3.33s | frame    99] ai cũng để ý Ngay
+[  4.58s | frame   137] sau khi Thế chiến II
+[  5.78s | frame   173] kết thúc năm 1945 chi
+[  7.76s | frame   232] tiêu quốc phòng Mỹ sụt
+[  8.80s | frame   264] giảm mạnh giống như mọi
+[  9.82s | frame   294] lần trước đó trong lịch
+[ 11.05s | frame   331] sử Quân đội giải ngũ
+[ 12.17s | frame   365] hàng loạt Đến mùa xuân
+[ 13.74s | frame   412] năm 1947 khi chính quyền
+[ 15.82s | frame   474] Truman bắt đầu triển khai
+[ 16.75s | frame   502] chính sách ngăn chặn chủ
+[ 17.73s | frame   531] nghĩa cộng sản ngân sách
+[ 18.91s | frame   567] quốc phòng đã giảm xuống
+[ 20.02s | frame   600] mức rất thấp so với
+[ 20.96s | frame   628] thời chiến Và đến khi
+[ 22.15s | frame   664] chiến tranh Triều Tiên nổ
+[ 23.56s | frame   706] ra vào tháng 6 năm
+[ 24.51s | frame   735] 1950 quân đội Mỹ chỉ
+[ 26.14s | frame   784] còn khoảng 1,45 triệu quân
+[ 27.60s | frame   828] một sự sụt giảm khổng
+[ 28.64s | frame   859] lồ so với đỉnh điểm
+[ 29.68s | frame   890] Thế chiến II Nhưng chiến
+[ 31.18s | frame   935] tranh Triều Tiên đã thay
+[ 32.29s | frame   968] đổi hoàn toàn cục diện
+[ 33.48s | frame  1004] đó và đây chính là
+[ 34.40s | frame  1032] bước ngoặt quan trọng nhất
+[ 35.56s | frame  1066] trong toàn bộ câu chuyện
+[ 36.46s | frame  1093] chúng ta đang kể Chỉ
+[ 37.70s | frame  1131] trong vài tháng ngân sách
+[ 39.07s | frame  1172] quân sự Mỹ tăng vọt
+[ 40.07s | frame  1202] từ khoảng 13,5 tỷ đô
+[ 41.51s | frame  1245] la lên tới 50 tỷ
+[ 42.49s | frame  1274] đô la Khi Trung Quốc
+[ 43.70s | frame  1311] chính thức tham chiến vào
+[ 45.05s | frame  1351] tháng 11 năm 1950 mức
+[ 46.83s | frame  1404] tăng này càng trở nên
+[ 47.94s | frame  1438] gấp gáp hơn và lạm
+[ 49.05s | frame  1471] phát trong nước tăng vọt
+[ 50.40s | frame  1512] lên gần 8% Để bù
+[ 51.82s | frame  1554] đắp chi tiêu phi quân
+[ 52.99s | frame  1589] sự bao gồm cả các
+[ 54.07s | frame  1622] chương trình xã hội bị
+[ 55.49s | frame  1664] cắt giảm tới 28% Quốc
+[ 57.40s | frame  1722] hội Mỹ thông qua Đạo
+[ 58.43s | frame  1752] luật Sản xuất Quốc phòng
+[ 59.83s | frame  1794] năm 1950 một đạo luật
+[ 61.45s | frame  1843] lần đầu tiên trong lịch
+[ 62.52s | frame  1875] sử chính thức định nghĩa
+[ 63.73s | frame  1911] nền tảng công nghiệp quốc
+[ 64.78s | frame  1943] phòng là gì thiết lập
+[ 65.88s | frame  1976] một hệ thống ưu tiên
+[ 66.77s | frame  2003] cho việc cung ứng thiết
+[ 67.76s | frame  2032] bị quân sự và cấp
+[ 68.68s | frame  2060] vốn mồi để các công
+[ 69.92s | frame  2097] ty tư nhân xây dựng
+[ 70.87s | frame  2126] năng lực sản xuất vũ
+[ 71.92s | frame  2157] khí quy mô lớn không
+[ 73.03s | frame  2190] chỉ để phục vụ chiến
+[ 74.03s | frame  2220] tranh Triều Tiên mà để
+[ 75.04s | frame  2251] chuẩn bị cho một cuộc
+[ 76.12s | frame  2283] đối đầu lâu dài với
+[ 77.15s | frame  2314] Liên Xô Đây chính là
+[ 78.22s | frame  2346] điểm mấu chốt: lần đầu
+[ 79.46s | frame  2383] tiên trong lịch sử nước
+[ 80.57s | frame  2417] Mỹ các nhà thầu quốc
+[ 81.73s | frame  2451] phòng tư nhân có thể
+[ 82.63s | frame  2478] duy trì một lực lượng
+[ 83.40s | frame  2502] lao động lớn ngay cả
+[ 84.42s | frame  2532] trong thời bình Chi tiêu
+[ 85.64s | frame  2569] cho nghiên cứu và phát
+[ 86.71s | frame  2601] triển vũ khí tăng vọt
+[ 87.68s | frame  2630] chưa từng có Và trong
+[ 88.82s | frame  2664] suốt phần còn lại của
+[ 89.84s | frame  2695] thời kỳ Chiến tranh Lạnh
+[ 90.92s | frame  2727] chi tiêu quân sự sẽ
+[ 91.90s | frame  2757] chiếm hơn một nửa ngân
+[ 93.01s | frame  2790] sách liên bang và trung
+[ 94.16s | frame  2824] bình khoảng 10% GDP cả
+[ 95.55s | frame  2866] nước một tỷ lệ duy
+[ 96.83s | frame  2904] trì liên tục trong nhiều
+[ 97.94s | frame  2938] thập kỷ chứ không còn
+[ 99.09s | frame  2972] là một đợt tăng vọt
+[100.06s | frame  3001] rồi giảm trở lại như
+[101.00s | frame  3030] sau hai cuộc thế chiến
+[101.90s | frame  3056] trước đó Nói cách khác:
+[103.39s | frame  3101] công tắc bật khi có
+[104.27s | frame  3128] chiến tranh tắt khi hết
+[105.36s | frame  3160] chiến tranh đã chính thức
+[106.55s | frame  3196] bị tháo bỏ Từ đây
+[108.12s | frame  3243] ngành công nghiệp vũ khí
+[109.05s | frame  3271] Mỹ hoạt động liên tục
+[110.38s | frame  3311] không phụ thuộc vào việc
+[111.42s | frame  3342] có đang có chiến sự
+[112.34s | frame  3370] hay không Về mặt kinh
+[113.54s | frame  3406] tế trong nước chiến tranh
+[115.03s | frame  3450] Triều Tiên thực ra đã
+[115.86s | frame  3475] tạo ra một cú hích
+[116.56s | frame  3496] tăng trưởng đáng kể kéo
+[117.83s | frame  3534] nước Mỹ ra khỏi một
+[119.03s | frame  3570] đợt suy thoái nhẹ năm
+[120.19s | frame  3605] 1949 Tăng trưởng GDP thực
+[122.67s | frame  3680] tế vọt lên 8,7% năm
+[124.51s | frame  3735] 1950 và 8% năm 1951
+[127.64s | frame  3829] Nhưng khi chiến tranh kết
+[129.05s | frame  3871] thúc năm 1953 ngành công
+[130.77s | frame  3923] nghiệp quốc phòng lại co
+[131.70s | frame  3950] lại một chút chi tiêu
+[132.73s | frame  3981] quân sự giảm khoảng 14
+[134.09s | frame  4022] tỷ đô la tương đương
+[135.50s | frame  4065] 20% và một cuộc suy
+[136.57s | frame  4097] thoái ngắn đã xảy ra
+[137.68s | frame  4130] ngay sau đó kèm theo
+[138.83s | frame  4164] gần 2 triệu việc làm
+[139.85s | frame  4195] bị mất chủ yếu trong
+[140.96s | frame  4228] ngành quốc phòng và sản
+[142.05s | frame  4261] xuất Điều này cho thấy
+[143.40s | frame  4302] một thực tế quan trọng:
+[144.74s | frame  4342] nền kinh tế Mỹ đến
+[145.91s | frame  4377] giai đoạn này đã bắt
+[146.94s | frame  4408] đầu phụ thuộc đáng kể
+[148.01s | frame  4440] vào chi tiêu quân sự
+[149.19s | frame  4475] đến mức khi chiến tranh
+[150.00s | frame  4500] kết thúc chính sự kết
+[151.19s | frame  4535] thúc đó lại gây ra
+[152.12s | frame  4563] một cú sốc kinh tế
+[153.36s | frame  4600] Đây chính là nền móng
+[154.35s | frame  4630] vững chắc mà mười lăm
+[155.18s | frame  4655] năm sau cụm từ nổi
+[156.08s | frame  4682] tiếng tổ hợp công nghiệp
+[157.40s | frame  4722] quân sự ra đời Cụm
+[158.31s | frame  4749] từ này không phải do
+[159.45s | frame  4783] một nhà hoạt động chống
+[160.39s | frame  4811] chiến tranh nào đặt ra
+[161.64s | frame  4849] Nó đến từ chính miệng
+[162.76s | frame  4882] của Tổng thống Dwight Eisenhower
+[164.64s | frame  4939] một vị tướng năm sao
+[165.72s | frame  4971] người từng chỉ huy quân
+[166.65s | frame  4999] Đồng minh ở Thế chiến
+[167.53s | frame  5025] II trong bài phát biểu
+[168.69s | frame  5060] chia tay nhiệm sở năm
+[169.84s | frame  5095] 1961 Eisenhower cảnh báo nước
+[171.89s | frame  5156] Mỹ về sự nguy hiểm
+[172.91s | frame  5187] khi để một liên minh
+[173.89s | frame  5216] giữa quân đội và các
+[175.05s | frame  5251] tập đoàn vũ khí có
+[176.14s | frame  5284] quá nhiều ảnh hưởng lên
+[177.10s | frame  5313] chính sách quốc gia Và
+[178.24s | frame  5347] lời cảnh báo đó nhìn
+[179.40s | frame  5382] lại hóa ra rất chính
+[180.54s | frame  5416] xác vì chỉ vài năm
+[181.71s | frame  5451] sau nước Mỹ lún sâu
+[182.90s | frame  5487] vào một cuộc chiến kéo
+[183.99s | frame  5519] dài gần hai mươi năm
+[184.83s | frame  5544] tại Việt Nam Cuộc chiến
+[186.24s | frame  5587] tranh Việt Nam là ví
+[187.04s | frame  5611] dụ rõ ràng nhất cho
+[188.03s | frame  5640] việc mô hình tổ hợp
+[188.96s | frame  5668] công nghiệp quân sự vận
+[190.31s | frame  5709] hành như thế nào trong
+[191.28s | frame  5738] thực tế Đây không chỉ
+[192.54s | frame  5776] đơn thuần là một cuộc
+[193.51s | frame  5805] chiến ý thức hệ chống
+[194.45s | frame  5833] lại chủ nghĩa cộng sản
+[195.59s | frame  5867] như những gì được tuyên
+[196.50s | frame  5895] truyền công khai Nó còn
+[197.84s | frame  5935] là một cuộc chiến tiêu
+[198.89s | frame  5966] tốn một lượng ngân sách
+[199.98s | frame  5999] khổng lồ trong gần hai
+[200.94s | frame  6028] thập kỷ và phần lớn
+[202.00s | frame  6060] số tiền đó chảy thẳng
+[203.12s | frame  6093] vào túi của các nhà
+[204.00s | frame  6120] thầu quân sự đã có
+[205.00s | frame  6150] sẵn quan hệ chặt chẽ
+[206.11s | frame  6183] với chính quyền Tổng thống
+[207.71s | frame  6231] Lyndon B Johnson người kế
+[209.30s | frame  6279] nhiệm Kennedy và là người
+[210.62s | frame  6318] trực tiếp mở rộng quy
+[211.67s | frame  6350] mô cuộc chiến tại Việt
+[212.91s | frame  6387] Nam đã trả ơn bằng
+[213.86s | frame  6415] cách rót hàng triệu đô
+[215.00s | frame  6450] la hợp đồng quân sự
+[215.94s | frame  6478] cho những nhà tài trợ
+[216.71s | frame  6501] chính trị lâu năm của
+[217.51s | frame  6525] mình Một trong những công
+[218.88s | frame  6566] ty đáng chú ý nhất
+[219.79s | frame  6593] chính là Brown and Root
+[221.08s | frame  6632] công ty con của tập
+[221.86s | frame  6655] đoàn dầu khí Halliburton phụ
+[223.67s | frame  6710] trách mảng xây dựng và
+[224.62s | frame  6738] hậu cần cho quân đội
+[225.56s | frame  6766] Mỹ tại chiến trường Việt
+[226.80s | frame  6804] Nam Đây chính là tiền
+[227.94s | frame  6838] thân của một mô hình
+[228.88s | frame  6866] mà sau này sẽ được
+[229.81s | frame  6894] lặp lại với quy mô
+[230.66s | frame  6919] lớn hơn rất nhiều ở
+[231.94s | frame  6958] một cuộc chiến khác cách
+[233.23s | frame  6996] đó bốn mươi năm và
+[234.22s | frame  7026] bạn sẽ sớm nhận ra
+[235.24s | frame  7057] chính là cùng một cái
+[236.37s | frame  7091] tên công ty
+
+==================== PART5 (99 phrases) ====================
+[  0.08s | frame     2] Trước khi đi đến giai
+[  0.90s | frame    27] đoạn cuối cùng Iraq và
+[  2.32s | frame    69] Afghanistan sau năm 2001 có
+[  4.89s | frame   146] một cuộc chiến ngắn nhưng
+[  6.15s | frame   184] cực kỳ quan trọng mà
+[  7.02s | frame   210] chúng ta không thể bỏ
+[  8.10s | frame   243] qua: Chiến tranh Vùng Vịnh
+[  9.66s | frame   289] năm 1991 Đây là cuộc
+[ 11.17s | frame   335] chiến đầu tiên trong lịch
+[ 12.43s | frame   372] sử được phát sóng gần
+[ 13.57s | frame   407] như trực tiếp trên truyền
+[ 14.83s | frame   444] hình toàn cầu qua kênh
+[ 15.82s | frame   474] CNN Và đây cũng là
+[ 16.74s | frame   502] lúc vũ khí công nghệ
+[ 17.67s | frame   530] cao của Mỹ lần đầu
+[ 18.79s | frame   563] tiên được trình diễn trước
+[ 20.07s | frame   602] hàng tỷ khán giả trên
+[ 21.05s | frame   631] khắp thế giới biến chiến
+[ 22.44s | frame   673] trường thành một đoạn quảng
+[ 23.71s | frame   711] cáo khổng lồ miễn phí
+[ 24.70s | frame   741] cho ngành công nghiệp vũ
+[ 25.49s | frame   764] khí
+[ 26.54s | frame   796] Hình ảnh gây ấn tượng
+[ 27.54s | frame   826] mạnh nhất chiến tranh này
+[ 28.66s | frame   859] là tên lửa Patriot của
+[ 29.62s | frame   888] Raytheon được cho là đã
+[ 30.83s | frame   924] đánh chặn thành công các
+[ 31.92s | frame   957] tên lửa Scud của Iraq
+[ 32.85s | frame   985] trên bầu trời Israel và
+[ 34.10s | frame  1023] Ả Rập Saudi Tổng thống
+[ 35.30s | frame  1059] George H.W Bush khi đó
+[ 36.79s | frame  1103] công khai ca ngợi thành
+[ 37.68s | frame  1130] tích này Nhưng sau này
+[ 38.92s | frame  1167] các phân tích kỹ thuật
+[ 39.93s | frame  1197] độc lập cho thấy phần
+[ 40.88s | frame  1226] lớn các vụ đánh chặn
+[ 41.79s | frame  1253] đó thực chất đã thất
+[ 42.80s | frame  1284] bại hoặc chỉ trúng một
+[ 43.85s | frame  1315] phần tên lửa Patriot phần
+[ 45.35s | frame  1360] lớn đã bắn trượt Nhưng
+[ 46.53s | frame  1395] có một điều thú vị
+[ 47.64s | frame  1429] và cũng khá chua chát:
+[ 48.65s | frame  1459] dù tên lửa bắn trượt
+[ 49.87s | frame  1496] doanh số bán hàng thì
+[ 50.84s | frame  1525] không hề trượt chút nào
+[ 52.71s | frame  1581] Ngay sau cuộc chiến các
+[ 53.78s | frame  1613] quốc gia trên khắp thế
+[ 54.82s | frame  1644] giới đổ xô đặt mua
+[ 55.75s | frame  1672] hệ thống Patriot và hàng
+[ 56.82s | frame  1704] loạt vũ khí công nghệ
+[ 57.84s | frame  1735] cao khác của Mỹ đơn
+[ 58.94s | frame  1768] giản vì họ đã nhìn
+[ 59.65s | frame  1789] thấy nó hoạt động trên
+[ 60.53s | frame  1815] truyền hình Về quy mô
+[ 61.78s | frame  1853] nhân sự chiến tranh Vùng
+[ 62.89s | frame  1886] Vịnh 1991 cũng đánh dấu
+[ 64.66s | frame  1939] một bước chuyển mình trong
+[ 65.86s | frame  1975] việc sử dụng nhà thầu
+[ 66.99s | frame  2009] quân sự tư nhân Tỷ
+[ 68.31s | frame  2049] lệ giữa quân nhân chính
+[ 69.44s | frame  2083] quy và nhà thầu dân
+[ 70.36s | frame  2110] sự vào thời điểm đó
+[ 71.78s | frame  2153] vào khoảng 50 trên 1
+[ 72.86s | frame  2185] tức là cứ 50 quân
+[ 74.05s | frame  2221] nhân thì mới có 1
+[ 75.02s | frame  2250] nhà thầu dân sự đi
+[ 75.95s | frame  2278] cùng Con số này nghe
+[ 77.52s | frame  2325] có vẻ nhỏ nhưng nó
+[ 78.47s | frame  2354] là bước khởi đầu cho
+[ 79.43s | frame  2382] một xu hướng sẽ bùng
+[ 80.52s | frame  2415] nổ dữ dội chỉ hơn
+[ 81.42s | frame  2442] một thập kỷ sau đó
+[ 82.74s | frame  2482] khi tỷ lệ này co
+[ 83.47s | frame  2504] hẹp lại gần như 1
+[ 84.55s | frame  2536] trên 1 ở Afghanistan Sau
+[ 86.04s | frame  2581] chiến tranh Ả Rập Saudi
+[ 87.33s | frame  2619] và nhiều quốc gia vùng
+[ 88.31s | frame  2649] Vịnh khác vốn đã chi
+[ 89.66s | frame  2689] những khoản tiền khổng lồ
+[ 90.81s | frame  2724] để mua vũ khí Mỹ
+[ 91.66s | frame  2749] trong và sau cuộc chiến
+[ 93.11s | frame  2793] rơi vào tình trạng nợ
+[ 94.08s | frame  2822] nần chồng chất nhưng đó
+[ 95.34s | frame  2860] lại chính xác là điều
+[ 96.26s | frame  2887] mà các nhà xuất khẩu
+[ 97.13s | frame  2913] vũ khí Mỹ mong muốn:
+[ 98.12s | frame  2943] một thị trường khách hàng
+[ 99.23s | frame  2976] trung thành sẵn sàng tiếp
+[100.28s | frame  3008] tục mua sắm trong nhiều
+[101.20s | frame  3036] thập kỷ tới
+[102.80s | frame  3084] Đây chính là lúc mô
+[103.53s | frame  3105] hình bắt đầu chuyển sang
+[104.57s | frame  3137] một giai đoạn mới: chiến
+[105.69s | frame  3170] tranh không chỉ để kiếm
+[106.60s | frame  3198] tiền từ hợp đồng trong
+[107.54s | frame  3226] lúc đánh mà còn là
+[108.68s | frame  3260] công cụ tiếp thị khổng
+[109.76s | frame  3292] lồ cho hàng thập kỷ
+[110.59s | frame  3317] bán hàng sau đó
+
+==================== PART6 (321 phrases) ====================
+[  0.04s | frame     1] Nếu như các mô hình
+[  0.84s | frame    25] trước đòi hỏi bạn phải
+[  2.05s | frame    61] suy luận và ghép nối
+[  2.98s | frame    89] các con số lại với
+[  3.77s | frame   113] nhau thì mô hình thứ
+[  4.82s | frame   144] tư này gần như không
+[  5.72s | frame   171] cần phải suy luận gì
+[  6.69s | frame   200] nhiều Nó diễn ra công
+[  7.88s | frame   236] khai được đưa tin rộng
+[  9.24s | frame   277] rãi và gây ra một
+[ 10.07s | frame   302] trong những làn sóng tranh
+[ 11.11s | frame   333] cãi lớn nhất về đạo
+[ 12.11s | frame   363] đức chiến tranh trong lịch
+[ 13.15s | frame   394] sử hiện đại nước Mỹ
+[ 14.24s | frame   427] Sau sự kiện 11 tháng
+[ 15.88s | frame   476] 9 năm 2001 nước Mỹ
+[ 17.78s | frame   533] phát động cái gọi là
+[ 18.62s | frame   558] Cuộc chiến chống khủng bố
+[ 19.76s | frame   592] toàn cầu Chỉ trong năm
+[ 20.94s | frame   628] đầu tiên sau vụ tấn
+[ 22.01s | frame   660] công và cuộc xâm lược
+[ 23.38s | frame   701] Afghanistan chi tiêu quốc phòng
+[ 25.15s | frame   754] của Mỹ đã tăng hơn
+[ 26.30s | frame   789] 10% Và đó mới chỉ
+[ 27.60s | frame   828] là khởi đầu Đến năm
+[ 29.21s | frame   876] 2010 ngân sách Lầu Năm
+[ 30.96s | frame   928] Góc đạt đỉnh ở mức
+[ 32.01s | frame   960] hơn 800 tỷ đô la
+[ 32.97s | frame   989] một năm cao hơn cả
+[ 33.94s | frame  1018] mức chi tiêu quân sự
+[ 34.96s | frame  1048] ở đỉnh điểm của chiến
+[ 36.02s | frame  1080] tranh Triều Tiên chiến tranh
+[ 37.21s | frame  1116] Việt Nam hay thời kỳ
+[ 38.21s | frame  1146] tăng cường quân sự dưới
+[ 39.34s | frame  1180] thời Tổng thống Reagan mà
+[ 40.56s | frame  1216] chúng ta vừa nhắc đến
+[ 41.58s | frame  1247] trước đó Và số tiền
+[ 43.01s | frame  1290] khổng lồ đó chảy đi
+[ 44.17s | frame  1325] đâu? Theo phân tích của
+[ 45.55s | frame  1366] dự án nghiên cứu Costs
+[ 46.43s | frame  1392] of War tại Đại học
+[ 47.56s | frame  1426] Brown kể từ khi cuộc
+[ 48.69s | frame  1460] chiến ở Afghanistan bắt đầu
+[ 50.36s | frame  1510] tổng chi tiêu của Lầu
+[ 51.33s | frame  1539] Năm Góc đã vượt quá
+[ 52.26s | frame  1567] 14 nghìn tỷ đô la
+[ 53.52s | frame  1605] Và theo nhà phân tích
+[ 54.72s | frame  1641] chính sách William Hartung từ
+[ 56.11s | frame  1683] một phần ba đến một
+[ 57.19s | frame  1715] nửa số tiền đó tức
+[ 58.38s | frame  1751] là hàng nghìn tỷ đô
+[ 59.72s | frame  1791] la đã chảy vào túi
+[ 60.52s | frame  1815] các nhà thầu quân sự
+[ 61.48s | frame  1844] tư nhân Đáng chú ý
+[ 62.49s | frame  1874] hơn phần lớn trong số
+[ 63.56s | frame  1906] này lại tập trung vào
+[ 64.58s | frame  1937] tay chỉ năm tập đoàn
+[ 65.63s | frame  1968] lớn: Lockheed Martin Boeing General
+[ 67.67s | frame  2030] Dynamics Raytheon và Northrop Grumman
+[ 70.36s | frame  2110] Chỉ năm cái tên nắm
+[ 71.73s | frame  2151] giữ từ một phần tư
+[ 72.59s | frame  2177] đến một phần ba tổng
+[ 73.48s | frame  2204] giá trị các hợp đồng
+[ 74.31s | frame  2229] của Lầu Năm Góc trong
+[ 75.19s | frame  2255] nhiều năm liền Để bạn
+[ 76.63s | frame  2298] hình dung rõ hơn về
+[ 77.66s | frame  2329] quy mô lợi nhuận này:
+[ 78.84s | frame  2365] có một phép tính rất
+[ 79.85s | frame  2395] thú vị mà một số
+[ 80.74s | frame  2422] nhà báo đã làm Nếu
+[ 81.95s | frame  2458] năm 2001 bạn bỏ ra
+[ 83.27s | frame  2498] 10.000 đô la chia đều
+[ 85.07s | frame  2552] để mua cổ phiếu của
+[ 86.00s | frame  2580] năm công ty này thì
+[ 87.15s | frame  2614] đến khoảng hai mươi năm
+[ 88.44s | frame  2653] sau số tiền đó đã
+[ 89.19s | frame  2675] tăng lên gần 100.000 đô
+[ 90.58s | frame  2717] la một mức sinh lời
+[ 91.60s | frame  2748] vượt xa cả chỉ số
+[ 92.59s | frame  2777] S&P 500 nói chung trong
+[ 93.77s | frame  2813] cùng giai đoạn Chiến tranh
+[ 95.35s | frame  2860] xét về mặt đầu tư
+[ 96.32s | frame  2889] thuần túy đã trở thành
+[ 97.58s | frame  2927] một trong những tài sản
+[ 98.50s | frame  2955] sinh lời tốt nhất suốt
+[ 99.61s | frame  2988] hai thập kỷ đó Riêng
+[101.03s | frame  3030] Lockheed Martin tập đoàn vũ
+[102.38s | frame  3071] khí lớn nhất thế giới
+[103.96s | frame  3118] vào năm 2018 có tới
+[105.85s | frame  3175] khoảng 70% trong tổng doanh
+[107.54s | frame  3226] thu 53,8 tỷ đô la
+[108.64s | frame  3259] đến trực tiếp từ chính
+[109.90s | frame  3297] phủ Mỹ Con số này
+[111.08s | frame  3332] còn lớn hơn cả tổng
+[112.15s | frame  3364] ngân sách của cơ quan
+[113.17s | frame  3395] Thuế vụ Liên bang và
+[114.27s | frame  3428] Cơ quan Bảo vệ Môi
+[115.07s | frame  3452] trường Mỹ cộng lại Nhưng
+[116.64s | frame  3499] đây mới là phần khiến
+[117.57s | frame  3527] nhiều người thực sự sốc
+[118.94s | frame  3568] khi họ lần đầu tìm
+[119.80s | frame  3594] hiểu về nó Ở những
+[121.09s | frame  3632] cuộc chiến trước đây doanh
+[122.45s | frame  3673] nghiệp Mỹ chủ yếu kiếm
+[123.42s | frame  3702] tiền từ một phía: bán
+[124.60s | frame  3738] vũ khí sản xuất đạn
+[125.59s | frame  3767] dược cung cấp trang thiết
+[126.82s | frame  3804] bị để tấn công hoặc
+[127.88s | frame  3836] phòng thủ Nhưng ở Iraq
+[129.18s | frame  3875] mô hình kiếm tiền đã
+[130.33s | frame  3909] mở rộng ra thêm một
+[131.33s | frame  3939] tầng nữa: kiếm tiền từ
+[132.57s | frame  3977] việc xây dựng lại những
+[133.66s | frame  4009] gì chiến tranh vừa phá
+[134.56s | frame  4036] hủy Nói cách khác: một
+[135.75s | frame  4072] đồng đô la kiếm được
+[136.89s | frame  4106] từ việc bắn phá và
+[137.84s | frame  4135] một đồng đô la khác
+[138.79s | frame  4163] kiếm được từ việc dọn
+[140.06s | frame  4201] dẹp hậu quả của chính
+[141.12s | frame  4233] vụ bắn phá đó Ví
+[142.32s | frame  4269] dụ điển hình nhất cho
+[143.39s | frame  4301] mô hình này chính là
+[144.33s | frame  4329] cái tên chúng ta đã
+[145.18s | frame  4355] nhắc đến ở phần Việt
+[146.33s | frame  4389] Nam: Halliburton và công ty
+[148.06s | frame  4441] con của nó là KBR
+[149.56s | frame  4486] Kellogg Brown and Root Theo
+[151.17s | frame  4535] phân tích của tờ Financial
+[152.62s | frame  4578] Times nước Mỹ đã chi
+[153.99s | frame  4619] tổng cộng ít nhất 138
+[155.49s | frame  4664] tỷ đô la cho các
+[156.30s | frame  4689] hợp đồng liên quan đến
+[157.31s | frame  4719] chiến tranh Iraq trong đó
+[158.37s | frame  4751] riêng 10 nhà thầu lớn
+[159.59s | frame  4787] nhất đã chia nhau ít
+[160.62s | frame  4818] nhất 72 tỷ đô la
+[161.84s | frame  4855] Và một mình KBR công
+[163.34s | frame  4900] ty con của Halliburton được
+[164.85s | frame  4945] ước tính nhận ít nhất
+[166.15s | frame  4984] 39,5 tỷ đô la từ
+[167.52s | frame  5025] các hợp đồng liên bang
+[168.41s | frame  5052] liên quan đến chiến tranh
+[169.41s | frame  5082] Iraq Gần 40 tỷ đô
+[170.75s | frame  5122] la chỉ riêng một công
+[172.00s | frame  5160] ty KBR cung cấp mọi
+[173.37s | frame  5201] thứ từ thực phẩm cho
+[174.58s | frame  5237] binh lính xây dựng và
+[175.90s | frame  5277] vận hành căn cứ quân
+[177.01s | frame  5310] sự cho đến vận chuyển
+[178.13s | frame  5343] nhiên liệu phần lớn thông
+[179.22s | frame  5376] qua các hợp đồng không
+[180.14s | frame  5404] qua đấu thầu cạnh tranh
+[181.36s | frame  5440] Công ty này còn tham
+[182.25s | frame  5467] gia vào cả việc tái
+[183.22s | frame  5496] thiết ngành công nghiệp dầu
+[184.55s | frame  5536] mỏ của Iraq và thậm
+[185.75s | frame  5572] chí xây dựng nhà tù
+[186.83s | frame  5604] tại căn cứ Guantanamo Bay
+[188.43s | frame  5652] năm 2005 KBR trúng một
+[190.06s | frame  5701] hợp đồng 30 triệu đô
+[191.57s | frame  5747] la để xây một nhà
+[192.39s | frame  5771] tù thường trực mới với
+[194.05s | frame  5821] tổng giá trị hợp đồng
+[195.14s | frame  5854] cuối cùng ước tính lên
+[196.14s | frame  5884] tới khoảng 500 triệu đô
+[197.76s | frame  5932] la Chỉ trong ba tháng
+[198.90s | frame  5967] đầu năm 2004 doanh thu
+[201.02s | frame  6030] của Halliburton từ các hợp
+[202.44s | frame  6073] đồng tại Iraq đã tăng
+[203.65s | frame  6109] tới khoảng 80% so với
+[205.06s | frame  6151] cùng kỳ Riêng giá trị
+[206.30s | frame  6189] hợp đồng ở Iraq của
+[207.42s | frame  6222] công ty này chủ yếu
+[208.45s | frame  6253] thông qua KBR đã lên
+[209.58s | frame  6287] tới khoảng 6 tỷ đô
+[210.68s | frame  6320] la chưa kể các mảng
+[211.75s | frame  6352] khác Và điều khiến dư
+[213.39s | frame  6401] luận phẫn nộ nhất là
+[214.56s | frame  6436] việc Dick Cheney người từng
+[216.05s | frame  6481] giữ chức CEO của Halliburton
+[217.53s | frame  6525] trong nhiều năm suốt thập
+[218.86s | frame  6565] niên 1990 sau đó trở
+[220.63s | frame  6618] thành Phó Tổng thống Mỹ
+[221.77s | frame  6653] dưới thời George W Bush
+[223.19s | frame  6695] và là một trong những
+[224.21s | frame  6726] người có vai trò quan
+[225.21s | frame  6756] trọng nhất trong việc đưa
+[226.55s | frame  6796] ra quyết định phát động
+[227.71s | frame  6831] cuộc chiến tại Iraq năm
+[228.88s | frame  6866] 2003 Halliburton sau đó bị
+[230.82s | frame  6924] Bộ Quốc phòng Mỹ điều
+[232.05s | frame  6961] tra vì nghi ngờ khai
+[232.93s | frame  6987] khống chi phí cáo buộc
+[234.18s | frame  7025] tính giá quá cao cho
+[234.96s | frame  7048] các dịch vụ cung cấp
+[235.91s | frame  7077] cho quân đội Bản thân
+[237.12s | frame  7113] công ty phủ nhận có
+[238.06s | frame  7141] bất kỳ sự ưu ái
+[238.90s | frame  7167] chính trị nào và cho
+[240.11s | frame  7203] rằng rất ít công ty
+[240.87s | frame  7226] khác trên thế giới có
+[241.96s | frame  7258] đủ năng lực để đảm
+[243.17s | frame  7295] nhận những hợp đồng phức
+[244.19s | frame  7325] tạp với quy mô như
+[244.87s | frame  7346] vậy trong thời gian ngắn
+[245.96s | frame  7378] một lập luận được củng
+[247.06s | frame  7411] cố phần nào bởi nhận
+[247.93s | frame  7437] định của một giáo sư
+[248.85s | frame  7465] quản lý công tại Harvard
+[250.27s | frame  7508] người từng lưu ý rằng
+[251.36s | frame  7540] mức độ cạnh tranh cho
+[252.25s | frame  7567] các hợp đồng tái thiết
+[253.28s | frame  7598] Iraq là bất thường thấp
+[254.56s | frame  7636] Về phần biên độ lợi
+[255.58s | frame  7667] nhuận công ty này từng
+[256.66s | frame  7699] nói rằng họ chỉ thu
+[257.70s | frame  7731] về khoảng 6% lợi nhuận
+[259.21s | frame  7776] trên mọi công việc thực
+[260.36s | frame  7810] hiện tại Iraq và khẳng
+[261.59s | frame  7847] định đã được minh oan
+[262.56s | frame  7876] khỏi các cáo buộc sai
+[263.37s | frame  7901] phạm Nhưng dù con số
+[264.51s | frame  7935] lợi nhuận phần trăm là
+[265.65s | frame  7969] bao nhiêu thì trên một
+[266.75s | frame  8002] hợp đồng trị giá hàng
+[267.89s | frame  8036] chục tỷ đô la ngay
+[268.82s | frame  8064] cả một biên độ lợi
+[269.87s | frame  8096] nhuận nhỏ cũng là một
+[270.97s | frame  8129] con số khổng lồ Không
+[272.55s | frame  8176] chỉ có Halliburton Bechtel một
+[273.84s | frame  8215] tập đoàn xây dựng khổng
+[275.33s | frame  8259] lồ khác cũng thu về
+[276.43s | frame  8292] hàng tỷ đô la từ
+[277.29s | frame  8318] các hợp đồng tái thiết
+[278.59s | frame  8357] Iraq Đây là cả một
+[279.86s | frame  8395] hệ sinh thái các nhà
+[280.80s | frame  8424] thầu tư nhân từ xây
+[281.73s | frame  8451] dựng an ninh cho đến
+[282.62s | frame  8478] hậu cần cùng nhau chia
+[283.76s | frame  8512] nhau một miếng bánh khổng
+[284.85s | frame  8545] lồ từ ngân sách chiến
+[285.96s | frame  8578] tranh Còn ở Afghanistan quy
+[287.99s | frame  8639] mô sử dụng nhà thầu
+[289.21s | frame  8676] tư nhân còn đi xa
+[290.15s | frame  8704] hơn nữa so với cả
+[291.34s | frame  8740] Iraq Gần như 100.000 nhà
+[293.19s | frame  8795] thầu dân sự có mặt
+[294.04s | frame  8821] tại đây đạt tỷ lệ
+[295.08s | frame  8852] gần 1 trên 1 so
+[296.13s | frame  8883] với quân nhân chính quy
+[297.40s | frame  8922] so với tỷ lệ 50
+[298.16s | frame  8944] trên 1 ở chiến tranh
+[299.18s | frame  8975] Vùng Vịnh chỉ một thập
+[300.24s | frame  9007] kỷ trước đó Có những
+[301.52s | frame  9045] năm số lượng nhà thầu
+[302.68s | frame  9080] ở các chiến trường Afghanistan
+[304.28s | frame  9128] Iraq và Syria còn đông
+[305.29s | frame  9158] hơn cả quân nhân Mỹ
+[306.19s | frame  9185] đồn trú tại đó Và
+[307.46s | frame  9223] cái giá phải trả bằng
+[308.60s | frame  9258] con người cũng phản ánh
+[309.86s | frame  9295] sự dịch chuyển này một
+[311.01s | frame  9330] cách đau lòng: theo ước
+[312.09s | frame  9362] tính của chính dự án
+[313.17s | frame  9395] Costs of War tại Brown
+[314.24s | frame  9427] nước Mỹ ghi nhận khoảng
+[315.32s | frame  9459] 7.000 quân nhân thiệt mạng
+[316.80s | frame  9504] trong toàn bộ các cuộc
+[317.79s | frame  9533] xung đột sau sự kiện
+[318.84s | frame  9565] 11 tháng 9 nhưng số
+[319.79s | frame  9593] nhà thầu tư nhân thiệt
+[320.86s | frame  9625] mạng còn cao hơn gần
+[322.25s | frame  9667] 8.000 người Chiến tranh đã
+[323.88s | frame  9716] được tư nhân hóa đến
+[324.97s | frame  9749] mức người ta chết vì
+[326.00s | frame  9780] nó nhiều nhất không còn
+[327.04s | frame  9811] là binh lính mặc quân
+[327.96s | frame  9838] phục mà là nhân viên
+[328.97s | frame  9869] của các công ty tư
+[329.68s | frame  9890] nhân Đến năm 2021 khi
+[331.62s | frame  9948] Mỹ rút quân hỗn loạn
+[332.94s | frame  9988] khỏi Afghanistan và chính quyền
+[334.80s | frame 10044] Kabul do Mỹ hậu thuẫn
+[335.91s | frame 10077] sụp đổ chỉ trong vài
+[337.16s | frame 10114] ngày nhiều người gọi đây
+[338.59s | frame 10157] là một thất bại toàn
+[339.41s | frame 10182] diện Nhưng nếu nhìn từ
+[340.62s | frame 10218] góc độ dòng tiền hai
+[341.66s | frame 10249] mươi năm chiến tranh đó
+[342.52s | frame 10275] không hề là thất bại
+[343.52s | frame 10305] đối với tất cả mọi
+[344.52s | frame 10335] người Đối với các cổ
+[345.66s | frame 10369] đông của năm tập đoàn
+[346.56s | frame 10396] quốc phòng lớn nhất đó
+[347.78s | frame 10433] là hai mươi năm sinh
+[348.57s | frame 10457] lời vượt trội nhất trong
+[349.78s | frame 10493] lịch sử ngành Và điều
+[351.21s | frame 10536] này dẫn tới một câu
+[352.13s | frame 10563] hỏi rất khó chịu nhưng
+[353.26s | frame 10597] cần phải được đặt ra:
+[354.48s | frame 10634] khi một công ty kiếm
+[355.20s | frame 10656] được nhiều tiền hơn nếu
+[356.44s | frame 10693] chiến tranh kéo dài hơn
+[357.72s | frame 10731] liệu công ty đó và
+[358.78s | frame 10763] những người có quan hệ
+[359.78s | frame 10793] mật thiết với công ty
+[360.74s | frame 10822] đó trong chính quyền có
+[361.94s | frame 10858] còn động lực thực sự
+[363.01s | frame 10890] để tìm cách kết thúc
+[364.03s | frame 10920] chiến tranh sớm hay không?
+[365.61s | frame 10968] Đây không phải là một
+[366.47s | frame 10994] câu hỏi có câu trả
+[367.29s | frame 11018] lời dễ dàng Nhưng nó
+[368.32s | frame 11049] là câu hỏi mà rất
+[369.14s | frame 11074] nhiều nhà báo nhà nghiên
+[370.31s | frame 11109] cứu và cả một số
+[371.64s | frame 11149] nghị sĩ trong chính Quốc
+[372.91s | frame 11187] hội Mỹ đã đặt ra
+[373.94s | frame 11218] trong suốt hai thập kỷ
+[375.06s | frame 11251] qua
+
+==================== PART7 (32 phrases) ====================
+[  0.04s | frame     1] Vậy đó Từ những con
+[  1.19s | frame    35] tàu chở vũ khí âm
+[  2.06s | frame    61] thầm băng qua Đại Tây
+[  3.16s | frame    94] Dương năm 1915 đến những
+[  5.10s | frame   153] tên lửa Patriot được cả
+[  6.58s | frame   197] thế giới xem qua màn
+[  7.74s | frame   232] hình tivi năm 1991 đến
+[  9.26s | frame   277] những hợp đồng tái thiết
+[ 10.47s | frame   314] trị giá hàng chục tỷ
+[ 11.43s | frame   342] đô la ở Iraq mô
+[ 12.18s | frame   365] hình gần như không đổi
+[ 13.53s | frame   405] Chỉ có công cụ là
+[ 14.39s | frame   431] ngày càng tinh vi hơn
+[ 15.31s | frame   459] thôi Câu hỏi mình muốn
+[ 16.73s | frame   501] để lại cho các bạn
+[ 17.71s | frame   531] không phải là nước Mỹ
+[ 18.74s | frame   562] có nên tham chiến hay
+[ 19.60s | frame   588] không Mà là: khi một
+[ 20.67s | frame   620] phần rất lớn của nền
+[ 21.73s | frame   651] kinh tế một quốc gia
+[ 22.67s | frame   680] gắn liền với chiến tranh
+[ 24.04s | frame   721] liệu quốc gia đó có
+[ 24.93s | frame   747] còn thực sự muốn hòa
+[ 25.97s | frame   779] bình đến nhanh nhất có
+[ 26.99s | frame   809] thể không? Bạn nghĩ sao?
+[ 28.28s | frame   848] Để lại bình luận bên
+[ 29.45s | frame   883] dưới nhé Và nếu thấy
+[ 30.63s | frame   918] video hữu ích đừng quên
+[ 31.85s | frame   955] like và subscribe để đón
+[ 32.97s | frame   989] xem những video phân tích
+[ 34.17s | frame  1025] tiếp theo Hẹn gặp lại
+[ 35.64s | frame  1069] các bạn

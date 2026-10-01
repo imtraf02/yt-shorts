@@ -2,6 +2,8 @@
 
 > **Tài liệu hướng dẫn & quy chuẩn bắt buộc** dành cho việc tạo mới các video dạng dọc (9:16) chuẩn YouTube Shorts / TikTok / Reels bằng Remotion.
 
+> Khi bắt đầu video mới, đọc [VIDEO_PRODUCTION_WORKFLOW.md](VIDEO_PRODUCTION_WORKFLOW.md) để chốt brief, kiểm chứng kịch bản, lưu tiến độ và xử lý việc tiếp tục khi bị ngắt. Tài liệu này bổ sung thông số riêng cho Shorts; không áp dụng kích thước dọc cho video 16:9.
+
 ---
 
 ## 1. Thông số Kỹ thuật Chuẩn (Video Specs)
@@ -16,7 +18,7 @@
 ## 2. Các Quy tắc Bắt buộc về Layout & Giao diện (UI Rules)
 
 ### ❌ KHÔNG ĐƯỢC CÓ:
-1. **Tuyệt đối KHÔNG chèn nút Like, Đăng ký kênh (Subscribe)** hay bất kỳ CTA kêu gọi tương tác nào vào video.
+1. **KHÔNG chèn CTA toàn màn hình hoặc ở giữa khung hình**. Khi cần Like/Đăng ký, chỉ dùng bong bóng thoại của Trà Xanh theo `AGENTS.md`.
 2. **KHÔNG dùng thanh ngang full-width (1000px) ở Header**:
    - Không để text `FILE #...` hay `CHỦ ĐỀ: ...` chiếm full chiều ngang che khuất bối cảnh nhân vật.
 
@@ -43,26 +45,48 @@
    - **Từ thường**: Chữ trắng `#FFFFFF` có viền đen dày `WebkitTextStroke: "10px #000000"`, `paintOrder: "stroke fill"` để rõ ràng trên mọi hình nền.
 5. **Hiệu ứng Camera (Ken Burns)**:
    - Luôn áp dụng zoom hoặc pan nhẹ (`zoom-in`, `zoom-out`, `drift-up`, `drift-down`, `drift-left`, `drift-right`) để khung hình chuyển động mượt mà.
-   - Preload toàn bộ ảnh trong `<div style={{ display: "none" }}>` để tránh rớt khung hình khi render.
+   - Dùng component ảnh của Remotion và kiểm tra asset load đúng; không mặc định tải đồng thời toàn bộ ảnh của video dài trong một div ẩn vì có thể tăng bộ nhớ không cần thiết.
+6. **Cảnh Báo Bản Quyền BGM (STRICT COPYRIGHT WARNING)**:
+   - ⚠️ **KHO NHẠC CŨ BỊ CONTENT ID**: Các MP3 cũ từng ở `mp3/` / `public/music/legacy-content-id/` nếu xuất hiện lại vẫn KHÔNG được tự sử dụng để xuất bản.
+   - Ưu tiên 11 WAV AI người dùng thêm tại `public/music/`; không gán cảnh báo kho cũ cho WAV mới. Ghi nguồn và kiểm tra quyền dùng trước xuất bản. Volume BGM tối đa `0.5`, kể cả tổng gain overlap; xem [BACKGROUND_MUSIC_GUIDE.md](BACKGROUND_MUSIC_GUIDE.md).
+7. **Disclaimer Minh Họa Bắt Buộc (Mandatory AI / Illustration Disclaimer)**:
+   - **QUY TẮC BẮT BUỘC**: Mọi video có sử dụng hình ảnh minh họa (đặc biệt là tranh ảnh/nhân vật do AI tạo) **BẮT BUỘC PHẢI CÓ** dòng chữ chú thích:
+     `* Hình ảnh chỉ mang tính chất minh họa`
+   - **Component**: Sử dụng component `<LeninDisclaimer text="* Hình ảnh chỉ mang tính chất minh họa" />` (hoặc alias `<AiDisclaimer />` từ `src/components/LeninDisclaimer.tsx`).
+   - **Vị trí**: Đặt ở góc dưới màn hình (`bottom: 50` hoặc `bottom: 240, right: 40` đối với Shorts 9:16, hoặc `bottom: 24, right: 40` đối với Video Ngang 16:9), đảm bảo chữ mờ tinh tế, không che lấp phụ đề hay các nút điều hướng.
+
+
 
 ---
 
 ## 3. Quy trình Sản xuất Từng bước (Step-by-Step Workflow)
 
-### Bước 1: Chuẩn bị Audio & Tính Frame
-1. Copy file audio TTS vào `public/audio/<ten-video>.wav`.
-2. Kiểm tra độ dài và sample rate:
-   ```bash
-   node -e "
-   const fs = require('fs');
-   const buf = fs.readFileSync('public/audio/<ten-video>.wav');
-   const byteRate = buf.readUInt32LE(28);
-   const dataSize = buf.length - 44;
-   const sec = dataSize / byteRate;
-   console.log('Duration:', sec.toFixed(2), 's | Frames @ 30fps:', Math.ceil(sec * 30));
-   "
+### Bước 0: Tạo Audio Thuyết minh TTS (BẮT BUỘC GIỌNG MẶC ĐỊNH: TRÚC LY)
+> Xem chi tiết tại [docs/TTS_GUIDE.md](file:///C:/Users/studi/Documents/Codex/2026-09-23/cl/yt-shorts/docs/TTS_GUIDE.md).
+1. Sử dụng **VieNeu-TTS v3 Turbo** chạy trên GPU RTX 3060. Giọng đọc mặc định bắt buộc là **`Trúc Ly`** (Nữ Bắc tự nhiên).
+2. **Quy chuẩn sinh audio theo từng câu (Sentence-by-Sentence)**:
+   Để khớp 100% từng câu thoại với từng bức ảnh minh họa của Shorts:
+   ```powershell
+   $env:PYTHONIOENCODING="utf-8"
+   & ".\VieNeu-TTS\.venv\Scripts\python.exe" scripts\generate_tts_sentences.py -i "productions/<ten-video>/storyboard.json" -o "public/audio/<ten-video>"
    ```
-3. Tổng số frame thường làm tròn thêm ~20-30 frame (~0.7s - 1s) ở cuối để video kết thúc êm, không bị giật cụt.
+   Script tự động tạo các file `S001.wav`, `S002.wav`,... kèm file `sentences_manifest.json` ghi nhận số frames chuẩn 30fps cho từng cảnh.
+3. *(Chỉ với video đơn giản 1 shot duy nhất)*, có thể sinh 1 file gộp:
+   ```powershell
+   & ".\VieNeu-TTS\.venv\Scripts\python.exe" scripts\generate_tts.py --text "Nội dung kịch bản..." --out "public/audio/<ten-video>.wav"
+   ```
+
+### Bước 1: Chuẩn bị Audio & Tính Frame
+1. File audio TTS đã nằm tại `public/audio/<ten-video>/` và toàn bộ ảnh vào `public/images/<ten-video>/`.
+2. **DỌN TMP CỦA VIDEO NÀY NGAY SAU KHI XÁC MINH COPY**: Dùng `tmp/<ten-video>/`, kiểm tra file đích trong `public/` đọc được rồi chỉ xóa những file tạm của video này bằng đường dẫn tuyệt đối đã xác minh. Không xóa toàn bộ `tmp/` chung.
+3. Dùng trực tiếp `durationInFrames` từ `sentences_manifest.json` cho từng `<Sequence>` cảnh trong Remotion. Thêm ~15–30 frame (~0,5–1 giây) ở cuối để video kết thúc êm.
+
+### Bước 1.5: Thiết lập Nhạc Nền (LƯU Ý BẢN QUYỀN)
+1. Đọc [BACKGROUND_MUSIC_GUIDE.md](BACKGROUND_MUSIC_GUIDE.md); ưu tiên các WAV AI hiện có tại `public/music/`, ghi nguồn/quyền dùng trước xuất bản. MP3 cũ bị cảnh báo vẫn không tự dùng nếu xuất hiện lại.
+2. Dùng `Audio` từ `@remotion/media`, đường dẫn thật như `staticFile("music/How It Works.wav")`; giữ BGM trên timeline riêng và không đổi timing TTS/phụ đề.
+3. Voiceover `1.0`, nhạc khởi đầu `0.08`, lời dày `0.04–0.06`; mức cuối tùy nghe thử nhưng **không bao giờ vượt `0.5`, kể cả tổng gain khi crossfade**. `0.5` là trần, không phải mặc định. Fade/ducking mượt, không tăng nhạc ở mỗi pause ngắn.
+4. Shorts có thể dùng một track phù hợp. Video dài phải lập cue sheet nhiều track theo chương/cảm xúc, crossfade 1–3 giây, không đổi bài mỗi câu/ảnh. Lưu from/duration/trim/gain/fade/loop ở `music_cues.json`, liên kết manifest mới có nhạc.
+5. Render clip lời + nhạc + CTA và từng cặp chuyển bài để nghe/đo loop/clipping; ghi gain/quyền dùng/QA trước render dài. Chỉ áp dụng cho video mới hoặc video được yêu cầu chỉnh nhạc; giữ nguyên video cũ.
 
 ### Bước 2: Chuyển đổi Audio 16kHz & Chạy Whisper AI
 1. Dùng ffmpeg nội bộ của Remotion để tạo file 16kHz mono:
@@ -96,22 +120,24 @@
 
 ### Bước 3: So khớp 100% Từ vựng với Kịch bản (Alignment)
 1. Viết script so sánh token của Whisper với từng từ trong văn bản kịch bản gốc (`scripts/align_<ten-video>.py`).
-2. **Lưu ý tên riêng nước ngoài**: Nếu Whisper tách từ (VD: `ái` + `xác` -> `Isaac`), thực hiện gộp (merge) lại để số lượng token khớp chính xác 1-1 với kịch bản gốc.
-3. Chia 12 phân cảnh tương ứng với 12 ảnh trong `public/images/<ten-video>/`.
+2. **Lưu ý tên riêng nước ngoài**: Sửa chữ theo lời đọc, gộp/tách token khi cần và nghe lại timing. Không ép số token Whisper khớp 1-1 bằng cách chia đều thời gian.
+3. Chia cảnh theo storyboard và timestamp của câu/ý; số ảnh theo yêu cầu thực tế, không mặc định 12 ảnh.
 4. Sinh file `src/data/<ten-video>Subtitles.ts`.
 
 ### Bước 4: Tạo Components cho Video
-Tạo 3 component tương ứng:
-- `src/components/<TenVideo>HUD.tsx`: Chứa badge auto-width ở góc trên.
+Ưu tiên tái sử dụng component phù hợp đã có và thay data/theme. Chỉ tạo component riêng khi bố cục hoặc hiệu ứng thực sự cần khác:
+- `src/components/<TenVideo>HUD.tsx`: Chứa badge auto-width ở góc trên (`top: 96, left: 36`).
 - `src/components/<TenVideo>Scene.tsx`: Chứa chuyển động ảnh Ken Burns, lớp phủ gradient, và badge sự kiện ở `bottom: 530px`, font size `24px`.
-- `src/components/<TenVideo>Captions.tsx`: Phụ đề động kinetic với active pill bắt mắt và highlight keywords.
+- `src/components/<TenVideo>Captions.tsx`: Phụ đề động kinetic với active pill bắt mắt (`bottom: 290px`) và highlight keywords.
+- `src/components/<TenVideo>BackgroundMusic.tsx`: (Tùy chọn nếu có nhạc miễn phí bản quyền).
 
 ### Bước 5: Lắp ráp Composition & Đăng ký
 1. Tạo `src/<TenVideo>Short.tsx`:
-   - Gồm 12 thẻ `<Sequence>` với `durationInFrames` và `from` được tính chính xác từ timestamps của Whisper.
-   - Thêm `<Audio src={staticFile("audio/<ten-video>.wav")} />`.
+   - Gồm các thẻ `<Sequence>` tương ứng với các scene với `durationInFrames` và `from` được tính chính xác từ timestamps của Whisper.
+   - Thêm giọng đọc: `<Audio src={staticFile("audio/<ten-video>.wav")} />`.
    - Thêm `<ProgressBar color="..." height={8} />`.
    - Thêm `<Captions phrases={...} bottom={290} />`.
+   - Thêm text chú thích minh họa bắt buộc: `<LeninDisclaimer text="* Hình ảnh chỉ mang tính chất minh họa" />`.
 2. Đăng ký trong `src/Root.tsx`:
    ```tsx
    <Composition
@@ -138,7 +164,9 @@ Kiểm tra bằng mắt:
 - [ ] Header chỉ có duy nhất 1 badge auto-width (không có `FILE #...` hay `CHỦ ĐỀ: ...`).
 - [ ] Badge phân cảnh ở `bottom: 530px`, chữ to `24px`, không đè vào phụ đề.
 - [ ] Phụ đề ở `bottom: 290px`, từ active sáng rõ.
-- [ ] Không có nút Like/Đăng ký.
+- [ ] Bắt buộc có dòng chữ "* Hình ảnh chỉ mang tính chất minh họa" ở góc dưới.
+- [ ] CTA (nếu có) chỉ nằm trong bong bóng thoại của Trà Xanh, không che phụ đề.
+
 
 ### Bước 7: Render Video Hoàn Chỉnh
 ```bash
@@ -146,11 +174,7 @@ npx.cmd remotion render <TenVideo>Short out/<ten-video>.mp4 --concurrency=4
 ```
 
 ### Bước 8: Dọn dẹp Thư mục `out/` (Housekeeping)
-Sau khi video render xong, **bắt buộc xóa sạch toàn bộ các file ảnh preview/test PNG**:
-```powershell
-Remove-Item -Path "out\*.png" -Force
-```
-Chỉ để lại các file `.mp4` thành phẩm trong thư mục `out/`.
+Sau khi video render xong và bản cuối đã kiểm tra, xóa các file preview/test PNG của **video này** trong `out/<ten-video>/preview/`, bằng đường dẫn tuyệt đối đã xác minh. Giữ MP4 thành phẩm và báo cáo QA. Không xóa preview/output của video khác.
 
 ---
 

@@ -1,0 +1,345 @@
+[
+  {
+    "text": "Chào các bé!",
+    "startMs": 0,
+    "endMs": 1066.6666666666667,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chúng mình cùng nhìn nét vẽ và đoán tên các bạn động vật nhé!",
+    "startMs": 2200,
+    "endMs": 5133.333333333334,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Vẽ xong, bé sẽ có ba giây để đoán tên bạn.",
+    "startMs": 6266.666666666667,
+    "endMs": 9111.111111111111,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé nhìn nét vẽ nhé, người bạn đầu tiên là ai nhỉ?",
+    "startMs": 10566.666666666666,
+    "endMs": 13233.333333333332,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn mèo!",
+    "startMs": 19566.666666666668,
+    "endMs": 20722.222222222223,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Mèo có đôi tai nhọn và những sợi ria ở hai bên má.",
+    "startMs": 22133.333333333332,
+    "endMs": 25244.44444444444,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Một bạn mới đang xuất hiện, bé nhìn thật kỹ nhé!",
+    "startMs": 27066.666666666668,
+    "endMs": 29733.333333333336,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn chó!",
+    "startMs": 36066.66666666667,
+    "endMs": 37222.222222222226,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Chó trong tranh có đôi tai cụp và chiếc đuôi cong.",
+    "startMs": 38633.333333333336,
+    "endMs": 41566.66666666667,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chúng mình cùng khám phá người bạn tiếp theo nhé!",
+    "startMs": 43400,
+    "endMs": 45711.11111111111,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn thỏ!",
+    "startMs": 52400,
+    "endMs": 53555.555555555555,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Thỏ có đôi tai dài và chiếc đuôi nhỏ tròn.",
+    "startMs": 54966.66666666667,
+    "endMs": 57722.222222222226,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé nhìn những nét vẽ này và thử đoán nhé!",
+    "startMs": 59533.33333333333,
+    "endMs": 61755.55555555555,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn vịt!",
+    "startMs": 68533.33333333333,
+    "endMs": 69600,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Vịt có chiếc mỏ rộng và bàn chân có màng để bơi.",
+    "startMs": 71033.33333333333,
+    "endMs": 73966.66666666666,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé tìm bạn có đôi tai dài nhé!",
+    "startMs": 75800,
+    "endMs": 77666.66666666667,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đáp án là bạn thỏ!",
+    "startMs": 81300,
+    "endMs": 82633.33333333333,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bây giờ, chúng mình gặp những bạn ở nông trại nhé!",
+    "startMs": 84466.66666666667,
+    "endMs": 87133.33333333334,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn bò!",
+    "startMs": 93466.66666666667,
+    "endMs": 94622.22222222223,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Bò trong tranh có những đốm đen trắng và chiếc đuôi dài.",
+    "startMs": 96033.33333333333,
+    "endMs": 99144.44444444444,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Người bạn này trông thật đáng yêu, bé đoán xem nhé!",
+    "startMs": 100966.66666666667,
+    "endMs": 103811.11111111111,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn lợn!",
+    "startMs": 109966.66666666667,
+    "endMs": 111033.33333333334,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Lợn có chiếc mũi tròn và chiếc đuôi xoăn xinh xắn.",
+    "startMs": 112466.66666666667,
+    "endMs": 115400,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé cùng nhìn nét vẽ để tìm người bạn mới nhé!",
+    "startMs": 117233.33333333333,
+    "endMs": 119722.22222222222,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn dê!",
+    "startMs": 126233.33333333333,
+    "endMs": 127300,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Dê trong tranh có đôi sừng cong và chòm râu nhỏ.",
+    "startMs": 128733.33333333331,
+    "endMs": 131577.77777777775,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Thêm một người bạn nữa đang xuất hiện rồi!",
+    "startMs": 133400,
+    "endMs": 135622.22222222222,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn gà mái!",
+    "startMs": 142400,
+    "endMs": 143733.33333333334,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Gà mái trong tranh có chiếc mào đỏ và đôi cánh.",
+    "startMs": 145166.66666666666,
+    "endMs": 147922.22222222222,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé tìm bạn có chiếc đuôi xoăn nhé!",
+    "startMs": 149733.3333333333,
+    "endMs": 151599.99999999997,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đáp án là bạn lợn!",
+    "startMs": 155233.3333333333,
+    "endMs": 156566.66666666666,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Chúng mình cùng khám phá thêm những bạn mới nhé!",
+    "startMs": 158400,
+    "endMs": 160622.22222222222,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn voi!",
+    "startMs": 167400,
+    "endMs": 168555.55555555556,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Voi có chiếc vòi dài và đôi tai to.",
+    "startMs": 169966.66666666666,
+    "endMs": 172366.66666666666,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé nhìn kỹ nhé, bạn nào đang dần hiện ra?",
+    "startMs": 174200,
+    "endMs": 176866.66666666666,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn hươu cao cổ!",
+    "startMs": 183200,
+    "endMs": 184622.22222222222,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Hươu cao cổ có chiếc cổ dài và những đốm nâu trên mình.",
+    "startMs": 186033.33333333334,
+    "endMs": 189144.44444444447,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Mình cùng tìm người bạn tiếp theo qua nét vẽ nhé!",
+    "startMs": 190966.66666666666,
+    "endMs": 193366.66666666666,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn rùa!",
+    "startMs": 200966.66666666666,
+    "endMs": 202211.1111111111,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Rùa trong tranh có chiếc mai trên lưng và bốn chân.",
+    "startMs": 203633.3333333333,
+    "endMs": 206566.66666666666,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé thử đoán người bạn cuối cùng nhé!",
+    "startMs": 208400,
+    "endMs": 210355.55555555556,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đây là bạn cá vàng!",
+    "startMs": 217400,
+    "endMs": 218822.22222222222,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bạn Cá vàng có những chiếc vây và chiếc đuôi mềm để bơi.",
+    "startMs": 220233.3333333333,
+    "endMs": 223255.55555555553,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé tìm bạn có chiếc cổ dài nhé!",
+    "startMs": 225066.66666666666,
+    "endMs": 227111.1111111111,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Đáp án là bạn hươu cao cổ!",
+    "startMs": 230733.3333333333,
+    "endMs": 232511.1111111111,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé cùng gọi tên bạn mèo, bạn chó, bạn thỏ và bạn vịt nhé!",
+    "startMs": 234333.33333333334,
+    "endMs": 237533.33333333334,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé cùng gọi tên bạn bò, bạn lợn, bạn dê và bạn gà mái nhé!",
+    "startMs": 239500,
+    "endMs": 242966.66666666666,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé cùng gọi tên bạn voi, bạn hươu cao cổ, bạn rùa và bạn cá vàng nhé!",
+    "startMs": 244933.33333333334,
+    "endMs": 248844.44444444447,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Bé hãy cùng người lớn gọi tên các bạn lần nữa nhé!",
+    "startMs": 250800,
+    "endMs": 253377.77777777778,
+    "timestampMs": null,
+    "confidence": null
+  }
+]
