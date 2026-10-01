@@ -1,0 +1,170 @@
+[
+  {
+    "animal": "cat",
+    "source": "public/images/preschool-animals-whiteboard-demo/cat.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/cat.png",
+    "bounds": [
+      364,
+      136,
+      981,
+      636
+    ],
+    "transparentPixels": 883394,
+    "opaquePixelsUnchanged": 171806,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "dog",
+    "source": "public/images/preschool-animals-whiteboard-demo/dog.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/dog.png",
+    "bounds": [
+      410,
+      123,
+      967,
+      644
+    ],
+    "transparentPixels": 908622,
+    "opaquePixelsUnchanged": 147082,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "rabbit",
+    "source": "public/images/preschool-animals-whiteboard-demo/rabbit.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/rabbit.png",
+    "bounds": [
+      480,
+      74,
+      895,
+      684
+    ],
+    "transparentPixels": 915194,
+    "opaquePixelsUnchanged": 140279,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "duck",
+    "source": "public/images/preschool-animals-whiteboard-demo/duck.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/duck.png",
+    "bounds": [
+      462,
+      117,
+      914,
+      653
+    ],
+    "transparentPixels": 941884,
+    "opaquePixelsUnchanged": 114170,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "cow",
+    "source": "public/images/preschool-animals-whiteboard-demo/cow.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/cow.png",
+    "bounds": [
+      300,
+      88,
+      1074,
+      684
+    ],
+    "transparentPixels": 821265,
+    "opaquePixelsUnchanged": 233842,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "pig",
+    "source": "public/images/preschool-animals-whiteboard-demo/pig.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/pig.png",
+    "bounds": [
+      391,
+      140,
+      984,
+      629
+    ],
+    "transparentPixels": 875109,
+    "opaquePixelsUnchanged": 180074,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "goat",
+    "source": "public/images/preschool-animals-whiteboard-demo/goat.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/goat.png",
+    "bounds": [
+      441,
+      94,
+      936,
+      673
+    ],
+    "transparentPixels": 917135,
+    "opaquePixelsUnchanged": 138327,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "hen",
+    "source": "public/images/preschool-animals-whiteboard-demo/hen.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/hen.png",
+    "bounds": [
+      460,
+      63,
+      923,
+      710
+    ],
+    "transparentPixels": 895393,
+    "opaquePixelsUnchanged": 160035,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "elephant",
+    "source": "public/images/preschool-animals-whiteboard-demo/elephant.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/elephant.png",
+    "bounds": [
+      335,
+      139,
+      1042,
+      641
+    ],
+    "transparentPixels": 832915,
+    "opaquePixelsUnchanged": 222639,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "giraffe",
+    "source": "public/images/preschool-animals-whiteboard-demo/giraffe.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/giraffe.png",
+    "bounds": [
+      502,
+      36,
+      878,
+      732
+    ],
+    "transparentPixels": 966342,
+    "opaquePixelsUnchanged": 88629,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "tortoise",
+    "source": "public/images/preschool-animals-whiteboard-demo/tortoise.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/tortoise.png",
+    "bounds": [
+      310,
+      152,
+      1055,
+      632
+    ],
+    "transparentPixels": 836040,
+    "opaquePixelsUnchanged": 219838,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  },
+  {
+    "animal": "goldfish",
+    "source": "public/images/preschool-animals-whiteboard-demo/goldfish.jpg",
+    "output": "public/images/preschool-animals-whiteboard-demo/cutouts/goldfish.png",
+    "bounds": [
+      343,
+      169,
+      1032,
+      597
+    ],
+    "transparentPixels": 875729,
+    "opaquePixelsUnchanged": 179745,
+    "method": "Local dark-outline enclosure, original RGB/edge alpha matting; user explicitly approved local image processing."
+  }
+]
