@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nghe thử VieNeu-TTS (48kHz) - Giọng Mặc Định Trúc Ly</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
+    .container {
+      max-width: 720px;
+      width: 100%;
+    }
+    h1 {
+      font-size: 24px;
+      color: #38bdf8;
+      margin-bottom: 8px;
+    }
+    p.subtitle {
+      color: #94a3b8;
+      margin-bottom: 30px;
+    }
+    .card {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    }
+    .card.default-voice {
+      border: 2px solid #38bdf8;
+      background: #0f2744;
+      box-shadow: 0 0 15px rgba(56, 189, 248, 0.3);
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      font-size: 12px;
+      font-weight: 600;
+      background: #0369a1;
+      color: #e0f2fe;
+      margin-bottom: 12px;
+    }
+    .badge-primary {
+      background: #0284c7;
+      color: #ffffff;
+      font-size: 13px;
+      padding: 6px 14px;
+    }
+    .voice-title {
+      font-size: 18px;
+      font-weight: bold;
+      color: #f1f5f9;
+      margin-bottom: 8px;
+    }
+    .transcript {
+      background: #0b1329;
+      padding: 12px;
+      border-radius: 8px;
+      color: #cbd5e1;
+      font-style: italic;
+      margin-bottom: 15px;
+      border-left: 3px solid #38bdf8;
+    }
+    audio {
+      width: 100%;
+      outline: none;
+      border-radius: 8px;
+    }
+    .meta {
+      font-size: 12px;
+      color: #64748b;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎙️ Mẫu âm thanh VieNeu-TTS v3 Turbo</h1>
+    <p class="subtitle">Chạy tăng tốc trên GPU NVIDIA GeForce RTX 3060 (Chuẩn 48kHz Hi-Fi)</p>
+
+    <!-- Trúc Ly (MẶC ĐỊNH) -->
+    <div class="card default-voice">
+      <div class="badge badge-primary">⭐ GIỌNG MẶC ĐỊNH: Nữ · Miền Bắc · Tự nhiên</div>
+      <div class="voice-title">🌟 Trúc Ly (Mặc định toàn bộ dự án)</div>
+      <div class="transcript">"Xin chào các bạn! Tôi là Trúc Ly, giọng đọc mặc định chuẩn của kênh YouTube Shorts. Rất vui được đồng hành cùng các bạn trong các video tiếp theo."</div>
+      <audio controls src="tmp/tts_test/test_truc_ly.wav"></audio>
+      <div class="meta">📁 File: tmp/tts_test/test_truc_ly.wav | 48kHz Hi-Fi | VieNeu-TTS v3-Turbo</div>
+    </div>
+
+    <!-- Mai Anh -->
+    <div class="card">
+      <div class="badge">Nữ · Miền Bắc · Tin tức</div>
+      <div class="voice-title">Mai Anh</div>
+      <div class="transcript">"Bản tin công nghệ hôm nay: Hệ thống trí tuệ nhân tạo tạo sinh giọng nói đã được cài đặt và vận hành mượt mà trên hệ thống của bạn."</div>
+      <audio controls src="tmp/tts_test/test_mai_anh.wav"></audio>
+      <div class="meta">📁 File: tmp/tts_test/test_mai_anh.wav</div>
+    </div>
+
+    <!-- Thiện Minh -->
+    <div class="card">
+      <div class="badge">Nam · Miền Bắc · Kể chuyện</div>
+      <div class="voice-title">Thiện Minh</div>
+      <div class="transcript">"Chào bạn! Tôi là Thiện Minh. VieNeu TTS là mô hình chuyển văn bản thành giọng nói tiếng Việt chất lượng cao với tốc độ cực nhanh."</div>
+      <audio controls src="tmp/tts_test/test_thien_minh.wav"></audio>
+      <div class="meta">📁 File: tmp/tts_test/test_thien_minh.wav</div>
+    </div>
+
+    <!-- Thùy Dung -->
+    <div class="card">
+      <div class="badge">Nữ · Miền Nam · Tự nhiên</div>
+      <div class="voice-title">Thùy Dung</div>
+      <div class="transcript">"Xin chào quý khán giả miền Nam! Đây là giọng đọc nữ Nam Bộ rất tự nhiên và truyền cảm."</div>
+      <audio controls src="tmp/tts_test/test_thuy_dung.wav"></audio>
+      <div class="meta">📁 File: tmp/tts_test/test_thuy_dung.wav</div>
+    </div>
+  </div>
+</body>
+</html>

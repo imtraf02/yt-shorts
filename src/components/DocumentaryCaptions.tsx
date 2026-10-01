@@ -1,7 +1,20 @@
 import React from "react";
 import { useVideoConfig, interpolate } from "remotion";
 import { loadFont } from "@remotion/google-fonts/Montserrat";
-import type { CaptionPhrase } from "../data/historyGapsCaptions";
+export interface CaptionWord {
+  word: string;
+  startMs: number;
+  endMs: number;
+}
+
+export interface CaptionPhrase {
+  id?: number;
+  startMs: number;
+  endMs: number;
+  words: CaptionWord[];
+  text?: string;
+  textEn?: string;
+}
 
 const { fontFamily } = loadFont("normal", {
   weights: ["700", "800", "900"],
