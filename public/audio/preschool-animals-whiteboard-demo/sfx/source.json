@@ -1,0 +1,26 @@
+{
+  "source": "Original deterministic synthesis; no third-party recordings",
+  "use": "Preschool only; drawing, color reveal, seconds countdown, correct-answer chime",
+  "effects": [
+    {
+      "name": "tick",
+      "seconds": 0.24,
+      "samplePeak": 0.5999999046325684
+    },
+    {
+      "name": "reveal",
+      "seconds": 0.6,
+      "samplePeak": 0.6000000238418579
+    },
+    {
+      "name": "correct",
+      "seconds": 0.8,
+      "samplePeak": 0.5999999046325684
+    },
+    {
+      "name": "draw",
+      "seconds": 8.0,
+      "samplePeak": 0.6000000238418579
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "engine": {
+    "backend": "pytorch",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "sampleRate": 48000
+  },
+  "voice": "Trúc Ly",
+  "format": "wav",
+  "sampleRate": 48000,
+  "channels": 1,
+  "wavSubtype": "PCM_24",
+  "batchSize": 16,
+  "sentenceCount": 64,
+  "pauseSeconds": 0.4,
+  "processing": {
+    "highpassHz": 45.0,
+    "lowpassHz": 16000.0,
+    "targetTruePeakDbfs": -3.0,
+    "fadeMs": 10.0
+  },
+  "speechDurationSeconds": 474.65,
+  "generationSeconds": 14.936,
+  "rtf": 0.0315,
+  "manifest": "public/audio/world-time-documentary/sentences_manifest.json"
+}

@@ -1,0 +1,26 @@
+{
+  "engine": {
+    "backend": "pytorch",
+    "device": "cuda",
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "sampleRate": 48000
+  },
+  "voice": "Trúc Ly",
+  "format": "wav",
+  "sampleRate": 48000,
+  "channels": 1,
+  "wavSubtype": "PCM_24",
+  "batchSize": 8,
+  "sentenceCount": 49,
+  "pauseSeconds": 0.55,
+  "processing": {
+    "highpassHz": 45.0,
+    "lowpassHz": 16000.0,
+    "targetTruePeakDbfs": -3.0,
+    "fadeMs": 10.0
+  },
+  "speechDurationSeconds": 97.92,
+  "generationSeconds": 6.61,
+  "rtf": 0.0675,
+  "manifest": "public/audio/preschool-animals-whiteboard-demo/sentences_manifest.json"
+}
