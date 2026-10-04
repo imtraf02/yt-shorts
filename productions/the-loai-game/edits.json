@@ -1,0 +1,907 @@
+[
+  {
+    "id": "S005",
+    "original": "Ở đầu cây gia phả là những trò chơi cực kỳ dễ hiểu.",
+    "revised": "Trong sơ đồ này, các vòng lặp dễ nhận biết được đặt ở những nhánh gốc để giúp ta bắt đầu."
+  },
+  {
+    "id": "S013",
+    "original": "Có những thể loại gần như không thể tồn tại nếu không có tay cầm hiện đại, server online hay điện thoại thông minh.",
+    "revised": "Tay cầm, mạng trực tuyến và điện thoại đã mở rộng cách điều khiển, kết nối và tiếp cận game."
+  },
+  {
+    "id": "S019",
+    "original": "Một số nhánh biến mất.",
+    "revised": "Một số nhánh dần ít xuất hiện hơn trong thị trường đại chúng."
+  },
+  {
+    "id": "S024",
+    "original": "Arcade buộc game phải ngắn, gọn, khó dần và dễ học.",
+    "revised": "Nhiều game arcade ưu tiên phiên chơi ngắn, luật dễ hiểu và thử thách tăng dần."
+  },
+  {
+    "id": "S029",
+    "original": "Arcade là nhánh nơi người chơi chủ yếu phản ứng rất nhanh với luật chơi đơn giản và áp lực điểm số.",
+    "revised": "Arcade tập trung vào phản ứng rất nhanh với luật chơi đơn giản và áp lực điểm số."
+  },
+  {
+    "id": "S031",
+    "original": "Từ Pong, Pac-Man và Space Invaders, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Pong, Pac-Man và Space Invaders."
+  },
+  {
+    "id": "S032",
+    "original": "Action là nhánh nơi người chơi chủ yếu hành động trong thời gian thực, ưu tiên phản xạ và phối hợp tay mắt.",
+    "revised": "Action tập trung vào hành động trong thời gian thực, ưu tiên phản xạ và phối hợp tay mắt."
+  },
+  {
+    "id": "S033",
+    "original": "Điểm làm Action khác các nhánh gần nó là mọi quyết định diễn ra tức thời chứ không chờ lượt hay tính toán dài hơi.",
+    "revised": "Action thường đòi hỏi phản ứng trong thời gian thực, dù nhiều game vẫn cần tính toán và chuẩn bị."
+  },
+  {
+    "id": "S034",
+    "original": "Từ nhiều game từ Contra đến Devil May Cry, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy từ Contra đến Devil May Cry."
+  },
+  {
+    "id": "S035",
+    "original": "Platformer là nhánh nơi người chơi chủ yếu nhảy, căn thời gian và vượt chướng ngại vật qua nhiều tầng địa hình.",
+    "revised": "Platformer tập trung vào nhảy, căn thời gian và vượt chướng ngại vật qua nhiều tầng địa hình."
+  },
+  {
+    "id": "S037",
+    "original": "Từ Super Mario Bros., Sonic the Hedgehog và Celeste, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Super Mario Bros., Sonic the Hedgehog và Celeste."
+  },
+  {
+    "id": "S038",
+    "original": "Shoot ’em up là nhánh nơi người chơi chủ yếu né đạn và bắn kẻ địch trong màn chơi cuộn liên tục.",
+    "revised": "Shoot ’em up tập trung vào né đạn và bắn kẻ địch trong màn chơi cuộn liên tục."
+  },
+  {
+    "id": "S040",
+    "original": "Từ Gradius, R-Type và Touhou, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Gradius, R-Type và Touhou."
+  },
+  {
+    "id": "S041",
+    "original": "Beat ’em up là nhánh nơi người chơi chủ yếu đánh cận chiến với nhiều kẻ địch trên đường tiến màn.",
+    "revised": "Beat ’em up tập trung vào đánh cận chiến với nhiều kẻ địch trên đường tiến màn."
+  },
+  {
+    "id": "S043",
+    "original": "Từ Double Dragon, Final Fight và Streets of Rage, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Double Dragon, Final Fight và Streets of Rage."
+  },
+  {
+    "id": "S044",
+    "original": "Run and gun là nhánh nơi người chơi chủ yếu vừa di chuyển nhanh vừa xả đạn liên tục trong màn chơi áp lực cao.",
+    "revised": "Run and gun tập trung vào vừa di chuyển nhanh vừa xả đạn liên tục trong màn chơi áp lực cao."
+  },
+  {
+    "id": "S046",
+    "original": "Từ Contra, Metal Slug và Cuphead ở nhiều khoảnh khắc, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Contra, Metal Slug và Cuphead ở nhiều khoảnh khắc."
+  },
+  {
+    "id": "S047",
+    "original": "Maze là nhánh nơi người chơi chủ yếu đọc đường đi, tránh truy đuổi và tối ưu lộ trình trong không gian mê cung.",
+    "revised": "Maze tập trung vào đọc đường đi, tránh truy đuổi và tối ưu lộ trình trong không gian mê cung."
+  },
+  {
+    "id": "S049",
+    "original": "Từ Pac-Man, Bomberman ở vài chế độ và nhiều game mê cung cổ điển, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Pac-Man, Bomberman ở vài chế độ và nhiều game mê cung cổ điển."
+  },
+  {
+    "id": "S050",
+    "original": "Rhythm là nhánh nơi người chơi chủ yếu đồng bộ thao tác với nhịp âm thanh hoặc tiết tấu thị giác.",
+    "revised": "Rhythm tập trung vào đồng bộ thao tác với nhịp âm thanh hoặc tiết tấu thị giác."
+  },
+  {
+    "id": "S052",
+    "original": "Từ Dance Dance Revolution, Guitar Hero và osu!, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Dance Dance Revolution, Guitar Hero và osu!."
+  },
+  {
+    "id": "S053",
+    "original": "Puzzle là nhánh nơi người chơi chủ yếu giải quy tắc trừu tượng bằng nhận dạng mẫu, sắp xếp hoặc suy luận.",
+    "revised": "Puzzle tập trung vào giải quy tắc trừu tượng bằng nhận dạng mẫu, sắp xếp hoặc suy luận."
+  },
+  {
+    "id": "S055",
+    "original": "Từ Tetris, Puyo Puyo và Portal theo tinh thần giải đố, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Tetris, Puyo Puyo và Portal theo tinh thần giải đố."
+  },
+  {
+    "id": "S057",
+    "original": "Ở đây, niềm vui không nằm ở bấm nhanh hơn một phần mười giây.",
+    "revised": "Lợi thế không chỉ đến từ bấm nhanh, mà còn từ việc đưa ra quyết định đúng."
+  },
+  {
+    "id": "S064",
+    "original": "Strategy là nhánh nơi người chơi chủ yếu lập kế hoạch, phân bổ nguồn lực và tối ưu quyết định qua thời gian.",
+    "revised": "Strategy tập trung vào lập kế hoạch, phân bổ nguồn lực và tối ưu quyết định qua thời gian."
+  },
+  {
+    "id": "S065",
+    "original": "Điểm làm Strategy khác các nhánh gần nó là nó xem suy nghĩ trước nhiều bước là kỹ năng quan trọng nhất.",
+    "revised": "Strategy đặt trọng tâm vào kế hoạch và đánh đổi, dù nhiều nhánh vẫn đòi hỏi thao tác nhanh."
+  },
+  {
+    "id": "S066",
+    "original": "Từ nhiều dòng game từ cờ số hóa đến chiến tranh giả lập, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy từ cờ số hóa đến chiến tranh giả lập."
+  },
+  {
+    "id": "S067",
+    "original": "Real-time strategy là nhánh nơi người chơi chủ yếu ra lệnh liên tục trong khi thế giới vẫn vận hành không ngừng.",
+    "revised": "Real-time strategy tập trung vào ra lệnh liên tục trong khi thế giới vẫn vận hành không ngừng."
+  },
+  {
+    "id": "S069",
+    "original": "Từ Dune II, Warcraft và StarCraft, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Dune II, Warcraft và StarCraft."
+  },
+  {
+    "id": "S070",
+    "original": "Turn-based strategy là nhánh nơi người chơi chủ yếu dừng lại để suy nghĩ rồi hành động theo lượt.",
+    "revised": "Turn-based strategy tập trung vào dừng lại để suy nghĩ rồi hành động theo lượt."
+  },
+  {
+    "id": "S072",
+    "original": "Từ Civilization, Advance Wars và Heroes of Might and Magic, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Civilization, Advance Wars và Heroes of Might and Magic."
+  },
+  {
+    "id": "S073",
+    "original": "4X là nhánh nơi người chơi chủ yếu khám phá, mở rộng, khai thác và tiêu diệt trên quy mô rất lớn.",
+    "revised": "4X tập trung vào khám phá, mở rộng, khai thác và tiêu diệt trên quy mô rất lớn."
+  },
+  {
+    "id": "S074",
+    "original": "Điểm làm 4X khác các nhánh gần nó là nó kết hợp xây dựng đế chế với chiến lược dài hạn qua hàng chục hoặc hàng trăm lượt.",
+    "revised": "4X kết hợp xây dựng đế chế với nhiều hệ thống dài hạn, theo lượt hoặc trong thời gian thực."
+  },
+  {
+    "id": "S075",
+    "original": "Từ Civilization, Master of Orion và Endless Legend, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Civilization, Master of Orion và Endless Legend."
+  },
+  {
+    "id": "S076",
+    "original": "Tactics là nhánh nơi người chơi chủ yếu giải từng trận địa nhỏ bằng vị trí, hướng nhìn và lợi thế cục bộ.",
+    "revised": "Tactics tập trung vào giải từng trận địa nhỏ bằng vị trí, hướng nhìn và lợi thế cục bộ."
+  },
+  {
+    "id": "S078",
+    "original": "Từ XCOM, Into the Breach và Jagged Alliance, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong XCOM, Into the Breach và Jagged Alliance."
+  },
+  {
+    "id": "S079",
+    "original": "Tactical RPG là nhánh nơi người chơi chủ yếu kết hợp chiến thuật bản đồ ô vuông với hệ phát triển nhân vật nhập vai.",
+    "revised": "Tactical RPG kết hợp quyết định chiến thuật với sự phát triển của nhân vật; bản đồ ô vuông là một cách triển khai phổ biến."
+  },
+  {
+    "id": "S081",
+    "original": "Từ Fire Emblem, Final Fantasy Tactics và Tactics Ogre, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Fire Emblem, Final Fantasy Tactics và Tactics Ogre."
+  },
+  {
+    "id": "S082",
+    "original": "Tower defense là nhánh nơi người chơi chủ yếu đặt công sự để chặn làn sóng địch đi theo tuyến đường.",
+    "revised": "Tower defense tập trung vào đặt công sự để chặn làn sóng địch đi theo tuyến đường."
+  },
+  {
+    "id": "S084",
+    "original": "Từ Plants vs. Zombies, Kingdom Rush và Defense Grid, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Plants vs. Zombies, Kingdom Rush và Defense Grid."
+  },
+  {
+    "id": "S085",
+    "original": "Auto battler là nhánh nơi người chơi chủ yếu xây đội hình và tối ưu đội quân trước khi trận đánh tự diễn ra.",
+    "revised": "Auto battler tập trung vào xây đội hình và tối ưu đội quân trước khi trận đánh tự diễn ra."
+  },
+  {
+    "id": "S087",
+    "original": "Từ Teamfight Tactics, Auto Chess và Battlegrounds, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Teamfight Tactics, Auto Chess và Battlegrounds."
+  },
+  {
+    "id": "S088",
+    "original": "MOBA là nhánh nơi người chơi chủ yếu điều khiển một anh hùng trong trận đấu đội với ba đường và mục tiêu phá căn cứ.",
+    "revised": "MOBA thường cho mỗi người điều khiển một anh hùng trong đội, phối hợp trên bản đồ để phá mục tiêu hoặc căn cứ đối phương."
+  },
+  {
+    "id": "S090",
+    "original": "Từ DotA, League of Legends và Dota 2, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong DotA, League of Legends và Dota 2."
+  },
+  {
+    "id": "S101",
+    "original": "RPG là nhánh nơi người chơi chủ yếu phát triển nhân vật qua cấp độ, chỉ số, lựa chọn và hành trình dài.",
+    "revised": "RPG tập trung vào phát triển nhân vật qua cấp độ, chỉ số, lựa chọn và hành trình dài."
+  },
+  {
+    "id": "S103",
+    "original": "Từ Ultima, Wizardry và nhiều hậu duệ hiện đại, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Ultima, Wizardry và nhiều hậu duệ hiện đại."
+  },
+  {
+    "id": "S104",
+    "original": "JRPG là nhánh nơi người chơi chủ yếu đi theo chuyến phiêu lưu có tuyến truyện rõ, dàn nhân vật nổi bật và nhịp tiến triển rất có chủ đích.",
+    "revised": "JRPG là một nhãn truyền thống thiết kế rộng, thường gắn với tổ đội, nhân vật nổi bật và chuyến phiêu lưu có tuyến truyện rõ."
+  },
+  {
+    "id": "S106",
+    "original": "Từ Dragon Quest, Final Fantasy và Persona, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Dragon Quest, Final Fantasy và Persona."
+  },
+  {
+    "id": "S107",
+    "original": "WRPG là nhánh nơi người chơi chủ yếu trao cho người chơi nhiều tự do hơn trong khám phá và lựa chọn vai diễn.",
+    "revised": "WRPG là một nhãn truyền thống thiết kế khác, thường gắn với tạo nhân vật và lựa chọn vai diễn; ranh giới với JRPG không tuyệt đối."
+  },
+  {
+    "id": "S109",
+    "original": "Từ The Elder Scrolls, Baldur’s Gate và Fallout, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong The Elder Scrolls, Baldur’s Gate và Fallout."
+  },
+  {
+    "id": "S110",
+    "original": "Action RPG là nhánh nơi người chơi chủ yếu chiến đấu trực tiếp trong thời gian thực nhưng vẫn giữ vòng lặp lên cấp và trang bị.",
+    "revised": "Action RPG tập trung vào chiến đấu trực tiếp trong thời gian thực nhưng vẫn giữ vòng lặp lên cấp và trang bị."
+  },
+  {
+    "id": "S112",
+    "original": "Từ Diablo, Kingdom Hearts và Path of Exile, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Diablo, Kingdom Hearts và Path of Exile."
+  },
+  {
+    "id": "S113",
+    "original": "Dungeon crawler là nhánh nơi người chơi chủ yếu khám phá hầm ngục, quản lý rủi ro và tiến dần qua những tầng nguy hiểm.",
+    "revised": "Dungeon crawler tập trung vào khám phá hầm ngục, quản lý rủi ro và tiến dần qua những tầng nguy hiểm."
+  },
+  {
+    "id": "S115",
+    "original": "Từ Wizardry, Etrian Odyssey và Legend of Grimrock, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Wizardry, Etrian Odyssey và Legend of Grimrock."
+  },
+  {
+    "id": "S116",
+    "original": "Monster-collecting RPG là nhánh nơi người chơi chủ yếu thu thập sinh vật, xây đội hình và phát triển quan hệ chiến đấu với chúng.",
+    "revised": "Monster-collecting RPG tập trung vào thu thập sinh vật, xây đội hình và phát triển quan hệ chiến đấu với chúng."
+  },
+  {
+    "id": "S118",
+    "original": "Từ Pokémon, Shin Megami Tensei và Monster Rancher, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Pokémon, Shin Megami Tensei và Monster Rancher."
+  },
+  {
+    "id": "S119",
+    "original": "MMORPG là nhánh nơi người chơi chủ yếu sống trong một thế giới online có hàng nghìn người chơi cùng lúc.",
+    "revised": "MMORPG đặt nhân vật trong thế giới trực tuyến có cộng đồng đông đảo và tiến trình lâu dài, không nhất thiết tập trung tất cả người chơi vào một khu vực."
+  },
+  {
+    "id": "S121",
+    "original": "Từ World of Warcraft, Final Fantasy XIV và Guild Wars 2, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong World of Warcraft, Final Fantasy XIV và Guild Wars 2."
+  },
+  {
+    "id": "S122",
+    "original": "Soulslike là nhánh nơi người chơi chủ yếu học qua thất bại, chiến đấu có nhịp nặng tay và khám phá một thế giới đậm bí ẩn.",
+    "revised": "Soulslike tập trung vào học qua thất bại, chiến đấu có nhịp nặng tay và khám phá một thế giới đậm bí ẩn."
+  },
+  {
+    "id": "S123",
+    "original": "Điểm làm Soulslike khác các nhánh gần nó là độ khó, trừng phạt và cảm giác chinh phục boss là bản sắc nổi bật của nó.",
+    "revised": "Soulslike thường nhấn mạnh nhịp chiến đấu, đọc hành vi đối thủ và học qua thất bại; độ khó một mình chưa đủ định nghĩa nhánh này."
+  },
+  {
+    "id": "S124",
+    "original": "Từ Demon’s Souls, Dark Souls và Elden Ring, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Demon’s Souls, Dark Souls và Elden Ring."
+  },
+  {
+    "id": "S125",
+    "original": "Tactical RPG là nhánh nơi người chơi chủ yếu nâng cấp nhân vật như RPG nhưng giải quyết giao tranh trên bản đồ chiến thuật.",
+    "revised": "Nhìn từ phía RPG, Tactical RPG kết hợp xây dựng nhân vật với quyết định trên trận địa; đây là giao điểm ta đã gặp ở chương chiến thuật."
+  },
+  {
+    "id": "S127",
+    "original": "Từ Fire Emblem, Tactics Ogre và Triangle Strategy, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Fire Emblem, Tactics Ogre và Triangle Strategy."
+  },
+  {
+    "id": "S128",
+    "original": "Open-world RPG là nhánh nơi người chơi chủ yếu kết hợp nhập vai với một không gian rộng cho phép lang thang và tự chọn hướng đi.",
+    "revised": "Open-world RPG kết hợp nhập vai với một không gian rộng cho phép bạn lang thang và tự chọn hướng đi."
+  },
+  {
+    "id": "S130",
+    "original": "Từ Skyrim, The Witcher 3 và Xenoblade Chronicles X theo tinh thần rộng mở, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Skyrim, The Witcher 3 và Xenoblade Chronicles X theo tinh thần rộng mở."
+  },
+  {
+    "id": "S139",
+    "original": "First-person shooter là nhánh nơi người chơi chủ yếu ngắm bắn qua góc nhìn của chính nhân vật.",
+    "revised": "First-person shooter tập trung vào ngắm bắn qua góc nhìn của chính nhân vật."
+  },
+  {
+    "id": "S141",
+    "original": "Từ Doom, Half-Life và Call of Duty, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Doom, Half-Life và Call of Duty."
+  },
+  {
+    "id": "S142",
+    "original": "Third-person shooter là nhánh nơi người chơi chủ yếu chiến đấu bằng súng trong khi vẫn nhìn thấy toàn thân nhân vật.",
+    "revised": "Third-person shooter cho bạn ngắm bắn từ góc nhìn ngoài nhân vật, thường thấy lưng hoặc vai của họ."
+  },
+  {
+    "id": "S144",
+    "original": "Từ Gears of War, Max Payne và Splatoon theo tinh thần bắn góc nhìn ngoài, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Gears of War, Max Payne và Splatoon theo tinh thần bắn góc nhìn ngoài."
+  },
+  {
+    "id": "S145",
+    "original": "Tactical shooter là nhánh nơi người chơi chủ yếu ưu tiên thông tin, phối hợp đồng đội và một sai lầm cũng có thể trả giá lớn.",
+    "revised": "Tactical shooter ưu tiên thông tin và phối hợp đồng đội; một sai lầm cũng có thể trả giá lớn."
+  },
+  {
+    "id": "S146",
+    "original": "Điểm làm Tactical shooter khác các nhánh gần nó là nó chậm hơn arena shooter nhưng căng thẳng hơn vì mức độ trừng phạt cao.",
+    "revised": "Tactical shooter thường coi trọng thông tin và phối hợp hơn nhịp lao nhanh của arena shooter, nhưng tốc độ vẫn tùy thiết kế."
+  },
+  {
+    "id": "S147",
+    "original": "Từ Counter-Strike, Rainbow Six Siege và Valorant, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Counter-Strike, Rainbow Six Siege và Valorant."
+  },
+  {
+    "id": "S148",
+    "original": "Hero shooter là nhánh nơi người chơi chủ yếu để mỗi nhân vật có bộ kỹ năng riêng và vai trò rõ rệt trong giao tranh.",
+    "revised": "Hero shooter cho mỗi nhân vật một bộ kỹ năng riêng và vai trò rõ rệt trong giao tranh."
+  },
+  {
+    "id": "S150",
+    "original": "Từ Overwatch, Apex Legends ở nhiều cơ chế và Marvel Rivals theo tinh thần, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Overwatch, Apex Legends ở nhiều cơ chế và Marvel Rivals theo tinh thần."
+  },
+  {
+    "id": "S151",
+    "original": "Arena shooter là nhánh nơi người chơi chủ yếu nhấn mạnh di chuyển nhanh, kiểm soát vật phẩm và kỹ năng cơ học thuần túy.",
+    "revised": "Arena shooter nhấn mạnh di chuyển nhanh, kiểm soát vật phẩm và kỹ năng cơ học."
+  },
+  {
+    "id": "S153",
+    "original": "Từ Quake, Unreal Tournament và Halo ở một số chế độ, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Quake, Unreal Tournament và Halo ở một số chế độ."
+  },
+  {
+    "id": "S154",
+    "original": "Battle royale là nhánh nơi người chơi chủ yếu thả nhiều người vào một bản đồ lớn và để họ trở thành kẻ sống sót cuối cùng.",
+    "revised": "Battle royale đưa nhiều người vào một bản đồ lớn để cạnh tranh trở thành người hoặc đội sống sót cuối cùng."
+  },
+  {
+    "id": "S156",
+    "original": "Từ PUBG, Fortnite và Apex Legends, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong PUBG, Fortnite và Apex Legends."
+  },
+  {
+    "id": "S157",
+    "original": "Extraction shooter là nhánh nơi người chơi chủ yếu xâm nhập khu vực nguy hiểm, thu chiến lợi phẩm rồi rút ra an toàn.",
+    "revised": "Extraction shooter tập trung vào xâm nhập khu vực nguy hiểm, thu chiến lợi phẩm rồi rút ra an toàn."
+  },
+  {
+    "id": "S159",
+    "original": "Từ Escape from Tarkov, Hunt: Showdown và Marathon theo định hướng mới, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Escape from Tarkov, Hunt: Showdown và Marathon là những ví dụ có vòng lặp thu đồ rồi rút lui; cách triển khai của mỗi game khác nhau."
+  },
+  {
+    "id": "S160",
+    "original": "Fighting game là nhánh nơi người chơi chủ yếu đấu đối kháng trực diện nơi từng khung hình và từng đòn có giá trị chiến thuật.",
+    "revised": "Fighting game tập trung vào đấu đối kháng trực diện nơi từng khung hình và từng đòn có giá trị chiến thuật."
+  },
+  {
+    "id": "S162",
+    "original": "Từ Street Fighter, Tekken và Guilty Gear, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Street Fighter, Tekken và Guilty Gear."
+  },
+  {
+    "id": "S163",
+    "original": "Vehicular combat là nhánh nơi người chơi chủ yếu chiến đấu thông qua phương tiện chứ không chỉ qua cơ thể nhân vật.",
+    "revised": "Vehicular combat tập trung vào chiến đấu thông qua phương tiện chứ không chỉ qua cơ thể nhân vật."
+  },
+  {
+    "id": "S165",
+    "original": "Từ Twisted Metal, World of Tanks và Armored Core ở tinh thần cơ giới chiến đấu, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Twisted Metal, World of Tanks và Armored Core ở tinh thần cơ giới chiến đấu."
+  },
+  {
+    "id": "S174",
+    "original": "Simulation là nhánh nơi người chơi chủ yếu mô phỏng một hoạt động hay hệ thống đời thực hoặc giả tưởng theo cách có quy luật.",
+    "revised": "Simulation tập trung vào mô phỏng một hoạt động hay hệ thống đời thực hoặc giả tưởng theo cách có quy luật."
+  },
+  {
+    "id": "S176",
+    "original": "Từ flight sim, Euro Truck Simulator và nhiều nhánh mô phỏng khác, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong flight sim, Euro Truck Simulator và nhiều nhánh mô phỏng khác."
+  },
+  {
+    "id": "S177",
+    "original": "Life simulation là nhánh nơi người chơi chủ yếu sống một đời sống số với nhu cầu, quan hệ và nhịp sinh hoạt hằng ngày.",
+    "revised": "Life simulation tập trung vào sống một đời sống số với nhu cầu, quan hệ và nhịp sinh hoạt hằng ngày."
+  },
+  {
+    "id": "S179",
+    "original": "Từ The Sims và các hậu duệ cùng tinh thần, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong The Sims và các hậu duệ cùng tinh thần."
+  },
+  {
+    "id": "S180",
+    "original": "Farming simulation là nhánh nơi người chơi chủ yếu trồng trọt, chăm nuôi, tối ưu mùa vụ và gây dựng nhịp sống nông trại.",
+    "revised": "Farming simulation tập trung vào trồng trọt, chăm nuôi, tối ưu mùa vụ và gây dựng nhịp sống nông trại."
+  },
+  {
+    "id": "S182",
+    "original": "Từ Harvest Moon, Story of Seasons và Stardew Valley, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Harvest Moon, Story of Seasons và Stardew Valley."
+  },
+  {
+    "id": "S183",
+    "original": "Management / Tycoon là nhánh nơi người chơi chủ yếu điều hành doanh nghiệp hoặc dịch vụ để hệ thống hoạt động hiệu quả và có lời.",
+    "revised": "Management / Tycoon tập trung vào điều hành doanh nghiệp hoặc dịch vụ để hệ thống hoạt động hiệu quả và có lời."
+  },
+  {
+    "id": "S185",
+    "original": "Từ RollerCoaster Tycoon, Two Point Hospital và Game Dev Story, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong RollerCoaster Tycoon, Two Point Hospital và Game Dev Story."
+  },
+  {
+    "id": "S186",
+    "original": "City builder là nhánh nơi người chơi chủ yếu quy hoạch và nuôi lớn cả một đô thị.",
+    "revised": "City builder tập trung vào quy hoạch và nuôi lớn cả một đô thị."
+  },
+  {
+    "id": "S188",
+    "original": "Từ SimCity, Cities: Skylines và Pharaoh theo tinh thần xây đô thị, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong SimCity, Cities: Skylines và Pharaoh theo tinh thần xây đô thị."
+  },
+  {
+    "id": "S189",
+    "original": "God game là nhánh nơi người chơi chủ yếu tác động lên một thế giới như một lực lượng cao hơn là điều khiển trực tiếp từng cá nhân.",
+    "revised": "God game tập trung vào tác động lên một thế giới như một lực lượng cao hơn là điều khiển trực tiếp từng cá nhân."
+  },
+  {
+    "id": "S191",
+    "original": "Từ Populous, Black and White và From Dust theo tinh thần, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Populous, Black and White và From Dust theo tinh thần."
+  },
+  {
+    "id": "S192",
+    "original": "Sandbox là nhánh nơi người chơi chủ yếu cho người chơi công cụ để khám phá, xây dựng và tự đặt mục tiêu.",
+    "revised": "Sandbox trao công cụ để người chơi khám phá, xây dựng và tự đặt mục tiêu; đây cũng là một cách cấu trúc trải nghiệm."
+  },
+  {
+    "id": "S194",
+    "original": "Từ Minecraft, Garry’s Mod và Terraria ở nhiều khía cạnh, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Minecraft, Garry’s Mod và Terraria ở nhiều khía cạnh."
+  },
+  {
+    "id": "S195",
+    "original": "Survival là nhánh nơi người chơi chủ yếu sống sót trước môi trường khắc nghiệt, tài nguyên hạn chế và nhiều mối đe dọa.",
+    "revised": "Survival tập trung vào sống sót trước môi trường khắc nghiệt, tài nguyên hạn chế và nhiều mối đe dọa."
+  },
+  {
+    "id": "S197",
+    "original": "Từ Don’t Starve, The Long Dark và Subnautica, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Don’t Starve, The Long Dark và Subnautica."
+  },
+  {
+    "id": "S198",
+    "original": "Survival crafting là nhánh nơi người chơi chủ yếu kết hợp sống sót với chế tạo, xây căn cứ và mở khóa công nghệ dần dần.",
+    "revised": "Survival crafting kết hợp sống sót với chế tạo, xây căn cứ và mở khóa công nghệ dần dần."
+  },
+  {
+    "id": "S200",
+    "original": "Từ Rust, Valheim và Ark: Survival Evolved, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Rust, Valheim và Ark: Survival Evolved."
+  },
+  {
+    "id": "S207",
+    "original": "Adventure là nhánh nơi người chơi chủ yếu khám phá địa điểm, tương tác vật thể và tiến lên nhờ hiểu thế giới.",
+    "revised": "Adventure tập trung vào khám phá địa điểm, tương tác vật thể và tiến lên nhờ hiểu thế giới."
+  },
+  {
+    "id": "S208",
+    "original": "Điểm làm Adventure khác các nhánh gần nó là nhịp của nó thiên về quan sát và khám phá hơn là hành động cường độ cao.",
+    "revised": "Nhiều game adventure thiên về quan sát và khám phá, dù cũng có những nhánh pha hành động mạnh."
+  },
+  {
+    "id": "S209",
+    "original": "Từ King’s Quest, Broken Sword và nhiều game phiêu lưu kinh điển, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong King’s Quest, Broken Sword và nhiều game phiêu lưu kinh điển."
+  },
+  {
+    "id": "S210",
+    "original": "Graphic adventure là nhánh nơi người chơi chủ yếu kể chuyện qua màn hình cảnh cố định, đối thoại và giải đố theo logic ngữ cảnh.",
+    "revised": "Graphic adventure tập trung vào kể chuyện qua màn hình cảnh cố định, đối thoại và giải đố theo logic ngữ cảnh."
+  },
+  {
+    "id": "S212",
+    "original": "Từ Monkey Island, Grim Fandango và Syberia, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Monkey Island, Grim Fandango và Syberia."
+  },
+  {
+    "id": "S213",
+    "original": "Point-and-click là nhánh nơi người chơi chủ yếu chọn hành động thông qua con trỏ và sự chú ý đến chi tiết.",
+    "revised": "Point-and-click tập trung vào chọn hành động thông qua con trỏ và sự chú ý đến chi tiết."
+  },
+  {
+    "id": "S215",
+    "original": "Từ Monkey Island, Sam and Max và Day of the Tentacle, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Monkey Island, Sam and Max và Day of the Tentacle."
+  },
+  {
+    "id": "S216",
+    "original": "Interactive movie là nhánh nơi người chơi chủ yếu để câu chuyện điện ảnh và lựa chọn sự kiện dẫn đường cho trải nghiệm.",
+    "revised": "Interactive movie đặt diễn xuất, lựa chọn và các tình huống điện ảnh ở trung tâm trải nghiệm."
+  },
+  {
+    "id": "S217",
+    "original": "Điểm làm Interactive movie khác các nhánh gần nó là mức độ biểu cảm, cắt cảnh và quyết định phân nhánh quan trọng hơn kỹ năng cơ học.",
+    "revised": "Nhiều game trong nhóm này nhấn mạnh quyết định phân nhánh, đồng thời có thể dùng phản xạ và các đoạn thao tác nhanh."
+  },
+  {
+    "id": "S218",
+    "original": "Từ Heavy Rain, Until Dawn và Detroit: Become Human, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Heavy Rain, Until Dawn và Detroit: Become Human."
+  },
+  {
+    "id": "S219",
+    "original": "Visual novel là nhánh nơi người chơi chủ yếu đặt trọng tâm vào văn bản, nhân vật và các ngã rẽ cảm xúc.",
+    "revised": "Visual novel đặt trọng tâm vào văn bản, nhân vật và các ngã rẽ cảm xúc."
+  },
+  {
+    "id": "S221",
+    "original": "Từ Steins;Gate, Danganronpa và Ace Attorney theo tinh thần đọc kể chuyện, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Steins;Gate, Danganronpa và Ace Attorney theo tinh thần đọc kể chuyện."
+  },
+  {
+    "id": "S222",
+    "original": "Walking simulator là nhánh nơi người chơi chủ yếu dẫn người chơi qua không gian để cảm, nghe và ghép mảnh câu chuyện.",
+    "revised": "Walking simulator đưa người chơi qua không gian để cảm nhận, lắng nghe và ghép những mảnh câu chuyện."
+  },
+  {
+    "id": "S224",
+    "original": "Từ Gone Home, Firewatch và What Remains of Edith Finch, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Gone Home, Firewatch và What Remains of Edith Finch."
+  },
+  {
+    "id": "S225",
+    "original": "Detective / mystery là nhánh nơi người chơi chủ yếu điều tra, ghép manh mối và suy luận ra điều đang bị che giấu.",
+    "revised": "Detective / mystery tập trung vào điều tra, ghép manh mối và suy luận ra điều đang bị che giấu."
+  },
+  {
+    "id": "S227",
+    "original": "Từ Ace Attorney, Return of the Obra Dinn và Her Story, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Ace Attorney, Return of the Obra Dinn và Her Story."
+  },
+  {
+    "id": "S228",
+    "original": "Survival horror là nhánh nơi người chơi chủ yếu pha trộn sợ hãi với tài nguyên hiếm, kẻ địch nguy hiểm và cảm giác dễ tổn thương.",
+    "revised": "Survival horror pha trộn sợ hãi với tài nguyên hiếm, kẻ địch nguy hiểm và cảm giác dễ tổn thương."
+  },
+  {
+    "id": "S230",
+    "original": "Từ Resident Evil, Silent Hill và Amnesia ở tinh thần sinh tồn kinh dị, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Resident Evil, Silent Hill và Amnesia ở tinh thần sinh tồn kinh dị."
+  },
+  {
+    "id": "S237",
+    "original": "Sports là nhánh nơi người chơi chủ yếu mô phỏng hoặc cách điệu hóa một môn thể thao để người chơi nhập vai thi đấu.",
+    "revised": "Sports tập trung vào mô phỏng hoặc cách điệu hóa một môn thể thao để người chơi nhập vai thi đấu."
+  },
+  {
+    "id": "S239",
+    "original": "Từ EA Sports FC, NBA 2K và MLB The Show, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong EA Sports FC, NBA 2K và MLB The Show."
+  },
+  {
+    "id": "S240",
+    "original": "Racing là nhánh nơi người chơi chủ yếu đua tốc độ, chọn đường đua và làm chủ quán tính của phương tiện.",
+    "revised": "Racing tập trung vào đua tốc độ, chọn đường đua và làm chủ quán tính của phương tiện."
+  },
+  {
+    "id": "S242",
+    "original": "Từ Gran Turismo, Forza và Ridge Racer, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Gran Turismo, Forza và Ridge Racer."
+  },
+  {
+    "id": "S243",
+    "original": "Kart racing là nhánh nơi người chơi chủ yếu biến đua xe thành cuộc vui dễ tiếp cận với vật phẩm và tình huống bất ngờ.",
+    "revised": "Kart racing biến đua xe thành cuộc vui dễ tiếp cận với vật phẩm và tình huống bất ngờ."
+  },
+  {
+    "id": "S245",
+    "original": "Từ Mario Kart, Crash Team Racing và Sonic Racing, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Mario Kart, Crash Team Racing và Sonic Racing."
+  },
+  {
+    "id": "S246",
+    "original": "Arcade racing là nhánh nơi người chơi chủ yếu ưu tiên cảm giác tốc độ phóng đại hơn tính chân thực cơ khí.",
+    "revised": "Arcade racing ưu tiên cảm giác tốc độ phóng đại hơn tính chân thực cơ khí."
+  },
+  {
+    "id": "S248",
+    "original": "Từ Need for Speed, Burnout và OutRun, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Need for Speed, Burnout và OutRun."
+  },
+  {
+    "id": "S249",
+    "original": "Simulation racing là nhánh nơi người chơi chủ yếu tái hiện độ bám, quán tính và kỹ thuật lái sát với cảm giác thật hơn.",
+    "revised": "Simulation racing tập trung vào tái hiện độ bám, quán tính và kỹ thuật lái sát với cảm giác thật hơn."
+  },
+  {
+    "id": "S251",
+    "original": "Từ Gran Turismo, iRacing và Assetto Corsa, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Gran Turismo, iRacing và Assetto Corsa."
+  },
+  {
+    "id": "S252",
+    "original": "Party game là nhánh nơi người chơi chủ yếu tập hợp nhiều thử thách ngắn để tạo cạnh tranh và tiếng cười theo nhóm.",
+    "revised": "Party game tập trung vào tập hợp nhiều thử thách ngắn để tạo cạnh tranh và tiếng cười theo nhóm."
+  },
+  {
+    "id": "S254",
+    "original": "Từ Mario Party, WarioWare và Pummel Party, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Mario Party, WarioWare và Pummel Party."
+  },
+  {
+    "id": "S255",
+    "original": "Social deduction là nhánh nơi người chơi chủ yếu để người chơi nghi ngờ, thảo luận và suy luận ai đang lừa dối.",
+    "revised": "Social deduction khiến người chơi nghi ngờ, thảo luận và suy luận ai đang lừa dối."
+  },
+  {
+    "id": "S257",
+    "original": "Từ Among Us, Werewolf và Town of Salem, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Among Us, Werewolf và Town of Salem."
+  },
+  {
+    "id": "S258",
+    "original": "Casual / family game là nhánh nơi người chơi chủ yếu giảm rào cản điều khiển để nhiều độ tuổi cùng tham gia dễ dàng.",
+    "revised": "Casual / family game tập trung vào giảm rào cản điều khiển để nhiều độ tuổi cùng tham gia dễ dàng."
+  },
+  {
+    "id": "S260",
+    "original": "Từ Wii Sports, Candy Crush và nhiều game gia đình dễ chơi, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Wii Sports, Candy Crush và nhiều game gia đình dễ chơi."
+  },
+  {
+    "id": "S263",
+    "original": "Nhánh indie đặc biệt thích thử nghiệm các vòng lặp ngắn nhưng có độ gây nghiện rất cao.",
+    "revised": "Nhiều nhà phát triển độc lập thử nghiệm vòng lặp ngắn, dễ chơi lại và nhiều cách kết hợp cơ chế."
+  },
+  {
+    "id": "S269",
+    "original": "Roguelike là nhánh nơi người chơi chủ yếu xây trải nghiệm quanh tính ngẫu nhiên, permadeath và những lượt chơi lặp lại nhưng luôn khác.",
+    "revised": "Roguelike xây trải nghiệm quanh tính ngẫu nhiên, cái chết kết thúc lượt chơi và những lần thử luôn khác nhau."
+  },
+  {
+    "id": "S270",
+    "original": "Điểm làm Roguelike khác các nhánh gần nó là định nghĩa hẹp của nó gắn chặt với dòng game Rogue và nhiều tranh luận học thuật lẫn cộng đồng.",
+    "revised": "Một định nghĩa có ảnh hưởng là Berlin Interpretation năm 2008; đây là cách diễn giải của một nhóm cộng đồng, không phải chuẩn bắt buộc."
+  },
+  {
+    "id": "S271",
+    "original": "Từ Rogue, NetHack và Dungeon Crawl Stone Soup, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Rogue, NetHack và Dungeon Crawl Stone Soup."
+  },
+  {
+    "id": "S272",
+    "original": "Roguelite là nhánh nơi người chơi chủ yếu mượn vòng lặp lặp lại của roguelike nhưng cho phép tiến bộ lâu dài hoặc mềm hóa thất bại.",
+    "revised": "Roguelite mượn vòng lặp chơi lại của roguelike nhưng cho phép tiến bộ lâu dài hoặc giảm mức mất mát sau thất bại."
+  },
+  {
+    "id": "S273",
+    "original": "Điểm làm Roguelite khác các nhánh gần nó là nó thân thiện hơn với người chơi đại chúng mà vẫn giữ cảm giác thử lại.",
+    "revised": "Roguelite có thể giữ nâng cấp giữa các lượt chơi, nhưng nhãn này không đảm bảo game dễ hơn roguelike."
+  },
+  {
+    "id": "S274",
+    "original": "Từ Hades, Dead Cells và Rogue Legacy, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Hades, Dead Cells và Rogue Legacy."
+  },
+  {
+    "id": "S275",
+    "original": "Metroidvania là nhánh nơi người chơi chủ yếu khám phá bản đồ liên thông rồi quay lại khu cũ khi bạn có năng lực mới.",
+    "revised": "Metroidvania tập trung vào khám phá bản đồ liên thông rồi quay lại khu cũ khi bạn có năng lực mới."
+  },
+  {
+    "id": "S277",
+    "original": "Từ Super Metroid, Castlevania: Symphony of the Night và Hollow Knight, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Super Metroid, Castlevania: Symphony of the Night và Hollow Knight."
+  },
+  {
+    "id": "S278",
+    "original": "Immersive sim là nhánh nơi người chơi chủ yếu cho người chơi nhiều cách tiếp cận cùng một vấn đề trong môi trường giàu tương tác.",
+    "revised": "Immersive sim nhấn mạnh các hệ thống tương tác, cho phép người chơi tìm nhiều cách xử lý cùng một tình huống."
+  },
+  {
+    "id": "S280",
+    "original": "Từ Deus Ex, Dishonored và Prey, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Deus Ex, Dishonored và Prey."
+  },
+  {
+    "id": "S281",
+    "original": "Deckbuilder là nhánh nơi người chơi chủ yếu biến việc xây bộ bài thành trung tâm của vòng lặp chiến đấu hoặc chiến thuật.",
+    "revised": "Deckbuilder biến việc xây bộ bài thành trung tâm của vòng lặp chiến đấu hoặc chiến thuật."
+  },
+  {
+    "id": "S283",
+    "original": "Từ Slay the Spire, Monster Train và Balatro theo tinh thần xây dựng bộ bài, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Slay the Spire, Monster Train và Balatro theo tinh thần xây dựng bộ bài."
+  },
+  {
+    "id": "S284",
+    "original": "Bullet heaven là nhánh nơi người chơi chủ yếu để nhân vật sống sót giữa biển kẻ địch trong khi sức mạnh tự động hoặc bán tự động bùng nổ khắp màn hình.",
+    "revised": "Bullet heaven đặt nhân vật giữa biển kẻ địch, với sức mạnh tự động hoặc bán tự động bùng nổ khắp màn hình."
+  },
+  {
+    "id": "S286",
+    "original": "Từ Vampire Survivors, Brotato và Halls of Torment, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Vampire Survivors, Brotato và Halls of Torment."
+  },
+  {
+    "id": "S287",
+    "original": "Idle / incremental là nhánh nơi người chơi chủ yếu thưởng cho người chơi bằng sự tăng trưởng theo thời gian, đôi khi ngay cả khi không trực tiếp thao tác nhiều.",
+    "revised": "Idle / incremental thưởng cho người chơi bằng sự tăng trưởng theo thời gian, đôi khi cả khi không trực tiếp thao tác nhiều."
+  },
+  {
+    "id": "S289",
+    "original": "Từ Cookie Clicker, Universal Paperclips và Adventure Capitalist, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Cookie Clicker, Universal Paperclips và Adventure Capitalist."
+  },
+  {
+    "id": "S290",
+    "original": "Cozy game là nhánh nơi người chơi chủ yếu giảm áp lực để nhấn mạnh sự thư giãn, dễ thương và nhịp sống nhẹ nhàng.",
+    "revised": "Cozy game giảm áp lực để nhấn mạnh sự thư giãn, dễ thương và nhịp sống nhẹ nhàng."
+  },
+  {
+    "id": "S292",
+    "original": "Từ Animal Crossing, Unpacking và A Short Hike, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Animal Crossing, Unpacking và A Short Hike."
+  },
+  {
+    "id": "S293",
+    "original": "Extraction survival hybrid là nhánh nơi người chơi chủ yếu kết hợp căng thẳng sinh tồn với mục tiêu rút lui an toàn cùng chiến lợi phẩm.",
+    "revised": "Extraction survival hybrid kết hợp căng thẳng sinh tồn với mục tiêu rút lui an toàn cùng chiến lợi phẩm."
+  },
+  {
+    "id": "S294",
+    "original": "Điểm làm Extraction survival hybrid khác các nhánh gần nó là điểm mới của nó là biến nỗi sợ mất đồ thành động lực trung tâm.",
+    "revised": "Nhóm lai này đặt nỗi lo mất chiến lợi phẩm vào trung tâm, kết hợp nó với nhiều áp lực sinh tồn khác."
+  },
+  {
+    "id": "S295",
+    "original": "Từ Dark and Darker, Hunt: Showdown và nhiều game lai mới nổi, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Có thể thấy những nét ấy trong Dark and Darker, Hunt: Showdown và nhiều game lai mới nổi."
+  },
+  {
+    "id": "S300",
+    "original": "Open world là nhánh nơi người chơi chủ yếu không hẳn là thể loại, mà là cấu trúc cho phép di chuyển và khám phá tự do trên không gian rộng.",
+    "revised": "Open world chủ yếu mô tả cấu trúc không gian rộng cho phép khám phá tương đối tự do."
+  },
+  {
+    "id": "S301",
+    "original": "Điểm làm Open world khác các nhánh gần nó là nó có thể bọc quanh rất nhiều thể loại khác nhau, từ nhập vai đến bắn súng.",
+    "revised": "Cấu trúc ấy có thể xuất hiện trong nhiều thể loại, từ nhập vai đến bắn súng."
+  },
+  {
+    "id": "S302",
+    "original": "Từ Skyrim, GTA V và The Legend of Zelda: Breath of the Wild, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Skyrim, GTA V và The Legend of Zelda: Breath of the Wild cho thấy ba cách kết hợp thế giới mở với lối chơi khác nhau."
+  },
+  {
+    "id": "S303",
+    "original": "Sandbox structure là nhánh nơi người chơi chủ yếu cũng thường bị gọi là thể loại dù nó nghiêng về mức độ tự do và công cụ hơn là vòng lặp cốt lõi.",
+    "revised": "Sandbox structure mô tả mức tự do, công cụ và cơ hội tự đặt mục tiêu, hơn là một vòng lặp duy nhất."
+  },
+  {
+    "id": "S304",
+    "original": "Điểm làm Sandbox structure khác các nhánh gần nó là một game sandbox có thể là sáng tạo, sinh tồn, mô phỏng hoặc pha trộn nhiều thứ.",
+    "revised": "Cấu trúc sandbox có thể hỗ trợ sáng tạo, sinh tồn, mô phỏng hoặc nhiều cách chơi cùng lúc."
+  },
+  {
+    "id": "S305",
+    "original": "Từ Minecraft, Garry’s Mod và Dreams, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Minecraft, Garry’s Mod và Dreams là những ví dụ về quyền tự do và công cụ, nhưng không có cùng một vòng lặp."
+  },
+  {
+    "id": "S306",
+    "original": "Live service là nhánh nơi người chơi chủ yếu không mô tả cách chơi trực tiếp mà mô tả cách game được vận hành và cập nhật liên tục.",
+    "revised": "Live service mô tả cách vận hành và bổ sung nội dung theo thời gian, không tự định nghĩa lối chơi."
+  },
+  {
+    "id": "S307",
+    "original": "Điểm làm Live service khác các nhánh gần nó là sự kiện theo mùa, tiến trình lâu dài và nội dung mới làm nó khác game bán xong là xong.",
+    "revised": "Sự kiện, mùa nội dung và cập nhật có thể duy trì trải nghiệm; mỗi game dùng mô hình này theo cách khác."
+  },
+  {
+    "id": "S308",
+    "original": "Từ Fortnite, Destiny 2 và Warframe, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Fortnite, Destiny 2 và Warframe là các ví dụ tham khảo; tình trạng dịch vụ và nội dung cần kiểm tra lại khi xuất bản."
+  },
+  {
+    "id": "S309",
+    "original": "Mobile game là nhánh nơi người chơi chủ yếu thực ra mô tả nền tảng nhiều hơn là bản chất thể loại.",
+    "revised": "Mobile game mô tả nền tảng điện thoại, không phải một thể loại lối chơi riêng."
+  },
+  {
+    "id": "S310",
+    "original": "Điểm làm Mobile game khác các nhánh gần nó là trên điện thoại có thể tồn tại puzzle, gacha, strategy hay rhythm, nên gọi mobile là thể loại sẽ quá rộng.",
+    "revised": "Trên điện thoại có thể có puzzle, strategy, rhythm và nhiều thể loại khác; gacha lại là một cơ chế thu thập hoặc kiếm tiền."
+  },
+  {
+    "id": "S311",
+    "original": "Từ Candy Crush, Genshin Impact và Clash Royale, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Candy Crush, Genshin Impact và Clash Royale minh họa những trải nghiệm rất khác nhau trên cùng nền tảng."
+  },
+  {
+    "id": "S312",
+    "original": "Steam tags là nhánh nơi người chơi chủ yếu cho thấy cộng đồng phân loại game theo nhiều trục cùng lúc chứ không chỉ một thể loại duy nhất.",
+    "revised": "Steam tags cho thấy một game có thể được mô tả theo nhiều trục cùng lúc, bởi nhà phát triển và cộng đồng."
+  },
+  {
+    "id": "S313",
+    "original": "Điểm làm Steam tags khác các nhánh gần nó là một game có thể mang đồng thời tag về lối chơi, chủ đề, độ khó và tâm trạng.",
+    "revised": "Tag có thể nói về thể loại, góc nhìn, cơ chế, chủ đề hoặc tâm trạng."
+  },
+  {
+    "id": "S314",
+    "original": "Từ hệ thống tag trên Steam và các cửa hàng số tương tự, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Hệ thống tag giúp khám phá game, nhưng các nhãn và trọng số có thể thay đổi theo thời gian."
+  },
+  {
+    "id": "S315",
+    "original": "Perspective labels là nhánh nơi người chơi chủ yếu như first-person hay side-scrolling thường chỉ mô tả cách nhìn hoặc cách trình bày.",
+    "revised": "First-person, side-scrolling và isometric thường mô tả góc nhìn hoặc cách trình bày."
+  },
+  {
+    "id": "S316",
+    "original": "Điểm làm Perspective labels khác các nhánh gần nó là chúng cắt ngang nhiều thể loại thay vì tự mình giải thích toàn bộ trải nghiệm.",
+    "revised": "Những nhãn này xuất hiện ở nhiều thể loại, nên không tự giải thích toàn bộ trải nghiệm."
+  },
+  {
+    "id": "S317",
+    "original": "Từ first-person puzzle, side-scrolling action và isometric RPG như các ví dụ, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Một game giải đố có thể nhìn từ ngôi thứ nhất, một game action có thể cuộn ngang, và một RPG có thể dùng góc nhìn isometric."
+  },
+  {
+    "id": "S318",
+    "original": "Mood and community labels là nhánh nơi người chơi chủ yếu như cozy, hardcore hay soulslike cho thấy ngôn ngữ người chơi luôn tiếp tục mở rộng.",
+    "revised": "Ngôn ngữ cộng đồng còn tạo ra nhãn về cảm giác như cozy, về thử thách như hardcore, hoặc về truyền thống thiết kế như soulslike."
+  },
+  {
+    "id": "S319",
+    "original": "Điểm làm Mood and community labels khác các nhánh gần nó là một phần tên gọi thể loại ngày nay đến từ cộng đồng, không chỉ từ học thuật hay nhà phát hành.",
+    "revised": "Các nhãn này không cùng một cấp phân loại, nhưng đều góp phần giúp người chơi trao đổi về trải nghiệm."
+  },
+  {
+    "id": "S320",
+    "original": "Từ cozy game, boomer shooter và soulslike, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "revised": "Cozy game, boomer shooter và soulslike cho thấy tên gọi cộng đồng có thể nhấn mạnh tâm trạng, phong cách hoặc một họ cơ chế."
+  },
+  {
+    "id": "S331",
+    "original": "Indie và lai thể loại trả lời bằng sáng tạo không ngừng.",
+    "revised": "Nhiều game độc lập và game lai đem lại niềm vui bằng cách thử những tổ hợp cơ chế mới."
+  },
+  {
+    "id": "S226",
+    "original": "Điểm làm Detective / mystery khác các nhánh gần nó là cảm giác chính là chuyển từ mơ hồ sang hiểu ra.",
+    "revised": "Trong Detective / mystery, cảm giác nổi bật là chuyển từ mơ hồ sang hiểu ra nhờ manh mối và suy luận."
+  }
+]

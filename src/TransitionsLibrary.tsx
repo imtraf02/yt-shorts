@@ -98,10 +98,10 @@ export const TransitionsGallery: React.FC = () => (
     <div
       style={{
         position: "absolute",
-        top: 42,
-        left: 64,
-        fontSize: 20,
-        letterSpacing: 5,
+        top: 24,
+        left: 44,
+        fontSize: 16,
+        letterSpacing: 3,
         color: "#CFB9A1",
       }}
     >
@@ -110,9 +110,9 @@ export const TransitionsGallery: React.FC = () => (
     <div
       style={{
         position: "absolute",
-        top: 80,
-        left: 60,
-        fontSize: 66,
+        top: 50,
+        left: 44,
+        fontSize: 44,
         fontWeight: 700,
       }}
     >
@@ -121,82 +121,92 @@ export const TransitionsGallery: React.FC = () => (
     <div
       style={{
         position: "absolute",
-        top: 105,
-        right: 64,
+        top: 64,
+        right: 44,
         color: "#CFB9A1",
-        fontSize: 21,
+        fontSize: 18,
       }}
     >
-      12 CHUYỂN CẢNH · 4 NHÓM
+      30 CHUYỂN CẢNH · 6 NHÓM CHỦ ĐỀ
     </div>
-    {TRANSITION_KINDS.map((kind, index) => (
-      <div
-        key={kind}
-        style={{
-          position: "absolute",
-          left: 64 + (index % 4) * 452,
-          top: 198 + Math.floor(index / 4) * 262,
-          width: 434,
-          height: 244,
-          overflow: "hidden",
-          borderRadius: 18,
-          border: "1px solid #FFFFFF18",
-        }}
-      >
-        <Sequence width={434} height={244} name={kind}>
-          <TransitionLoop
-            kind={kind}
-            durationInFrames={30}
-            direction="left"
-            color="#15282C"
+    {TRANSITION_KINDS.map((kind, index) => {
+      const col = index % 6;
+      const row = Math.floor(index / 6);
+      const cardWidth = 292;
+      const cardHeight = 152;
+      const gapX = 16;
+      const gapY = 14;
+      const left = 44 + col * (cardWidth + gapX);
+      const top = 138 + row * (cardHeight + gapY);
+      return (
+        <div
+          key={kind}
+          style={{
+            position: "absolute",
+            left,
+            top,
+            width: cardWidth,
+            height: cardHeight,
+            overflow: "hidden",
+            borderRadius: 12,
+            border: "1px solid #FFFFFF18",
+          }}
+        >
+          <Sequence width={cardWidth} height={cardHeight} name={kind}>
+            <TransitionLoop
+              kind={kind}
+              durationInFrames={30}
+              direction="left"
+              color="#15282C"
+            />
+          </Sequence>
+          <div
+            style={{
+              position: "absolute",
+              inset: 0,
+              background: "linear-gradient(transparent 35%, #060B1499)",
+              pointerEvents: "none",
+            }}
           />
-        </Sequence>
-        <div
-          style={{
-            position: "absolute",
-            inset: 0,
-            background: "linear-gradient(transparent 40%, #060B1499)",
-            pointerEvents: "none",
-          }}
-        />
-        <div
-          style={{
-            position: "absolute",
-            top: 16,
-            left: 22,
-            fontSize: 14,
-            letterSpacing: 1.5,
-            color: "#FFFFFFBB",
-          }}
-        >
-          {String(index + 1).padStart(2, "0")} /{" "}
-          {TRANSITION_PRESETS[kind].pack.toUpperCase()}
+          <div
+            style={{
+              position: "absolute",
+              top: 10,
+              left: 14,
+              fontSize: 11,
+              letterSpacing: 1.1,
+              color: "#FFFFFFBB",
+            }}
+          >
+            {String(index + 1).padStart(2, "0")} /{" "}
+            {TRANSITION_PRESETS[kind].pack.toUpperCase()}
+          </div>
+          <div
+            style={{
+              position: "absolute",
+              bottom: 12,
+              left: 14,
+              fontSize: 19,
+              fontWeight: 600,
+            }}
+          >
+            {TRANSITION_PRESETS[kind].label}
+          </div>
         </div>
-        <div
-          style={{
-            position: "absolute",
-            bottom: 20,
-            left: 22,
-            fontSize: 28,
-            fontWeight: 600,
-          }}
-        >
-          {TRANSITION_PRESETS[kind].label}
-        </div>
-      </div>
-    ))}
+      );
+    })}
     <div
       style={{
         position: "absolute",
-        left: 64,
-        bottom: 38,
-        fontSize: 19,
+        left: 44,
+        bottom: 28,
+        fontSize: 16,
         color: "#CFB9A1",
       }}
     >
-      Documentary · Editorial · Organic · Cinematic
+      Documentary · Editorial · Graphic & Reveal · Organic & Shapes · Cinematic · Dynamic & 3D
     </div>
-    <LeninDisclaimer right={40} bottom={24} />
+    <LeninDisclaimer right={40} bottom={20} />
   </AbsoluteFill>
 );
 

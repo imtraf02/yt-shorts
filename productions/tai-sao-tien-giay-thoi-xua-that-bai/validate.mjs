@@ -1,0 +1,21 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import assert from 'node:assert/strict';
+const dir=path.dirname(new URL(import.meta.url).pathname.replace(/^\/(\w:)/,'$1'));
+const read=f=>fs.readFileSync(path.join(dir,f),'utf8');
+const b=JSON.parse(read('storyboard.json'));
+const n=read('narration.txt').trim().split(/\r?\n/);
+const sentences=JSON.parse(read('sentences.json')).sentences;
+const p=read('prompts.jsonl').trim().split('\n').map(x=>JSON.parse(x));
+assert.equal(b.scenes.length,260); assert.equal(n.length,260); assert.equal(p.length,260); assert.equal(b.chapters.length,13);
+b.scenes.forEach((s,i)=>{
+  const suffix=String(i+1).padStart(3,'0');
+  assert.equal(s.id,'I'+suffix); assert.deepEqual(s.sentenceIds,['S'+suffix]);
+  assert.equal(n[i],'S'+suffix+'\t'+s.text); assert.equal(sentences[i].text,s.text);
+  assert.equal(p[i].id,s.id); assert.equal(p[i].prompt,s.prompt);
+  assert.equal(p[i].file,s.file); assert.equal(sentences[i].file,s.file);
+  assert.deepEqual(s.timing,{startMs:null,endMs:null}); assert.ok(s.prompt.length>500);
+});
+const m=JSON.parse(read('manifest.json'));
+for(const stage of ['audio','captions','composition','render']) assert.equal(m.stages[stage].status,'out-of-scope');
+console.log(JSON.stringify({valid:true,chapters:13,scenes:260,scriptNarrationAndPromptsMatch:true,audioVideoExcluded:true}));

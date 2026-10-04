@@ -1,0 +1,10 @@
+{
+  "targetImages": 340,
+  "maximumGenerationCalls": null,
+  "sourceSentenceCount": 340,
+  "chapterCount": 11,
+  "mapping": "One sentence per canonical image",
+  "generatedImageCount": 340,
+  "scope": "production-and-images-only",
+  "authorization": "User removed the 200-image limit in chat"
+}

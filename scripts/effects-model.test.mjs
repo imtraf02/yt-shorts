@@ -6,6 +6,8 @@ import {
   particleCount,
 } from "../src/components/effects/model.ts";
 import {
+  TRANSITION_KINDS,
+  TRANSITION_PRESETS,
   transitionProgress,
   overlayEnvelope,
   directionVector,
@@ -96,4 +98,29 @@ test("overlay fully covers the hard cut, disappears at its window edges", () => 
   assert.equal(overlayEnvelope(200, 100, 10), 0);
   assert.deepEqual(directionVector("left"), [-1, 0]);
   assert.deepEqual(directionVector("up"), [0, -1]);
+});
+
+test("all 30 transition presets are valid and covered across 6 packs", () => {
+  assert.equal(TRANSITION_KINDS.length, 30);
+  const expectedPacks = new Set([
+    "Documentary",
+    "Editorial",
+    "Graphic",
+    "Organic",
+    "Cinematic",
+    "Dynamic",
+  ]);
+  const observedPacks = new Set();
+  for (const kind of TRANSITION_KINDS) {
+    const preset = TRANSITION_PRESETS[kind];
+    assert.ok(preset, `Preset for ${kind} must exist`);
+    assert.ok(typeof preset.label === "string" && preset.label.length > 0);
+    assert.ok(Number.isInteger(preset.frames) && preset.frames >= 10);
+    assert.ok(
+      expectedPacks.has(preset.pack),
+      `Pack ${preset.pack} must be valid`,
+    );
+    observedPacks.add(preset.pack);
+  }
+  assert.equal(observedPacks.size, 6);
 });

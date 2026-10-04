@@ -1,0 +1,340 @@
+Bạn có thể kể tên vài thể loại game rất nhanh, nhưng càng nghĩ kỹ, ranh giới giữa chúng lại càng mờ.
+Một game có thể vừa là bắn súng, vừa nhập vai, vừa thế giới mở, lại còn sinh tồn.
+Vì thế, video này không chỉ là danh sách tên gọi, mà là bản đồ của cả một hệ sinh thái.
+Chúng ta sẽ đi từ những game phản xạ đơn giản nhất đến những thế giới ảo phức tạp nhất.
+Trong sơ đồ này, các vòng lặp dễ nhận biết được đặt ở những nhánh gốc để giúp ta bắt đầu.
+Ở cuối cây gia phả là những game khó xếp gọn vào một ô duy nhất.
+Ngay cả từ thể loại cũng chỉ là một công cụ để con người hiểu game.
+Nó giúp người chơi biết mình sắp nhận được kiểu trải nghiệm nào.
+Nó cũng giúp nhà phát triển học từ những gì đi trước.
+Nhưng nó cũng có thể làm chúng ta quên rằng game luôn thay đổi.
+Có những thể loại sinh ra từ máy arcade.
+Có những thể loại lớn lên cùng PC và mạng Internet.
+Tay cầm, mạng trực tuyến và điện thoại đã mở rộng cách điều khiển, kết nối và tiếp cận game.
+Và cũng có những thể loại không hẳn là thể loại, mà là cách cấu trúc một game.
+Câu hỏi của video này là: game được chia như thế nào, và vì sao ngày càng khó chia?
+Để trả lời, ta sẽ không đi theo tên game trước, mà đi theo lối chơi cốt lõi.
+Khi bạn hiểu vòng lặp cốt lõi, bạn hiểu thể loại đó hấp dẫn ở điểm nào.
+Và khi bạn hiểu các nhánh con, bạn sẽ thấy lịch sử game giống như một cây tiến hóa.
+Một số nhánh dần ít xuất hiện hơn trong thị trường đại chúng.
+Một số nhánh bùng nổ rồi lai với nhau, tạo ra những thứ hoàn toàn mới.
+Nếu quay về gốc rễ của video game, ta thấy những thiết kế cực kỳ trực tiếp.
+Bạn bỏ xu, bạn cầm cần điều khiển, và chỉ vài giây sau là đã hiểu phải làm gì.
+Nhiều thể loại lớn nhất của game hiện đại bắt đầu từ sự rõ ràng đó.
+Nhiều game arcade ưu tiên phiên chơi ngắn, luật dễ hiểu và thử thách tăng dần.
+Chính sức ép phần cứng và mô hình kinh doanh ấy đã tạo nên những vòng lặp rất sắc nét.
+Từ đây, nhiều nhánh hành động ra đời.
+Một số nhánh đặt nặng phản xạ thuần túy.
+Một số nhánh khác dần học cách kể chuyện qua chuyển động.
+Arcade tập trung vào phản ứng rất nhanh với luật chơi đơn giản và áp lực điểm số.
+Điểm làm Arcade khác các nhánh gần nó là phiên chơi ngắn, luật rõ, độ khó tăng đều và mục tiêu thường xoay quanh sống sót hoặc ghi điểm.
+Có thể thấy những nét ấy trong Pong, Pac-Man và Space Invaders.
+Action tập trung vào hành động trong thời gian thực, ưu tiên phản xạ và phối hợp tay mắt.
+Action thường đòi hỏi phản ứng trong thời gian thực, dù nhiều game vẫn cần tính toán và chuẩn bị.
+Có thể thấy những nét ấy từ Contra đến Devil May Cry.
+Platformer tập trung vào nhảy, căn thời gian và vượt chướng ngại vật qua nhiều tầng địa hình.
+Điểm làm Platformer khác các nhánh gần nó là địa hình và chuyển động của nhân vật là thử thách trung tâm.
+Có thể thấy những nét ấy trong Super Mario Bros., Sonic the Hedgehog và Celeste.
+Shoot ’em up tập trung vào né đạn và bắn kẻ địch trong màn chơi cuộn liên tục.
+Điểm làm Shoot ’em up khác các nhánh gần nó là mật độ đạn, vị trí di chuyển và đọc mẫu tấn công quan trọng hơn khám phá thế giới.
+Có thể thấy những nét ấy trong Gradius, R-Type và Touhou.
+Beat ’em up tập trung vào đánh cận chiến với nhiều kẻ địch trên đường tiến màn.
+Điểm làm Beat ’em up khác các nhánh gần nó là nhịp kiểm soát đám đông và cảm giác tung chuỗi đòn trực diện.
+Có thể thấy những nét ấy trong Double Dragon, Final Fight và Streets of Rage.
+Run and gun tập trung vào vừa di chuyển nhanh vừa xả đạn liên tục trong màn chơi áp lực cao.
+Điểm làm Run and gun khác các nhánh gần nó là nó kết hợp nhịp platform với cường độ bắn dồn dập.
+Có thể thấy những nét ấy trong Contra, Metal Slug và Cuphead ở nhiều khoảnh khắc.
+Maze tập trung vào đọc đường đi, tránh truy đuổi và tối ưu lộ trình trong không gian mê cung.
+Điểm làm Maze khác các nhánh gần nó là bản đồ nhỏ và hành vi truy đuổi tạo ra chiến thuật trong một khung rất gọn.
+Có thể thấy những nét ấy trong Pac-Man, Bomberman ở vài chế độ và nhiều game mê cung cổ điển.
+Rhythm tập trung vào đồng bộ thao tác với nhịp âm thanh hoặc tiết tấu thị giác.
+Điểm làm Rhythm khác các nhánh gần nó là cảm giác chơi gắn chặt với timing hơn là sức mạnh nhân vật hay bản đồ.
+Có thể thấy những nét ấy trong Dance Dance Revolution, Guitar Hero và osu!.
+Puzzle tập trung vào giải quy tắc trừu tượng bằng nhận dạng mẫu, sắp xếp hoặc suy luận.
+Điểm làm Puzzle khác các nhánh gần nó là nó thử thách trí óc ngay trong hệ luật thay vì đối đầu trực diện với kẻ địch.
+Có thể thấy những nét ấy trong Tetris, Puyo Puyo và Portal theo tinh thần giải đố.
+Nếu arcade hỏi bạn phản xạ nhanh đến đâu, chiến lược hỏi bạn nhìn xa đến mức nào.
+Lợi thế không chỉ đến từ bấm nhanh, mà còn từ việc đưa ra quyết định đúng.
+Nó nằm ở việc đọc hệ thống, dự đoán đối thủ và chấp nhận đánh đổi.
+Đây là một trong những nhánh khiến game gần nhất với cờ, chiến tranh mô phỏng và quản trị.
+Và cũng là nhánh đẻ ra vô số biến thể cực khác nhau.
+Có game cho bạn điều khiển cả một đế chế.
+Có game chỉ giao cho bạn một nhóm lính nhỏ trên bản đồ hẹp.
+Nhưng tất cả đều chia sẻ một niềm vui quen thuộc: thắng nhờ hiểu hệ thống tốt hơn.
+Strategy tập trung vào lập kế hoạch, phân bổ nguồn lực và tối ưu quyết định qua thời gian.
+Strategy đặt trọng tâm vào kế hoạch và đánh đổi, dù nhiều nhánh vẫn đòi hỏi thao tác nhanh.
+Có thể thấy những nét ấy từ cờ số hóa đến chiến tranh giả lập.
+Real-time strategy tập trung vào ra lệnh liên tục trong khi thế giới vẫn vận hành không ngừng.
+Điểm làm Real-time strategy khác các nhánh gần nó là áp lực của nó đến từ việc vừa xây dựng kinh tế vừa điều quân ngay trong thời gian thực.
+Có thể thấy những nét ấy trong Dune II, Warcraft và StarCraft.
+Turn-based strategy tập trung vào dừng lại để suy nghĩ rồi hành động theo lượt.
+Điểm làm Turn-based strategy khác các nhánh gần nó là thời gian phân tích được kéo giãn, nên vị trí và thứ tự hành động trở nên cực kỳ quan trọng.
+Có thể thấy những nét ấy trong Civilization, Advance Wars và Heroes of Might and Magic.
+4X tập trung vào khám phá, mở rộng, khai thác và tiêu diệt trên quy mô rất lớn.
+4X kết hợp xây dựng đế chế với nhiều hệ thống dài hạn, theo lượt hoặc trong thời gian thực.
+Có thể thấy những nét ấy trong Civilization, Master of Orion và Endless Legend.
+Tactics tập trung vào giải từng trận địa nhỏ bằng vị trí, hướng nhìn và lợi thế cục bộ.
+Điểm làm Tactics khác các nhánh gần nó là nó hẹp hơn strategy vĩ mô nhưng sâu hơn ở cấp độ trận đánh.
+Có thể thấy những nét ấy trong XCOM, Into the Breach và Jagged Alliance.
+Tactical RPG kết hợp quyết định chiến thuật với sự phát triển của nhân vật; bản đồ ô vuông là một cách triển khai phổ biến.
+Điểm làm Tactical RPG khác các nhánh gần nó là nhân vật không chỉ là đơn vị, mà còn có lớp nghề, chỉ số và câu chuyện tăng trưởng.
+Có thể thấy những nét ấy trong Fire Emblem, Final Fantasy Tactics và Tactics Ogre.
+Tower defense tập trung vào đặt công sự để chặn làn sóng địch đi theo tuyến đường.
+Điểm làm Tower defense khác các nhánh gần nó là trọng tâm nằm ở bố trí phòng thủ và chu kỳ nâng cấp chứ không phải trực tiếp điều khiển chiến binh.
+Có thể thấy những nét ấy trong Plants vs. Zombies, Kingdom Rush và Defense Grid.
+Auto battler tập trung vào xây đội hình và tối ưu đội quân trước khi trận đánh tự diễn ra.
+Điểm làm Auto battler khác các nhánh gần nó là khâu chuẩn bị, ghép synergies và quản lý vàng quan trọng hơn thao tác trong giao tranh.
+Có thể thấy những nét ấy trong Teamfight Tactics, Auto Chess và Battlegrounds.
+MOBA thường cho mỗi người điều khiển một anh hùng trong đội, phối hợp trên bản đồ để phá mục tiêu hoặc căn cứ đối phương.
+Điểm làm MOBA khác các nhánh gần nó là nó lai giữa hành động thời gian thực, chiến thuật bản đồ và tăng tiến sức mạnh trong trận.
+Có thể thấy những nét ấy trong DotA, League of Legends và Dota 2.
+Nếu chiến lược cho bạn điều khiển hệ thống, nhập vai cho bạn điều khiển một hành trình.
+RPG đặt câu hỏi khác hẳn: bạn là ai trong thế giới này?
+Từ đó, nó gắn người chơi với chỉ số, trang bị, nhiệm vụ và sự tiến bộ lâu dài.
+Nguồn gốc của RPG điện tử đi rất gần game nhập vai trên bàn như Dungeons and Dragons.
+Nhưng rồi nó nhanh chóng phân nhánh thành vô số kiểu rất khác nhau.
+Có game nhập vai nặng kể chuyện.
+Có game nhập vai nặng tính xây dựng nhân vật.
+Có game nhập vai tập trung vào loot và sức mạnh chiến đấu.
+Và cũng có game nhập vai gần như trở thành cả một xã hội ảo.
+Ở nhánh này, tiến bộ lâu dài chính là trái tim của trải nghiệm.
+RPG tập trung vào phát triển nhân vật qua cấp độ, chỉ số, lựa chọn và hành trình dài.
+Điểm làm RPG khác các nhánh gần nó là nó biến tiến bộ lâu dài thành phần thưởng trung tâm của trò chơi.
+Có thể thấy những nét ấy trong Ultima, Wizardry và nhiều hậu duệ hiện đại.
+JRPG là một nhãn truyền thống thiết kế rộng, thường gắn với tổ đội, nhân vật nổi bật và chuyến phiêu lưu có tuyến truyện rõ.
+Điểm làm JRPG khác các nhánh gần nó là nó thường nhấn mạnh câu chuyện, tổ đội và bản sắc hình ảnh mạnh.
+Có thể thấy những nét ấy trong Dragon Quest, Final Fantasy và Persona.
+WRPG là một nhãn truyền thống thiết kế khác, thường gắn với tạo nhân vật và lựa chọn vai diễn; ranh giới với JRPG không tuyệt đối.
+Điểm làm WRPG khác các nhánh gần nó là thế giới, nhiệm vụ nhánh và quyết định đạo đức thường có trọng lượng rất lớn.
+Có thể thấy những nét ấy trong The Elder Scrolls, Baldur’s Gate và Fallout.
+Action RPG tập trung vào chiến đấu trực tiếp trong thời gian thực nhưng vẫn giữ vòng lặp lên cấp và trang bị.
+Điểm làm Action RPG khác các nhánh gần nó là nó dung hòa cảm giác hành động tức thì với sự tăng trưởng kiểu nhập vai.
+Có thể thấy những nét ấy trong Diablo, Kingdom Hearts và Path of Exile.
+Dungeon crawler tập trung vào khám phá hầm ngục, quản lý rủi ro và tiến dần qua những tầng nguy hiểm.
+Điểm làm Dungeon crawler khác các nhánh gần nó là không gian khép kín và áp lực tài nguyên là linh hồn của nhánh này.
+Có thể thấy những nét ấy trong Wizardry, Etrian Odyssey và Legend of Grimrock.
+Monster-collecting RPG tập trung vào thu thập sinh vật, xây đội hình và phát triển quan hệ chiến đấu với chúng.
+Điểm làm Monster-collecting RPG khác các nhánh gần nó là trọng tâm của nó là bắt, nuôi và phối hợp quái vật như bạn đồng hành.
+Có thể thấy những nét ấy trong Pokémon, Shin Megami Tensei và Monster Rancher.
+MMORPG đặt nhân vật trong thế giới trực tuyến có cộng đồng đông đảo và tiến trình lâu dài, không nhất thiết tập trung tất cả người chơi vào một khu vực.
+Điểm làm MMORPG khác các nhánh gần nó là nhân vật của bạn tồn tại lâu dài trong một cộng đồng, nền kinh tế và các hoạt động hợp tác lớn.
+Có thể thấy những nét ấy trong World of Warcraft, Final Fantasy XIV và Guild Wars 2.
+Soulslike tập trung vào học qua thất bại, chiến đấu có nhịp nặng tay và khám phá một thế giới đậm bí ẩn.
+Soulslike thường nhấn mạnh nhịp chiến đấu, đọc hành vi đối thủ và học qua thất bại; độ khó một mình chưa đủ định nghĩa nhánh này.
+Có thể thấy những nét ấy trong Demon’s Souls, Dark Souls và Elden Ring.
+Nhìn từ phía RPG, Tactical RPG kết hợp xây dựng nhân vật với quyết định trên trận địa; đây là giao điểm ta đã gặp ở chương chiến thuật.
+Điểm làm Tactical RPG khác các nhánh gần nó là bạn vừa quan tâm build của từng người vừa quan tâm vị trí của họ trên trận địa.
+Có thể thấy những nét ấy trong Fire Emblem, Tactics Ogre và Triangle Strategy.
+Open-world RPG kết hợp nhập vai với một không gian rộng cho phép bạn lang thang và tự chọn hướng đi.
+Điểm làm Open-world RPG khác các nhánh gần nó là khám phá tự do trở thành cảm giác quan trọng ngang với nhiệm vụ chính.
+Có thể thấy những nét ấy trong Skyrim, The Witcher 3 và Xenoblade Chronicles X theo tinh thần rộng mở.
+Có một nhánh game khiến người chơi nhớ đến cảm giác đối đầu trực diện ngay lập tức.
+Đó là thế giới của bắn súng, cận chiến cạnh tranh và phản ứng dưới áp lực.
+Ở đây, khoảng cách, tốc độ và độ chính xác là ngôn ngữ chính.
+Nhiều game trong nhóm này được sinh ra từ phần cứng 3D và mạng nhiều người chơi.
+Một số nhánh tập trung vào bắn thật nhanh.
+Một số nhánh khác đặt nặng đội hình và thông tin.
+Và cũng có những game biến mỗi trận thành một sự kiện sinh tồn.
+Dù khác nhau, chúng đều xoay quanh việc đọc tình huống rồi phản hồi cực nhanh.
+First-person shooter tập trung vào ngắm bắn qua góc nhìn của chính nhân vật.
+Điểm làm First-person shooter khác các nhánh gần nó là góc nhìn trực tiếp khiến đường đạn, vị trí và phản xạ trở nên rất cá nhân.
+Có thể thấy những nét ấy trong Doom, Half-Life và Call of Duty.
+Third-person shooter cho bạn ngắm bắn từ góc nhìn ngoài nhân vật, thường thấy lưng hoặc vai của họ.
+Điểm làm Third-person shooter khác các nhánh gần nó là góc nhìn này mở rộng nhận thức không gian và thường kết hợp né tránh, bám tường hoặc di chuyển cơ động.
+Có thể thấy những nét ấy trong Gears of War, Max Payne và Splatoon theo tinh thần bắn góc nhìn ngoài.
+Tactical shooter ưu tiên thông tin và phối hợp đồng đội; một sai lầm cũng có thể trả giá lớn.
+Tactical shooter thường coi trọng thông tin và phối hợp hơn nhịp lao nhanh của arena shooter, nhưng tốc độ vẫn tùy thiết kế.
+Có thể thấy những nét ấy trong Counter-Strike, Rainbow Six Siege và Valorant.
+Hero shooter cho mỗi nhân vật một bộ kỹ năng riêng và vai trò rõ rệt trong giao tranh.
+Điểm làm Hero shooter khác các nhánh gần nó là bản sắc anh hùng và khả năng phối hợp đội hình quan trọng ngang với kỹ năng bắn.
+Có thể thấy những nét ấy trong Overwatch, Apex Legends ở nhiều cơ chế và Marvel Rivals theo tinh thần.
+Arena shooter nhấn mạnh di chuyển nhanh, kiểm soát vật phẩm và kỹ năng cơ học.
+Điểm làm Arena shooter khác các nhánh gần nó là bản đồ, tốc độ và việc làm chủ nhịp độ trận đấu là linh hồn của nhánh này.
+Có thể thấy những nét ấy trong Quake, Unreal Tournament và Halo ở một số chế độ.
+Battle royale đưa nhiều người vào một bản đồ lớn để cạnh tranh trở thành người hoặc đội sống sót cuối cùng.
+Điểm làm Battle royale khác các nhánh gần nó là vòng bo, nhặt đồ và mức cược cao làm từng trận có nhịp rất đặc biệt.
+Có thể thấy những nét ấy trong PUBG, Fortnite và Apex Legends.
+Extraction shooter tập trung vào xâm nhập khu vực nguy hiểm, thu chiến lợi phẩm rồi rút ra an toàn.
+Điểm làm Extraction shooter khác các nhánh gần nó là cảm giác được mất nằm ở việc đem đồ về, không chỉ ở số mạng hạ gục.
+Escape from Tarkov, Hunt: Showdown và Marathon là những ví dụ có vòng lặp thu đồ rồi rút lui; cách triển khai của mỗi game khác nhau.
+Fighting game tập trung vào đấu đối kháng trực diện nơi từng khung hình và từng đòn có giá trị chiến thuật.
+Điểm làm Fighting game khác các nhánh gần nó là đọc ý đồ đối thủ, spacing và thực hiện chuỗi đòn là trọng tâm của nó.
+Có thể thấy những nét ấy trong Street Fighter, Tekken và Guilty Gear.
+Vehicular combat tập trung vào chiến đấu thông qua phương tiện chứ không chỉ qua cơ thể nhân vật.
+Điểm làm Vehicular combat khác các nhánh gần nó là khối lượng, tốc độ và điều khiển phương tiện thay đổi hoàn toàn cảm giác giao chiến.
+Có thể thấy những nét ấy trong Twisted Metal, World of Tanks và Armored Core ở tinh thần cơ giới chiến đấu.
+Không phải game nào cũng xoay quanh địch, boss hay chiến thắng tức thì.
+Có một họ thể loại thích mô phỏng cuộc sống, công việc hoặc cả một hệ sinh thái.
+Ở đây, niềm vui đến từ vận hành hệ thống hơn là phản xạ.
+Bạn có thể xây thành phố.
+Bạn có thể làm nông, mở công viên, điều hành doanh nghiệp hoặc chỉ đơn giản là sống trong một thế giới số.
+Nhánh này cũng là nơi sandbox và sinh tồn gặp nhau rất nhiều.
+Một số game cho bạn rất nhiều tự do nhưng gần như không ép mục tiêu.
+Một số game khác lại dùng đói, lạnh hay thiếu tài nguyên để tạo áp lực.
+Simulation tập trung vào mô phỏng một hoạt động hay hệ thống đời thực hoặc giả tưởng theo cách có quy luật.
+Điểm làm Simulation khác các nhánh gần nó là nó hấp dẫn nhờ cảm giác quan sát, điều khiển và học cách vận hành một mô hình.
+Có thể thấy những nét ấy trong flight sim, Euro Truck Simulator và nhiều nhánh mô phỏng khác.
+Life simulation tập trung vào sống một đời sống số với nhu cầu, quan hệ và nhịp sinh hoạt hằng ngày.
+Điểm làm Life simulation khác các nhánh gần nó là trọng tâm nằm ở thói quen, mối quan hệ và những câu chuyện do người chơi tự tạo.
+Có thể thấy những nét ấy trong The Sims và các hậu duệ cùng tinh thần.
+Farming simulation tập trung vào trồng trọt, chăm nuôi, tối ưu mùa vụ và gây dựng nhịp sống nông trại.
+Điểm làm Farming simulation khác các nhánh gần nó là lao động lặp lại trở thành cảm giác thư giãn và tiến bộ đều đặn.
+Có thể thấy những nét ấy trong Harvest Moon, Story of Seasons và Stardew Valley.
+Management / Tycoon tập trung vào điều hành doanh nghiệp hoặc dịch vụ để hệ thống hoạt động hiệu quả và có lời.
+Điểm làm Management / Tycoon khác các nhánh gần nó là dòng tiền, bố trí cơ sở vật chất và nhu cầu khách hàng là mạch máu của nó.
+Có thể thấy những nét ấy trong RollerCoaster Tycoon, Two Point Hospital và Game Dev Story.
+City builder tập trung vào quy hoạch và nuôi lớn cả một đô thị.
+Điểm làm City builder khác các nhánh gần nó là nó mở rộng tư duy quản lý từ một cơ sở nhỏ lên mạng lưới dân cư, giao thông và hạ tầng.
+Có thể thấy những nét ấy trong SimCity, Cities: Skylines và Pharaoh theo tinh thần xây đô thị.
+God game tập trung vào tác động lên một thế giới như một lực lượng cao hơn là điều khiển trực tiếp từng cá nhân.
+Điểm làm God game khác các nhánh gần nó là quyền lực gián tiếp và ảnh hưởng hệ thống tạo cảm giác rất riêng.
+Có thể thấy những nét ấy trong Populous, Black and White và From Dust theo tinh thần.
+Sandbox trao công cụ để người chơi khám phá, xây dựng và tự đặt mục tiêu; đây cũng là một cách cấu trúc trải nghiệm.
+Điểm làm Sandbox khác các nhánh gần nó là tự do sáng tạo là phần thưởng chính chứ không phải chiến thắng theo tuyến cố định.
+Có thể thấy những nét ấy trong Minecraft, Garry’s Mod và Terraria ở nhiều khía cạnh.
+Survival tập trung vào sống sót trước môi trường khắc nghiệt, tài nguyên hạn chế và nhiều mối đe dọa.
+Điểm làm Survival khác các nhánh gần nó là sự căng thẳng đến từ việc duy trì những nhu cầu cơ bản lâu dài.
+Có thể thấy những nét ấy trong Don’t Starve, The Long Dark và Subnautica.
+Survival crafting kết hợp sống sót với chế tạo, xây căn cứ và mở khóa công nghệ dần dần.
+Điểm làm Survival crafting khác các nhánh gần nó là vòng lặp thu thập rồi tạo ra công cụ tốt hơn là động cơ tiến triển chính.
+Có thể thấy những nét ấy trong Rust, Valheim và Ark: Survival Evolved.
+Một nhánh khác của game không hỏi bạn phản xạ nhanh đến đâu, mà hỏi bạn muốn khám phá điều gì.
+Đây là vùng đất của phiêu lưu, kể chuyện và không khí.
+Có game biến mỗi câu đố thành một cánh cửa mở sang phần tiếp theo của câu chuyện.
+Có game gần như là một cuốn tiểu thuyết tương tác.
+Và có game dùng chính nỗi sợ để điều khiển nhịp cảm xúc người chơi.
+Nhóm thể loại này chứng minh rằng game không chỉ là cơ chế, mà còn là bầu không khí.
+Adventure tập trung vào khám phá địa điểm, tương tác vật thể và tiến lên nhờ hiểu thế giới.
+Nhiều game adventure thiên về quan sát và khám phá, dù cũng có những nhánh pha hành động mạnh.
+Có thể thấy những nét ấy trong King’s Quest, Broken Sword và nhiều game phiêu lưu kinh điển.
+Graphic adventure tập trung vào kể chuyện qua màn hình cảnh cố định, đối thoại và giải đố theo logic ngữ cảnh.
+Điểm làm Graphic adventure khác các nhánh gần nó là trải nghiệm thường giống như lật từng trang của một cuộc phiêu lưu minh họa.
+Có thể thấy những nét ấy trong Monkey Island, Grim Fandango và Syberia.
+Point-and-click tập trung vào chọn hành động thông qua con trỏ và sự chú ý đến chi tiết.
+Điểm làm Point-and-click khác các nhánh gần nó là giao diện của nó biến màn hình thành một không gian quan sát rất đậm tính giải đố.
+Có thể thấy những nét ấy trong Monkey Island, Sam and Max và Day of the Tentacle.
+Interactive movie đặt diễn xuất, lựa chọn và các tình huống điện ảnh ở trung tâm trải nghiệm.
+Nhiều game trong nhóm này nhấn mạnh quyết định phân nhánh, đồng thời có thể dùng phản xạ và các đoạn thao tác nhanh.
+Có thể thấy những nét ấy trong Heavy Rain, Until Dawn và Detroit: Become Human.
+Visual novel đặt trọng tâm vào văn bản, nhân vật và các ngã rẽ cảm xúc.
+Điểm làm Visual novel khác các nhánh gần nó là nó gần với văn học tương tác hơn những nhánh hành động truyền thống.
+Có thể thấy những nét ấy trong Steins;Gate, Danganronpa và Ace Attorney theo tinh thần đọc kể chuyện.
+Walking simulator đưa người chơi qua không gian để cảm nhận, lắng nghe và ghép những mảnh câu chuyện.
+Điểm làm Walking simulator khác các nhánh gần nó là khám phá không gian và diễn giải ngụ ý quan trọng hơn thử thách kỹ năng.
+Có thể thấy những nét ấy trong Gone Home, Firewatch và What Remains of Edith Finch.
+Detective / mystery tập trung vào điều tra, ghép manh mối và suy luận ra điều đang bị che giấu.
+Trong Detective / mystery, cảm giác nổi bật là chuyển từ mơ hồ sang hiểu ra nhờ manh mối và suy luận.
+Có thể thấy những nét ấy trong Ace Attorney, Return of the Obra Dinn và Her Story.
+Survival horror pha trộn sợ hãi với tài nguyên hiếm, kẻ địch nguy hiểm và cảm giác dễ tổn thương.
+Điểm làm Survival horror khác các nhánh gần nó là nó làm nỗi sợ mạnh hơn bằng cách hạn chế phương tiện tự vệ của bạn.
+Có thể thấy những nét ấy trong Resident Evil, Silent Hill và Amnesia ở tinh thần sinh tồn kinh dị.
+Không phải ai cũng tìm đến game để đánh boss hay cứu thế giới.
+Rất nhiều người tìm đến game để thi đấu, thư giãn cùng bạn bè hoặc tái hiện một môn thể thao quen thuộc.
+Nhóm thể loại này dễ tiếp cận vì luật của nó thường gắn với thứ người xem đã biết ngoài đời.
+Nhưng cũng chính vì thế, các nhà phát triển phải cực kỳ tinh tế trong cảm giác điều khiển.
+Từ mô phỏng nghiêm túc đến tiệc tùng hỗn loạn, đây là nhánh rất rộng.
+Nó chứng minh game có thể vừa là thể thao, vừa là sân chơi xã hội.
+Sports tập trung vào mô phỏng hoặc cách điệu hóa một môn thể thao để người chơi nhập vai thi đấu.
+Điểm làm Sports khác các nhánh gần nó là nó dựa vào luật quen thuộc nhưng phải chuyển hóa thành cảm giác điều khiển hấp dẫn.
+Có thể thấy những nét ấy trong EA Sports FC, NBA 2K và MLB The Show.
+Racing tập trung vào đua tốc độ, chọn đường đua và làm chủ quán tính của phương tiện.
+Điểm làm Racing khác các nhánh gần nó là nhịp chơi xoay quanh kiểm soát tốc độ và quyết định trong tích tắc.
+Có thể thấy những nét ấy trong Gran Turismo, Forza và Ridge Racer.
+Kart racing biến đua xe thành cuộc vui dễ tiếp cận với vật phẩm và tình huống bất ngờ.
+Điểm làm Kart racing khác các nhánh gần nó là thứ hạng có thể lật ngược nhờ các công cụ hỗn loạn hơn là thuần mô phỏng.
+Có thể thấy những nét ấy trong Mario Kart, Crash Team Racing và Sonic Racing.
+Arcade racing ưu tiên cảm giác tốc độ phóng đại hơn tính chân thực cơ khí.
+Điểm làm Arcade racing khác các nhánh gần nó là người chơi được thưởng bằng sự hào nhoáng và dễ làm quen.
+Có thể thấy những nét ấy trong Need for Speed, Burnout và OutRun.
+Simulation racing tập trung vào tái hiện độ bám, quán tính và kỹ thuật lái sát với cảm giác thật hơn.
+Điểm làm Simulation racing khác các nhánh gần nó là sự chính xác trong điều khiển và hiểu chiếc xe là trung tâm của trải nghiệm.
+Có thể thấy những nét ấy trong Gran Turismo, iRacing và Assetto Corsa.
+Party game tập trung vào tập hợp nhiều thử thách ngắn để tạo cạnh tranh và tiếng cười theo nhóm.
+Điểm làm Party game khác các nhánh gần nó là tính xã hội và bất ngờ quan trọng hơn chiều sâu của từng mini-game.
+Có thể thấy những nét ấy trong Mario Party, WarioWare và Pummel Party.
+Social deduction khiến người chơi nghi ngờ, thảo luận và suy luận ai đang lừa dối.
+Điểm làm Social deduction khác các nhánh gần nó là trọng tâm không phải cơ học tay chân mà là đọc người và quản lý niềm tin.
+Có thể thấy những nét ấy trong Among Us, Werewolf và Town of Salem.
+Casual / family game tập trung vào giảm rào cản điều khiển để nhiều độ tuổi cùng tham gia dễ dàng.
+Điểm làm Casual / family game khác các nhánh gần nó là sự thân thiện và niềm vui tức thì là bản sắc nổi bật nhất.
+Có thể thấy những nét ấy trong Wii Sports, Candy Crush và nhiều game gia đình dễ chơi.
+Khi công cụ làm game rẻ hơn và phân phối số bùng nổ, một làn sóng thể loại mới xuất hiện.
+Nhiều trong số đó không hoàn toàn mới, mà là cách ghép lại những thành phần cũ.
+Nhiều nhà phát triển độc lập thử nghiệm vòng lặp ngắn, dễ chơi lại và nhiều cách kết hợp cơ chế.
+Đây cũng là nơi nhiều thuật ngữ nóng nhất của game hiện đại xuất hiện.
+Một số cái tên trở thành từ khóa marketing.
+Một số cái tên lại trở thành chủ đề tranh cãi kéo dài.
+Nhưng nhìn chung, đây là vùng đất rất sáng tạo.
+Nó cho thấy thể loại game không phải bảo tàng, mà là một cơ thể đang sống.
+Roguelike xây trải nghiệm quanh tính ngẫu nhiên, cái chết kết thúc lượt chơi và những lần thử luôn khác nhau.
+Một định nghĩa có ảnh hưởng là Berlin Interpretation năm 2008; đây là cách diễn giải của một nhóm cộng đồng, không phải chuẩn bắt buộc.
+Có thể thấy những nét ấy trong Rogue, NetHack và Dungeon Crawl Stone Soup.
+Roguelite mượn vòng lặp chơi lại của roguelike nhưng cho phép tiến bộ lâu dài hoặc giảm mức mất mát sau thất bại.
+Roguelite có thể giữ nâng cấp giữa các lượt chơi, nhưng nhãn này không đảm bảo game dễ hơn roguelike.
+Có thể thấy những nét ấy trong Hades, Dead Cells và Rogue Legacy.
+Metroidvania tập trung vào khám phá bản đồ liên thông rồi quay lại khu cũ khi bạn có năng lực mới.
+Điểm làm Metroidvania khác các nhánh gần nó là cảm giác mở khóa không gian là cốt lõi của nhánh này.
+Có thể thấy những nét ấy trong Super Metroid, Castlevania: Symphony of the Night và Hollow Knight.
+Immersive sim nhấn mạnh các hệ thống tương tác, cho phép người chơi tìm nhiều cách xử lý cùng một tình huống.
+Điểm làm Immersive sim khác các nhánh gần nó là sức hấp dẫn nằm ở tính hệ thống và tự do giải quyết vấn đề.
+Có thể thấy những nét ấy trong Deus Ex, Dishonored và Prey.
+Deckbuilder biến việc xây bộ bài thành trung tâm của vòng lặp chiến đấu hoặc chiến thuật.
+Điểm làm Deckbuilder khác các nhánh gần nó là mỗi lựa chọn lá bài dần định hình phong cách chơi của cả run.
+Có thể thấy những nét ấy trong Slay the Spire, Monster Train và Balatro theo tinh thần xây dựng bộ bài.
+Bullet heaven đặt nhân vật giữa biển kẻ địch, với sức mạnh tự động hoặc bán tự động bùng nổ khắp màn hình.
+Điểm làm Bullet heaven khác các nhánh gần nó là trọng tâm là build tăng tiến và cảm giác làm tan đám đông khổng lồ.
+Có thể thấy những nét ấy trong Vampire Survivors, Brotato và Halls of Torment.
+Idle / incremental thưởng cho người chơi bằng sự tăng trưởng theo thời gian, đôi khi cả khi không trực tiếp thao tác nhiều.
+Điểm làm Idle / incremental khác các nhánh gần nó là sức hút của nó là nhìn con số, hệ thống và chuỗi tối ưu phình to dần.
+Có thể thấy những nét ấy trong Cookie Clicker, Universal Paperclips và Adventure Capitalist.
+Cozy game giảm áp lực để nhấn mạnh sự thư giãn, dễ thương và nhịp sống nhẹ nhàng.
+Điểm làm Cozy game khác các nhánh gần nó là nó được định nghĩa nhiều bởi cảm giác hơn là một bộ luật cơ học cố định.
+Có thể thấy những nét ấy trong Animal Crossing, Unpacking và A Short Hike.
+Extraction survival hybrid kết hợp căng thẳng sinh tồn với mục tiêu rút lui an toàn cùng chiến lợi phẩm.
+Nhóm lai này đặt nỗi lo mất chiến lợi phẩm vào trung tâm, kết hợp nó với nhiều áp lực sinh tồn khác.
+Có thể thấy những nét ấy trong Dark and Darker, Hunt: Showdown và nhiều game lai mới nổi.
+Đi đến đây, ta bắt đầu thấy vấn đề lớn nhất của mọi bảng phân loại game.
+Nhiều khái niệm được dùng như thể loại, nhưng thật ra chúng mô tả thứ khác.
+Có khái niệm mô tả góc nhìn.
+Có khái niệm mô tả cấu trúc, nền tảng, mô hình kinh doanh hay tâm trạng.
+Open world chủ yếu mô tả cấu trúc không gian rộng cho phép khám phá tương đối tự do.
+Cấu trúc ấy có thể xuất hiện trong nhiều thể loại, từ nhập vai đến bắn súng.
+Skyrim, GTA V và The Legend of Zelda: Breath of the Wild cho thấy ba cách kết hợp thế giới mở với lối chơi khác nhau.
+Sandbox structure mô tả mức tự do, công cụ và cơ hội tự đặt mục tiêu, hơn là một vòng lặp duy nhất.
+Cấu trúc sandbox có thể hỗ trợ sáng tạo, sinh tồn, mô phỏng hoặc nhiều cách chơi cùng lúc.
+Minecraft, Garry’s Mod và Dreams là những ví dụ về quyền tự do và công cụ, nhưng không có cùng một vòng lặp.
+Live service mô tả cách vận hành và bổ sung nội dung theo thời gian, không tự định nghĩa lối chơi.
+Sự kiện, mùa nội dung và cập nhật có thể duy trì trải nghiệm; mỗi game dùng mô hình này theo cách khác.
+Fortnite, Destiny 2 và Warframe là các ví dụ tham khảo; tình trạng dịch vụ và nội dung cần kiểm tra lại khi xuất bản.
+Mobile game mô tả nền tảng điện thoại, không phải một thể loại lối chơi riêng.
+Trên điện thoại có thể có puzzle, strategy, rhythm và nhiều thể loại khác; gacha lại là một cơ chế thu thập hoặc kiếm tiền.
+Candy Crush, Genshin Impact và Clash Royale minh họa những trải nghiệm rất khác nhau trên cùng nền tảng.
+Steam tags cho thấy một game có thể được mô tả theo nhiều trục cùng lúc, bởi nhà phát triển và cộng đồng.
+Tag có thể nói về thể loại, góc nhìn, cơ chế, chủ đề hoặc tâm trạng.
+Hệ thống tag giúp khám phá game, nhưng các nhãn và trọng số có thể thay đổi theo thời gian.
+First-person, side-scrolling và isometric thường mô tả góc nhìn hoặc cách trình bày.
+Những nhãn này xuất hiện ở nhiều thể loại, nên không tự giải thích toàn bộ trải nghiệm.
+Một game giải đố có thể nhìn từ ngôi thứ nhất, một game action có thể cuộn ngang, và một RPG có thể dùng góc nhìn isometric.
+Ngôn ngữ cộng đồng còn tạo ra nhãn về cảm giác như cozy, về thử thách như hardcore, hoặc về truyền thống thiết kế như soulslike.
+Các nhãn này không cùng một cấp phân loại, nhưng đều góp phần giúp người chơi trao đổi về trải nghiệm.
+Cozy game, boomer shooter và soulslike cho thấy tên gọi cộng đồng có thể nhấn mạnh tâm trạng, phong cách hoặc một họ cơ chế.
+Sau hành trình dài này, ta có thể nhìn game như một khu rừng hơn là một cái tủ ngăn kéo.
+Mỗi thể loại là một cách trả lời câu hỏi: điều gì làm trò chơi này vui?
+Arcade trả lời bằng phản xạ.
+Chiến lược trả lời bằng kế hoạch.
+Nhập vai trả lời bằng hành trình trưởng thành của nhân vật.
+Bắn súng và đối kháng trả lời bằng sự đối đầu trực diện.
+Mô phỏng trả lời bằng việc nhìn một hệ thống vận hành theo ý mình.
+Phiêu lưu trả lời bằng sự tò mò.
+Đua xe và thể thao trả lời bằng cạnh tranh dễ hiểu và cảm giác điều khiển.
+Party game trả lời bằng tiếng cười của nhiều người cùng lúc.
+Nhiều game độc lập và game lai đem lại niềm vui bằng cách thử những tổ hợp cơ chế mới.
+Điều thú vị là không có nhánh nào đứng yên mãi mãi.
+Một ý tưởng hay có thể trở thành thể loại lớn.
+Một thể loại từng rất phổ biến có thể thu hẹp lại thành cộng đồng nhỏ nhưng bền vững.
+Một từ khóa marketing có thể trở thành khái niệm thật sự nếu đủ nhiều người cùng dùng nó.
+Vì vậy, cách tốt nhất để hiểu game không phải là thuộc lòng danh sách.
+Cách tốt nhất là hỏi: game này muốn người chơi làm gì lặp đi lặp lại?
+Khi trả lời được câu đó, bạn gần như đã chạm vào trái tim của thể loại.
+Và khi nhìn toàn bộ bức tranh, bạn sẽ thấy lịch sử game là lịch sử của những vòng lặp được phát minh, pha trộn và tái sinh.
+Đó là lý do game ngày nay vừa quen thuộc, vừa luôn có khả năng khiến chúng ta bất ngờ.

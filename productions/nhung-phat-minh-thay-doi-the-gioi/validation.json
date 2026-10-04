@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-04T13:25:17.299Z",
+  "passed": true,
+  "sceneCount": 360,
+  "sentenceCount": 360,
+  "chapterCount": 24,
+  "existingImages": 335,
+  "verifiedImages": 0,
+  "remainingImages": 25,
+  "firstPendingScene": "I336",
+  "blockers": [
+    {
+      "stage": "images",
+      "type": "usage_limit_reached",
+      "httpStatus": 429,
+      "reason": "Built-in image generation quota reached; 335 images saved, 25 remain. First pending I336.",
+      "observedAt": "2026-10-04T13:23:08.196Z",
+      "retryAfter": "2026-10-05T09:27:12.000Z",
+      "retryAfterLocal": "2026-10-05 16:27:12 Asia/Ho_Chi_Minh",
+      "failedSceneIds": [
+        "I336"
+      ],
+      "errors": [
+        {
+          "id": "I336",
+          "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1791192432,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":72245}}\")",
+          "observedAt": "2026-10-04T13:23:08.196Z"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

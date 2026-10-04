@@ -1,0 +1,370 @@
+# QA tài liệu và ảnh
+
+360 câu, 360 cảnh, 12 chương; ID liên tục và mapping 1:1. narration.txt khớp sentences.json; timestamp null vì chưa sinh audio. Nguồn đọc được và chưa đọc phân biệt trong sources.md.
+
+211/360 ảnh verified, 360 file chính; không tính biến thể bị loại. Tỷ lệ ảnh gốc được đọc từ PNG và so với 16:9, dung sai 0,2%. Mỗi ảnh chỉ verified sau kiểm tra trực quan. 149 ảnh từ I212 giữ trạng thái generated; người dùng yêu cầu bỏ kiểm tra và sửa ảnh để tăng tốc. Không QA âm thanh/video vì ngoài phạm vi.
+
+- I001: verified, 1672×941. Reviewed displayed original: coherent city cutaway, Mio helmet/glasses/teal hair; bridge and tunnel separated, no readable labels; conceptual infrastructure rather than calculated design.
+- I002: verified, 1672×941. Reviewed displayed revision: removed untreated bypass; route runs pump/mixing/settling/filter/clean-water tank then distribution/faucet; sludge branch separate. Conceptual sequence, no readable labels.
+- I003: verified, 1672×941. Reviewed original: conceptual water-to-turbine-generator, substation/transmission and household socket; electrical route shown as schematic arrows, no labels, calm lower center.
+- I004: verified, 1672×941. Reviewed replacement: standalone beam bridge with continuous approach, truck, deck/girders/bearings/piers/pile caps and piles; downward conceptual load path, ordinary river clear below deck; no dam machinery.
+- I005: verified, 1672×941. Reviewed displayed original: train follows rails within mountain tunnel; lining and rock bolts/ground layers distinct; concept section with clear lower caption space.
+- I006: verified, 1672×941. Reviewed original: seawall/earth embankment, gates and pump outlets protect coherent inland city; ocean side and drainage side distinct; no implication of universal flood immunity.
+- I007: verified, 1672×941. Reviewed original: infrastructure collage foreground bridge/dam/tunnel/port/pipes/treatment, city background; subject broader than buildings; continuous bridge/road connection; no labels.
+- I008: verified, 1672×941. Reviewed original: infrastructure network collage with cyan explanatory insets, connected bridge/tunnel/energy/water; Mio matches helmet/teal bob/glasses/yellow jacket/watch; no readable text.
+- I009: verified, 1672×941. Reviewed revision: removed ambiguous deck/cable/upward arrows; three downward arrows through tower/pylons to foundations convey gravity support only.
+- I010: verified, 1672×941. Reviewed original: dam release/canal/pumping station connected; uphill pipe explicitly pump-driven; explanatory cyan flow arrows and no text.
+- I011: verified, 1672×941. Reviewed original: thermal plant, three-blade wind turbines, transmission towers and substation connected across terrain; no labels; coherent energy network concept.
+- I012: verified, 1672×941. Reviewed original: road/rail/airport/container port collage; rails visibly carry train, cranes at quay and runway/apron distinct. Foreground railway fades into cream cutout edge: conceptual collage, not real route terminus.
+- I013: verified, 1672×941. Reviewed original: separate sewer/water flow chamber, utility corridor and lower metro tubes, road above; no water crossing tracks, conceptual cutaway; text-free.
+- I014: verified, 1672×941. Reviewed original: Mio holding engineering portfolio, consistent teal hair/glasses/yellow jacket/helmet/watch; engineering families visible in book and landscape, no text or geographic map.
+- I015: verified, 1672×941. Reviewed: Mio consistent; human need and structure vignettes with coherent bridge/tunnels/water/energy; introductory relationship diagram rather than calculated engineering chain.
+- I016: verified, 1672×941. Reviewed: reservoir/dam/powerhouse at mountain valley with safe Mio overlook; intake and discharge separate. Insets schematic; pumped-storage arrows represent separate operational directions.
+- I017: verified, 1672×941. Reviewed: distinct dam-use vignettes, powerhouse/powerline on left versus irrigation/water supply/flood release; not all illustrated dams have generators; no labels.
+- I018: verified, 1672×941. Reviewed: reservoir storage, spillway, hydropower path and agricultural diversion visibly distinct in a coherent watershed collage; no labels or flow against head.
+- I019: verified, 1672×941. Reviewed: split storage reservoir versus small river diversion, both have descending penstock/turbine and tailwater; clear scale distinction, text-free.
+- I020: verified, 1672×941. Reviewed: high reservoir/downhill penstock/turbine at left and greater natural river flow inset at right; explains head and flow qualitatively, no fake values.
+- I021: verified, 1672×941. Reviewed revision: arch panel downward arrows removed; plan inset shows horizontal arch compression and lateral abutment interaction; left embankment and center gravity diagrams preserved.
+- I022: verified, 1672×941. Reviewed: lateral pressure arrows increase with depth at dam face; reservoir side and tailwater distinct; qualitative pressure diagram, no values.
+- I023: verified, 1672×941. Reviewed: contrasting arch/gravity/embankment/spillway sections and separate pumped-storage vignette. These are illustrative multipurpose configurations, not claim that every dam generates power.
+- I024: verified, 1672×941. Reviewed: reservoir/intake/descending penstocks/powerhouse/tailwater/transmission continuous; Mio consistent and behind safe overlook rail; text-free.
+- I025: verified, 1672×941. Reviewed: close reservoir outlet/valve, descending pressure conduit, turbine coupled to generator, downstream discharge; focused mechanism without arbitrary force arrows.
+- I026: verified, 1672×941. Reviewed: two terrain/storage configurations with distinct head and impoundment possibilities; no universal winner claim; comparison schematic and without dimensions.
+- I027: verified, 1672×941. Reviewed: contextual desert canyon/reservoir/intake/penstock/powerhouse; Hoover-inspired conceptual illustration only, no claim of exact surveyed geometry; human silhouettes establish scale.
+- I028: verified, 1672×941. Reviewed: modest diversion intake, open headrace, descending penstock, compact powerhouse and discharge returning to river; natural main river remains visible; Mio consistent.
+- I029: verified, 1672×941. Reviewed: channel from river intake follows upper contour then pressure pipe descends to enclosed turbine/generator and tailwater; main river remains independent; no fake values.
+- I030: verified, 1672×941. Reviewed: natural river slope/diversion left versus larger storage-reservoir terrain right; each pressure route descends, distinct site conditions without best-design ranking.
+- I031: verified, 1672×941. Reviewed: contextual mountain river, small intake and headrace/penstock/powerhouse; worker silhouettes outside hazard areas; natural elevation drop evident.
+- I032: verified, 1672×941. Reviewed revision: lower-reservoir pump intake points toward machine then orange route uphill; cyan route downhill/generation to lower reservoir. Two operational modes represented schematically, not simultaneous flow.
+- I033: verified, 1672×941. Reviewed corrected two-panel mechanism: left orange lower-reservoir intake then uphill pumping, right cyan downhill generation then lower reservoir; continuous single route per panel, internal conflicting arrow removed.
+- I034: verified, 1672×941. Reviewed: two-reservoir pumped storage with pumping/generating conceptual cycles at left versus ordinary reservoir hydropower at right; no labels, distinguishes storage function.
+- I035: verified, 1672×941. Upper and lower reservoirs connected through the mountain; reversible storage concept and distinct directional colors are readable.
+- I036: verified, 1672×940. Broad gravity dam section on competent rock; lateral water pressure and downward self-weight are visibly distinguished.
+- I037: verified, 1672×941. Gravity dam broad triangular body, lateral hydrostatic pressure and load transmission into rock are conceptually readable.
+- I038: verified, 1672×941. Strong rock site with gravity dam versus unbuilt broad sediment valley; no unsupported dam in contrasting site.
+- I039: verified, 1672×941. Triangular mass and broad base dominate the section; reservoir and downstream tailwater remain distinct.
+- I040: verified, 1672×941. Curved thin arch dam spans competent canyon walls; arrows show lateral transfer into abutments. Insets remain conceptual.
+- I041: verified, 1672×941. Simplified plan view, upstream pressure and two outward curved load-transfer arrows terminating at rock abutments.
+- I042: verified, 1672×940. Narrow rock canyon with arch dam compared with broad valley gravity structure; no universal ranking implied.
+- I043: verified, 1672×941. Thin curved body, strong canyon shoulders and human scale clearly convey geometric efficiency.
+- I044: verified, 1672×941. Uninterrupted impermeable core with filters and rockfill shoulders, downstream toe drain and separate spillway.
+- I045: verified, 1672×941. Continuous impermeable core keyed into rock, filter layers and downstream drain clearly separate from reservoir.
+- I046: verified, 1672×941. Wide locally sourced embankment site compared with narrow rock canyon concrete alternative; layered fill and compaction equipment readable.
+- I047: verified, 1672×941. Aerial hill-like embankment exterior with small material section and separate concrete spillway; scale and wide footprint clear.
+- I048: verified, 1672×941. Low gated diversion weir, continuing main river and side irrigation network are visible; Mio stays outside machinery.
+- I049: verified, 1672×941. Close view of low weir and controllable canal entrance with cyan route arrows; no deep impoundment.
+- I050: verified, 1672×940. Low irrigation diversion compared with deeper reservoir setting; purpose and scale difference clear.
+- I051: verified, 1672×941. Removed opposed canal arrows; wide rural irrigation network and low diversion structure communicate scale without misleading flow graphics.
+- I052: verified, 1672×941. Gated spillway, chute, stilling basin baffles and downstream channel are visible; presenter protected by railing.
+- I053: verified, 1672×941. Gates, controlled spillway chute and stilling-basin baffles readable; retained dam body stays above water.
+- I054: verified, 1672×941. High-flow dedicated spillway compared with low-flow powerhouse release; schematic comparison does not certify either facility design.
+- I055: verified, 1672×941. Wide powerful spillway and protected visitor scale demonstrate large flood-release infrastructure.
+- I056: verified, 1672×940. Roadway connected across water; distinct collage alternatives illustrate beam, arch, suspension and stayed forms.
+- I057: verified, 1672×940. Conceptual panorama compares increasing span families; insets show qualitative load behavior rather than calculated forces.
+- I058: verified, 1672×941. Simple beam bridge with four downward load-path arrows, visible bearing, pier, pile cap and foundation cutaway.
+- I059: verified, 1672×941. Three separate bridge families with distinct suspension, stayed and arch geometry; qualitative force-path collage.
+- I060: verified, 1672×941. Side elevation of simple beam, downward central load and upward support reactions; upper compression and lower tension shown conceptually.
+- I061: verified, 1672×941. Deck-above concrete arch on substantial abutments; curved compression/load-transfer motif remains conceptual.
+- I062: verified, 1672×941. Suspension main cables, vertical hangers, shore anchor blocks and tower compression detail readable.
+- I063: verified, 1672×940. Simple girder bridge with bearings, piers and detail insets; Mio design and safe presentation position preserved.
+- I064: verified, 1672×941. Close girder and bearing details; downward path into pier and pile cap without unrelated cable structures.
+- I065: verified, 1672×941. Modest modular girder crossing compared with larger canyon crossing; no visual claim of universal superiority.
+- I066: verified, 1672×941. Road traffic over repeated girder spans, detail bearing and prefabrication/construction context readable.
+- I067: verified, 1672×941. Deck above arch rib, strong rock abutments and simple load-transfer arrows; consistent Mio guide.
+- I068: verified, 1672×941. Close arch elevation with central load and curved transfer into both abutments; no cable-system ambiguity.
+- I069: verified, 1672×941. Rock-founded arch alternative and longer-span suspension alternative shown separately; abutments and anchor blocks visible.
+- I070: verified, 1672×941. Historic masonry arch and modern concrete arch share curved load-path idea; distinct materials and period traffic.
+- I071: verified, 1672×941. Triangular steel truss, connected road approaches and train scale; colored axial motifs remain qualitative without force magnitudes.
+- I072: verified, 1672×941. Close connected triangular lattice and gusset joints; axial-member motif shown qualitatively.
+- I073: verified, 1672×941. Truss railway option and cable-stayed road option separated into comparison panels; steel modular geometry clear.
+- I074: verified, 1672×941. Repeated triangular truss bays, connected joints and overview scale; no fabricated calculations or text.
+- I075: verified, 1672×941. Long suspension span over navigation water with curved main cables, hangers and large shore anchors; guide safe on overlook.
+- I076: verified, 1672×941. Distinct main cable/hanger path, downward tower compression and shore anchorage; schematic foundation cutaway.
+- I077: verified, 1672×941. Separate suspension and cable-stayed alternatives with wide navigation span, distinct cables and foundations.
+- I078: verified, 1672×941. Wide suspension main span leaves navigation water unobstructed; anchors, hangers and cable saddle details visible.
+- I079: verified, 1672×941. Fan-shaped inclined stays connect deck directly to pylons; no curved suspension main cable or vertical hangers.
+- I080: verified, 1672×941. Tower arrows corrected downward; inclined stays, deck anchors and pile foundation remain visible.
+- I081: verified, 1672×941. Separated stayed and suspension comparison with direct inclined stays versus curved main cable and shore anchor.
+- I082: verified, 1672×941. Clean wide cable-stayed silhouette with fan-shaped straight stays and calm water; no distracting force arrows.
+- I083: verified, 1672×941. Three illustrative movable-bridge variants show lifting leaves, rotating span and vertical lift clearance; presenter safe on shore.
+- I084: verified, 1672×941. Bascule actuators, swing bearing and vertical-lift counterweights/pulleys readable in distinct mechanism examples.
+- I085: verified, 1672×941. Comparison of constrained low clearance, high fixed bridge and three movable options; different site tradeoffs visible.
+- I086: verified, 1672×941. Wide maritime panorama distinguishes bascule, swing and lift mechanisms with protected shoreline people.
+- I087: verified, 1672×941. Removed unrelated cable bridge insets; repeated rail viaduct spans, pier foundation detail and guide remain.
+- I088: verified, 1672×941. Repeated box-girder rail spans and concrete pier foundations, consistent train/electrification and no unrelated cable systems.
+- I089: verified, 1672×940. Long plains viaduct compared with localized canyon crossing; repeated spans and separate site geometry.
+- I090: verified, 1672×941. High-speed rail viaduct with repeated piers crosses above a separate road; continuous rail route and electrification.
+- I091: verified, 1672×941. Mountain cutaway contrasts bridge above with lined tunnel below, excavation front distinct from completed section.
+- I092: verified, 1672×941. Focused tunnel void in mountain with continuous lining, conceptual bolts and inward rock-pressure arrows; no unrelated ocean system.
+- I093: verified, 1672×941. Reviewed supported rail tunnel, external groundwater, overhead ventilation, floor drainage and separated escape walkway; conceptual section.
+- I094: verified, 1672×941. Reviewed three geological conditions with continuous lined tunnels and ground cover; no extraneous machinery or map.
+- I095: verified, 1672×941. Reviewed separate excavation, concrete box, backfill and restored road stages, retaining walls and waterproofing; no TBM.
+- I096: verified, 1672×941. Reviewed shield TBM cutterhead at excavation front, lining behind and intact urban surface with ground cover.
+- I097: verified, 1672×941. Reviewed Mio design and helmet, cut-and-cover stages and rectangular road tunnel; geological cutaway is conceptual.
+- I098: verified, 1672×941. Reviewed excavation, box installation, waterproofing and backfill sequence plus restored surface.
+- I099: verified, 1672×941. Reviewed wide versus constrained urban cut-and-cover sites, supported trench and separate excavation/box/waterproofing/backfill stages.
+- I100: verified, 1672×941. Reviewed shallow rectangular metro box below restored street, visible rails and separate open construction zone; conceptual cutaway.
+- I101: verified, 1672×941. Reviewed shield TBM front cutterhead, rear spoil belt and segment handling with completed circular lining; Mio consistent.
+- I102: verified, 1672×941. Reviewed close TBM cutaway: front cutterhead, rearward spoil transport and ring erector with completed lining; no extraneous systems.
+- I103: verified, 1672×941. Reviewed separate long straight urban alignment and curved mountain alignment; schematic comparison without calculated radius or universal ranking.
+- I104: verified, 1672×941. Reviewed long TBM backup train, cutterhead, segment handling, supported work platforms and intact surface; conceptual scale.
+- I105: verified, 1672×941. Reviewed drill jumbo, separated blast/clearing/support stages and consistent safe Mio presenter; no explosive parameters.
+- I106: verified, 1672×941. Reviewed drill face and sequential rock removal, visible conceptual embedded bolts and shotcrete spraying.
+- I107: verified, 1672×941. Reviewed contrasting irregular and regular rock-tunnel sections with drill-and-blast equipment and support; conceptual shapes only.
+- I108: verified, 1672×941. Reviewed schematic repeated excavation stages along one mountain tunnel concept, drill jumbo, muck removal, bolts and sprayed support; montage rather than surveyed geometry.
+- I109: verified, 1672×941. Reviewed correction: underwater workers and dry-site machines removed; floating and submerged end bulkheads sealed; tunnel rests in bed trench.
+- I110: verified, 1672×941. Reviewed corrected sealed bulkheads during floating and lowering; supported bed trench, crane cables and gasket detail remain.
+- I111: verified, 1672×941. Reviewed sealed elements, shallow prepared trench and deeper contrasting seabed. Suspended elements are installation stages supported by lifting cables.
+- I112: verified, 1672×941. Reviewed fabrication, sealed float transport, crane lowering and joined elements supported in gravel bed; no dry-site equipment underwater.
+- I113: verified, 1672×941. Reviewed correction: reaction wall and jacks behind advancing box, excavator inside leading cutaway and intact ground ahead; no prebuilt tunnel ahead.
+- I114: verified, 1672×941. Reviewed longitudinal box-jacking section: rear reaction wall/jacks push right, excavation inside leading edge and intact ground ahead.
+- I115: verified, 1672×941. Reviewed separate shallow railway and runway crossings, reaction walls/jacks behind box and excavation at leading edge; illustrative applications.
+- I116: verified, 1672×941. Reviewed operating railway above intact ground, launch pit, rear jacks and excavation at box leading end; no lining ahead.
+- I117: verified, 1672×941. Reviewed dry walkable utility tunnel, separate pipe/cable racks, ventilation and maintenance scale; Mio consistent.
+- I118: verified, 1672×941. Reviewed close pipe supports, cable trays, overhead ventilation and clear dry maintenance walkway.
+- I119: verified, 1672×941. Reviewed comparison of independently buried utilities versus accessible corridor; distinct pipes/cables and clear walkway, conceptual cutaways.
+- I120: verified, 1672×941. Reviewed extensive dry utility corridor under active city, organized racks and clear maintenance route; no transport systems mixed in.
+- I121: verified, 1672×941. Reviewed illustrative transport network panorama, distinct road/rail bridges, tunnels and continuous approach routes; not surveyed geometry.
+- I122: verified, 1672×941. Reviewed continuous pavement layers over compacted soil, roadside channel outside traffic and coherent road surface; no unrelated systems.
+- I123: verified, 1672×941. Reviewed separate ballast/sleeper and concrete slab track structures, paired rails, signaling and external drainage.
+- I124: verified, 1672×941. Reviewed tighter local-rail alignment versus broad high-speed alignment on separate viaduct, coherent rail paths; qualitative curvature.
+- I125: verified, 1672×941. Reviewed grade-separated highway ramps with supported decks and connected branches; conceptual interchange, no real site claim.
+- I126: verified, 1672×941. Reviewed segregated highway, railway and pedestrian/cycle corridors with sparse directional traffic arrows and grade separation.
+- I127: verified, 1672×941. Reviewed simplified separated road/rail corridors: obstructing overpass removed entirely, traffic lanes clear, external drains and barriers preserved.
+- I128: verified, 1672×941. Reviewed ordinary road pavement layers and external drainage, separate paving work zone, qualitative downward load spread; Mio consistent.
+- I129: verified, 1672×941. Reviewed downward wheel-load spreading through pavement/base/subbase/soil and drainage confined to external channels; conceptual arrows.
+- I130: verified, 1672×941. Reviewed rural and residential ordinary-road contexts, continuous layer sections and external drainage; unlabeled site comparison.
+- I131: verified, 1672×941. Reviewed contextual road cutaway with continuous layers, load spread and external side ditches; qualitative mechanism.
+- I132: verified, 1672×941. Reviewed divided expressway, connected ramps, grade separation and roadside service areas; safe Mio overlook and no rail systems.
+- I133: verified, 1672×941. Reviewed expressway median separation, ramp taper details and broad curves; piers outside main active lanes, conceptual geometry.
+- I134: verified, 1672×941. Reviewed busy urban/industrial corridor versus lower-density countryside site; divided carriageways and separate crossings, no universal ranking.
+- I135: verified, 1672×941. Revised traffic rendering and removed conflicting overlays; conceptual road geometry and clearances reviewed.
+- I136: verified, 1672×941. Revised traffic rendering and removed conflicting overlays; conceptual road geometry and clearances reviewed.
+- I137: verified, 1672×941. Revised traffic rendering and removed conflicting overlays; conceptual road geometry and clearances reviewed.
+- I138: verified, 1672×941. Reviewed different interchange site conditions; no design ranking or numerical claims.
+- I139: verified, 1672×941. Removed ambiguous traffic; geometric interchange analogy retained.
+- I140: verified, 1672×941. Reviewed freight train on continuous rail track with sleepers, ballast, separate drainage and presenter outside track.
+- I141: verified, 1672×941. Reviewed wheel-rail contact, ballast with sleepers and separate slab-track inset; conceptual foundation layers.
+- I142: verified, 1672×941. Reviewed freight corridors on flat terrain and viaduct/tunnel terrain; no fixed capacity or energy numbers.
+- I143: verified, 1672×941. Conceptual freight comparison; truck road corrected to one-way lanes; no fixed numerical equivalence.
+- I144: verified, 1672×941. Reviewed dedicated elevated high-speed railway with gentle curve, catenary and grade separation; presenter fenced away from track.
+- I145: verified, 1672×941. Reviewed concrete slab-track details, wheelset, broad curve and tunnel portal; conceptual geometry without numerical design claims.
+- I146: verified, 1672×941. Reviewed urban and mountain high-speed rail contexts with grade separation; no travel-time or cost claim.
+- I147: verified, 1672×941. Reviewed dedicated broad-curve viaduct alignment, continuous track and grade separation.
+- I148: verified, 1672×941. Elevated corridor extended beyond train; station, tunnels, depot and electrical systems reviewed as conceptual cutaway.
+- I149: verified, 1672×941. Reviewed platform/rail separation, concourse access, tunnel continuity and distinct elevated/depot elements.
+- I150: verified, 1672×941. Reviewed dense street context with underground metro versus lower-density elevated corridor; qualitative comparison only.
+- I151: verified, 1672×941. Reviewed distinct station, tunnel, viaduct, fenced electric supply and maintenance depot; no passenger path on rails.
+- I152: verified, 1672×941. Unsafe pedestrians removed from rail corridor; platforms, concourses and bus bays reviewed.
+- I153: verified, 1672×941. Reviewed pedestrian arrows confined to concourses, escalators and platforms; rail and bus movements separate.
+- I154: verified, 1672×941. Reviewed multimodal hub versus quieter bus-stop context, separated bus/rail routes and safe platforms.
+- I155: verified, 1672×941. Reviewed multi-level pedestrian circulation; rail platforms, bus bays and stair/escalator access separated.
+- I156: verified, 1672×941. Reviewed maritime quay and separate airport runway/taxiway/apron with land transport links; conceptual layout.
+- I157: verified, 1672×941. Reviewed ship afloat at quay, land-side crane legs, container yards and separate rail/truck aisles.
+- I158: verified, 1672×941. Reviewed distinct runway, parallel taxiway, apron and gate stands; no fake runway numbers or road crossings.
+- I159: verified, 1672×941. Reviewed qualitative cargo and passenger flows in separate port/terminal vignettes; no capacity values.
+- I160: verified, 1672×941. Queued trucks now all face checkpoint, rear container doors toward viewer; bottleneck context reviewed.
+- I161: verified, 1672×941. Reviewed separate airport and port aerial geometry with navigable water, quay cranes and runway/taxiway/apron separation.
+- I162: verified, 1672×941. Reviewed protected harbor entrance, land-side cranes, quay, hinterland transport and Mio behind railing.
+- I163: verified, 1672×941. Reviewed open navigation approach and turning basin, quay cranes and separate yard/road/rail elements.
+- I164: verified, 1672×941. Reviewed sheltered-water versus exposed/shallow coastal conditions; illustrates different required works without numerical depths or design ranking.
+- I165: verified, 1672×941. Reviewed inland logistics view with warehouses, separated freight railway and truck roads, quay cranes and ships.
+- I166: verified, 1672×941. Reviewed working terminal, fenced Mio observation point, separate yard traffic and rail transfer area.
+- I167: verified, 1672×941. Reviewed crane unloading, yard stacking, terminal transport and gate sequence; no workers under suspended load.
+- I168: verified, 1672×941. Reviewed dedicated high-volume container terminal versus smaller mixed-cargo berth; no numerical ranking.
+- I169: verified, 1672×940. Reviewed aligned container stack grid, open yard aisles, land-side crane support and separated rail transfer.
+- I170: verified, 1672×941. Reviewed rough outside sea versus protected harbor, entrance gap and Mio behind land railing.
+- I171: verified, 1672×941. Removed misleading sheltered-side arrow; armor slope, filter/core layers and toe protection reviewed as schematic.
+- I172: verified, 1672×941. Reviewed exposed storm coast with substantial breakwater versus naturally sheltered bay, both with open entrances.
+- I173: verified, 1672×941. Reviewed protected basin with berth activity, rough sea beyond armor barrier and navigable entrance gap.
+- I174: verified, 1672×941. Reviewed runway/parallel taxiway/apron separation, terminal stands, fenced public access and Mio observation area.
+- I175: verified, 1672×941. Reviewed airport surface network and conceptual pavement layer inset; no load values or dimensions asserted.
+- I176: verified, 1672×941. Reviewed turboprop versus larger passenger-jet airport contexts with qualitative stand/turning-space differences only.
+- I177: verified, 1672×941. Reviewed near-top-down runway, parallel taxiway, gate apron and separate public access roads; no numeric runway signs.
+- I178: verified, 1672×941. Reviewed public curb, check-in/security zones, separate baggage reclaim and enclosed boarding bridge with aircraft apron.
+- I179: verified, 1672×941. Reviewed distinct departure sequence and arrival-to-baggage-to-exit flow; arrows follow walking levels, not baggage belts.
+- I180: verified, 1672×941. Reviewed large finger-concourse terminal versus compact terminal demand contexts, land-side access separate from apron.
+- I181: verified, 1672×941. Reviewed airport terminal architecture enclosing check-in/security/concourse and separate baggage zones; safe walking areas.
+- I182: verified, 1672×941. Reviewed tower/observation overview of runway, taxiway and apron; Mio outside active airfield.
+- I183: verified, 1672×941. Reviewed controllers, schematic radar display, communications antenna and approach-light inset; no operational values asserted.
+- I184: verified, 1672×941. Reviewed differing airport traffic contexts with control facilities and organized movement; conceptual depiction, no numerical separations.
+- I185: verified, 1672×941. Reviewed tower-to-airfield scale, tower outside runway, distinct apron/taxiway and spaced aircraft.
+- I186: verified, 1672×941. Four conceptual building systems have continuous supports into foundations; visually checked.
+- I187: verified, 1672×940. Gravity load path connects floors, columns/core and foundations; conceptual illustration visually checked.
+- I188: verified, 1672×941. Occupancy/equipment, wind and ground shaking shown as distinct conceptual load cases; intact structural frame visually checked.
+- I189: verified, 1672×941. Removed misleading dashed deflection outline; intact tall and low buildings under conceptual wind comparison.
+- I190: verified, 1672×941. Clear-span roof connected to perimeter supports and foundations; playing field free of columns.
+- I191: verified, 1672×941. Facade cutaway reveals coherent frame/core/braces with connected foundation support; visually checked.
+- I192: verified, 1672×941. Three professionals discuss architectural model with structural cutaway and material samples; visually checked.
+- I193: verified, 1672×941. Mio behind observation barrier; concrete frame/core connected to footing cutaways and rebar inset; visually checked.
+- I194: verified, 1672×940. Removed misleading compression-zone crack overlay; conceptual compression/tension arrows, reinforcement and protective cover inset checked.
+- I195: verified, 1672×941. Contextual cast-in-place concrete/formwork versus contrasting prefabricated floor needs; supports and foundations connected, no universal ranking.
+- I196: verified, 1672×941. Urban mid-rise district with coherent repetitive concrete frame cutaway and continuous footings; visually checked.
+- I197: verified, 1672×941. Steel frame erection, connected bracing/decks, crane rigging and protected observation barrier; visually checked.
+- I198: verified, 1672×941. Steel bay with connected bolted members, X bracing, base anchors and core ties; conceptual detail visually checked.
+- I199: verified, 1672×941. Steel long-span hall and concrete moderate-span frame show different uses without rankings; visually checked.
+- I200: verified, 1672×941. Upper connected steel skeleton and lower installed facade show erection sequence; visually checked.
+- I201: verified, 1672×941. Three outrigger levels connect core and perimeter columns; continuous foundations, wind lines and safe Mio observation checked.
+- I202: verified, 1672×941. Full-depth outrigger trusses connect core and perimeter mega-columns; continuous supports visually checked.
+- I203: verified, 1672×941. Contextual shorter core tower versus taller core/outrigger tower, intact and connected, no quantitative claim; visually checked.
+- I204: verified, 1672×941. Completed tower facade with mechanical floor cutaway and connected outrigger members; visually checked.
+- I205: verified, 1672×941. Replaced unrelated tower inset with seating/concourse/perimeter roof support section; column-free pitch and plaza visually checked.
+- I206: verified, 1672×941. Sectioned seating bowl, concourses and perimeter-supported truss roof continuous to foundations; visually checked.
+- I207: verified, 1672×941. Unobstructed sightlines and circulation on stairs/concourses, no flow through field or solid structures; visually checked.
+- I208: verified, 1672×941. Dusk stadium with roof/seating cutaway, connected support foundations and dedicated pedestrian bridges/plaza; visually checked.
+- I209: verified, 1672×941. Column-free arena with connected space-frame roof, force arrows toward perimeter supports/foundations and safe presenter; visually checked.
+- I210: verified, 1672×941. Four distinct supported roof systems shown in comparative details; conceptual load paths and connected supports checked.
+- I211: verified, 1672×941. Removed contradictory force overlays and incidental lettering; two spacious architectural uses visually checked.
+- I212: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I213: generated, 1672×940. Visual review skipped at user request; generated asset saved.
+- I214: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I215: generated, 1672×940. Visual review skipped at user request; generated asset saved.
+- I216: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I217: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I218: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I219: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I220: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I221: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I222: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I223: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I224: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I225: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I226: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I227: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I228: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I229: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I230: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I231: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I232: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I233: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I234: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I235: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I236: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I237: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I238: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I239: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I240: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I241: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I242: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I243: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I244: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I245: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I246: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I247: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I248: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I249: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I250: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I251: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I252: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I253: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I254: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I255: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I256: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I257: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I258: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I259: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I260: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I261: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I262: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I263: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I264: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I265: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I266: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I267: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I268: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I269: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I270: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I271: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I272: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I273: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I274: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I275: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I276: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I277: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I278: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I279: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I280: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I281: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I282: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I283: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I284: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I285: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I286: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I287: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I288: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I289: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I290: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I291: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I292: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I293: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I294: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I295: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I296: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I297: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I298: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I299: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I300: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I301: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I302: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I303: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I304: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I305: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I306: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I307: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I308: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I309: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I310: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I311: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I312: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I313: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I314: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I315: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I316: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I317: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I318: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I319: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I320: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I321: generated, 1672×940. Visual review skipped at user request; generated asset saved.
+- I322: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I323: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I324: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I325: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I326: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I327: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I328: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I329: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I330: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I331: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I332: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I333: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I334: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I335: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I336: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I337: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I338: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I339: generated, 1672×940. Visual review skipped at user request; generated asset saved.
+- I340: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I341: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I342: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I343: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I344: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I345: generated, 1672×940. Visual review skipped at user request; generated asset saved.
+- I346: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I347: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I348: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I349: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I350: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I351: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I352: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I353: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I354: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I355: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I356: generated, 1672×940. Visual review skipped at user request; generated asset saved.
+- I357: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I358: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I359: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+- I360: generated, 1672×941. Visual review skipped at user request; generated asset saved.
+
+## Blockers
+
+Chưa ghi nhận lỗi dịch vụ.

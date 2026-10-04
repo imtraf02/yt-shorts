@@ -1,0 +1,8 @@
+{
+  "id": "I052",
+  "error": "image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1791105870,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":12059}}\")",
+  "observedAt": "2026-10-04T06:03:30.620Z",
+  "provider": "built-in ImageGen",
+  "retryAfter": "2026-10-04T09:24:30.000Z",
+  "resetLocal": "2026-10-04 16:24:30 Asia/Ho_Chi_Minh"
+}

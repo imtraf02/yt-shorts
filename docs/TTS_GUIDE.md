@@ -104,7 +104,7 @@ $env:PYTHONIOENCODING="utf-8"
 | `--fade-ms` | | Fade-in/out ở biên để tránh click/pop | `10` |
 | `--no-audio-silence` | | Không chèn silence vật lý vào audio (chỉ tính vào frame) | `False` (mặc định có chèn) |
 | `--manifest` | `-m` | Đường dẫn file JSON metadata xuất ra | `<outdir>/sentences_manifest.json` |
-| `--allow-cpu` | | Cho phép ONNX/CPU có chủ đích; không dùng trong pipeline GPU bình thường | `False` |
+| `--allow-cpu` | | Buộc ONNX/CPU FP32 có chủ đích, chạy được với bản cài VieNeu không có PyTorch; không dùng trong pipeline GPU bình thường | `False` |
 
 ---
 

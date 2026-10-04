@@ -11,15 +11,7 @@
     "style": "Vox-style anime 2D",
     "backgroundMusic": false
   },
-  "blockers": [
-    {
-      "stage": "images",
-      "reason": "usage_limit_reached",
-      "retryAfter": "2026-10-01T12:30:24+07:00",
-      "observedAt": "2026-09-30T19:40:42.0109063+07:00",
-      "detail": "Image generation quota was already exhausted by the same built-in service during the preceding production run; no redundant request was sent."
-    }
-  ],
+  "blockers": [],
   "stages": {
     "script": {
       "inputs": [

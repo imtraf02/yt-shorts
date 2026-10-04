@@ -1,0 +1,260 @@
+[
+  {
+    "id": "R01",
+    "title": "DOE — Types of Hydropower Plants",
+    "url": "https://www.energy.gov/cmei/water/types-hydropower-plants",
+    "sentenceIds": [
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S033",
+      "S034",
+      "S035"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Ba dạng vận hành; hồ chứa, chuyển dòng và tích năng; không phải mọi hệ cần đập lớn. Không dùng để xác minh kết cấu đập hay Hoover."
+  },
+  {
+    "id": "R02",
+    "title": "FHWA — All About Tunnels",
+    "url": "https://www.fhwa.dot.gov/publications/focus/10may/03.cfm",
+    "sentenceIds": [
+      "S091",
+      "S092",
+      "S093",
+      "S094",
+      "S095",
+      "S096",
+      "S097",
+      "S098",
+      "S099",
+      "S100",
+      "S101",
+      "S102",
+      "S103",
+      "S104",
+      "S105",
+      "S106",
+      "S107",
+      "S108",
+      "S109",
+      "S110",
+      "S111",
+      "S112",
+      "S113",
+      "S114",
+      "S115",
+      "S116"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Các nhóm thi công và điều kiện chọn, không xác nhận mọi cấu hình TBM."
+  },
+  {
+    "id": "R03",
+    "title": "FHWA — SNBI code mapping",
+    "url": "https://www.fhwa.dot.gov/bridge/snbi/codemapping.cfm",
+    "sentenceIds": [
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S069",
+      "S070",
+      "S071",
+      "S072",
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S083",
+      "S084",
+      "S085",
+      "S086",
+      "S087",
+      "S088",
+      "S089",
+      "S090"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Đối chiếu tên nhóm kết cấu; không xác minh toàn bộ sơ đồ lực hay so sánh tính kinh tế."
+  },
+  {
+    "id": "R04",
+    "title": "FAA — Airport Design Technical Video Series",
+    "url": "https://www.faa.gov/airports/engineering/airport_design/airport_design_technical_videos",
+    "sentenceIds": [
+      "S174",
+      "S175",
+      "S176",
+      "S177"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Phân biệt runway/taxiway/apron và hình học khu bay; không dùng để khẳng định quy trình kiểm soát không lưu."
+  },
+  {
+    "id": "R05",
+    "title": "DOE — Nuclear 101",
+    "url": "https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work",
+    "sentenceIds": [
+      "S233",
+      "S234",
+      "S235",
+      "S236"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Phân hạch tạo nhiệt rồi phát điện qua tua-bin; cấu hình chu trình phụ thuộc loại lò."
+  },
+  {
+    "id": "R06",
+    "title": "DOE — How Do Wind Turbines Work?",
+    "url": "https://www.energy.gov/cmei/systems/how-do-wind-turbines-work",
+    "sentenceIds": [
+      "S245",
+      "S246",
+      "S247",
+      "S248",
+      "S249",
+      "S250"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Lực khí động quay rotor/máy phát, hệ trên bờ/ngoài khơi; không xác minh kết luận chi phí cho mọi dự án."
+  },
+  {
+    "id": "R07",
+    "title": "DOE — Geothermal Electricity Generation",
+    "url": "https://www.energy.gov/hgeo/geothermal/geothermal-electricity-generation",
+    "sentenceIds": [
+      "S253",
+      "S254",
+      "S255",
+      "S256"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Điều kiện nguồn nhiệt/chất lưu/độ thấm và công nghệ; không bảo đảm vận hành liên tục của dự án cụ thể."
+  },
+  {
+    "id": "R08",
+    "title": "USACE — Managing Levees",
+    "url": "https://levees.sec.usace.army.mil/levee-basics/managing-levees/",
+    "sentenceIds": [
+      "S293",
+      "S294",
+      "S297",
+      "S298",
+      "S299",
+      "S300"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Giảm rủi ro và yêu cầu vận hành, quan trắc, ứng phó khẩn cấp; không loại bỏ toàn bộ rủi ro."
+  },
+  {
+    "id": "R09",
+    "title": "EPA — Flow Control Devices",
+    "url": "https://www.epa.gov/emergency-response-research/stormwater-management-technologies-flow-control-devices",
+    "sentenceIds": [
+      "S305",
+      "S306",
+      "S307",
+      "S308"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Phân biệt detention thường khô giữa các trận mưa với retention có hồ thường xuyên. Thuật ngữ địa phương có thể khác."
+  },
+  {
+    "id": "R10",
+    "title": "DOE — How Does Solar Work?",
+    "url": "https://www.energy.gov/cmei/systems/how-does-solar-work",
+    "sentenceIds": [
+      "S237",
+      "S238",
+      "S239",
+      "S240",
+      "S241",
+      "S242",
+      "S243",
+      "S244"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "PV tạo điện trực tiếp; CSP tập trung ánh sáng thành nhiệt."
+  },
+  {
+    "id": "R11",
+    "title": "DOE — Inverters and Grid Services",
+    "url": "https://www.energy.gov/cmei/systems/solar-integration-inverters-and-grid-services-basics",
+    "sentenceIds": [
+      "S237",
+      "S238"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Bộ nghịch lưu chuyển điện một chiều PV sang xoay chiều cho lưới."
+  },
+  {
+    "id": "R12",
+    "title": "EPA — Drinking Water Treatment (archive)",
+    "url": "https://archive.epa.gov/water/archive/web/pdf/2009_08_28_sdwa_fs_30ann_treatment_web.pdf",
+    "sentenceIds": [
+      "S271",
+      "S272",
+      "S273",
+      "S274"
+    ],
+    "status": "read",
+    "checkedDate": "2026-10-02",
+    "scope": "Các công đoạn thông dụng cho nước mặt; lựa chọn công nghệ tùy chất lượng nước. Nguồn lưu trữ, không phải tiêu chuẩn hiện hành."
+  },
+  {
+    "id": "R13",
+    "title": "CTBUH — Outrigger study",
+    "url": "https://global.ctbuh.org/resources/papers/download/1332-outrigger-system-study-for-tall-building-structure-with-central-core-and-square-floor-plate.pdf",
+    "sentenceIds": [
+      "S201",
+      "S202",
+      "S203",
+      "S204"
+    ],
+    "status": "access-failed",
+    "checkedDate": "2026-10-02",
+    "scope": "Công cụ không đọc được PDF. Chưa xác minh riêng các câu này bằng nguồn này."
+  },
+  {
+    "id": "R14",
+    "title": "USACE — Levee Safety Program",
+    "url": "https://www.usace.army.mil/Missions/Civil-Works/Levee-Safety-Program/",
+    "sentenceIds": [],
+    "status": "access-failed",
+    "checkedDate": "2026-10-02",
+    "scope": "Lỗi truy cập; dùng R08 thay cho kiểm chứng giảm rủi ro."
+  }
+]

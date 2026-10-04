@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const p='productions/bia-vi-sinh/storyboard.json';
+const scenes=JSON.parse(fs.readFileSync(p,'utf8'));
+const s=scenes.find(x=>x.id==='I151');
+fs.renameSync(s.file,s.file.replace('.png','-v1-rejected.png'));
+s.prompt='One independent 16:9 original 2D anime documentary illustration, clean ink outlines, warm amber cel shading and deep teal background. A single tall OPEN TRANSPARENT DRINKING GLASS full of amber beer with a creamy foam head and ascending tiny bubbles, positioned left of center on a dark teal laboratory table. Small microscope behind left, softly lit. Quiet empty lower fifth and bottom-right. Exactly one drinking glass. Absolutely NO bottles, bottle caps, bottle opener, packaging, labels, people, writing or logos. A conceptual return to the opening beer glass. Asset I151.';
+s.description='Return to opening: single open transparent amber beer drinking glass with foam and bubbles on teal lab table, small microscope.';
+s.status='pending';s.qa=null;
+fs.writeFileSync(p,JSON.stringify(scenes,null,2)+'\n');
+console.log(JSON.stringify([s,...scenes.slice(153,160)]));

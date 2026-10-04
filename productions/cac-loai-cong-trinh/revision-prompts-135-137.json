@@ -1,0 +1,20 @@
+[
+  {
+    "id": "I135",
+    "n": "135",
+    "reason": "traffic-direction",
+    "prompt": "Edit the input illustration only to correct traffic. On the foreground main divided highway, ALL vehicles on the carriageway LEFT of the planted median must travel AWAY from the viewer toward the distant city: show their rear ends, rear truck doors, tail lamps. ALL vehicles on the carriageway RIGHT of that median travel TOWARD the viewer and show front ends. Keep every road, ramp, bridge, support, landscape, composition, palette, anime 2D art, 16:9 frame unchanged. No text or added arrows."
+  },
+  {
+    "id": "I136",
+    "n": "136",
+    "reason": "traffic-direction",
+    "prompt": "Edit only traffic in this illustration. Make the opposite travel directions on each divided highway unambiguous. Replace all current vehicles with a very small number of clearly rendered vehicles per road; on one carriageway show vehicle fronts, on the opposite carriageway show vehicle rear ends, rear box-truck doors and tail lamps, all following right-hand traffic with no wrong-way vehicles. Remove other cars if needed to avoid visual confusion. Preserve the exact road and ramp geometry, support piers outside lanes, landscape, Mio appearance, colors, anime 2D style and 16:9 composition. No added text or arrow overlays."
+  },
+  {
+    "id": "I137",
+    "n": "137",
+    "reason": "conflicting-arrows",
+    "prompt": "Edit this illustration by removing ALL orange arrow overlays and ALL blue colored route overlays from every road and ramp. Restore plain dark gray asphalt underneath, preserving white lane markings and concrete barriers. Preserve bridge, underpass, connecting ramps, safe pier placements, landscape, empty cream lower-right space, art style and 16:9 frame. Also reduce vehicles to a few clearly oriented vehicles with consistent travel direction on each lane. No text and no arrows."
+  }
+]

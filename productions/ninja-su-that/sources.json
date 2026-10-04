@@ -1,0 +1,86 @@
+[
+  {
+    "id": "R01",
+    "title": "Mie University — What is Ninja Study",
+    "url": "https://ninjacenter.rscn.mie-u.ac.jp/en/ninja/",
+    "limit": "Nguồn nghiên cứu trực tiếp, toàn văn mở được. Đối chiếu vai trò tình báo, mốc bằng chứng thế kỷ XIV, nhiệm vụ Edo và sự định hình hình tượng.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R02",
+    "title": "Mie University — Did Ninja really exist?②",
+    "url": "https://ninjacenter.rscn.mie-u.ac.jp/en/blog/2020/0817-2/",
+    "limit": "Bài sinh viên dẫn nghiên cứu giảng viên, toàn văn mở được; chỉ dùng bổ trợ cho sân khấu và Sarutobi, không ngang cấp tư liệu gốc.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R03",
+    "title": "Mie University — Shuriken in historical sources",
+    "url": "https://ninjacenter.rscn.mie-u.ac.jp/blog/2018/20180629/",
+    "limit": "Bài nhà nghiên cứu Takao Yoshiki, toàn văn mở được; shuriken không độc quyền ninja, tránh khẳng định chưa từng có shinobi sử dụng.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R04",
+    "title": "National Archives of Japan — Martial arts exhibition",
+    "url": "https://www.archives.go.jp/naj_news/23/special.html",
+    "limit": "Nguồn lưu trữ trực tiếp, toàn văn mở được; Bansenshukai và minh họa mizugumo. Không coi hình dụng cụ trong sách là bằng chứng hiệu quả thực nghiệm.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R05",
+    "title": "Agency for Cultural Affairs — Shinobi no Sato Iga and Koka",
+    "url": "https://www.japan-heritage.bunka.go.jp/ja/stories/story042/",
+    "limit": "Nguồn di sản chính thức, toàn văn mở được; tự quản, địa hình, văn hóa đời sống. Ngôn ngữ quảng bá nguồn gốc cần đọc cùng nghiên cứu, không coi chỉ hai vùng có shinobi.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R06",
+    "title": "Mie University — Ieyasu Iga crossing discussion",
+    "url": "https://ninjacenter.rscn.mie-u.ac.jp/blog/2018/20180604/",
+    "limit": "Bài giảng viên Yoshimaru Katsuya, toàn văn mở được; nguồn và đường đi có tranh luận, không dựng tuyến đường cụ thể như đã chốt.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R07",
+    "title": "Iga-ryu Ninja Tourism Promotion Council — The History of Ninja",
+    "url": "https://www.ninja-museum.com/en/?page_id=288",
+    "limit": "Niên biểu hội đồng quảng bá văn hóa ninja thuộc bộ phận du lịch thành phố Iga, toàn văn mở được. Đối chiếu mốc 1579/1581/1582 với R01. Trang chứa truyền thuyết và số quân cần phê bình nguồn; không dùng chuyện quỷ hoặc các số ấy như lịch sử đã xác nhận.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R08",
+    "title": "National Diet Library — Shoninki catalogue",
+    "url": "https://ndlsearch.ndl.go.jp/books/R100000094-I189335",
+    "limit": "Mục lục chính thức mở được; phân biệt niên đại biên soạn 1681 với bản sao thời Showa được mô tả trong mục lục.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R09",
+    "title": "Okazaki official tourism association — Hattori Masanari",
+    "url": "https://okazaki-kanko.jp/okazaki-park/feature/busho-profile/hattori",
+    "limit": "Nguồn địa phương chính thức mở được; mô tả võ sĩ mang giáo/giáp chỉ huy. Chân dung sinh ảnh là tái dựng, không chân dung xác thực.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R10",
+    "title": "Mie University — Edo, Hattori Hanzo and Iga-mono",
+    "url": "https://www.human.mie-u.ac.jp/kenkyu/ken-prj/iga/kouza/2018/2018-1.html",
+    "limit": "Tóm tắt giảng nghiên cứu mở được; nhắc Masanari và con 正就 cùng danh xưng Hanzo. Hỗ trợ danh xưng qua hơn một thế hệ và vai trò quân sự; không thêm chi tiết gia phả ngoài lời dẫn.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R11",
+    "title": "MLIT — Historical Documents About Ninja",
+    "url": "https://www.mlit.go.jp/tagengo-db/common/001928397.pdf",
+    "limit": "PDF chính phủ mở được; Bansenshukai biên soạn 1676, tổng hợp Iga/Koka. Không sao chép trang hay hình.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R12",
+    "title": "National Archives — Bansenshukai digital record",
+    "url": "https://www.digital.archives.go.jp/file/1271625.html",
+    "limit": "URL từ tài liệu người dùng; công cụ mở báo không truy cập được. Không ghi là đã đọc bản quét; đối chiếu niên đại qua R05/R11.",
+    "checkedDate": "2026-10-02"
+  }
+]

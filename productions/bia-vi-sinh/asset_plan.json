@@ -1,0 +1,134 @@
+{
+  "imageTarget": 160,
+  "imageMaximum": 200,
+  "generatedImageCount": 160,
+  "uniquePrompts": 160,
+  "chapters": [
+    {
+      "id": "C01",
+      "title": "Thứ vô hình làm nên ly bia",
+      "imageCount": 10,
+      "firstSentence": "S001",
+      "lastSentence": "S010"
+    },
+    {
+      "id": "C02",
+      "title": "Ngũ cốc, bình gốm và lịch sử",
+      "imageCount": 10,
+      "firstSentence": "S011",
+      "lastSentence": "S020"
+    },
+    {
+      "id": "C03",
+      "title": "Bốn nguyên liệu, bốn nhiệm vụ",
+      "imageCount": 10,
+      "firstSentence": "S021",
+      "lastSentence": "S030"
+    },
+    {
+      "id": "C04",
+      "title": "Mở kho tinh bột trong hạt",
+      "imageCount": 10,
+      "firstSentence": "S031",
+      "lastSentence": "S040"
+    },
+    {
+      "id": "C05",
+      "title": "Đắng và thơm không phải cùng một nút",
+      "imageCount": 10,
+      "firstSentence": "S041",
+      "lastSentence": "S050"
+    },
+    {
+      "id": "C06",
+      "title": "Nhà máy nhỏ tên là men",
+      "imageCount": 10,
+      "firstSentence": "S051",
+      "lastSentence": "S060"
+    },
+    {
+      "id": "C07",
+      "title": "Ale và lager: nhìn vào quy trình",
+      "imageCount": 10,
+      "firstSentence": "S061",
+      "lastSentence": "S070"
+    },
+    {
+      "id": "C08",
+      "title": "Những bong bóng có cấu trúc",
+      "imageCount": 10,
+      "firstSentence": "S071",
+      "lastSentence": "S080"
+    },
+    {
+      "id": "C09",
+      "title": "Màu đen không đo nồng độ cồn",
+      "imageCount": 10,
+      "firstSentence": "S081",
+      "lastSentence": "S090"
+    },
+    {
+      "id": "C10",
+      "title": "Mùi trái cây có thể do men tạo ra",
+      "imageCount": 10,
+      "firstSentence": "S091",
+      "lastSentence": "S100"
+    },
+    {
+      "id": "C11",
+      "title": "Từ ly bia đến gan và não",
+      "imageCount": 10,
+      "firstSentence": "S101",
+      "lastSentence": "S110"
+    },
+    {
+      "id": "C12",
+      "title": "Đỏ mặt không phải giải rượu tốt",
+      "imageCount": 10,
+      "firstSentence": "S111",
+      "lastSentence": "S120"
+    },
+    {
+      "id": "C13",
+      "title": "Cà phê không xóa cồn trong máu",
+      "imageCount": 10,
+      "firstSentence": "S121",
+      "lastSentence": "S130"
+    },
+    {
+      "id": "C14",
+      "title": "Bia không phải thuốc",
+      "imageCount": 10,
+      "firstSentence": "S131",
+      "lastSentence": "S140"
+    },
+    {
+      "id": "C15",
+      "title": "Giữ vị bia, giảm ethanol",
+      "imageCount": 10,
+      "firstSentence": "S141",
+      "lastSentence": "S150"
+    },
+    {
+      "id": "C16",
+      "title": "Một thí nghiệm kéo dài qua nhiều thế hệ",
+      "imageCount": 10,
+      "firstSentence": "S151",
+      "lastSentence": "S160"
+    }
+  ],
+  "durationEstimate": {
+    "syllableLikeUnits": 3145,
+    "unitsPerMinuteAssumption": [
+      260,
+      300
+    ],
+    "pauseSeconds": 0.5,
+    "estimatedMinutes": [
+      11.8,
+      13.4
+    ],
+    "measured": false
+  },
+  "policy": "No padding to 200. 40 unused slots reserved for necessary new shots; replacement variants are tracked separately and must not inflate delivered count."
+}

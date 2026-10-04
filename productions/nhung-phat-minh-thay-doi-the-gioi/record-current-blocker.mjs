@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+const base='productions/nhung-phat-minh-thay-doi-the-gioi';
+const failures=[{"id":"I336","error":"image generation failed: http 429 Too Many Requests: Some(\"{\\\"error\\\":{\\\"type\\\":\\\"usage_limit_reached\\\",\\\"message\\\":\\\"The usage limit has been reached\\\",\\\"plan_type\\\":\\\"plus\\\",\\\"resets_at\\\":1791192432,\\\"eligible_promo\\\":null,\\\"limit_window_minutes\\\":null,\\\"resets_in_seconds\\\":72245}}\")","observedAt":"2026-10-04T13:23:08.196Z"}];
+const path=base+'/manifest.json',job=JSON.parse(fs.readFileSync(path,'utf8'));
+const scenes=JSON.parse(fs.readFileSync(base+'/storyboard.json','utf8'));
+const generated=scenes.filter(s=>['generated','verified'].includes(s.status)).length;
+const pending=scenes.filter(s=>s.status==='pending');
+const firstPending=pending[0]?.id??null;
+const retryAfter='2026-10-05T09:27:12.000Z';
+job.blockers=[{stage:'images',type:'usage_limit_reached',httpStatus:429,reason:`Built-in image generation quota reached; ${generated} images saved, ${pending.length} remain. First pending ${firstPending}.`,observedAt:failures[0].observedAt,retryAfter,retryAfterLocal:'2026-10-05 16:27:12 Asia/Ho_Chi_Minh',failedSceneIds:failures.map(f=>f.id),errors:failures}];
+job.stages.images.scopeStatus='blocked';
+job.deliverableStatus={documents:'complete',storyboard:'complete',images:'blocked',generatedImages:generated,remainingImages:pending.length,firstPendingScene:firstPending,visualReview:'skipped-at-user-request',audio:'not-requested',video:'not-requested'};
+fs.writeFileSync(path,JSON.stringify(job,null,2)+'\n');
+fs.appendFileSync(base+'/generation_log.jsonl',JSON.stringify({event:'generation-blocked',at:new Date().toISOString(),generated,pending:pending.length,firstPending,retryAfter,failures})+'\n');
+console.log(JSON.stringify({generated,pending:pending.length,firstPending,retryAfter}));

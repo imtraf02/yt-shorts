@@ -19,10 +19,14 @@ WAV_SUBTYPE = "PCM_24"
 
 def create_vieneu_tts(*, require_cuda: bool = True, max_batch_size: int = 16):
     """Khởi tạo v3 Turbo và xác minh backend thực tế trước khi sinh audio."""
-    import torch
+    try:
+        import torch
+    except ImportError:
+        torch = None
     from vieneu import Vieneu
 
-    if require_cuda and not torch.cuda.is_available():
+    cuda_available = torch is not None and torch.cuda.is_available()
+    if require_cuda and not cuda_available:
         raise RuntimeError(
             "Không tìm thấy CUDA. Pipeline mặc định yêu cầu NVIDIA GPU; "
             "kiểm tra driver, PyTorch CUDA hoặc dùng --allow-cpu có chủ đích."
@@ -32,10 +36,14 @@ def create_vieneu_tts(*, require_cuda: bool = True, max_batch_size: int = 16):
     if require_cuda:
         # Không dựa vào auto-detect: buộc đúng engine được tài liệu VieNeu khuyến nghị.
         kwargs.update(device="cuda", backend="pytorch")
+    else:
+        # CPU diagnostics must also work with VieNeu's torch-free minimal install.
+        kwargs.update(device="cpu", backend="onnx", precision="fp32")
 
     tts = Vieneu(**kwargs)
     backend = str(getattr(tts, "backend", "unknown"))
-    engine_device = str(getattr(getattr(tts, "engine", None), "device", "unknown"))
+    device_object = getattr(getattr(tts, "engine", None), "device", "unknown")
+    engine_device = str(getattr(device_object, "type", device_object))
     sample_rate = int(getattr(tts, "sample_rate", 0))
 
     if require_cuda and (backend != "pytorch" or "cuda" not in engine_device.lower()):
@@ -53,7 +61,7 @@ def create_vieneu_tts(*, require_cuda: bool = True, max_batch_size: int = 16):
             f"VieNeu trả sample rate {sample_rate} Hz; pipeline yêu cầu {SAMPLE_RATE} Hz."
         )
 
-    gpu_name = torch.cuda.get_device_name(0) if torch.cuda.is_available() else None
+    gpu_name = torch.cuda.get_device_name(0) if cuda_available else None
     return tts, {
         "backend": backend,
         "device": engine_device,

@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "slug": "tai-sao-tien-giay-thoi-xua-that-bai",
+  "settings": {
+    "format": "long",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice": "Trúc Ly",
+    "sampleRate": 48000,
+    "style": "Vox-style anime 2D",
+    "backgroundMusic": false
+  },
+  "blockers": [
+    {
+      "stage": "images",
+      "reason": "ImageGen usage_limit_reached (HTTP 429)",
+      "sceneId": "I181",
+      "observedAt": "2026-10-04T13:23:05.768Z",
+      "retryAfter": "2026-10-05T09:27:13.000Z",
+      "resetLocal": "2026-10-05 16:27:13 Asia/Ho_Chi_Minh",
+      "errorFile": "productions/tai-sao-tien-giay-thoi-xua-that-bai/image_generation_error-I181.json"
+    }
+  ],
+  "stages": {
+    "script": {
+      "inputs": [
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/brief.md",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/source.md"
+      ],
+      "outputs": [
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/script.md",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/narration.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/sources.md",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/sentences.json",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/production.md",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/visual_bible.md"
+      ],
+      "checkpoint": {
+        "at": "2026-10-04T13:26:55.102Z",
+        "note": "Text-only production and sentence asset references checked; delivery progress reflects 180 verified images; no audio/video.",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/brief.md",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/source.md"
+          ],
+          "outputs": [
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/script.md",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/narration.txt",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/sources.md",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/sentences.json",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/production.md",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/visual_bible.md"
+          ],
+          "files": {
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/brief.md": "6c83a1f6f4dc9b3ba4e3caac70459dbac7613c5a21a33ec586a8acebb357433b",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/source.md": "a9911c3e3568d9b6d558e766888d07b36389cbb6c76d120e2b56ddbb9373d2ee",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/script.md": "9665a8eac06bcc684aefa5514f5e9c8fb1cdcda504ab426586c34431cabb1a4f",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/narration.txt": "8a640492ae2e3a05758659229eff0c7688abfe98492d37a42c1132c4cc4289e8",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/sources.md": "4fefcf6093dbaae1a3fcd5256ffbeb34beeda3be99a3355048df77be17735745",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/sentences.json": "7db761625e2526b740384efd2b2f82c64c06a187f5c9e48a3194865fd0f90c6f",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/production.md": "5a2b3ba87157a38fb104fb3114862a0cd966d54ca4589b9201a698db00155a86",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/visual_bible.md": "5c94e354e65fec163db52911ec570aae1cc97a058db45ed93f071d6d8120cd21"
+          },
+          "dependencies": {}
+        }
+      },
+      "status": "complete"
+    },
+    "storyboard": {
+      "inputs": [
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/script.md"
+      ],
+      "outputs": [
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/storyboard.json",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/prompts.jsonl",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/image_prompts.md"
+      ],
+      "checkpoint": {
+        "at": "2026-10-04T13:26:55.852Z",
+        "note": "260 IDs, prompts and selected asset paths validated; 180 selected images visually reviewed with per-scene QA; versioned edits preserved.",
+        "snapshot": {
+          "settings": "0ba147294fef62df512efec15e773b9939261fb9fdbd81b22202fc2eef3ece7c",
+          "inputs": [
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/script.md"
+          ],
+          "outputs": [
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/storyboard.json",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/prompts.jsonl",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/image_prompts.md"
+          ],
+          "files": {
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/script.md": "9665a8eac06bcc684aefa5514f5e9c8fb1cdcda504ab426586c34431cabb1a4f",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/storyboard.json": "ca79ea1aee3aa56926e73e5da479e762c215a5335a26c868410b5f9700f21430",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/prompts.jsonl": "d074db511da01303c98c06faf567920ee850e11a072ca801c65bbc4696aeff05",
+            "productions/tai-sao-tien-giay-thoi-xua-that-bai/image_prompts.md": "1104c0869f0444ad96813c1ff1bc54fe8938de0d579b59e8be3965e47beca1be"
+          },
+          "dependencies": {
+            "script": "ba2e3884fd461ca7911ef5596346dc1c8d9d4452f2fdf43b4d1a948850f3cc23"
+          }
+        }
+      },
+      "status": "complete"
+    },
+    "images": {
+      "inputs": [
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/storyboard.json",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I001.actual-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I038.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I059.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I071.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I103.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I104.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I108.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I111.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I143.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I168.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I172.revision-prompt.txt",
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/I173.revision-prompt.txt"
+      ],
+      "outputs": [
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/001.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/002.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/003.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/004.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/005.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/006.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/007.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/008.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/009.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/010.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/011.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/012.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/013.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/014.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/015.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/016.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/017.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/018.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/019.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/020.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/021.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/022.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/023.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/024.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/025.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/026.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/027.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/028.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/029.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/030.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/031.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/032.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/033.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/034.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/035.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/036.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/037.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/038-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/039.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/040.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/041.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/042.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/043.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/044.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/045.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/046.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/047.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/048.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/049.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/050.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/051.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/052.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/053.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/054.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/055.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/056.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/057.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/058.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/059-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/060.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/061.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/062.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/063.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/064.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/065.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/066.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/067.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/068.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/069.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/070.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/071-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/072.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/073.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/074.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/075.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/076.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/077.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/078.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/079.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/080.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/081.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/082.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/083.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/084.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/085.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/086.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/087.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/088.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/089.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/090.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/091.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/092.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/093.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/094.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/095.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/096.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/097.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/098.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/099.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/100.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/101.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/102.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/103-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/104-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/105.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/106.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/107.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/108-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/109.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/110.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/111-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/112.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/113.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/114.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/115.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/116.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/117.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/118.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/119.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/120.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/121.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/122.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/123.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/124.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/125.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/126.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/127.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/128.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/129.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/130.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/131.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/132.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/133.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/134.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/135.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/136.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/137.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/138.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/139.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/140.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/141.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/142.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/143-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/144.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/145.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/146.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/147.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/148.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/149.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/150.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/151.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/152.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/153.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/154.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/155.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/156.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/157.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/158.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/159.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/160.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/161.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/162.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/163.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/164.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/165.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/166.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/167.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/168-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/169.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/170.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/171.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/172-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/173-v2.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/174.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/175.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/176.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/177.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/178.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/179.png",
+        "public/images/tai-sao-tien-giay-thoi-xua-that-bai/180.png"
+      ],
+      "checkpoint": null,
+      "status": "blocked"
+    },
+    "audio": {
+      "inputs": [],
+      "outputs": [],
+      "checkpoint": null,
+      "status": "out-of-scope",
+      "plannedSentenceGenerator": "scripts/generate_tts_sentences.py"
+    },
+    "captions": {
+      "inputs": [],
+      "outputs": [],
+      "checkpoint": null,
+      "status": "out-of-scope"
+    },
+    "composition": {
+      "inputs": [],
+      "outputs": [],
+      "checkpoint": null,
+      "status": "out-of-scope"
+    },
+    "qa": {
+      "inputs": [],
+      "outputs": [
+        "productions/tai-sao-tien-giay-thoi-xua-that-bai/qa.md"
+      ],
+      "checkpoint": null
+    },
+    "render": {
+      "inputs": [],
+      "outputs": [],
+      "checkpoint": null,
+      "status": "out-of-scope"
+    }
+  },
+  "title": "Tại sao tiền giấy thời xưa thất bại?",
+  "scope": {
+    "requested": [
+      "production",
+      "images"
+    ],
+    "excluded": [
+      "audio",
+      "captions",
+      "composition",
+      "render"
+    ],
+    "targetImages": 260
+  },
+  "source": {
+    "file": "productions/tai-sao-tien-giay-thoi-xua-that-bai/source.md",
+    "originalPath": "C:/Users/phamn/Downloads/tai-sao-tien-giay-thoi-xua-that-bai_vox-anime2d.md",
+    "sha256": "a9911c3e3568d9b6d558e766888d07b36389cbb6c76d120e2b56ddbb9373d2ee"
+  },
+  "progress": {
+    "plannedImages": 260,
+    "generatedImages": 180,
+    "verifiedImages": 180,
+    "remainingImages": 80,
+    "nextImage": "I181",
+    "productionComplete": true
+  },
+  "updatedAt": "2026-10-04T13:26:54.333Z",
+  "blockerHistory": [
+    {
+      "stage": "images",
+      "reason": "ImageGen usage_limit_reached (HTTP 429)",
+      "sceneId": "I052",
+      "observedAt": "2026-10-04T06:03:30.620Z",
+      "retryAfter": "2026-10-04T09:24:30.000Z",
+      "resetLocal": "2026-10-04 16:24:30 Asia/Ho_Chi_Minh",
+      "errorFile": "productions/tai-sao-tien-giay-thoi-xua-that-bai/image_generation_error-I052.json",
+      "resolvedAt": "2026-10-04T09:28:07.564Z"
+    }
+  ]
+}

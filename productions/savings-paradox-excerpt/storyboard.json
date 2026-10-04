@@ -7,6 +7,2190 @@
   "visualDirection": "Vox-style anime 2D financial documentary; use clear visual metaphors rather than AI-rendered financial labels.",
   "assets": [
     {
+      "id": "I001",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S001"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/001.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO stands in a busy city suddenly turning quiet, households carrying coin jars toward one large bank, closed shopping bags hanging unused, dramatic editorial wide shot, curious but uneasy mood. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I002",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S002"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/002.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A young family places emergency coins into a secure bank-shaped shelter while storm clouds gather outside, MIO observing nearby, warm interior light, reassuring composition with subtle financial symbolism. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I003",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S003"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/003.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Split-screen composition: one household calmly saving on the left, an entire city of empty stores on the right, MIO between both sides, contrasting warm and cool lighting. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I004",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S004"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/004.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Empty café tables and quiet retail counters in foreground, a distant bank processing FLOW toward factories more slowly, MIO tracing the delay with her pocket watch, cinematic depth. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I005",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S005"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/005.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Small business owner studies an empty storefront while workers leave early, unopened expansion boxes stacked nearby, MIO watches a dimming PULSE overhead, restrained economic-anxiety mood. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I006",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S006"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/006.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: PULSE forms a shrinking circular loop around households and businesses, each segment progressively dimmer, MIO reaches toward the loop as wallets close, clean infographic-style visual metaphor. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I007",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S007"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/007.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO faces two oversized symbolic doors: one safe household vault and one darkened city marketplace, the same coin path leads to opposite outcomes, centered conceptual composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I008",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S008"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/008.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO raises both hands to balance a glowing savings jar and an active factory, FLOW connecting them smoothly, optimistic neutral lighting, visual correction of an oversimplified claim. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I009",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S009"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/009.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A large hourglass separates household deposits above from factories, homes and entrepreneurs below, FLOW passes through the narrow center, MIO studies timing with her pocket watch. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I010",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S010"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/010.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Vast national cityscape funnels countless coin streams into one banking network, MIO in foreground looking toward competing paths of consumption and investment, epic explanatory establishing shot. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I011",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S011"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/011.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Coins enter a bank entrance and reappear as digital glowing pathways across the city, MIO follows the continuous FLOW, clear visual showing money changing form rather than vanishing. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I012",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S012"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/012.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO compares a household asset ledger icon with a matching bank liability card, both linked by one glowing coin chain, clean balance-sheet metaphor without readable text. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I013",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S013"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/013.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Inside a stylized bank, many deposits merge into a network of funding pipes instead of individual locked boxes, MIO points at pooled flows, precise modern-banking visual metaphor. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I014",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S014"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/014.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Cutaway bank balance-sheet scene with cash drawers, liquid asset reservoir, bond-like tokens and loan pathways arranged as balanced compartments, MIO stands centrally as guide. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I015",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S015"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/015.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO crosses out a cartoonishly simple stack of ten coins becoming nine loan coins, replacing it with a layered bank balance-sheet network, educational correction, bold editorial composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I016",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S016"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/016.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A bank approves a home loan and a new glowing deposit appears instantly in the borrower’s account sphere, MIO watches both sides emerge together, clean causal illustration. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I017",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S017"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/017.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: FLOW branches from a bank loan contract icon into a newly formed deposit orb, then circulates toward shops and workers, MIO highlights the branching process. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I018",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S018"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/018.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A banker reaches for an endless loan lever but encounters firm guardrails labeled only by symbols for capital, liquidity, risk and regulation, MIO gestures toward the constraints. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I019",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S019"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/019.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Six symbolic gates surround a bank lending channel: shield, water reservoir, regulatory scale, risk cloud, funding meter and qualified borrower, MIO walks through the constrained pathway. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I020",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S020"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/020.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A bank receives a large inflow of coins while several loan doors remain closed because few borrowers approach, MIO points from abundant funding to limited demand. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I021",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S021"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/021.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: FLOW moves from a bank toward a growing factory with new machines, stocked shelves and workers installing equipment, MIO stands beside the expanding production line. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I022",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S022"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/022.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Three household scenes fan out from a bank: home keys, university books and a durable appliance, each connected by responsible credit lines, MIO evaluates affordability. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I023",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S023"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/023.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: LIQUIDITY reservoir inside a bank rises while an empty queue of borrowers stands outside, MIO watches the level climb, calm but stagnant atmosphere. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I024",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S024"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/024.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Several banks stop waving for depositors as their LIQUIDITY reservoirs fill, small interest-rate meter symbols tilt downward, MIO compares quieter competition across branches. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I025",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S025"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/025.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO connects a savings jar to a productive factory only when a glowing puzzle piece marked by a lightbulb-shaped investment opportunity fits between them, strong explanatory composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I026",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S026"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/026.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A sturdy bank foundation is built from many small household deposit blocks, supporting long credit bridges toward homes and businesses, MIO inspects the stable structure. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I027",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S027"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/027.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Split composition shows a calm deposit-fed bank on one side and turbulent wholesale funding waves on the other, MIO stands between stable and volatile financing channels. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I028",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S028"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/028.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A descending funding-cost gauge feeds into competing banks offering cheaper loan paths to small businesses, MIO watches the pass-through arrows, balanced analytical scene. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I029",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S029"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/029.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO stands before four control dials symbolizing central bank policy, competition, credit risk and loan opportunities, each altering a lending-rate pathway differently. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I030",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S030"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/030.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A small factory replaces old equipment with efficient modern machines financed by FLOW, workers produce more goods with less effort, MIO observes rising productivity symbols. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I031",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S031"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/031.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: FLOW connects household savings to a bank and then to a new storefront where workers are being hired, MIO follows the chain, warm optimistic neighborhood scene. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I032",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S032"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/032.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO plants coin-shaped seeds that grow into machines, solar panels and workshops, a visual timeline from present savings to future productive capacity, sunrise lighting. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I033",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S033"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/033.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Long horizon road where savings jars gradually transform into infrastructure and productive capital, MIO walking forward toward a brighter city, confident but measured tone. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I034",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S034"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/034.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A family emergency fund shield absorbs sudden storm symbols while expensive debt traps remain outside, MIO holds an umbrella nearby, reassuring household-finance metaphor. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I035",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S035"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/035.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: One family stands safely behind a strong balance-sheet wall during a market storm while another fragile pile of assets tips, MIO emphasizes resilience rather than panic. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I036",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S036"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/036.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A bank is anchored by many small retail deposit ropes while volatile large funding balloons drift away in strong wind, MIO secures the stable anchor lines. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I037",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S037"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/037.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Close-up of MIO beside a calm bank foundation while turbulent arrows swirl beyond it, visual emphasis through composition rather than text, minimalist dramatic pause. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I038",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S038"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/038.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Split-screen bank: calm diversified depositors on one side, panicked smartphone-driven withdrawals on the other, MIO compares stability and run dynamics, high-contrast composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I039",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S039"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/039.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A gradual staircase of long-term savings contrasts with a sudden wall of closed wallets across a city, MIO points to the difference in timing and coordination. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I040",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S040"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/040.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO stands at the edge of a bright savings path that suddenly drops into a darker economic valley, PULSE fading ahead, cinematic transition into the paradox chapter. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I041",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S041"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/041.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: One million stylized households across a city simultaneously close spending envelopes and redirect coins toward banks, MIO watches the synchronized shift from a rooftop, vast infographic panorama. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I042",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S042"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/042.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Three domestic vignettes show canceled restaurant dining, postponed travel luggage and an unbought appliance, each coin redirected to savings, MIO links the small choices together. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I043",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S043"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/043.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Tiny household spending cuts combine into one large missing revenue wave hitting a restaurant, travel desk and electronics shop, MIO visualizes aggregation with converging arrows. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I044",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S044"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/044.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Business owners shut down procurement conveyors, delay construction plans and dim office lights, MIO follows the defensive cost-cutting sequence, subdued editorial palette. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I045",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S045"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/045.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A chain of connected suppliers turns dim one by one as demand falls downstream, MIO traces the contagion across factories and services, clean network infographic composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I046",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S046"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/046.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: PULSE spirals downward through consumers, shops, workers and suppliers, each loop smaller than the previous one, MIO stands beside the shrinking economic multiplier. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I047",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S047"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/047.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A worker leaves a quiet shop early with a smaller pay envelope symbol, family waiting at home, MIO observes the income channel with empathetic but non-dramatic framing. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I048",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S048"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/048.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Reduced household spending sends a dim arrow toward another small business, where empty chairs appear, MIO connects the second-round effect through PULSE. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I049",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S049"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/049.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A citywide income reservoir slowly drains as many PULSE loops weaken simultaneously, MIO stands beside a descending aggregate meter without readable numbers. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I050",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S050"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/050.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Households try filling savings jars from smaller income streams, but the jars stop rising despite stronger effort, MIO highlights the paradox with a restrained visual metaphor. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I051",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S051"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/051.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Many households pull harder on savings levers while a national savings gauge barely moves because income shrinks, MIO watches the mismatch, crisp Vox-style visual logic. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I052",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S052"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/052.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Recessionary city with quiet shops, anxious households and idle factories, synchronized saving arrows intensify the slowdown, MIO stands amid a dim PULSE network. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I053",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S053"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/053.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A fragile green recovery sprout is shaded by a large umbrella of precautionary savings, MIO tries to let light reach it, symbolic recession-recovery composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I054",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S054"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/054.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO pushes away an oversized absolute-warning symbol and replaces it with a branching decision tree, showing different outcomes depending on investment response and economic conditions. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I055",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S055"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/055.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A spending arrow shrinks on one side while FLOW expands toward construction, machinery and entrepreneurship on the other, MIO balances both forces on a scale. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I056",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S056"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/056.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A postponed household car purchase visually transforms into factory machinery through FLOW, MIO stands between consumer and producer uses of resources, nuanced reallocation metaphor. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I057",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S057"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/057.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Productive capital grows into efficient factories, infrastructure and higher household living standards over a long timeline, MIO walks along the progression under bright future lighting. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I058",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S058"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/058.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO stands before a junction where savings FLOW can enter productive investment, idle liquidity or asset speculation, three distinct pathways shown as editorial infographic branches. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I059",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S059"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/059.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A bank overflows with deposit funding while business owners face cloudy demand forecasts and decline loan offers, MIO emphasizes weak investment appetite rather than scarce funding. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I060",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S060"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/060.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Numerous glowing loan arrows wait at a bank exit while only a few viable project doors are open, MIO surveys the imbalance between funding supply and opportunities. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I061",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S061"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/061.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Bank branches once competing for savers gradually lower their promotional flags and sit beside full LIQUIDITY reservoirs, MIO watches competition soften. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I062",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S062"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/062.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Deposit-rate dial slopes downward beside an easing central-bank lever and abundant bank liquidity, MIO connects both influences with simple arrows, no readable labels. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I063",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S063"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/063.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A household savings jar grows more slowly while a previously bright interest reward glow fades, MIO compares delayed consumption with diminishing return. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I064",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S064"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/064.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Falling deposit-return glow causes some households to reopen wallets and return to shops, PULSE brightens slightly, MIO illustrates the stabilizing feedback mechanism. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I065",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S065"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/065.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Anxious households keep filling bank jars despite tiny interest sparks, storm-cloud expectations hovering above them, MIO studies persistent precautionary saving behavior. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I066",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S066"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/066.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A central-bank rate lever moves downward while shoppers and firms remain hesitant behind closed doors, MIO watches weak transmission through a nearly frozen PULSE. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I067",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S067"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/067.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO stands beside a deep pool labeled only through visual symbolism where low-rate arrows sink without reviving spending, stylized liquidity-trap metaphor, cool muted palette. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I068",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S068"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/068.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO separates a rising deposit jar from a more complex economic dashboard of weak demand, low rates and expectations, correcting an overly simple causal link. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I069",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S069"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/069.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO untangles a knot of multiple economic arrows rather than following a single thick arrow, balanced editorial graphic emphasizing multi-causal reasoning. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I070",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S070"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/070.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Four mini-panels show rising deposits alongside booming factories, recession, rising prices and falling prices, MIO centered as a neutral guide comparing contexts. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I071",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S071"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/071.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A savings balance stack grows taller while a shopping basket rises in price even faster, MIO compares nominal growth with purchasing power, clean visual contrast. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I072",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S072"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/072.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO examines a return stream passing through two filters symbolizing inflation and fees before reaching a smaller real purchasing-power basket, precise financial infographic scene. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I073",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S073"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/073.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A coin stack gains one step while a grocery basket climbs an even taller staircase, MIO compares the unequal movement, no numbers visible in artwork. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I074",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S074"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/074.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A modest interest glow exceeds an even smaller inflation flame, leaving a positive purchasing-power spark, MIO points to the difference, minimalist explanatory composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I075",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S075"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/075.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO balances two gauges—deposit return and inflation—on a scale, rejecting a one-sided conclusion, clean neutral colors and clear visual logic. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I076",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S076"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/076.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Crowds voluntarily enter bank branches while interest reward lights dim, MIO watches abundant deposit supply reduce the need for aggressive pricing. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I077",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S077"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/077.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Central-bank lever and competing bank towers jointly feed into a deposit-rate gauge, MIO traces both channels, clean institutional infographic composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I078",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S078"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/078.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Multiple arrows from policy, competition, liquidity and loan demand converge on one deposit-rate dial, MIO highlights the multi-factor explanation across the banking system. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I079",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S079"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/079.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A cheap funding stream reaches a loan desk, yet a separate risk shield adds a premium layer before credit reaches a borrower, MIO explains pricing complexity. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I080",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S080"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/080.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Bank liquidity is abundant, but a fragile business with warning symbols faces a higher-risk loan gate, MIO stands between liquidity and creditworthiness, sober analytical scene. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I081",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S081"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/081.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Quiet stores lower symbolic price tags while unsold goods remain on shelves, ICE begins creeping along windows, MIO observes weak demand pushing sellers toward discounts. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": null,
+        "reviewedAt": null,
+        "notes": null
+      }
+    },
+    {
+      "id": "I082",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S082"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/082.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: One isolated sale tag contrasts with an entire city covered by spreading ICE, MIO distinguishes a local discount from economy-wide persistent price decline. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I083",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S083"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/083.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO happily fills a shopping basket with more goods as prices visually shrink, bright opening mood before a darker economic consequence emerges in the background. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I084",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S084"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/084.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A household pauses before buying a large appliance, looking toward a future version with a smaller price symbol, ICE spreading beneath the shopping cart, MIO watches hesitation. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I085",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S085"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/085.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Deferred purchases leave stores emptier, ICE thickens around retail counters, MIO traces a feedback arrow from waiting consumers back to weaker current demand. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I086",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S086"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/086.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A company dims a new-investment blueprint and shrinks wage envelopes as revenue stream narrows, MIO stands beside the weakening corporate cash-flow channel. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I087",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S087"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/087.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A fixed debt boulder grows visually heavier as household income and price-level platforms sink, MIO explains the rising real burden with a clear scale metaphor. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I088",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S088"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/088.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Cheap goods sit behind frosted glass while workers, firms and debtors struggle outside, ICE dominates the scene, MIO highlights the hidden macroeconomic costs. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I089",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S089"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/089.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO separates a large savings bank from an ICE-covered economy with a broken causal arrow, emphasizing that deposits alone do not guarantee deflation. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I090",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S090"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/090.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Multiple symbolic forces—factory capacity, wages, credit, expectations, central-bank lever and external shock waves—surround the price level, MIO connects the interacting causes. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I091",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S091"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/091.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A shrinking consumption arrow is offset by a growing investment arrow toward construction and machinery, MIO balances both sides of aggregate demand. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I092",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S092"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/092.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Public infrastructure projects light up as private shopping dims, workers move onto construction sites, MIO shows one possible demand offset without political symbolism. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I093",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S093"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/093.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Domestic shops dim while cargo ships and export factories brighten, outward FLOW enters from global markets, MIO shows foreign demand supporting production. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I094",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S094"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/094.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Households, firms and government all pull back simultaneously, leaving a dark empty center in PULSE, MIO stands beside the missing source of demand. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I095",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S095"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/095.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: MIO compares several economic clocks showing boom, recession and recovery, each paired with a different savings balance, nuanced context-dependent infographic composition. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I096",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S096"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/096.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Split-screen: overheated red city cools as spending eases, while a cold blue recession warms as spending returns, MIO mediates between opposite conditions. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I097",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S097"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/097.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A savings cushion protects a household while the same coin stream also feeds a national PULSE gauge, MIO shows the micro and macro roles simultaneously. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I098",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S098"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/098.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Four-panel editorial composition shows saver, bank, business owner and postponed shopper linked through FLOW and PULSE, MIO at the center connecting their decisions. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I099",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S099"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/099.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Interconnected household, bank and business balance-sheet cards form a glowing network across the city, MIO walks through the web, replacing the single-vault metaphor. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I100",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S100"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/100.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Many depositors enter a bank while internal LIQUIDITY pipes and asset networks remain active, MIO reveals the system behind the façade, transition toward bank stability. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I101",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S101"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/101.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: A bank balance sheet expands on both sides as new deposit liabilities and matching assets appear together, MIO points to the paired growth, clean accounting metaphor. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I102",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S102"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/102.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: LIQUIDITY reservoir sends steady payment streams to ATMs, merchants and transfers while most bank assets remain elsewhere, MIO supervises daily liquidity management. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I103",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S103"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/103.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Cutaway bank shows liquid assets near the front and long-term mortgage and business-loan blocks deeper inside, MIO compares different maturities. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
+      "id": "I104",
+      "chapterId": "C01",
+      "sentenceIds": [
+        "S104"
+      ],
+      "kind": "generated-image",
+      "file": "public/images/savings-paradox-excerpt/104.png",
+      "prompt": "Use case: scientific-educational. Asset type: full-frame scene for a Vietnamese financial documentary explainer. Primary request: Short-term depositor clocks sit above long-term loan bridges inside a bank, MIO highlights the maturity mismatch with cautious lighting and clear layered depth. Style/medium: Vox-style explainer illustration, polished 2D anime art, clean cel-shaded line art, flat vibrant colors, editorial infographic composition, soft paper-cutout layering, cinematic high-contrast lighting, restrained modern financial symbols, clear layered depth, no text, no letters, no numbers, no logos, no watermark, landscape 16:9. Composition/framing: one coherent wide 16:9 scene, clear focal point and generous safe negative space for editor-added Vietnamese captions. Constraints: no readable data, dates, amounts, signage or charts; no watermark; no distorted hands; never create a contact sheet.",
+      "overlayText": [],
+      "timing": {
+        "startMs": null,
+        "endMs": null
+      },
+      "status": "generated",
+      "qa": {
+        "generatedAt": "2026-10-01",
+        "reviewedAt": null,
+        "notes": "Generated with built-in ImageGen; visual QA pending."
+      }
+    },
+    {
       "id": "I105",
       "chapterId": "C06",
       "sentenceIds": [
@@ -20,11 +2204,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -41,11 +2225,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -62,11 +2246,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -83,11 +2267,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -104,11 +2288,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -125,11 +2309,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -146,11 +2330,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -167,11 +2351,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -188,11 +2372,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -209,11 +2393,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -230,11 +2414,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -251,11 +2435,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -272,11 +2456,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -293,11 +2477,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -314,11 +2498,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -335,11 +2519,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -356,11 +2540,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -377,11 +2561,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -398,11 +2582,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -419,11 +2603,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -440,11 +2624,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -461,11 +2645,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -482,11 +2666,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -503,11 +2687,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -524,11 +2708,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -545,11 +2729,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -566,11 +2750,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -587,11 +2771,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -608,11 +2792,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -629,11 +2813,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -650,11 +2834,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -671,11 +2855,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -692,11 +2876,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -713,11 +2897,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -734,11 +2918,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -755,11 +2939,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -776,11 +2960,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -797,11 +2981,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -818,11 +3002,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -839,11 +3023,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -860,11 +3044,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -881,11 +3065,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -902,11 +3086,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -923,11 +3107,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -944,11 +3128,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -965,11 +3149,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -986,11 +3170,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1007,11 +3191,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1028,11 +3212,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1049,11 +3233,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1070,11 +3254,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1091,11 +3275,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1112,11 +3296,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1133,11 +3317,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1154,11 +3338,11 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     },
     {
@@ -1175,13 +3359,12 @@
         "startMs": null,
         "endMs": null
       },
-      "status": "pending",
+      "status": "generated",
       "qa": {
-        "generatedAt": null,
+        "generatedAt": "2026-10-01",
         "reviewedAt": null,
-        "notes": null
+        "notes": "Generated with built-in ImageGen; visual QA pending."
       }
     }
   ]
 }
-

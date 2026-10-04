@@ -1,0 +1,68 @@
+{
+  "targetImages": 170,
+  "maximumImages": 200,
+  "generatedImageCount": 170,
+  "chapterAllocation": [
+    {
+      "id": "C01",
+      "count": 10
+    },
+    {
+      "id": "C02",
+      "count": 15
+    },
+    {
+      "id": "C03",
+      "count": 20
+    },
+    {
+      "id": "C04",
+      "count": 15
+    },
+    {
+      "id": "C05",
+      "count": 15
+    },
+    {
+      "id": "C06",
+      "count": 15
+    },
+    {
+      "id": "C07",
+      "count": 18
+    },
+    {
+      "id": "C08",
+      "count": 15
+    },
+    {
+      "id": "C09",
+      "count": 16
+    },
+    {
+      "id": "C10",
+      "count": 16
+    },
+    {
+      "id": "C11",
+      "count": 15
+    }
+  ],
+  "durationEstimate": {
+    "textUnits": 2429,
+    "unitsPerMinuteAssumption": [
+      220,
+      270
+    ],
+    "pauseSeconds": 0.5,
+    "estimatedMinutes": [
+      10.4,
+      12.5
+    ],
+    "measured": false,
+    "originalClaimMinutes": [
+      17,
+      20
+    ]
+  }
+}

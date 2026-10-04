@@ -1,0 +1,212 @@
+[
+  {
+    "id": "S026",
+    "before": "Khi đường sá tốt hơn, giá trị của bánh xe lại tăng theo cấp số nhân.",
+    "after": "Khi đường sá tốt hơn, bánh xe càng hữu ích cho vận chuyển hàng hóa và con người.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S028",
+    "before": "Ngay cả ổ cứng, turbine hay robot hiện đại cũng vẫn dùng ý tưởng kiểm soát chuyển động quay.",
+    "after": "Ngay cả ổ cứng, tua-bin hay robot hiện đại cũng vẫn dùng ý tưởng kiểm soát chuyển động quay.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S120",
+    "before": "Lần đầu tiên, nền văn minh có một cỗ máy nhiệt có thể nhân sức người trên quy mô khổng lồ.",
+    "after": "Động cơ hơi nước đưa máy nhiệt vào sản xuất trên quy mô lớn, mở rộng mạnh khả năng làm việc cơ học của con người.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S132",
+    "before": "Dòng điện xoay chiều cho phép truyền công suất hiệu quả hơn ở khoảng cách xa nhờ biến áp.",
+    "after": "Dòng điện xoay chiều thuận tiện cho việc thay đổi điện áp bằng máy biến áp, giúp giảm tổn thất khi truyền công suất đi xa.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S165",
+    "before": "Nhưng cuộc cách mạng ban đầu rất đơn giản: con người lần đầu gửi được giọng nói của mình đi xa.",
+    "after": "Cuộc cách mạng ban đầu rất đơn giản: giọng nói có thể được truyền bằng tín hiệu điện đến người ở xa.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S167",
+    "before": "Cholera và thương hàn từng bùng phát dữ dội trong những đô thị thiếu vệ sinh.",
+    "after": "Bệnh tả và thương hàn từng bùng phát dữ dội trong những đô thị thiếu vệ sinh.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S172",
+    "before": "Khử trùng bằng chlorine sau này giúp tiêu diệt nhiều mầm bệnh còn lại.",
+    "after": "Khử trùng bằng clo sau này giúp tiêu diệt nhiều mầm bệnh còn lại.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S175",
+    "before": "Cống tách chất thải khỏi nguồn nước sinh hoạt, cắt một đường lây bệnh quan trọng.",
+    "after": "Mạng cống thu gom chất thải giúp bảo vệ nguồn nước sinh hoạt khi được thiết kế và vận hành phù hợp.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S188",
+    "before": "Thịt, sữa, rau và vaccine có thể đi xa hơn mà vẫn giữ chất lượng.",
+    "after": "Thịt, sữa, rau và vắc-xin có thể đi xa hơn mà vẫn giữ chất lượng.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S191",
+    "before": "Y tế cũng dựa vào chuỗi lạnh để bảo quản một số thuốc, máu và vaccine.",
+    "after": "Y tế cũng dựa vào chuỗi lạnh để bảo quản một số thuốc, máu và vắc-xin.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S196",
+    "before": "Trước vaccine, nhiều dịch bệnh chỉ có thể được đối phó sau khi con người đã mắc bệnh.",
+    "after": "Trước vắc-xin, nhiều dịch bệnh chỉ có thể được đối phó sau khi con người đã mắc bệnh.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S197",
+    "before": "Ý tưởng gây miễn dịch có lịch sử lâu hơn vaccine hiện đại, với các hình thức variolation từng được dùng chống đậu mùa.",
+    "after": "Ý tưởng gây miễn dịch có lịch sử lâu hơn vắc-xin hiện đại, với các hình thức chủng đậu từng được dùng chống đậu mùa.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S198",
+    "before": "Năm 1796, Edward Jenner thử dùng vật liệu từ cowpox để tạo bảo vệ chống smallpox.",
+    "after": "Năm 1796, Edward Jenner thử dùng vật liệu từ bệnh đậu bò để tạo bảo vệ chống bệnh đậu mùa.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S203",
+    "before": "Hiệu quả cộng đồng phụ thuộc vào bệnh, loại vaccine và mức độ bao phủ chứ không phải một con số cố định cho mọi trường hợp.",
+    "after": "Hiệu quả cộng đồng phụ thuộc vào bệnh, loại vắc-xin và mức độ bao phủ chứ không phải một con số cố định cho mọi trường hợp.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S204",
+    "before": "Trong thế kỷ mười chín và hai mươi, vaccine lần lượt xuất hiện cho nhiều bệnh truyền nhiễm.",
+    "after": "Trong thế kỷ mười chín và hai mươi, vắc-xin lần lượt xuất hiện cho nhiều bệnh truyền nhiễm.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S205",
+    "before": "WHO tuyên bố smallpox bị xóa sổ toàn cầu vào năm 1980.",
+    "after": "WHO tuyên bố bệnh đậu mùa được thanh toán trên toàn cầu vào năm 1980.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S206",
+    "before": "Đây vẫn là bệnh ở người đầu tiên được xóa sổ hoàn toàn nhờ nỗ lực y tế toàn cầu.",
+    "after": "Đây là bệnh truyền nhiễm ở người đầu tiên được thanh toán toàn cầu nhờ một chiến dịch y tế phối hợp.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S208",
+    "before": "Công nghệ vaccine tiếp tục thay đổi từ vaccine sống giảm độc lực đến protein, vector và mRNA.",
+    "after": "Công nghệ vắc-xin tiếp tục thay đổi từ vắc-xin sống giảm độc lực đến protein, vector và mRNA.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S211",
+    "before": "Cây trồng cần nitrogen, nhưng phần lớn nitrogen trong khí quyển tồn tại ở dạng chúng không dùng trực tiếp được.",
+    "after": "Cây trồng cần nitơ, nhưng phần lớn nitơ trong khí quyển tồn tại ở dạng chúng không dùng trực tiếp được.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S212",
+    "before": "Trước thế kỷ hai mươi, nông nghiệp phụ thuộc nhiều vào phân chuồng, cây họ đậu và các mỏ nitrate tự nhiên.",
+    "after": "Trước thế kỷ hai mươi, nông nghiệp phụ thuộc nhiều vào phân chuồng, cây họ đậu và các mỏ nitrat tự nhiên.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S213",
+    "before": "Fritz Haber chứng minh có thể tổng hợp ammonia từ nitrogen và hydrogen ở điều kiện thích hợp.",
+    "after": "Fritz Haber chứng minh có thể tổng hợp amoniac từ nitơ và hiđrô ở điều kiện thích hợp.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S214",
+    "before": "Carl Bosch và BASF biến phản ứng đó thành một quy trình công nghiệp quy mô lớn.",
+    "after": "Carl Bosch cùng đội ngũ tại BASF đưa phản ứng đó lên quy mô công nghiệp.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S217",
+    "before": "Nông dân có thể bổ sung nitrogen cho đất với quy mô chưa từng có.",
+    "after": "Nông dân có thể bổ sung nitơ cho đất với quy mô chưa từng có.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S219",
+    "before": "Nhiều ước tính cho thấy một phần rất lớn dân số hiện đại phụ thuộc gián tiếp vào nitrogen cố định công nghiệp.",
+    "after": "Nitơ cố định công nghiệp trở thành một nguồn đầu vào quan trọng cho sản xuất lương thực hiện đại.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S221",
+    "before": "Phân nitrogen dư thừa có thể gây ô nhiễm nước và tạo khí nhà kính nitrous oxide.",
+    "after": "Phân đạm dư thừa có thể gây ô nhiễm nước và làm tăng phát thải khí nhà kính đinitơ oxit.",
+    "reason": "Clarify Vietnamese technical terminology"
+  },
+  {
+    "id": "S222",
+    "before": "Cùng một ammonia còn có thể dùng để sản xuất thuốc nổ.",
+    "after": "Amoniac còn là nguyên liệu để sản xuất một số chất dùng trong thuốc nổ.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S224",
+    "before": "Ngày nay ngành ammonia đang tìm cách giảm phát thải bằng hydrogen carbon thấp và năng lượng sạch hơn.",
+    "after": "Ngày nay ngành amoniac đang tìm cách giảm phát thải bằng hiđrô carbon thấp và năng lượng sạch hơn.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S238",
+    "before": "Xe điện ngày nay thay động cơ đốt trong bằng motor và pin nhưng vẫn kế thừa hạ tầng giao thông do ô tô tạo ra.",
+    "after": "Xe điện ngày nay thay động cơ đốt trong bằng động cơ điện và pin nhưng vẫn kế thừa hạ tầng giao thông do ô tô tạo ra.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S243",
+    "before": "Anh em Wright nghiên cứu cánh, chế tạo hầm gió và thử glider trước khi gắn động cơ.",
+    "after": "Anh em Wright nghiên cứu cánh, chế tạo hầm gió và thử tàu lượn trước khi gắn động cơ.",
+    "reason": "Normalize Vietnamese terminology"
+  },
+  {
+    "id": "S244",
+    "before": "Ngày 17 tháng 12 năm 1903, Wright Flyer thực hiện những chuyến bay có động cơ và điều khiển nổi tiếng tại Kitty Hawk.",
+    "after": "Ngày 17 tháng 12 năm 1903, Wright Flyer thực hiện các chuyến bay có động cơ và điều khiển tại Kill Devil Hills, gần Kitty Hawk.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S302",
+    "before": "Nghiên cứu packet switching cho thấy dữ liệu có thể được chia thành gói và đi qua mạng linh hoạt hơn.",
+    "after": "Nghiên cứu chuyển mạch gói tin cho thấy dữ liệu có thể được chia thành gói và đi qua mạng linh hoạt hơn.",
+    "reason": "Clarify Vietnamese technical terminology"
+  },
+  {
+    "id": "S321",
+    "before": "Hệ 24 vệ tinh đạt trạng thái hoạt động đầy đủ vào năm 1993 theo lịch sử NASA.",
+    "after": "GPS đạt khả năng hoạt động ban đầu năm 1993 và khả năng hoạt động đầy đủ năm 1995.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S322",
+    "before": "Mỗi vệ tinh phát vị trí và thời gian cực chính xác từ đồng hồ nguyên tử.",
+    "after": "Mỗi vệ tinh phát thông tin quỹ đạo và thời gian chính xác, được duy trì nhờ đồng hồ nguyên tử.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S345",
+    "before": "Trong lòng bàn tay ngày nay là bánh xe của thông tin: một công cụ nhỏ nhưng kéo theo cả một nền kinh tế mới.",
+    "after": "Trong lòng bàn tay ngày nay là một công cụ nhỏ, kết nối nhiều công nghệ và kéo theo cả một nền kinh tế mới.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  },
+  {
+    "id": "S355",
+    "before": "Chỉ khi bước cuối xảy ra, công nghệ mới thật sự đổi đời sống hàng triệu người.",
+    "after": "Khi công nghệ được sản xuất, tiếp cận rộng rãi và kết nối vào các hệ thống hỗ trợ, tác động của nó có thể lan tới hàng triệu người.",
+    "reason": "Clarify date, mechanism, scope or unsupported absolute"
+  }
+]

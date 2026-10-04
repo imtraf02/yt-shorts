@@ -12,3 +12,17 @@ temp_*.wav
 *.tmp
 
 build
+
+# Local VieNeu runtime and downloaded model/package caches
+/VieNeu-TTS/.venv/
+/VieNeu-TTS/.cache/
+
+# Separate upstream ZeroTTS checkout, runtime and model cache
+/ZeroTTS/
+
+# Large public assets are backed up separately (Google Drive).
+/public/
+
+# Local Python bytecode caches
+__pycache__/
+*.py[cod]

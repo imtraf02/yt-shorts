@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-10-03T18:42:46.082Z",
+  "passed": true,
+  "sceneCount": 360,
+  "sentenceCount": 360,
+  "chapterCount": 12,
+  "existingImages": 360,
+  "verifiedImages": 211,
+  "remainingImages": 0,
+  "firstPendingScene": null,
+  "blockers": [],
+  "errors": []
+}

@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "slug": "long-video-outro",
+  "settings": {
+    "format": "long",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice": "Trúc Ly",
+    "sampleRate": 48000,
+    "style": "Centered 5-second channel signature with blue/green animated aurora backdrop",
+    "backgroundMusic": false,
+    "audioMode": "silent",
+    "durationInFrames": 150,
+    "compositionId": "LongVideoOutro",
+    "brandConfig": "src/data/long-video-outro/brand.json",
+    "characterPositions": {
+      "lamLam": {
+        "left": 40,
+        "bottom": 20,
+        "height": 180
+      },
+      "traXanh": {
+        "right": 40,
+        "bottom": 20,
+        "height": 180
+      }
+    },
+    "outroDisclaimer": false,
+    "userOverrides": [
+      "Maximum 5 seconds",
+      "Remove video recommendation cards",
+      "Remove illustration disclaimer in this outro only",
+      "Lam Lam bottom-left; Trà Xanh bottom-right; centered channel identity",
+      "Use supplied avatar and channel name Lam Lam & Trà Xanh",
+      "Character animations: bow only"
+    ]
+  },
+  "blockers": [
+    {
+      "stage": "optional-voiceover",
+      "reason": "VieNeu-TTS directory is empty; configured VieNeu-TTS/.venv/Scripts/python.exe does not exist.",
+      "observedAt": "2026-10-02T18:27:21.553Z",
+      "retryAfter": null
+    }
+  ],
+  "stages": {
+    "script": {
+      "inputs": [
+        "productions/long-video-outro/brief.md"
+      ],
+      "outputs": [
+        "productions/long-video-outro/script.md",
+        "productions/long-video-outro/narration.txt",
+        "productions/long-video-outro/sources.md"
+      ],
+      "checkpoint": {
+        "at": "2026-10-03T09:26:45.777Z",
+        "note": "Original generic outro copy reviewed against brief and narration; no factual claims.",
+        "snapshot": {
+          "settings": "95408b45571e97eb219bb9e7845fec9ee26e97d20d3414ec8d78aceffc89758f",
+          "inputs": [
+            "productions/long-video-outro/brief.md"
+          ],
+          "outputs": [
+            "productions/long-video-outro/script.md",
+            "productions/long-video-outro/narration.txt",
+            "productions/long-video-outro/sources.md"
+          ],
+          "files": {
+            "productions/long-video-outro/brief.md": "13029e9284e7ef6a01fab583ae54d9536cafcc5035d05fcfd2f436471b47e2ee",
+            "productions/long-video-outro/script.md": "e79a22976250c5d91b4adda207931bf20c942b86a4e0f1f598d780d900166ca4",
+            "productions/long-video-outro/narration.txt": "e5664949126bc661e20508263c31d01454c600404e448027e958d9255450389c",
+            "productions/long-video-outro/sources.md": "d5c5bd3f000091d68e6ed86bf86093e8b8cefe8155f9b64a6dbdff40357bf96d"
+          },
+          "dependencies": {}
+        }
+      }
+    },
+    "storyboard": {
+      "inputs": [
+        "productions/long-video-outro/script.md"
+      ],
+      "outputs": [
+        "productions/long-video-outro/storyboard.json"
+      ],
+      "checkpoint": {
+        "at": "2026-10-03T09:26:45.848Z",
+        "note": "Five-second centered channel identity with user avatar, animated blue/green backdrop and bow-only corner characters.",
+        "snapshot": {
+          "settings": "95408b45571e97eb219bb9e7845fec9ee26e97d20d3414ec8d78aceffc89758f",
+          "inputs": [
+            "productions/long-video-outro/script.md"
+          ],
+          "outputs": [
+            "productions/long-video-outro/storyboard.json"
+          ],
+          "files": {
+            "productions/long-video-outro/script.md": "e79a22976250c5d91b4adda207931bf20c942b86a4e0f1f598d780d900166ca4",
+            "productions/long-video-outro/storyboard.json": "8008a8bd2606288aa43c266e6268a090cf47285112e0e91dccfb00f9fe0e1135"
+          },
+          "dependencies": {
+            "script": "611e3d6d89c6081566cbb956fc9e94ea7752377583217dcbae602f1d1cfbdb14"
+          }
+        }
+      }
+    },
+    "images": {
+      "inputs": [
+        "productions/long-video-outro/storyboard.json"
+      ],
+      "outputs": [
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png",
+        "public/branding/long-video-outro/avatar.png"
+      ],
+      "checkpoint": {
+        "at": "2026-10-03T09:26:45.948Z",
+        "note": "User avatar copy hash matches original; two reviewed bow sets, 12 animation PNGs and one avatar PNG.",
+        "snapshot": {
+          "settings": "95408b45571e97eb219bb9e7845fec9ee26e97d20d3414ec8d78aceffc89758f",
+          "inputs": [
+            "productions/long-video-outro/storyboard.json"
+          ],
+          "outputs": [
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png",
+            "public/branding/long-video-outro/avatar.png"
+          ],
+          "files": {
+            "productions/long-video-outro/storyboard.json": "8008a8bd2606288aa43c266e6268a090cf47285112e0e91dccfb00f9fe0e1135",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json": "61d51a6e4d5b069a796b49ec5a5e1f8b989782e78c95eee4988414f7a45fc8ac",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png": "ea093c3296dbccbb288a4332f19d31bfe92db44080ec1c940a9866cafc9f3993",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png": "c9c702c48d1254dd228ae91a0f5fa52d8b3e6f3a160970da6e6beea24919b870",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png": "b17085d68e075d2e9c86446c65795ff8f33187c366e453efa377e232b6fd6bfd",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png": "aff020df852f782508ce59eb6dfcc6e419a22561832aca457371af7c50b63195",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png": "760fdbde172d2cc0dd90ea5eacb182dba7376c65e2b9b48d4b6ea376b77a13c5",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png": "bdd85c31cc0ec854178f0a6bdd77881920977462003aa24833c59ddd6d74bdbe",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json": "c8e57cc517bedec0f4e1ea2b4abe8a99bb2b12967b3b716ae6cc75b7f84f581f",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png": "f0db4b80b331ed9f1ed1dcbf99b82f1fed05c80a2c6e454070fa7fd7995c6f0e",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png": "3455ceda31276f69e922ffe2019d80186ca4b655f578939f09f5457c00d5bd2c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png": "5580e80b97a69a4caf75379b53c8d73b41c70abfcf0b777e7fa4b1f1c5629157",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png": "448f03d45f02b404b665b795fe6326ebed72759ced4f4c261d1acd9efcc2850c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png": "b8a5ae610b43550b41ad2889772ce56335a46e05cc037c1ff54d34b8b1ef8b8c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png": "e2fd26da6fa3e536f8699d5ac18e22718ea47da0c1512b7790c0aeefb54dc323",
+            "public/branding/long-video-outro/avatar.png": "7b10a3fdab2c2fe93ebf4c16dc27c7dfaa1e6dd540937f30f10476243a989851"
+          },
+          "dependencies": {
+            "storyboard": "a674d9917f86add944718fe498d26fd23b75a7aeef894070e15087b8be0d78e3"
+          }
+        }
+      }
+    },
+    "audio": {
+      "inputs": [
+        "productions/long-video-outro/narration.txt",
+        "scripts/generate_tts_sentences.py",
+        "scripts/tts_audio.py"
+      ],
+      "outputs": [
+        "productions/long-video-outro/audio_mode.json"
+      ],
+      "checkpoint": {
+        "at": "2026-10-03T09:26:46.023Z",
+        "note": "Silent delivery verified. Output is audio-mode report only, no TTS WAVs generated; optional TTS remains unavailable.",
+        "snapshot": {
+          "settings": "95408b45571e97eb219bb9e7845fec9ee26e97d20d3414ec8d78aceffc89758f",
+          "inputs": [
+            "productions/long-video-outro/narration.txt",
+            "scripts/generate_tts_sentences.py",
+            "scripts/tts_audio.py"
+          ],
+          "outputs": [
+            "productions/long-video-outro/audio_mode.json"
+          ],
+          "files": {
+            "productions/long-video-outro/narration.txt": "e5664949126bc661e20508263c31d01454c600404e448027e958d9255450389c",
+            "scripts/generate_tts_sentences.py": "4e15cef1f46c61f2762f8626c7d80a9760b33efe5a6ffbc68a03388ab8693ea6",
+            "scripts/tts_audio.py": "a5be0505b747c9cc103fc90857fbd5d4b9504b8c8e2b452edbcb069eb349c79d",
+            "productions/long-video-outro/audio_mode.json": "374943820df2bce54cea9bc389f81510bc967a33ab04f26247aa8e9fcff2b869"
+          },
+          "dependencies": {
+            "script": "611e3d6d89c6081566cbb956fc9e94ea7752377583217dcbae602f1d1cfbdb14"
+          }
+        }
+      },
+      "applicable": false,
+      "note": "No audio in silent deliverable. Do not infer that TTS has been generated."
+    },
+    "captions": {
+      "inputs": [
+        "productions/long-video-outro/audio_mode.json"
+      ],
+      "outputs": [
+        "productions/long-video-outro/captions_mode.json"
+      ],
+      "checkpoint": {
+        "at": "2026-10-03T09:26:46.095Z",
+        "note": "No captions for silent delivery. Output is explicit not-applicable report, no invented timestamps.",
+        "snapshot": {
+          "settings": "95408b45571e97eb219bb9e7845fec9ee26e97d20d3414ec8d78aceffc89758f",
+          "inputs": [
+            "productions/long-video-outro/audio_mode.json"
+          ],
+          "outputs": [
+            "productions/long-video-outro/captions_mode.json"
+          ],
+          "files": {
+            "productions/long-video-outro/audio_mode.json": "374943820df2bce54cea9bc389f81510bc967a33ab04f26247aa8e9fcff2b869",
+            "productions/long-video-outro/captions_mode.json": "77a8528f589413a0dd9a69295e2f34a64bfaae3ae08949b1f9654d4866aeab0a"
+          },
+          "dependencies": {
+            "audio": "9c14205fa567561f9855b05185a3c6413309e74bc4f348bf801271a4211b457e"
+          }
+        }
+      },
+      "applicable": false,
+      "note": "No spoken captions in silent version; on-screen copy is graphic text."
+    },
+    "composition": {
+      "inputs": [
+        "productions/long-video-outro/storyboard.json",
+        "src/data/long-video-outro/brand.json",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png",
+        "public/branding/long-video-outro/avatar.png",
+        "src/components/effects/Atmosphere.tsx",
+        "src/components/effects/model.ts"
+      ],
+      "outputs": [
+        "src/LongVideoOutro.tsx",
+        "src/components/CharacterFrameAnimation.tsx",
+        "src/Root.tsx"
+      ],
+      "checkpoint": {
+        "at": "2026-10-03T09:26:46.178Z",
+        "note": "TypeScript and scoped ESLint pass; 150 frames with centered identity, opposite-corner characters, no video cards or outro disclaimer per explicit user request.",
+        "snapshot": {
+          "settings": "95408b45571e97eb219bb9e7845fec9ee26e97d20d3414ec8d78aceffc89758f",
+          "inputs": [
+            "productions/long-video-outro/storyboard.json",
+            "src/data/long-video-outro/brand.json",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png",
+            "public/branding/long-video-outro/avatar.png",
+            "src/components/effects/Atmosphere.tsx",
+            "src/components/effects/model.ts"
+          ],
+          "outputs": [
+            "src/LongVideoOutro.tsx",
+            "src/components/CharacterFrameAnimation.tsx",
+            "src/Root.tsx"
+          ],
+          "files": {
+            "productions/long-video-outro/storyboard.json": "8008a8bd2606288aa43c266e6268a090cf47285112e0e91dccfb00f9fe0e1135",
+            "src/data/long-video-outro/brand.json": "448e9dab25b07da411b66af8b1d32de9a720fcefb936b20867dd6e526687c61f",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json": "61d51a6e4d5b069a796b49ec5a5e1f8b989782e78c95eee4988414f7a45fc8ac",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png": "ea093c3296dbccbb288a4332f19d31bfe92db44080ec1c940a9866cafc9f3993",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png": "c9c702c48d1254dd228ae91a0f5fa52d8b3e6f3a160970da6e6beea24919b870",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png": "b17085d68e075d2e9c86446c65795ff8f33187c366e453efa377e232b6fd6bfd",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png": "aff020df852f782508ce59eb6dfcc6e419a22561832aca457371af7c50b63195",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png": "760fdbde172d2cc0dd90ea5eacb182dba7376c65e2b9b48d4b6ea376b77a13c5",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png": "bdd85c31cc0ec854178f0a6bdd77881920977462003aa24833c59ddd6d74bdbe",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json": "c8e57cc517bedec0f4e1ea2b4abe8a99bb2b12967b3b716ae6cc75b7f84f581f",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png": "f0db4b80b331ed9f1ed1dcbf99b82f1fed05c80a2c6e454070fa7fd7995c6f0e",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png": "3455ceda31276f69e922ffe2019d80186ca4b655f578939f09f5457c00d5bd2c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png": "5580e80b97a69a4caf75379b53c8d73b41c70abfcf0b777e7fa4b1f1c5629157",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png": "448f03d45f02b404b665b795fe6326ebed72759ced4f4c261d1acd9efcc2850c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png": "b8a5ae610b43550b41ad2889772ce56335a46e05cc037c1ff54d34b8b1ef8b8c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png": "e2fd26da6fa3e536f8699d5ac18e22718ea47da0c1512b7790c0aeefb54dc323",
+            "public/branding/long-video-outro/avatar.png": "7b10a3fdab2c2fe93ebf4c16dc27c7dfaa1e6dd540937f30f10476243a989851",
+            "src/components/effects/Atmosphere.tsx": "41645e065522d54d5480244fb23fa0bfb377d8fcd7da1c990241be414322758f",
+            "src/components/effects/model.ts": "d1af22e15e6f184b82cc52ef1e53fcf984f6d71041760cad42c632380bd70bab",
+            "src/LongVideoOutro.tsx": "12cadda7f0f7aa2710e899712bec12784e39a11bc260cc96f3be63775f115aff",
+            "src/components/CharacterFrameAnimation.tsx": "4e5afdd6eedc508d30245a073c5b5176a1b2e580559361b3473c16bbdac23fbe",
+            "src/Root.tsx": "6a6cee3e3cbce2b53a24a43e726e6a6a2969315ba2500d68798a0f5e73e1995f"
+          },
+          "dependencies": {
+            "storyboard": "a674d9917f86add944718fe498d26fd23b75a7aeef894070e15087b8be0d78e3",
+            "images": "1f37dde875da29f2dbe1f3dc38ed5b72b49164bc0a711b42362fe428e0b3c8d2",
+            "audio": "9c14205fa567561f9855b05185a3c6413309e74bc4f348bf801271a4211b457e",
+            "captions": "7e08d8afa421f6db759d065cb6bd4f25dcc3fcd24ad6f0ccb164c2d1e9a3d900"
+          }
+        }
+      }
+    },
+    "qa": {
+      "inputs": [
+        "src/LongVideoOutro.tsx",
+        "src/components/CharacterFrameAnimation.tsx",
+        "src/Root.tsx",
+        "productions/long-video-outro/storyboard.json",
+        "src/data/long-video-outro/brand.json",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png",
+        "public/branding/long-video-outro/avatar.png",
+        "src/components/effects/Atmosphere.tsx",
+        "src/components/effects/model.ts"
+      ],
+      "outputs": [
+        "productions/long-video-outro/qa.md"
+      ],
+      "checkpoint": {
+        "at": "2026-10-03T09:26:46.246Z",
+        "note": "Visual QA of centered reveal, custom branding, corner poses and final frames; full MP4 decode passed; see qa.md.",
+        "snapshot": {
+          "settings": "95408b45571e97eb219bb9e7845fec9ee26e97d20d3414ec8d78aceffc89758f",
+          "inputs": [
+            "src/LongVideoOutro.tsx",
+            "src/components/CharacterFrameAnimation.tsx",
+            "src/Root.tsx",
+            "productions/long-video-outro/storyboard.json",
+            "src/data/long-video-outro/brand.json",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png",
+            "public/branding/long-video-outro/avatar.png",
+            "src/components/effects/Atmosphere.tsx",
+            "src/components/effects/model.ts"
+          ],
+          "outputs": [
+            "productions/long-video-outro/qa.md"
+          ],
+          "files": {
+            "src/LongVideoOutro.tsx": "12cadda7f0f7aa2710e899712bec12784e39a11bc260cc96f3be63775f115aff",
+            "src/components/CharacterFrameAnimation.tsx": "4e5afdd6eedc508d30245a073c5b5176a1b2e580559361b3473c16bbdac23fbe",
+            "src/Root.tsx": "6a6cee3e3cbce2b53a24a43e726e6a6a2969315ba2500d68798a0f5e73e1995f",
+            "productions/long-video-outro/storyboard.json": "8008a8bd2606288aa43c266e6268a090cf47285112e0e91dccfb00f9fe0e1135",
+            "src/data/long-video-outro/brand.json": "448e9dab25b07da411b66af8b1d32de9a720fcefb936b20867dd6e526687c61f",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json": "61d51a6e4d5b069a796b49ec5a5e1f8b989782e78c95eee4988414f7a45fc8ac",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png": "ea093c3296dbccbb288a4332f19d31bfe92db44080ec1c940a9866cafc9f3993",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png": "c9c702c48d1254dd228ae91a0f5fa52d8b3e6f3a160970da6e6beea24919b870",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png": "b17085d68e075d2e9c86446c65795ff8f33187c366e453efa377e232b6fd6bfd",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png": "aff020df852f782508ce59eb6dfcc6e419a22561832aca457371af7c50b63195",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png": "760fdbde172d2cc0dd90ea5eacb182dba7376c65e2b9b48d4b6ea376b77a13c5",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png": "bdd85c31cc0ec854178f0a6bdd77881920977462003aa24833c59ddd6d74bdbe",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json": "c8e57cc517bedec0f4e1ea2b4abe8a99bb2b12967b3b716ae6cc75b7f84f581f",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png": "f0db4b80b331ed9f1ed1dcbf99b82f1fed05c80a2c6e454070fa7fd7995c6f0e",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png": "3455ceda31276f69e922ffe2019d80186ca4b655f578939f09f5457c00d5bd2c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png": "5580e80b97a69a4caf75379b53c8d73b41c70abfcf0b777e7fa4b1f1c5629157",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png": "448f03d45f02b404b665b795fe6326ebed72759ced4f4c261d1acd9efcc2850c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png": "b8a5ae610b43550b41ad2889772ce56335a46e05cc037c1ff54d34b8b1ef8b8c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png": "e2fd26da6fa3e536f8699d5ac18e22718ea47da0c1512b7790c0aeefb54dc323",
+            "public/branding/long-video-outro/avatar.png": "7b10a3fdab2c2fe93ebf4c16dc27c7dfaa1e6dd540937f30f10476243a989851",
+            "src/components/effects/Atmosphere.tsx": "41645e065522d54d5480244fb23fa0bfb377d8fcd7da1c990241be414322758f",
+            "src/components/effects/model.ts": "d1af22e15e6f184b82cc52ef1e53fcf984f6d71041760cad42c632380bd70bab",
+            "productions/long-video-outro/qa.md": "9c1617c886c00861c73602b2b74df7e481d2d69e6fac394b16763aba2c987179"
+          },
+          "dependencies": {
+            "composition": "638edcd2b9ac08259b255a77af8b6b86bfc524da702643ea2c80b22d7ebac44a"
+          }
+        }
+      }
+    },
+    "render": {
+      "inputs": [
+        "src/LongVideoOutro.tsx",
+        "src/components/CharacterFrameAnimation.tsx",
+        "src/Root.tsx",
+        "productions/long-video-outro/storyboard.json",
+        "src/data/long-video-outro/brand.json",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png",
+        "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png",
+        "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png",
+        "public/branding/long-video-outro/avatar.png",
+        "src/components/effects/Atmosphere.tsx",
+        "src/components/effects/model.ts",
+        "productions/long-video-outro/qa.md",
+        "productions/long-video-outro/stage-assets.mjs",
+        "src/index.ts",
+        "remotion.config.ts",
+        "package-lock.json"
+      ],
+      "outputs": [
+        "out/long-video-outro/long-video-outro.mp4",
+        "out/long-video-outro/poster.jpg"
+      ],
+      "checkpoint": {
+        "at": "2026-10-03T09:26:46.324Z",
+        "note": "Final MP4 ffprobe: H.264 1920x1080 30fps 150 frames 5.000000s; silent. Full decode exit 0.",
+        "snapshot": {
+          "settings": "95408b45571e97eb219bb9e7845fec9ee26e97d20d3414ec8d78aceffc89758f",
+          "inputs": [
+            "src/LongVideoOutro.tsx",
+            "src/components/CharacterFrameAnimation.tsx",
+            "src/Root.tsx",
+            "productions/long-video-outro/storyboard.json",
+            "src/data/long-video-outro/brand.json",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png",
+            "public/branding/long-video-outro/avatar.png",
+            "src/components/effects/Atmosphere.tsx",
+            "src/components/effects/model.ts",
+            "productions/long-video-outro/qa.md",
+            "productions/long-video-outro/stage-assets.mjs",
+            "src/index.ts",
+            "remotion.config.ts",
+            "package-lock.json"
+          ],
+          "outputs": [
+            "out/long-video-outro/long-video-outro.mp4",
+            "out/long-video-outro/poster.jpg"
+          ],
+          "files": {
+            "src/LongVideoOutro.tsx": "12cadda7f0f7aa2710e899712bec12784e39a11bc260cc96f3be63775f115aff",
+            "src/components/CharacterFrameAnimation.tsx": "4e5afdd6eedc508d30245a073c5b5176a1b2e580559361b3473c16bbdac23fbe",
+            "src/Root.tsx": "6a6cee3e3cbce2b53a24a43e726e6a6a2969315ba2500d68798a0f5e73e1995f",
+            "productions/long-video-outro/storyboard.json": "8008a8bd2606288aa43c266e6268a090cf47285112e0e91dccfb00f9fe0e1135",
+            "src/data/long-video-outro/brand.json": "448e9dab25b07da411b66af8b1d32de9a720fcefb936b20867dd6e526687c61f",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json": "61d51a6e4d5b069a796b49ec5a5e1f8b989782e78c95eee4988414f7a45fc8ac",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-01.png": "ea093c3296dbccbb288a4332f19d31bfe92db44080ec1c940a9866cafc9f3993",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-02.png": "c9c702c48d1254dd228ae91a0f5fa52d8b3e6f3a160970da6e6beea24919b870",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-03.png": "b17085d68e075d2e9c86446c65795ff8f33187c366e453efa377e232b6fd6bfd",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-04.png": "aff020df852f782508ce59eb6dfcc6e419a22561832aca457371af7c50b63195",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-05.png": "760fdbde172d2cc0dd90ea5eacb182dba7376c65e2b9b48d4b6ea376b77a13c5",
+            "public/characters/animations/tra-xanh-cui-cam-on-v2/frame-06.png": "bdd85c31cc0ec854178f0a6bdd77881920977462003aa24833c59ddd6d74bdbe",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json": "c8e57cc517bedec0f4e1ea2b4abe8a99bb2b12967b3b716ae6cc75b7f84f581f",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-01.png": "f0db4b80b331ed9f1ed1dcbf99b82f1fed05c80a2c6e454070fa7fd7995c6f0e",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-02.png": "3455ceda31276f69e922ffe2019d80186ca4b655f578939f09f5457c00d5bd2c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-03.png": "5580e80b97a69a4caf75379b53c8d73b41c70abfcf0b777e7fa4b1f1c5629157",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-04.png": "448f03d45f02b404b665b795fe6326ebed72759ced4f4c261d1acd9efcc2850c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-05.png": "b8a5ae610b43550b41ad2889772ce56335a46e05cc037c1ff54d34b8b1ef8b8c",
+            "public/characters/animations/lam-lam-cui-cam-on-v1/frame-06.png": "e2fd26da6fa3e536f8699d5ac18e22718ea47da0c1512b7790c0aeefb54dc323",
+            "public/branding/long-video-outro/avatar.png": "7b10a3fdab2c2fe93ebf4c16dc27c7dfaa1e6dd540937f30f10476243a989851",
+            "src/components/effects/Atmosphere.tsx": "41645e065522d54d5480244fb23fa0bfb377d8fcd7da1c990241be414322758f",
+            "src/components/effects/model.ts": "d1af22e15e6f184b82cc52ef1e53fcf984f6d71041760cad42c632380bd70bab",
+            "productions/long-video-outro/qa.md": "9c1617c886c00861c73602b2b74df7e481d2d69e6fac394b16763aba2c987179",
+            "productions/long-video-outro/stage-assets.mjs": "a753aa4bf28c991fad0dda3493672e2cfdac15f0b5d271eb8a56e5c943d14c96",
+            "src/index.ts": "540f6b91989917ea8a11f166bd77425acba4a61ddbff35d49c00968f209b867c",
+            "remotion.config.ts": "d61eee367a661837a5b4734b064eb2f1091fc9ff9217c1ea39f4133626207937",
+            "package-lock.json": "e91b78c698a894cb4a350236bba4cdbcc3e9b32a9d0aca70556095ef0eff6d15",
+            "out/long-video-outro/long-video-outro.mp4": "0ca31408bc4ef2ed68ec16d1e954310994d821c94459ac36d5eb69f56adb9a4b",
+            "out/long-video-outro/poster.jpg": "f543eaebeda0005e4cc1d6e5483ed95c3baa7788078a9d1f5adb6ddd8da896cf"
+          },
+          "dependencies": {
+            "qa": "4584915698c9e83618a756bc53d65d80b94451ef83c17909bcec43d81ed497a6"
+          }
+        }
+      }
+    }
+  },
+  "notes": [
+    "User avatar copied unchanged; title Lam Lam & Trà Xanh; bow-only corner animations; animated blue/green backdrop; five seconds, silent.",
+    "No recommendation cards or disclaimer in this outro, following explicit user request."
+  ]
+}

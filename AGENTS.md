@@ -15,9 +15,9 @@
 - Tự kiểm tra chất lượng mẫu trước khi tạo hàng loạt; tiếp tục các bước đã được yêu cầu mà không chờ duyệt lại từng chặng. Khi dịch vụ bị chặn, lưu lý do/thời điểm có thể thử lại và làm tiếp phần độc lập trong phạm vi yêu cầu.
 - Không mặc định 12 hay 128 ảnh cho mọi video. Tôn trọng số ảnh đã được yêu cầu; nếu chưa có, lập shot list theo nội dung và thời lượng lời đọc.
 - Chỉ tái sử dụng kết quả khi đầu vào và tài nguyên còn khớp checkpoint. Ghi tiến độ sau mỗi asset; không đợi hoàn thành cả lô mới lưu.
-- Hiệu ứng không khí: tái sử dụng `src/components/effects/` theo [docs/VIDEO_EFFECTS_LIBRARY.md](docs/VIDEO_EFFECTS_LIBRARY.md). Chọn 1–2 lớp phù hợp bối cảnh, giữ dưới phụ đề/CTA và giảm mật độ khi có nhiều chữ; không tự thêm âm thanh.
-- Hiệu ứng điện ảnh bổ sung: `CinematicOverlay` trong cùng thư viện; xem [docs/CINEMATIC_EFFECTS_LIBRARY.md](docs/CINEMATIC_EFFECTS_LIBRARY.md) cho bokeh, hắt sáng, hạt/xước phim, CRT, tối viền, vệt tốc độ và vòng sóng.
-- Chuyển cảnh: dùng `src/components/transitions/` theo [docs/VIDEO_TRANSITIONS_LIBRARY.md](docs/VIDEO_TRANSITIONS_LIBRARY.md). Chọn 2–3 kiểu nhất quán mỗi video; giữ audio/captions ngoài lớp chuyển hình. Với timeline đã căn lời đọc, có thể dùng `TransitionOverlay` tại boundaries để giữ nguyên timing.
+- Hiệu ứng không khí: tái sử dụng `src/components/effects/` theo [docs/VIDEO_EFFECTS_LIBRARY.md](docs/VIDEO_EFFECTS_LIBRARY.md). Linh hoạt thay đổi hiệu ứng đa dạng theo từng bối cảnh của cảnh quay (lá bay, mưa, tuyết, sương mù, đom đóm, tàn lửa, bụi sáng...), không dùng lặp lại 1–2 hiệu ứng xuyên suốt cả video; giữ dưới phụ đề/CTA và giảm mật độ khi có nhiều chữ; không tự thêm âm thanh.
+- Hiệu ứng điện ảnh bổ sung (`CinematicOverlay`): xem [docs/CINEMATIC_EFFECTS_LIBRARY.md](docs/CINEMATIC_EFFECTS_LIBRARY.md). **HẠN CHẾ DÙNG, KHÔNG DÙNG LUNG TUNG/BỪA BÃI** cho mọi cảnh; chỉ kích hoạt khi thật sự phù hợp phân cảnh đặc thù (phim cũ/lịch sử dùng grain/scratches, màn hình công nghệ dùng scanlines, cao trào dùng speed-lines, sóng lan tỏa dùng ripples, hoàng hôn/hoài niệm dùng light-leak).
+- Chuyển cảnh: dùng `src/components/transitions/` theo [docs/VIDEO_TRANSITIONS_LIBRARY.md](docs/VIDEO_TRANSITIONS_LIBRARY.md). **ĐA DẠNG HÓA CHUYỂN CẢNH**, tuyệt đối không chỉ dùng 1–2 kiểu đơn điệu; **CÓ THỂ DÙNG TẤT CẢ CÁC HIỆU ỨNG CHUYỂN CẢNH TRONG 1 VIDEO** linh hoạt theo nhịp điệu và nội dung cảnh (dissolve, wipe, slide, push, diagonal, blinds, clock, iris, blur, zoom, light-leak...); giữ audio/captions ngoài lớp chuyển hình. Với timeline đã căn lời đọc, dùng `TransitionOverlay` tại boundaries để giữ nguyên timing.
 - Hiệu ứng phụ đề: dùng `src/components/caption-effects/` theo [docs/CAPTION_EFFECTS_LIBRARY.md](docs/CAPTION_EFFECTS_LIBRARY.md) khi muốn đổi kiểu chữ động. Nhận JSON timestamps thật; giữ quy chuẩn pill active/viền chữ, vị trí theo tỷ lệ và không làm đổi timing để kéo dài animation.
 - Không hứa tự tiếp tục sau khi kết thúc chat nếu chưa có cơ chế theo dõi được người dùng yêu cầu. Không tự chuyển sang dịch vụ/API tính phí khi gặp quota.
 
@@ -102,6 +102,9 @@
    - **Vị trí & Style**:
      - *Video Ngang 16:9*: Góc dưới trái (`bottom: 24, left: 40`), `fontSize: 13`, chữ nghiêng `fontStyle: "italic"`, màu trắng mờ `rgba(226, 232, 240, 0.65)` có bóng đen bảo vệ chữ. Vị trí này hoàn toàn thông thoáng, tránh xung đột với Scene Badges/HUD ở góc trên phải và Trà Xanh ở góc dưới phải.
      - *Video Dọc Shorts 9:16*: Vị trí an toàn góc trên hoặc góc dưới (`top: 110, right: 36` hoặc `bottom: 240`), không che phụ đề và tránh bị che bởi UI YouTube/TikTok.
+9. **Bản đồ Việt Nam trong ảnh AI (BẮT BUỘC)**:
+   - Khi prompt hoặc hình minh họa có bản đồ Việt Nam, phải yêu cầu bản đồ thể hiện đúng hình dạng/lãnh thổ Việt Nam, **bao gồm quần đảo Hoàng Sa và Trường Sa**; tên nhãn phải rõ ràng, không sai chính tả, sai vị trí hoặc gán nhầm chủ thể.
+   - Kiểm tra trực quan từng ảnh sau khi sinh. Nếu bản đồ thiếu, méo đáng kể, đặt sai vị trí, hoặc thể hiện Hoàng Sa/Trường Sa không đúng yêu cầu, không dùng asset đó: chỉnh prompt và sinh lại hoặc thay bằng bản đồ/đồ họa đã được kiểm chứng.
 
 ---
 
@@ -137,7 +140,81 @@
 
 ---
 
-## 📚 5. Reference Documentation
+## 🎬 5. Video Effects & Transitions Rules (STRICT)
+
+- **Rule 1 (Đa dạng hóa chuyển cảnh - ĐƯỢC PHÉP DÙNG TẤT CẢ HIỆU ỨNG)**:
+  - **TUYỆT ĐỐI KHÔNG** chỉ dùng lặp đi lặp lại 1–2 hiệu ứng chuyển cảnh đơn điệu suốt cả video (như chỉ dùng fade/dissolve từ đầu đến cuối gây nhàm chán).
+  - **Khuyến khích sử dụng phong phú và CÓ THỂ DÙNG TẤT CẢ các hiệu ứng chuyển cảnh trong 1 video** (`src/components/transitions/` gồm 30 kiểu chia theo 6 nhóm):
+    - **Nhóm Documentary (Tài liệu & Hoài niệm)**:
+      - `dissolve`: Hòa tan nhẹ nhàng giữa hai cảnh cùng mạch cảm xúc hoặc chủ đề gần nhau.
+      - `fade-color`: Mờ qua màu đen/trắng khi ngắt ý, sang chương mới, chuyển mốc thời gian lớn.
+      - `film-roll`: Cuộn phim nhựa điện ảnh trượt từ dưới lên kèm vạch chia khung, tạo chất tài liệu hoài niệm.
+      - `tv-snap`: Co dòng sáng ngang tắt mở kiểu TV CRT cổ điển, rất hợp hồi tưởng và phóng sự truyền hình.
+      - `burn`: Vệt cháy phim điện ảnh ấm rực cam vàng loang qua khung hình.
+    - **Nhóm Editorial (Báo chí & Đồ họa thông tin)**:
+      - `wipe`: Gạt khung (4 hướng: `left`, `right`, `up`, `down`) phù hợp cho timeline, bản đồ, số liệu, so sánh trước - sau.
+      - `slide`: Trượt cảnh mới đè lên cảnh cũ, tạo cảm giác di chuyển không gian hoặc tiến trình.
+      - `push`: Cảnh mới đẩy cảnh cũ ra ngoài, tạo nhịp nối nhanh và năng động.
+      - `diagonal`: Cắt chéo mở góc sắc nét, mang lại cảm giác hiện đại và dứt khoát.
+      - `aperture`: Khẩu máy ảnh 6 cạnh xoay mở hé lộ chi tiết phóng sự điều tra.
+    - **Nhóm Graphic & Reveal (Đồ họa & Tiết lộ)**:
+      - `blinds`: Mười dải mành ngang lật mở thông tin ẩn, bí mật được hé lộ.
+      - `stripes`: Mành dọc mở từ trái sang phải, tạo cấu trúc thị giác thanh lịch, hiện đại.
+      - `door`: Cửa mở đôi từ tâm ra hai mép, hé lộ bối cảnh/không gian mới.
+      - `clock`: Quét kim đồng hồ thể hiện thời gian trôi qua, chu kỳ lịch sử hay thời hạn.
+      - `checkerboard`: Ma trận ô cờ mosaic đan xen lật mở đa chiều.
+    - **Nhóm Organic & Shapes (Tự nhiên & Hình khối cảm xúc)**:
+      - `iris`: Vòng tròn mở từ tâm, phù hợp cho sự khám phá, phát hiện, chi tiết thiên nhiên.
+      - `blur`: Nhòe mềm mơ màng cho cảnh tâm trạng, chuyển đổi không gian lắng đọng.
+      - `diamond`: Mở hình thoi / kim cương từ tâm, sang trọng, tinh tế cho nghệ thuật và khoa học.
+      - `heart`: Mở hình trái tim từ tâm cho cảm xúc ấm áp, tri ân, tình thương và nhân văn.
+      - `star`: Mở ngôi sao 5 cánh tỏa sáng từ tâm cho thành tựu, giải thưởng và vinh quang.
+    - **Nhóm Cinematic (Điện ảnh & Cảm xúc cao trào)**:
+      - `zoom`: Phóng to/thu nhỏ kết nối cảnh giật gân, đẩy cao trào hoặc từ toàn cảnh vào cận cảnh.
+      - `light-leak`: Vệt sáng ấm lướt qua khi chuyển cảnh hoàng hôn, hoài niệm, bình minh, hy vọng.
+      - `flash`: Chớp sáng trắng chói lòa bùng nổ rồi dịu lại, cực kỳ ấn tượng cho cao trào, biến cố đột ngột hoặc cú twist.
+      - `cross-zoom`: Phóng lao xuyên không bay thẳng từ tâm cảnh này sang cảnh kia.
+      - `whip`: Lia máy thần tốc (whip-pan) theo hướng kèm motion blur định hướng, tạo nhịp phim hành động giật gân.
+    - **Nhóm Dynamic & 3D (Năng động / 3D / Shorts)**:
+      - `spin`: Xoay nhẹ kết hợp zoom đổi cảnh xoắn ốc mượt mà, trẻ trung và cuốn hút.
+      - `glitch`: Nhiễu số, dịch trục ngang và lát cắt quét kỹ thuật số, phù hợp công nghệ, bí mật, hacking.
+      - `flip`: Lật thẻ bài 3D theo trục Y tạo chiều sâu không gian đẳng cấp.
+      - `cube`: Khối lập phương 3D xoay lật góc nhìn đa chiều.
+      - `shake`: Rung chấn va đập địa chấn mạnh mẽ cho xung đột, biến cố dữ dội.
+    - `TransitionOverlay`: Khi timeline đã căn chuẩn audio/TTS, dùng overlay (`fade-color`, `light-leak`, `curtain`, `flash`, `whip`, `tv-snap`, `burn`, `shake`) đặt tại boundaries để che điểm cắt mà không xô lệch phụ đề.
+  - Phối hợp chuyển cảnh linh hoạt theo từng cảnh/câu thoại, tạo nhịp phim sinh động và cuốn hút thị giác người xem.
+
+- **Rule 2 (Đa dạng hóa hiệu ứng không khí / môi trường - Atmosphere Effects)**:
+  - Tận dụng phong phú các lớp hiệu ứng không khí từ `src/components/effects/` (`FallingLeaves`, `FallingSnow`, `Rain`, `FallingPetals`, `GoldenDust`, `RisingEmbers`, `Fireflies`, `Bubbles`, `Confetti`, `TwinklingStars`, `DriftingFog`, `SunRays`):
+  - **Đổi hiệu ứng theo bối cảnh cụ thể của từng phân cảnh**, không để cả video chạy cùng 1 hiệu ứng môi trường:
+    - Cảnh thiên nhiên mùa thu / hoài niệm: `FallingLeaves`.
+    - Cảnh mùa đông tuyết rơi / giá lạnh: `FallingSnow`.
+    - Cảnh mưa bão, u buồn, trầm lắng: `Rain`.
+    - Cảnh mùa xuân, tình cảm, thơ mộng: `FallingPetals`.
+    - Cảnh bảo tàng, cổ vật, lịch sử, trang trọng: `GoldenDust`.
+    - Cảnh chiến trường, xung đột, công nghiệp, kịch tính: `RisingEmbers`.
+    - Cảnh đêm huyền ảo, rừng núi: `Fireflies`.
+    - Cảnh đại dương, nước, khoa học, trẻ trung: `Bubbles`.
+    - Cảnh thành tựu, chiến thắng, lễ hội: `Confetti`.
+    - Cảnh vũ trụ, bầu trời đêm, tương lai: `TwinklingStars`.
+    - Cảnh sương mù bảng lảng, bí ẩn: `DriftingFog`.
+    - Cảnh bình minh, hào quang, hy vọng: `SunRays`.
+  - Luôn đảm bảo `safeBottom` (tránh che khuất phụ đề và Trà Xanh) và mật độ vừa phải (`density` ~ 0.5–0.8, `opacity` ~ 0.35–0.6) để làm nổi bật hình ảnh minh họa chính.
+
+- **Rule 3 (HẠN CHẾ & DÙNG CÓ CHỌN LỌC CinematicEffects - STRICT)**:
+  - **TUYỆT ĐỐI KHÔNG DÙNG LUNG TUNG / BỪA BÃI**: Các hiệu ứng điện ảnh từ `CinematicOverlay.tsx` là gia vị mạnh, lạm dụng sẽ gây rối mắt, rác hình và làm giảm chất lượng minh họa.
+  - **HẠN CHẾ DÙNG**, chỉ kích hoạt khi phân cảnh đó **THẬT SỰ CẦN THIẾT VÀ PHÙ HỢP BỐI CẢNH**:
+    - `film-grain`, `film-scratches`: **CHỈ DÙNG** cho các cảnh tư liệu lịch sử, ảnh tài liệu cổ, hồi tưởng quá khứ, đoạn trích đen trắng/sepia.
+    - `scanlines`: **CHỈ DÙNG** cho các cảnh màn hình máy tính, thiết bị điện tử, radar quân sự, giao diện hacker, TV CRT cổ điển.
+    - `speed-lines`: **CHỈ DÙNG** cho khoảnh khắc cực kỳ kịch tính, hành động tốc độ, cao trào đột ngột kiểu anime; ngắt ngay sau khi hết phân cảnh hành động.
+    - `ripples`: **CHỈ DÙNG** khi nói về tín hiệu sóng lan tỏa, hiệu ứng dây chuyền/cánh bướm, phát thanh/radar trên mặt nước.
+    - `vignette`: **CHỈ DÙNG** khi cần tập trung ánh nhìn vào tâm điểm nhân vật trong tình huống căng thẳng, bí ẩn hoặc nội tâm sâu sắc.
+    - `bokeh`, `light-leak`: **CHỈ DÙNG** cho khoảnh khắc nghệ thuật, ánh hoàng hôn/bình minh hoặc cảm xúc lắng đọng.
+  - Khi dùng `CinematicOverlay`, giữ `intensity` ở mức nhẹ (0.15–0.35), không để quá đậm át mất chi tiết ảnh.
+
+---
+
+## 📚 6. Reference Documentation
 
 - [docs/TTS_GUIDE.md](file:///C:/Users/studi/Documents/Codex/2026-09-23/cl/yt-shorts/docs/TTS_GUIDE.md) - TTS Architecture & Python environment.
 - [docs/SHORTS_PRODUCTION_GUIDE.md](file:///C:/Users/studi/Documents/Codex/2026-09-23/cl/yt-shorts/docs/SHORTS_PRODUCTION_GUIDE.md) - Full step-by-step production pipeline.

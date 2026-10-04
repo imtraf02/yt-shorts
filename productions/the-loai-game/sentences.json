@@ -1,0 +1,3062 @@
+[
+  {
+    "id": "S001",
+    "number": 1,
+    "chapterId": "C01",
+    "originalText": "Bạn có thể kể tên vài thể loại game rất nhanh, nhưng càng nghĩ kỹ, ranh giới giữa chúng lại càng mờ.",
+    "text": "Bạn có thể kể tên vài thể loại game rất nhanh, nhưng càng nghĩ kỹ, ranh giới giữa chúng lại càng mờ.",
+    "originalPrompt": "MIO stands before GENREWHEEL with a few big slices that begin splitting into many smaller branches, showing how simple categories expand into a crowded landscape of play styles",
+    "genre": ""
+  },
+  {
+    "id": "S002",
+    "number": 2,
+    "chapterId": "C01",
+    "originalText": "Một game có thể vừa là bắn súng, vừa nhập vai, vừa thế giới mở, lại còn sinh tồn.",
+    "text": "Một game có thể vừa là bắn súng, vừa nhập vai, vừa thế giới mở, lại còn sinh tồn.",
+    "originalPrompt": "A hybrid game world combines shooter crosshairs, RPG gear, open-world map fragments and survival tools around one adventurer, while SKILLTREE links the mixed systems together",
+    "genre": ""
+  },
+  {
+    "id": "S003",
+    "number": 3,
+    "chapterId": "C01",
+    "originalText": "Vì thế, video này không chỉ là danh sách tên gọi, mà là bản đồ của cả một hệ sinh thái.",
+    "text": "Vì thế, video này không chỉ là danh sách tên gọi, mà là bản đồ của cả một hệ sinh thái.",
+    "originalPrompt": "Wide infographic map of the video game medium as islands of genres connected by bridges, with MIO presenting the full ecosystem like an editorial atlas",
+    "genre": ""
+  },
+  {
+    "id": "S004",
+    "number": 4,
+    "chapterId": "C01",
+    "originalText": "Chúng ta sẽ đi từ những game phản xạ đơn giản nhất đến những thế giới ảo phức tạp nhất.",
+    "text": "Chúng ta sẽ đi từ những game phản xạ đơn giản nhất đến những thế giới ảo phức tạp nhất.",
+    "originalPrompt": "PIXELPORTAL opens from a tiny retro screen into a huge modern fantasy world, with MIO walking the viewer from simplicity toward complexity",
+    "genre": ""
+  },
+  {
+    "id": "S005",
+    "number": 5,
+    "chapterId": "C01",
+    "originalText": "Ở đầu cây gia phả là những trò chơi cực kỳ dễ hiểu.",
+    "text": "Trong sơ đồ này, các vòng lặp dễ nhận biết được đặt ở những nhánh gốc để giúp ta bắt đầu.",
+    "originalPrompt": "The root of SKILLTREE shows simple early game icons—paddle, maze and falling blocks—sprouting from a single seed on a cream paper background",
+    "genre": ""
+  },
+  {
+    "id": "S006",
+    "number": 6,
+    "chapterId": "C01",
+    "originalText": "Ở cuối cây gia phả là những game khó xếp gọn vào một ô duy nhất.",
+    "text": "Ở cuối cây gia phả là những game khó xếp gọn vào một ô duy nhất.",
+    "originalPrompt": "The upper branches of SKILLTREE explode into tangled hybrid genres with overlapping symbols, showing how modern games resist one-box classification",
+    "genre": ""
+  },
+  {
+    "id": "S007",
+    "number": 7,
+    "chapterId": "C01",
+    "originalText": "Ngay cả từ thể loại cũng chỉ là một công cụ để con người hiểu game.",
+    "text": "Ngay cả từ thể loại cũng chỉ là một công cụ để con người hiểu game.",
+    "originalPrompt": "MIO holds a magnifying lens over GAMEPAD and sorted paper labels, implying genre as a human-made lens rather than a natural law",
+    "genre": ""
+  },
+  {
+    "id": "S008",
+    "number": 8,
+    "chapterId": "C01",
+    "originalText": "Nó giúp người chơi biết mình sắp nhận được kiểu trải nghiệm nào.",
+    "text": "Nó giúp người chơi biết mình sắp nhận được kiểu trải nghiệm nào.",
+    "originalPrompt": "A player chooses between doors marked only by visual moods—speed, strategy, story, competition and creativity—while MIO explains expectations through image language",
+    "genre": ""
+  },
+  {
+    "id": "S009",
+    "number": 9,
+    "chapterId": "C01",
+    "originalText": "Nó cũng giúp nhà phát triển học từ những gì đi trước.",
+    "text": "Nó cũng giúp nhà phát triển học từ những gì đi trước.",
+    "originalPrompt": "Developers sketch ideas on a desk where classic genre motifs become building blocks for a new project, connected by PIXELPORTAL fragments",
+    "genre": ""
+  },
+  {
+    "id": "S010",
+    "number": 10,
+    "chapterId": "C01",
+    "originalText": "Nhưng nó cũng có thể làm chúng ta quên rằng game luôn thay đổi.",
+    "text": "Nhưng nó cũng có thể làm chúng ta quên rằng game luôn thay đổi.",
+    "originalPrompt": "Rigid genre boxes crack apart as colorful gameplay systems spill out, showing evolving design escaping fixed categories in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S011",
+    "number": 11,
+    "chapterId": "C01",
+    "originalText": "Có những thể loại sinh ra từ máy arcade.",
+    "text": "Có những thể loại sinh ra từ máy arcade.",
+    "originalPrompt": "An old arcade cabinet glows beside CARTRIDGE-era hardware, introducing the first great branch of electronic game history in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S012",
+    "number": 12,
+    "chapterId": "C01",
+    "originalText": "Có những thể loại lớn lên cùng PC và mạng Internet.",
+    "text": "Có những thể loại lớn lên cùng PC và mạng Internet.",
+    "originalPrompt": "Bulky home computers, strategy maps and online connection lines create a second branch of genre evolution on the infographic layout",
+    "genre": ""
+  },
+  {
+    "id": "S013",
+    "number": 13,
+    "chapterId": "C01",
+    "originalText": "Có những thể loại gần như không thể tồn tại nếu không có tay cầm hiện đại, server online hay điện thoại thông minh.",
+    "text": "Tay cầm, mạng trực tuyến và điện thoại đã mở rộng cách điều khiển, kết nối và tiếp cận game.",
+    "originalPrompt": "Modern controller, server towers and a smartphone feed new branches into GENREWHEEL, symbolizing hardware and network-driven genre evolution in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S014",
+    "number": 14,
+    "chapterId": "C01",
+    "originalText": "Và cũng có những thể loại không hẳn là thể loại, mà là cách cấu trúc một game.",
+    "text": "Và cũng có những thể loại không hẳn là thể loại, mà là cách cấu trúc một game.",
+    "originalPrompt": "Open-world map layers, roguelike loops and narrative branches orbit around MIO to show structural design labels that often act like genres",
+    "genre": ""
+  },
+  {
+    "id": "S015",
+    "number": 15,
+    "chapterId": "C01",
+    "originalText": "Câu hỏi của video này là: game được chia như thế nào, và vì sao ngày càng khó chia?",
+    "text": "Câu hỏi của video này là: game được chia như thế nào, và vì sao ngày càng khó chia?",
+    "originalPrompt": "MIO points at two big questions hovering over GENREWHEEL: how genres are divided and why the boundaries keep blurring in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S016",
+    "number": 16,
+    "chapterId": "C01",
+    "originalText": "Để trả lời, ta sẽ không đi theo tên game trước, mà đi theo lối chơi cốt lõi.",
+    "text": "Để trả lời, ta sẽ không đi theo tên game trước, mà đi theo lối chơi cốt lõi.",
+    "originalPrompt": "A path through GENREWHEEL highlights gameplay loops rather than logos, while examples appear only as supporting visual hints in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S017",
+    "number": 17,
+    "chapterId": "C01",
+    "originalText": "Khi bạn hiểu vòng lặp cốt lõi, bạn hiểu thể loại đó hấp dẫn ở điểm nào.",
+    "text": "Khi bạn hiểu vòng lặp cốt lõi, bạn hiểu thể loại đó hấp dẫn ở điểm nào.",
+    "originalPrompt": "A looping infographic shows challenge, action, reward and mastery cycling around one player, explaining the idea of a core gameplay loop",
+    "genre": ""
+  },
+  {
+    "id": "S018",
+    "number": 18,
+    "chapterId": "C01",
+    "originalText": "Và khi bạn hiểu các nhánh con, bạn sẽ thấy lịch sử game giống như một cây tiến hóa.",
+    "text": "Và khi bạn hiểu các nhánh con, bạn sẽ thấy lịch sử game giống như một cây tiến hóa.",
+    "originalPrompt": "SKILLTREE grows from simple roots into dense branches filled with genre symbols, echoing the evolution of species in a playful editorial metaphor",
+    "genre": ""
+  },
+  {
+    "id": "S019",
+    "number": 19,
+    "chapterId": "C01",
+    "originalText": "Một số nhánh biến mất.",
+    "text": "Một số nhánh dần ít xuất hiện hơn trong thị trường đại chúng.",
+    "originalPrompt": "Withered branches on SKILLTREE represent once-common styles fading from mainstream attention while still remaining part of history in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S020",
+    "number": 20,
+    "chapterId": "C01",
+    "originalText": "Một số nhánh bùng nổ rồi lai với nhau, tạo ra những thứ hoàn toàn mới.",
+    "text": "Một số nhánh bùng nổ rồi lai với nhau, tạo ra những thứ hoàn toàn mới.",
+    "originalPrompt": "Two bright branches of SKILLTREE cross-pollinate into a new glowing hybrid branch, concluding the hook for this long journey through genres",
+    "genre": ""
+  },
+  {
+    "id": "S021",
+    "number": 21,
+    "chapterId": "C02",
+    "originalText": "Nếu quay về gốc rễ của video game, ta thấy những thiết kế cực kỳ trực tiếp.",
+    "text": "Nếu quay về gốc rễ của video game, ta thấy những thiết kế cực kỳ trực tiếp.",
+    "originalPrompt": "Retro arcade hall filled with glowing cabinets and eager players, while PIXELPORTAL opens a path back to the earliest age of electronic play",
+    "genre": ""
+  },
+  {
+    "id": "S022",
+    "number": 22,
+    "chapterId": "C02",
+    "originalText": "Bạn bỏ xu, bạn cầm cần điều khiển, và chỉ vài giây sau là đã hiểu phải làm gì.",
+    "text": "Bạn bỏ xu, bạn cầm cần điều khiển, và chỉ vài giây sau là đã hiểu phải làm gì.",
+    "originalPrompt": "Hands insert a coin into an arcade cabinet, then grip a joystick as the game instantly bursts to life in a simple readable scene",
+    "genre": ""
+  },
+  {
+    "id": "S023",
+    "number": 23,
+    "chapterId": "C02",
+    "originalText": "Nhiều thể loại lớn nhất của game hiện đại bắt đầu từ sự rõ ràng đó.",
+    "text": "Nhiều thể loại lớn nhất của game hiện đại bắt đầu từ sự rõ ràng đó.",
+    "originalPrompt": "Simple arcade mechanics sprout outward into many later genre branches, linking old cabinets to a wide modern GENREWHEEL in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S024",
+    "number": 24,
+    "chapterId": "C02",
+    "originalText": "Arcade buộc game phải ngắn, gọn, khó dần và dễ học.",
+    "text": "Nhiều game arcade ưu tiên phiên chơi ngắn, luật dễ hiểu và thử thách tăng dần.",
+    "originalPrompt": "An arcade design infographic shows short sessions, quick understanding and escalating challenge through vivid visual symbols rather than text in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S025",
+    "number": 25,
+    "chapterId": "C02",
+    "originalText": "Chính sức ép phần cứng và mô hình kinh doanh ấy đã tạo nên những vòng lặp rất sắc nét.",
+    "text": "Chính sức ép phần cứng và mô hình kinh doanh ấy đã tạo nên những vòng lặp rất sắc nét.",
+    "originalPrompt": "Old hardware chips, coin slots and tiny screens shape focused gameplay loops around MIO in a cut-out explanatory composition in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S026",
+    "number": 26,
+    "chapterId": "C02",
+    "originalText": "Từ đây, nhiều nhánh hành động ra đời.",
+    "text": "Từ đây, nhiều nhánh hành động ra đời.",
+    "originalPrompt": "CARTRIDGE-era roots extend from arcade cabinets into fresh action-oriented branches on SKILLTREE in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S027",
+    "number": 27,
+    "chapterId": "C02",
+    "originalText": "Một số nhánh đặt nặng phản xạ thuần túy.",
+    "text": "Một số nhánh đặt nặng phản xạ thuần túy.",
+    "originalPrompt": "A fast reflex montage of dodging, jumping and firing introduces the pure-action side of early game history in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S028",
+    "number": 28,
+    "chapterId": "C02",
+    "originalText": "Một số nhánh khác dần học cách kể chuyện qua chuyển động.",
+    "text": "Một số nhánh khác dần học cách kể chuyện qua chuyển động.",
+    "originalPrompt": "Platform heroes and side-scrolling scenes create a bridge from raw reflex challenges toward more character-driven action games in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": ""
+  },
+  {
+    "id": "S029",
+    "number": 29,
+    "chapterId": "C02",
+    "originalText": "Arcade là nhánh nơi người chơi chủ yếu phản ứng rất nhanh với luật chơi đơn giản và áp lực điểm số.",
+    "text": "Arcade tập trung vào phản ứng rất nhanh với luật chơi đơn giản và áp lực điểm số.",
+    "originalPrompt": "MIO presents Arcade through a classic arcade cabinet, joystick, score-chasing tension and a crowd gathered around bright CRT screens, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Arcade"
+  },
+  {
+    "id": "S030",
+    "number": 30,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Arcade khác các nhánh gần nó là phiên chơi ngắn, luật rõ, độ khó tăng đều và mục tiêu thường xoay quanh sống sót hoặc ghi điểm.",
+    "text": "Điểm làm Arcade khác các nhánh gần nó là phiên chơi ngắn, luật rõ, độ khó tăng đều và mục tiêu thường xoay quanh sống sót hoặc ghi điểm.",
+    "originalPrompt": "A side-by-side visual compares Arcade with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Arcade"
+  },
+  {
+    "id": "S031",
+    "number": 31,
+    "chapterId": "C02",
+    "originalText": "Từ Pong, Pac-Man và Space Invaders, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Pong, Pac-Man và Space Invaders.",
+    "originalPrompt": "Collage scene of representative examples for Arcade, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Arcade"
+  },
+  {
+    "id": "S032",
+    "number": 32,
+    "chapterId": "C02",
+    "originalText": "Action là nhánh nơi người chơi chủ yếu hành động trong thời gian thực, ưu tiên phản xạ và phối hợp tay mắt.",
+    "text": "Action tập trung vào hành động trong thời gian thực, ưu tiên phản xạ và phối hợp tay mắt.",
+    "originalPrompt": "MIO presents Action through dynamic characters striking, dodging and moving through danger in real time with sharp motion silhouettes, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Action"
+  },
+  {
+    "id": "S033",
+    "number": 33,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Action khác các nhánh gần nó là mọi quyết định diễn ra tức thời chứ không chờ lượt hay tính toán dài hơi.",
+    "text": "Action thường đòi hỏi phản ứng trong thời gian thực, dù nhiều game vẫn cần tính toán và chuẩn bị.",
+    "originalPrompt": "A side-by-side visual compares Action with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Action"
+  },
+  {
+    "id": "S034",
+    "number": 34,
+    "chapterId": "C02",
+    "originalText": "Từ nhiều game từ Contra đến Devil May Cry, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy từ Contra đến Devil May Cry.",
+    "originalPrompt": "Collage scene of representative examples for Action, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Action"
+  },
+  {
+    "id": "S035",
+    "number": 35,
+    "chapterId": "C02",
+    "originalText": "Platformer là nhánh nơi người chơi chủ yếu nhảy, căn thời gian và vượt chướng ngại vật qua nhiều tầng địa hình.",
+    "text": "Platformer tập trung vào nhảy, căn thời gian và vượt chướng ngại vật qua nhiều tầng địa hình.",
+    "originalPrompt": "MIO presents Platformer through floating platforms, gaps, springs and a hero timing a leap across a colorful side-scrolling space, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Platformer"
+  },
+  {
+    "id": "S036",
+    "number": 36,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Platformer khác các nhánh gần nó là địa hình và chuyển động của nhân vật là thử thách trung tâm.",
+    "text": "Điểm làm Platformer khác các nhánh gần nó là địa hình và chuyển động của nhân vật là thử thách trung tâm.",
+    "originalPrompt": "A side-by-side visual compares Platformer with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Platformer"
+  },
+  {
+    "id": "S037",
+    "number": 37,
+    "chapterId": "C02",
+    "originalText": "Từ Super Mario Bros., Sonic the Hedgehog và Celeste, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Super Mario Bros., Sonic the Hedgehog và Celeste.",
+    "originalPrompt": "Collage scene of representative examples for Platformer, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Platformer"
+  },
+  {
+    "id": "S038",
+    "number": 38,
+    "chapterId": "C02",
+    "originalText": "Shoot ’em up là nhánh nơi người chơi chủ yếu né đạn và bắn kẻ địch trong màn chơi cuộn liên tục.",
+    "text": "Shoot ’em up tập trung vào né đạn và bắn kẻ địch trong màn chơi cuộn liên tục.",
+    "originalPrompt": "MIO presents Shoot ’em up through spaceships weaving through dense bullet patterns in an elegant top-down or side-scrolling arcade composition, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Shoot ’em up"
+  },
+  {
+    "id": "S039",
+    "number": 39,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Shoot ’em up khác các nhánh gần nó là mật độ đạn, vị trí di chuyển và đọc mẫu tấn công quan trọng hơn khám phá thế giới.",
+    "text": "Điểm làm Shoot ’em up khác các nhánh gần nó là mật độ đạn, vị trí di chuyển và đọc mẫu tấn công quan trọng hơn khám phá thế giới.",
+    "originalPrompt": "A side-by-side visual compares Shoot ’em up with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Shoot ’em up"
+  },
+  {
+    "id": "S040",
+    "number": 40,
+    "chapterId": "C02",
+    "originalText": "Từ Gradius, R-Type và Touhou, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Gradius, R-Type và Touhou.",
+    "originalPrompt": "Collage scene of representative examples for Shoot ’em up, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Shoot ’em up"
+  },
+  {
+    "id": "S041",
+    "number": 41,
+    "chapterId": "C02",
+    "originalText": "Beat ’em up là nhánh nơi người chơi chủ yếu đánh cận chiến với nhiều kẻ địch trên đường tiến màn.",
+    "text": "Beat ’em up tập trung vào đánh cận chiến với nhiều kẻ địch trên đường tiến màn.",
+    "originalPrompt": "MIO presents Beat ’em up through street fighters brawling through a scrolling urban stage with multiple enemies approaching from both sides, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Beat ’em up"
+  },
+  {
+    "id": "S042",
+    "number": 42,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Beat ’em up khác các nhánh gần nó là nhịp kiểm soát đám đông và cảm giác tung chuỗi đòn trực diện.",
+    "text": "Điểm làm Beat ’em up khác các nhánh gần nó là nhịp kiểm soát đám đông và cảm giác tung chuỗi đòn trực diện.",
+    "originalPrompt": "A side-by-side visual compares Beat ’em up with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Beat ’em up"
+  },
+  {
+    "id": "S043",
+    "number": 43,
+    "chapterId": "C02",
+    "originalText": "Từ Double Dragon, Final Fight và Streets of Rage, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Double Dragon, Final Fight và Streets of Rage.",
+    "originalPrompt": "Collage scene of representative examples for Beat ’em up, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Beat ’em up"
+  },
+  {
+    "id": "S044",
+    "number": 44,
+    "chapterId": "C02",
+    "originalText": "Run and gun là nhánh nơi người chơi chủ yếu vừa di chuyển nhanh vừa xả đạn liên tục trong màn chơi áp lực cao.",
+    "text": "Run and gun tập trung vào vừa di chuyển nhanh vừa xả đạn liên tục trong màn chơi áp lực cao.",
+    "originalPrompt": "MIO presents Run and gun through heroes sprinting and firing through exploding scenery, with exaggerated motion and relentless forward momentum, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Run and gun"
+  },
+  {
+    "id": "S045",
+    "number": 45,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Run and gun khác các nhánh gần nó là nó kết hợp nhịp platform với cường độ bắn dồn dập.",
+    "text": "Điểm làm Run and gun khác các nhánh gần nó là nó kết hợp nhịp platform với cường độ bắn dồn dập.",
+    "originalPrompt": "A side-by-side visual compares Run and gun with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Run and gun"
+  },
+  {
+    "id": "S046",
+    "number": 46,
+    "chapterId": "C02",
+    "originalText": "Từ Contra, Metal Slug và Cuphead ở nhiều khoảnh khắc, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Contra, Metal Slug và Cuphead ở nhiều khoảnh khắc.",
+    "originalPrompt": "Collage scene of representative examples for Run and gun, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Run and gun"
+  },
+  {
+    "id": "S047",
+    "number": 47,
+    "chapterId": "C02",
+    "originalText": "Maze là nhánh nơi người chơi chủ yếu đọc đường đi, tránh truy đuổi và tối ưu lộ trình trong không gian mê cung.",
+    "text": "Maze tập trung vào đọc đường đi, tránh truy đuổi và tối ưu lộ trình trong không gian mê cung.",
+    "originalPrompt": "MIO presents Maze through top-down maze corridors with a pursued character, pursuers, pellets and route-planning energy, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Maze"
+  },
+  {
+    "id": "S048",
+    "number": 48,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Maze khác các nhánh gần nó là bản đồ nhỏ và hành vi truy đuổi tạo ra chiến thuật trong một khung rất gọn.",
+    "text": "Điểm làm Maze khác các nhánh gần nó là bản đồ nhỏ và hành vi truy đuổi tạo ra chiến thuật trong một khung rất gọn.",
+    "originalPrompt": "A side-by-side visual compares Maze with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Maze"
+  },
+  {
+    "id": "S049",
+    "number": 49,
+    "chapterId": "C02",
+    "originalText": "Từ Pac-Man, Bomberman ở vài chế độ và nhiều game mê cung cổ điển, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Pac-Man, Bomberman ở vài chế độ và nhiều game mê cung cổ điển.",
+    "originalPrompt": "Collage scene of representative examples for Maze, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Maze"
+  },
+  {
+    "id": "S050",
+    "number": 50,
+    "chapterId": "C02",
+    "originalText": "Rhythm là nhánh nơi người chơi chủ yếu đồng bộ thao tác với nhịp âm thanh hoặc tiết tấu thị giác.",
+    "text": "Rhythm tập trung vào đồng bộ thao tác với nhịp âm thanh hoặc tiết tấu thị giác.",
+    "originalPrompt": "MIO presents Rhythm through stylized notes, musical beats and player inputs syncing perfectly in a vibrant rhythmic editorial scene, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Rhythm"
+  },
+  {
+    "id": "S051",
+    "number": 51,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Rhythm khác các nhánh gần nó là cảm giác chơi gắn chặt với timing hơn là sức mạnh nhân vật hay bản đồ.",
+    "text": "Điểm làm Rhythm khác các nhánh gần nó là cảm giác chơi gắn chặt với timing hơn là sức mạnh nhân vật hay bản đồ.",
+    "originalPrompt": "A side-by-side visual compares Rhythm with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Rhythm"
+  },
+  {
+    "id": "S052",
+    "number": 52,
+    "chapterId": "C02",
+    "originalText": "Từ Dance Dance Revolution, Guitar Hero và osu!, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Dance Dance Revolution, Guitar Hero và osu!.",
+    "originalPrompt": "Collage scene of representative examples for Rhythm, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Rhythm"
+  },
+  {
+    "id": "S053",
+    "number": 53,
+    "chapterId": "C02",
+    "originalText": "Puzzle là nhánh nơi người chơi chủ yếu giải quy tắc trừu tượng bằng nhận dạng mẫu, sắp xếp hoặc suy luận.",
+    "text": "Puzzle tập trung vào giải quy tắc trừu tượng bằng nhận dạng mẫu, sắp xếp hoặc suy luận.",
+    "originalPrompt": "MIO presents Puzzle through geometric pieces, spatial reasoning and clever problem structures arranged like a playful infographic challenge, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S054",
+    "number": 54,
+    "chapterId": "C02",
+    "originalText": "Điểm làm Puzzle khác các nhánh gần nó là nó thử thách trí óc ngay trong hệ luật thay vì đối đầu trực diện với kẻ địch.",
+    "text": "Điểm làm Puzzle khác các nhánh gần nó là nó thử thách trí óc ngay trong hệ luật thay vì đối đầu trực diện với kẻ địch.",
+    "originalPrompt": "A side-by-side visual compares Puzzle with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S055",
+    "number": 55,
+    "chapterId": "C02",
+    "originalText": "Từ Tetris, Puyo Puyo và Portal theo tinh thần giải đố, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Tetris, Puyo Puyo và Portal theo tinh thần giải đố.",
+    "originalPrompt": "Collage scene of representative examples for Puzzle, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S056",
+    "number": 56,
+    "chapterId": "C03",
+    "originalText": "Nếu arcade hỏi bạn phản xạ nhanh đến đâu, chiến lược hỏi bạn nhìn xa đến mức nào.",
+    "text": "Nếu arcade hỏi bạn phản xạ nhanh đến đâu, chiến lược hỏi bạn nhìn xa đến mức nào.",
+    "originalPrompt": "MIO compares a twitchy arcade reflex scene with a calm strategy table covered in routes, resources and long-term plans in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S057",
+    "number": 57,
+    "chapterId": "C03",
+    "originalText": "Ở đây, niềm vui không nằm ở bấm nhanh hơn một phần mười giây.",
+    "text": "Lợi thế không chỉ đến từ bấm nhanh, mà còn từ việc đưa ra quyết định đúng.",
+    "originalPrompt": "A thoughtful player pauses over a strategic map while frantic action blurs away in the background in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S058",
+    "number": 58,
+    "chapterId": "C03",
+    "originalText": "Nó nằm ở việc đọc hệ thống, dự đoán đối thủ và chấp nhận đánh đổi.",
+    "text": "Nó nằm ở việc đọc hệ thống, dự đoán đối thủ và chấp nhận đánh đổi.",
+    "originalPrompt": "Strategic icons for scouting, prediction, economy and sacrifice interlock around a commander figure on a tactical board in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S059",
+    "number": 59,
+    "chapterId": "C03",
+    "originalText": "Đây là một trong những nhánh khiến game gần nhất với cờ, chiến tranh mô phỏng và quản trị.",
+    "text": "Đây là một trong những nhánh khiến game gần nhất với cờ, chiến tranh mô phỏng và quản trị.",
+    "originalPrompt": "Board game heritage, battlefield miniatures and management charts merge into a strategy-themed branch of GENREWHEEL in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S060",
+    "number": 60,
+    "chapterId": "C03",
+    "originalText": "Và cũng là nhánh đẻ ra vô số biến thể cực khác nhau.",
+    "text": "Và cũng là nhánh đẻ ra vô số biến thể cực khác nhau.",
+    "originalPrompt": "SKILLTREE splits into many strategy sub-branches, from empire management to tiny squad tactics in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S061",
+    "number": 61,
+    "chapterId": "C03",
+    "originalText": "Có game cho bạn điều khiển cả một đế chế.",
+    "text": "Có game cho bạn điều khiển cả một đế chế.",
+    "originalPrompt": "A ruler surveys cities, resources and borders across a giant map, introducing macro strategy in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S062",
+    "number": 62,
+    "chapterId": "C03",
+    "originalText": "Có game chỉ giao cho bạn một nhóm lính nhỏ trên bản đồ hẹp.",
+    "text": "Có game chỉ giao cho bạn một nhóm lính nhỏ trên bản đồ hẹp.",
+    "originalPrompt": "A compact tactical squad studies cover and angles on a small battlefield grid in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S063",
+    "number": 63,
+    "chapterId": "C03",
+    "originalText": "Nhưng tất cả đều chia sẻ một niềm vui quen thuộc: thắng nhờ hiểu hệ thống tốt hơn.",
+    "text": "Nhưng tất cả đều chia sẻ một niềm vui quen thuộc: thắng nhờ hiểu hệ thống tốt hơn.",
+    "originalPrompt": "MIO smiles over a solved strategic puzzle where many moving parts finally align into victory in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "S064",
+    "number": 64,
+    "chapterId": "C03",
+    "originalText": "Strategy là nhánh nơi người chơi chủ yếu lập kế hoạch, phân bổ nguồn lực và tối ưu quyết định qua thời gian.",
+    "text": "Strategy tập trung vào lập kế hoạch, phân bổ nguồn lực và tối ưu quyết định qua thời gian.",
+    "originalPrompt": "MIO presents Strategy through maps, resources, unit counters and careful planning gestures around a focused commander, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Strategy"
+  },
+  {
+    "id": "S065",
+    "number": 65,
+    "chapterId": "C03",
+    "originalText": "Điểm làm Strategy khác các nhánh gần nó là nó xem suy nghĩ trước nhiều bước là kỹ năng quan trọng nhất.",
+    "text": "Strategy đặt trọng tâm vào kế hoạch và đánh đổi, dù nhiều nhánh vẫn đòi hỏi thao tác nhanh.",
+    "originalPrompt": "A side-by-side visual compares Strategy with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Strategy"
+  },
+  {
+    "id": "S066",
+    "number": 66,
+    "chapterId": "C03",
+    "originalText": "Từ nhiều dòng game từ cờ số hóa đến chiến tranh giả lập, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy từ cờ số hóa đến chiến tranh giả lập.",
+    "originalPrompt": "Collage scene of representative examples for Strategy, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Strategy"
+  },
+  {
+    "id": "S067",
+    "number": 67,
+    "chapterId": "C03",
+    "originalText": "Real-time strategy là nhánh nơi người chơi chủ yếu ra lệnh liên tục trong khi thế giới vẫn vận hành không ngừng.",
+    "text": "Real-time strategy tập trung vào ra lệnh liên tục trong khi thế giới vẫn vận hành không ngừng.",
+    "originalPrompt": "MIO presents Real-time strategy through base building, harvesting and armies clashing live across a strategic battlefield with constant motion, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Real-time strategy"
+  },
+  {
+    "id": "S068",
+    "number": 68,
+    "chapterId": "C03",
+    "originalText": "Điểm làm Real-time strategy khác các nhánh gần nó là áp lực của nó đến từ việc vừa xây dựng kinh tế vừa điều quân ngay trong thời gian thực.",
+    "text": "Điểm làm Real-time strategy khác các nhánh gần nó là áp lực của nó đến từ việc vừa xây dựng kinh tế vừa điều quân ngay trong thời gian thực.",
+    "originalPrompt": "A side-by-side visual compares Real-time strategy with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Real-time strategy"
+  },
+  {
+    "id": "S069",
+    "number": 69,
+    "chapterId": "C03",
+    "originalText": "Từ Dune II, Warcraft và StarCraft, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Dune II, Warcraft và StarCraft.",
+    "originalPrompt": "Collage scene of representative examples for Real-time strategy, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Real-time strategy"
+  },
+  {
+    "id": "S070",
+    "number": 70,
+    "chapterId": "C03",
+    "originalText": "Turn-based strategy là nhánh nơi người chơi chủ yếu dừng lại để suy nghĩ rồi hành động theo lượt.",
+    "text": "Turn-based strategy tập trung vào dừng lại để suy nghĩ rồi hành động theo lượt.",
+    "originalPrompt": "MIO presents Turn-based strategy through units and cities waiting on a map for deliberate turn-based decisions in a calm tactical atmosphere, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Turn-based strategy"
+  },
+  {
+    "id": "S071",
+    "number": 71,
+    "chapterId": "C03",
+    "originalText": "Điểm làm Turn-based strategy khác các nhánh gần nó là thời gian phân tích được kéo giãn, nên vị trí và thứ tự hành động trở nên cực kỳ quan trọng.",
+    "text": "Điểm làm Turn-based strategy khác các nhánh gần nó là thời gian phân tích được kéo giãn, nên vị trí và thứ tự hành động trở nên cực kỳ quan trọng.",
+    "originalPrompt": "A side-by-side visual compares Turn-based strategy with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Turn-based strategy"
+  },
+  {
+    "id": "S072",
+    "number": 72,
+    "chapterId": "C03",
+    "originalText": "Từ Civilization, Advance Wars và Heroes of Might and Magic, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Civilization, Advance Wars và Heroes of Might and Magic.",
+    "originalPrompt": "Collage scene of representative examples for Turn-based strategy, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Turn-based strategy"
+  },
+  {
+    "id": "S073",
+    "number": 73,
+    "chapterId": "C03",
+    "originalText": "4X là nhánh nơi người chơi chủ yếu khám phá, mở rộng, khai thác và tiêu diệt trên quy mô rất lớn.",
+    "text": "4X tập trung vào khám phá, mở rộng, khai thác và tiêu diệt trên quy mô rất lớn.",
+    "originalPrompt": "MIO presents 4X through an empire spreading across continents or stars, with exploration, expansion and resource growth visualized together, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "4X"
+  },
+  {
+    "id": "S074",
+    "number": 74,
+    "chapterId": "C03",
+    "originalText": "Điểm làm 4X khác các nhánh gần nó là nó kết hợp xây dựng đế chế với chiến lược dài hạn qua hàng chục hoặc hàng trăm lượt.",
+    "text": "4X kết hợp xây dựng đế chế với nhiều hệ thống dài hạn, theo lượt hoặc trong thời gian thực.",
+    "originalPrompt": "A side-by-side visual compares 4X with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "4X"
+  },
+  {
+    "id": "S075",
+    "number": 75,
+    "chapterId": "C03",
+    "originalText": "Từ Civilization, Master of Orion và Endless Legend, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Civilization, Master of Orion và Endless Legend.",
+    "originalPrompt": "Collage scene of representative examples for 4X, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "4X"
+  },
+  {
+    "id": "S076",
+    "number": 76,
+    "chapterId": "C03",
+    "originalText": "Tactics là nhánh nơi người chơi chủ yếu giải từng trận địa nhỏ bằng vị trí, hướng nhìn và lợi thế cục bộ.",
+    "text": "Tactics tập trung vào giải từng trận địa nhỏ bằng vị trí, hướng nhìn và lợi thế cục bộ.",
+    "originalPrompt": "MIO presents Tactics through small squads using cover, lines of attack and terrain advantages in an intimate tactical battle map, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Tactics"
+  },
+  {
+    "id": "S077",
+    "number": 77,
+    "chapterId": "C03",
+    "originalText": "Điểm làm Tactics khác các nhánh gần nó là nó hẹp hơn strategy vĩ mô nhưng sâu hơn ở cấp độ trận đánh.",
+    "text": "Điểm làm Tactics khác các nhánh gần nó là nó hẹp hơn strategy vĩ mô nhưng sâu hơn ở cấp độ trận đánh.",
+    "originalPrompt": "A side-by-side visual compares Tactics with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Tactics"
+  },
+  {
+    "id": "S078",
+    "number": 78,
+    "chapterId": "C03",
+    "originalText": "Từ XCOM, Into the Breach và Jagged Alliance, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong XCOM, Into the Breach và Jagged Alliance.",
+    "originalPrompt": "Collage scene of representative examples for Tactics, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Tactics"
+  },
+  {
+    "id": "S079",
+    "number": 79,
+    "chapterId": "C03",
+    "originalText": "Tactical RPG là nhánh nơi người chơi chủ yếu kết hợp chiến thuật bản đồ ô vuông với hệ phát triển nhân vật nhập vai.",
+    "text": "Tactical RPG kết hợp quyết định chiến thuật với sự phát triển của nhân vật; bản đồ ô vuông là một cách triển khai phổ biến.",
+    "originalPrompt": "MIO presents Tactical RPG through anime heroes on a grid battlefield with class growth, positioning and emotional stakes combined, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Tactical RPG"
+  },
+  {
+    "id": "S080",
+    "number": 80,
+    "chapterId": "C03",
+    "originalText": "Điểm làm Tactical RPG khác các nhánh gần nó là nhân vật không chỉ là đơn vị, mà còn có lớp nghề, chỉ số và câu chuyện tăng trưởng.",
+    "text": "Điểm làm Tactical RPG khác các nhánh gần nó là nhân vật không chỉ là đơn vị, mà còn có lớp nghề, chỉ số và câu chuyện tăng trưởng.",
+    "originalPrompt": "A side-by-side visual compares Tactical RPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Tactical RPG"
+  },
+  {
+    "id": "S081",
+    "number": 81,
+    "chapterId": "C03",
+    "originalText": "Từ Fire Emblem, Final Fantasy Tactics và Tactics Ogre, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Fire Emblem, Final Fantasy Tactics và Tactics Ogre.",
+    "originalPrompt": "Collage scene of representative examples for Tactical RPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Tactical RPG"
+  },
+  {
+    "id": "S082",
+    "number": 82,
+    "chapterId": "C03",
+    "originalText": "Tower defense là nhánh nơi người chơi chủ yếu đặt công sự để chặn làn sóng địch đi theo tuyến đường.",
+    "text": "Tower defense tập trung vào đặt công sự để chặn làn sóng địch đi theo tuyến đường.",
+    "originalPrompt": "MIO presents Tower defense through defensive towers and quirky traps holding back waves of enemies along winding paths, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Tower defense"
+  },
+  {
+    "id": "S083",
+    "number": 83,
+    "chapterId": "C03",
+    "originalText": "Điểm làm Tower defense khác các nhánh gần nó là trọng tâm nằm ở bố trí phòng thủ và chu kỳ nâng cấp chứ không phải trực tiếp điều khiển chiến binh.",
+    "text": "Điểm làm Tower defense khác các nhánh gần nó là trọng tâm nằm ở bố trí phòng thủ và chu kỳ nâng cấp chứ không phải trực tiếp điều khiển chiến binh.",
+    "originalPrompt": "A side-by-side visual compares Tower defense with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Tower defense"
+  },
+  {
+    "id": "S084",
+    "number": 84,
+    "chapterId": "C03",
+    "originalText": "Từ Plants vs. Zombies, Kingdom Rush và Defense Grid, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Plants vs. Zombies, Kingdom Rush và Defense Grid.",
+    "originalPrompt": "Collage scene of representative examples for Tower defense, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Tower defense"
+  },
+  {
+    "id": "S085",
+    "number": 85,
+    "chapterId": "C03",
+    "originalText": "Auto battler là nhánh nơi người chơi chủ yếu xây đội hình và tối ưu đội quân trước khi trận đánh tự diễn ra.",
+    "text": "Auto battler tập trung vào xây đội hình và tối ưu đội quân trước khi trận đánh tự diễn ra.",
+    "originalPrompt": "MIO presents Auto battler through chess-like units arranged before combat as synergies glow across a preparation board, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Auto battler"
+  },
+  {
+    "id": "S086",
+    "number": 86,
+    "chapterId": "C03",
+    "originalText": "Điểm làm Auto battler khác các nhánh gần nó là khâu chuẩn bị, ghép synergies và quản lý vàng quan trọng hơn thao tác trong giao tranh.",
+    "text": "Điểm làm Auto battler khác các nhánh gần nó là khâu chuẩn bị, ghép synergies và quản lý vàng quan trọng hơn thao tác trong giao tranh.",
+    "originalPrompt": "A side-by-side visual compares Auto battler with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Auto battler"
+  },
+  {
+    "id": "S087",
+    "number": 87,
+    "chapterId": "C03",
+    "originalText": "Từ Teamfight Tactics, Auto Chess và Battlegrounds, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Teamfight Tactics, Auto Chess và Battlegrounds.",
+    "originalPrompt": "Collage scene of representative examples for Auto battler, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Auto battler"
+  },
+  {
+    "id": "S088",
+    "number": 88,
+    "chapterId": "C03",
+    "originalText": "MOBA là nhánh nơi người chơi chủ yếu điều khiển một anh hùng trong trận đấu đội với ba đường và mục tiêu phá căn cứ.",
+    "text": "MOBA thường cho mỗi người điều khiển một anh hùng trong đội, phối hợp trên bản đồ để phá mục tiêu hoặc căn cứ đối phương.",
+    "originalPrompt": "MIO presents MOBA through teams of hero units clash along lanes toward a central base, with jungle paths and strategic objectives, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S089",
+    "number": 89,
+    "chapterId": "C03",
+    "originalText": "Điểm làm MOBA khác các nhánh gần nó là nó lai giữa hành động thời gian thực, chiến thuật bản đồ và tăng tiến sức mạnh trong trận.",
+    "text": "Điểm làm MOBA khác các nhánh gần nó là nó lai giữa hành động thời gian thực, chiến thuật bản đồ và tăng tiến sức mạnh trong trận.",
+    "originalPrompt": "A side-by-side visual compares MOBA with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S090",
+    "number": 90,
+    "chapterId": "C03",
+    "originalText": "Từ DotA, League of Legends và Dota 2, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong DotA, League of Legends và Dota 2.",
+    "originalPrompt": "Collage scene of representative examples for MOBA, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S091",
+    "number": 91,
+    "chapterId": "C04",
+    "originalText": "Nếu chiến lược cho bạn điều khiển hệ thống, nhập vai cho bạn điều khiển một hành trình.",
+    "text": "Nếu chiến lược cho bạn điều khiển hệ thống, nhập vai cho bạn điều khiển một hành trình.",
+    "originalPrompt": "MIO steps from a strategy map into an adventure road where one character’s growth becomes the central focus in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S092",
+    "number": 92,
+    "chapterId": "C04",
+    "originalText": "RPG đặt câu hỏi khác hẳn: bạn là ai trong thế giới này?",
+    "text": "RPG đặt câu hỏi khác hẳn: bạn là ai trong thế giới này?",
+    "originalPrompt": "A lone hero stands at a crossroads of classes, gear and story paths, framed by an expansive fantasy world in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S093",
+    "number": 93,
+    "chapterId": "C04",
+    "originalText": "Từ đó, nó gắn người chơi với chỉ số, trang bị, nhiệm vụ và sự tiến bộ lâu dài.",
+    "text": "Từ đó, nó gắn người chơi với chỉ số, trang bị, nhiệm vụ và sự tiến bộ lâu dài.",
+    "originalPrompt": "Stats, equipment, quests and character growth orbit one protagonist in a clean editorial infographic circle in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S094",
+    "number": 94,
+    "chapterId": "C04",
+    "originalText": "Nguồn gốc của RPG điện tử đi rất gần game nhập vai trên bàn như Dungeons and Dragons.",
+    "text": "Nguồn gốc của RPG điện tử đi rất gần game nhập vai trên bàn như Dungeons and Dragons.",
+    "originalPrompt": "Dice, character sheets and a digital fantasy world connect tabletop role-playing heritage to early computer RPGs in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S095",
+    "number": 95,
+    "chapterId": "C04",
+    "originalText": "Nhưng rồi nó nhanh chóng phân nhánh thành vô số kiểu rất khác nhau.",
+    "text": "Nhưng rồi nó nhanh chóng phân nhánh thành vô số kiểu rất khác nhau.",
+    "originalPrompt": "SKILLTREE sends RPG into many branches, from party adventures to fast action builds and online worlds in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S096",
+    "number": 96,
+    "chapterId": "C04",
+    "originalText": "Có game nhập vai nặng kể chuyện.",
+    "text": "Có game nhập vai nặng kể chuyện.",
+    "originalPrompt": "A party of heroes shares a campfire, highlighting story-heavy role-playing traditions in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S097",
+    "number": 97,
+    "chapterId": "C04",
+    "originalText": "Có game nhập vai nặng tính xây dựng nhân vật.",
+    "text": "Có game nhập vai nặng tính xây dựng nhân vật.",
+    "originalPrompt": "A character build screen metaphor shows branching attributes, gear choices and specialization paths in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S098",
+    "number": 98,
+    "chapterId": "C04",
+    "originalText": "Có game nhập vai tập trung vào loot và sức mạnh chiến đấu.",
+    "text": "Có game nhập vai tập trung vào loot và sức mạnh chiến đấu.",
+    "originalPrompt": "Treasure, weapons and monster battles dominate an action-oriented RPG composition in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S099",
+    "number": 99,
+    "chapterId": "C04",
+    "originalText": "Và cũng có game nhập vai gần như trở thành cả một xã hội ảo.",
+    "text": "Và cũng có game nhập vai gần như trở thành cả một xã hội ảo.",
+    "originalPrompt": "A massive online town full of players, markets and raids introduces the social side of RPG evolution in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S100",
+    "number": 100,
+    "chapterId": "C04",
+    "originalText": "Ở nhánh này, tiến bộ lâu dài chính là trái tim của trải nghiệm.",
+    "text": "Ở nhánh này, tiến bộ lâu dài chính là trái tim của trải nghiệm.",
+    "originalPrompt": "A hero gradually evolves through multiple silhouettes, from beginner to veteran, across a continuous timeline in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "MOBA"
+  },
+  {
+    "id": "S101",
+    "number": 101,
+    "chapterId": "C04",
+    "originalText": "RPG là nhánh nơi người chơi chủ yếu phát triển nhân vật qua cấp độ, chỉ số, lựa chọn và hành trình dài.",
+    "text": "RPG tập trung vào phát triển nhân vật qua cấp độ, chỉ số, lựa chọn và hành trình dài.",
+    "originalPrompt": "MIO presents RPG through hero progression, stat growth, equipment choices and a world inviting role-play and long-term development, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "RPG"
+  },
+  {
+    "id": "S102",
+    "number": 102,
+    "chapterId": "C04",
+    "originalText": "Điểm làm RPG khác các nhánh gần nó là nó biến tiến bộ lâu dài thành phần thưởng trung tâm của trò chơi.",
+    "text": "Điểm làm RPG khác các nhánh gần nó là nó biến tiến bộ lâu dài thành phần thưởng trung tâm của trò chơi.",
+    "originalPrompt": "A side-by-side visual compares RPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "RPG"
+  },
+  {
+    "id": "S103",
+    "number": 103,
+    "chapterId": "C04",
+    "originalText": "Từ Ultima, Wizardry và nhiều hậu duệ hiện đại, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Ultima, Wizardry và nhiều hậu duệ hiện đại.",
+    "originalPrompt": "Collage scene of representative examples for RPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "RPG"
+  },
+  {
+    "id": "S104",
+    "number": 104,
+    "chapterId": "C04",
+    "originalText": "JRPG là nhánh nơi người chơi chủ yếu đi theo chuyến phiêu lưu có tuyến truyện rõ, dàn nhân vật nổi bật và nhịp tiến triển rất có chủ đích.",
+    "text": "JRPG là một nhãn truyền thống thiết kế rộng, thường gắn với tổ đội, nhân vật nổi bật và chuyến phiêu lưu có tuyến truyện rõ.",
+    "originalPrompt": "MIO presents JRPG through anime party members on an emotional quest, with dramatic landscapes and story-driven companionship, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "JRPG"
+  },
+  {
+    "id": "S105",
+    "number": 105,
+    "chapterId": "C04",
+    "originalText": "Điểm làm JRPG khác các nhánh gần nó là nó thường nhấn mạnh câu chuyện, tổ đội và bản sắc hình ảnh mạnh.",
+    "text": "Điểm làm JRPG khác các nhánh gần nó là nó thường nhấn mạnh câu chuyện, tổ đội và bản sắc hình ảnh mạnh.",
+    "originalPrompt": "A side-by-side visual compares JRPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "JRPG"
+  },
+  {
+    "id": "S106",
+    "number": 106,
+    "chapterId": "C04",
+    "originalText": "Từ Dragon Quest, Final Fantasy và Persona, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Dragon Quest, Final Fantasy và Persona.",
+    "originalPrompt": "Collage scene of representative examples for JRPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "JRPG"
+  },
+  {
+    "id": "S107",
+    "number": 107,
+    "chapterId": "C04",
+    "originalText": "WRPG là nhánh nơi người chơi chủ yếu trao cho người chơi nhiều tự do hơn trong khám phá và lựa chọn vai diễn.",
+    "text": "WRPG là một nhãn truyền thống thiết kế khác, thường gắn với tạo nhân vật và lựa chọn vai diễn; ranh giới với JRPG không tuyệt đối.",
+    "originalPrompt": "MIO presents WRPG through a player-created adventurer exploring a broad world with branching choices and open-ended role-play, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "WRPG"
+  },
+  {
+    "id": "S108",
+    "number": 108,
+    "chapterId": "C04",
+    "originalText": "Điểm làm WRPG khác các nhánh gần nó là thế giới, nhiệm vụ nhánh và quyết định đạo đức thường có trọng lượng rất lớn.",
+    "text": "Điểm làm WRPG khác các nhánh gần nó là thế giới, nhiệm vụ nhánh và quyết định đạo đức thường có trọng lượng rất lớn.",
+    "originalPrompt": "A side-by-side visual compares WRPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "WRPG"
+  },
+  {
+    "id": "S109",
+    "number": 109,
+    "chapterId": "C04",
+    "originalText": "Từ The Elder Scrolls, Baldur’s Gate và Fallout, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong The Elder Scrolls, Baldur’s Gate và Fallout.",
+    "originalPrompt": "Collage scene of representative examples for WRPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "WRPG"
+  },
+  {
+    "id": "S110",
+    "number": 110,
+    "chapterId": "C04",
+    "originalText": "Action RPG là nhánh nơi người chơi chủ yếu chiến đấu trực tiếp trong thời gian thực nhưng vẫn giữ vòng lặp lên cấp và trang bị.",
+    "text": "Action RPG tập trung vào chiến đấu trực tiếp trong thời gian thực nhưng vẫn giữ vòng lặp lên cấp và trang bị.",
+    "originalPrompt": "MIO presents Action RPG through fast combat, loot showers and character growth combined in a kinetic role-playing scene, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Action RPG"
+  },
+  {
+    "id": "S111",
+    "number": 111,
+    "chapterId": "C04",
+    "originalText": "Điểm làm Action RPG khác các nhánh gần nó là nó dung hòa cảm giác hành động tức thì với sự tăng trưởng kiểu nhập vai.",
+    "text": "Điểm làm Action RPG khác các nhánh gần nó là nó dung hòa cảm giác hành động tức thì với sự tăng trưởng kiểu nhập vai.",
+    "originalPrompt": "A side-by-side visual compares Action RPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Action RPG"
+  },
+  {
+    "id": "S112",
+    "number": 112,
+    "chapterId": "C04",
+    "originalText": "Từ Diablo, Kingdom Hearts và Path of Exile, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Diablo, Kingdom Hearts và Path of Exile.",
+    "originalPrompt": "Collage scene of representative examples for Action RPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Action RPG"
+  },
+  {
+    "id": "S113",
+    "number": 113,
+    "chapterId": "C04",
+    "originalText": "Dungeon crawler là nhánh nơi người chơi chủ yếu khám phá hầm ngục, quản lý rủi ro và tiến dần qua những tầng nguy hiểm.",
+    "text": "Dungeon crawler tập trung vào khám phá hầm ngục, quản lý rủi ro và tiến dần qua những tầng nguy hiểm.",
+    "originalPrompt": "MIO presents Dungeon crawler through party members descending into layered dungeons with torches, traps and careful resource use, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Dungeon crawler"
+  },
+  {
+    "id": "S114",
+    "number": 114,
+    "chapterId": "C04",
+    "originalText": "Điểm làm Dungeon crawler khác các nhánh gần nó là không gian khép kín và áp lực tài nguyên là linh hồn của nhánh này.",
+    "text": "Điểm làm Dungeon crawler khác các nhánh gần nó là không gian khép kín và áp lực tài nguyên là linh hồn của nhánh này.",
+    "originalPrompt": "A side-by-side visual compares Dungeon crawler with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Dungeon crawler"
+  },
+  {
+    "id": "S115",
+    "number": 115,
+    "chapterId": "C04",
+    "originalText": "Từ Wizardry, Etrian Odyssey và Legend of Grimrock, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Wizardry, Etrian Odyssey và Legend of Grimrock.",
+    "originalPrompt": "Collage scene of representative examples for Dungeon crawler, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Dungeon crawler"
+  },
+  {
+    "id": "S116",
+    "number": 116,
+    "chapterId": "C04",
+    "originalText": "Monster-collecting RPG là nhánh nơi người chơi chủ yếu thu thập sinh vật, xây đội hình và phát triển quan hệ chiến đấu với chúng.",
+    "text": "Monster-collecting RPG tập trung vào thu thập sinh vật, xây đội hình và phát triển quan hệ chiến đấu với chúng.",
+    "originalPrompt": "MIO presents Monster-collecting RPG through colorful creatures join a trainer in a role-playing world focused on collecting and team synergy, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Monster-collecting RPG"
+  },
+  {
+    "id": "S117",
+    "number": 117,
+    "chapterId": "C04",
+    "originalText": "Điểm làm Monster-collecting RPG khác các nhánh gần nó là trọng tâm của nó là bắt, nuôi và phối hợp quái vật như bạn đồng hành.",
+    "text": "Điểm làm Monster-collecting RPG khác các nhánh gần nó là trọng tâm của nó là bắt, nuôi và phối hợp quái vật như bạn đồng hành.",
+    "originalPrompt": "A side-by-side visual compares Monster-collecting RPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Monster-collecting RPG"
+  },
+  {
+    "id": "S118",
+    "number": 118,
+    "chapterId": "C04",
+    "originalText": "Từ Pokémon, Shin Megami Tensei và Monster Rancher, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Pokémon, Shin Megami Tensei và Monster Rancher.",
+    "originalPrompt": "Collage scene of representative examples for Monster-collecting RPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Monster-collecting RPG"
+  },
+  {
+    "id": "S119",
+    "number": 119,
+    "chapterId": "C04",
+    "originalText": "MMORPG là nhánh nơi người chơi chủ yếu sống trong một thế giới online có hàng nghìn người chơi cùng lúc.",
+    "text": "MMORPG đặt nhân vật trong thế giới trực tuyến có cộng đồng đông đảo và tiến trình lâu dài, không nhất thiết tập trung tất cả người chơi vào một khu vực.",
+    "originalPrompt": "MIO presents MMORPG through a bustling online fantasy city filled with many players, guilds, quests and raid-scale cooperation, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "MMORPG"
+  },
+  {
+    "id": "S120",
+    "number": 120,
+    "chapterId": "C04",
+    "originalText": "Điểm làm MMORPG khác các nhánh gần nó là nhân vật của bạn tồn tại lâu dài trong một cộng đồng, nền kinh tế và các hoạt động hợp tác lớn.",
+    "text": "Điểm làm MMORPG khác các nhánh gần nó là nhân vật của bạn tồn tại lâu dài trong một cộng đồng, nền kinh tế và các hoạt động hợp tác lớn.",
+    "originalPrompt": "A side-by-side visual compares MMORPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "MMORPG"
+  },
+  {
+    "id": "S121",
+    "number": 121,
+    "chapterId": "C04",
+    "originalText": "Từ World of Warcraft, Final Fantasy XIV và Guild Wars 2, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong World of Warcraft, Final Fantasy XIV và Guild Wars 2.",
+    "originalPrompt": "Collage scene of representative examples for MMORPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "MMORPG"
+  },
+  {
+    "id": "S122",
+    "number": 122,
+    "chapterId": "C04",
+    "originalText": "Soulslike là nhánh nơi người chơi chủ yếu học qua thất bại, chiến đấu có nhịp nặng tay và khám phá một thế giới đậm bí ẩn.",
+    "text": "Soulslike tập trung vào học qua thất bại, chiến đấu có nhịp nặng tay và khám phá một thế giới đậm bí ẩn.",
+    "originalPrompt": "MIO presents Soulslike through somber warriors face towering bosses in a dangerous world where mastery, timing and perseverance matter, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Soulslike"
+  },
+  {
+    "id": "S123",
+    "number": 123,
+    "chapterId": "C04",
+    "originalText": "Điểm làm Soulslike khác các nhánh gần nó là độ khó, trừng phạt và cảm giác chinh phục boss là bản sắc nổi bật của nó.",
+    "text": "Soulslike thường nhấn mạnh nhịp chiến đấu, đọc hành vi đối thủ và học qua thất bại; độ khó một mình chưa đủ định nghĩa nhánh này.",
+    "originalPrompt": "A side-by-side visual compares Soulslike with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Soulslike"
+  },
+  {
+    "id": "S124",
+    "number": 124,
+    "chapterId": "C04",
+    "originalText": "Từ Demon’s Souls, Dark Souls và Elden Ring, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Demon’s Souls, Dark Souls và Elden Ring.",
+    "originalPrompt": "Collage scene of representative examples for Soulslike, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Soulslike"
+  },
+  {
+    "id": "S125",
+    "number": 125,
+    "chapterId": "C04",
+    "originalText": "Tactical RPG là nhánh nơi người chơi chủ yếu nâng cấp nhân vật như RPG nhưng giải quyết giao tranh trên bản đồ chiến thuật.",
+    "text": "Nhìn từ phía RPG, Tactical RPG kết hợp xây dựng nhân vật với quyết định trên trận địa; đây là giao điểm ta đã gặp ở chương chiến thuật.",
+    "originalPrompt": "MIO presents Tactical RPG through heroes with distinct classes fight on a grid, balancing role-playing growth with battlefield tactics, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Tactical RPG"
+  },
+  {
+    "id": "S126",
+    "number": 126,
+    "chapterId": "C04",
+    "originalText": "Điểm làm Tactical RPG khác các nhánh gần nó là bạn vừa quan tâm build của từng người vừa quan tâm vị trí của họ trên trận địa.",
+    "text": "Điểm làm Tactical RPG khác các nhánh gần nó là bạn vừa quan tâm build của từng người vừa quan tâm vị trí của họ trên trận địa.",
+    "originalPrompt": "A side-by-side visual compares Tactical RPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Tactical RPG"
+  },
+  {
+    "id": "S127",
+    "number": 127,
+    "chapterId": "C04",
+    "originalText": "Từ Fire Emblem, Tactics Ogre và Triangle Strategy, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Fire Emblem, Tactics Ogre và Triangle Strategy.",
+    "originalPrompt": "Collage scene of representative examples for Tactical RPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Tactical RPG"
+  },
+  {
+    "id": "S128",
+    "number": 128,
+    "chapterId": "C04",
+    "originalText": "Open-world RPG là nhánh nơi người chơi chủ yếu kết hợp nhập vai với một không gian rộng cho phép lang thang và tự chọn hướng đi.",
+    "text": "Open-world RPG kết hợp nhập vai với một không gian rộng cho phép bạn lang thang và tự chọn hướng đi.",
+    "originalPrompt": "MIO presents Open-world RPG through a vast explorable world, distant landmarks and a role-playing hero free to wander in many directions, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S129",
+    "number": 129,
+    "chapterId": "C04",
+    "originalText": "Điểm làm Open-world RPG khác các nhánh gần nó là khám phá tự do trở thành cảm giác quan trọng ngang với nhiệm vụ chính.",
+    "text": "Điểm làm Open-world RPG khác các nhánh gần nó là khám phá tự do trở thành cảm giác quan trọng ngang với nhiệm vụ chính.",
+    "originalPrompt": "A side-by-side visual compares Open-world RPG with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S130",
+    "number": 130,
+    "chapterId": "C04",
+    "originalText": "Từ Skyrim, The Witcher 3 và Xenoblade Chronicles X theo tinh thần rộng mở, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Skyrim, The Witcher 3 và Xenoblade Chronicles X theo tinh thần rộng mở.",
+    "originalPrompt": "Collage scene of representative examples for Open-world RPG, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S131",
+    "number": 131,
+    "chapterId": "C05",
+    "originalText": "Có một nhánh game khiến người chơi nhớ đến cảm giác đối đầu trực diện ngay lập tức.",
+    "text": "Có một nhánh game khiến người chơi nhớ đến cảm giác đối đầu trực diện ngay lập tức.",
+    "originalPrompt": "High-energy montage of aiming, dodging and dueling sets up the shooter and combat branch of GENREWHEEL in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S132",
+    "number": 132,
+    "chapterId": "C05",
+    "originalText": "Đó là thế giới của bắn súng, cận chiến cạnh tranh và phản ứng dưới áp lực.",
+    "text": "Đó là thế giới của bắn súng, cận chiến cạnh tranh và phản ứng dưới áp lực.",
+    "originalPrompt": "First-person sights, third-person rolls and arena duels collide in a dramatic action collage in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S133",
+    "number": 133,
+    "chapterId": "C05",
+    "originalText": "Ở đây, khoảng cách, tốc độ và độ chính xác là ngôn ngữ chính.",
+    "text": "Ở đây, khoảng cách, tốc độ và độ chính xác là ngôn ngữ chính.",
+    "originalPrompt": "A visual grammar of crosshairs, cover, movement lines and impact points defines the combat-centered branch in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S134",
+    "number": 134,
+    "chapterId": "C05",
+    "originalText": "Nhiều game trong nhóm này được sinh ra từ phần cứng 3D và mạng nhiều người chơi.",
+    "text": "Nhiều game trong nhóm này được sinh ra từ phần cứng 3D và mạng nhiều người chơi.",
+    "originalPrompt": "Early 3D hardware and online connection lines feed into the rise of modern combat genres in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S135",
+    "number": 135,
+    "chapterId": "C05",
+    "originalText": "Một số nhánh tập trung vào bắn thật nhanh.",
+    "text": "Một số nhánh tập trung vào bắn thật nhanh.",
+    "originalPrompt": "An arena shooter scene emphasizes speed and motion across jump pads and open sightlines in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S136",
+    "number": 136,
+    "chapterId": "C05",
+    "originalText": "Một số nhánh khác đặt nặng đội hình và thông tin.",
+    "text": "Một số nhánh khác đặt nặng đội hình và thông tin.",
+    "originalPrompt": "A tactical squad stacks near a doorway, previewing slower communication-heavy combat design in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S137",
+    "number": 137,
+    "chapterId": "C05",
+    "originalText": "Và cũng có những game biến mỗi trận thành một sự kiện sinh tồn.",
+    "text": "Và cũng có những game biến mỗi trận thành một sự kiện sinh tồn.",
+    "originalPrompt": "A shrinking battlefield and scattered scavengers introduce the high-stakes survival angle of large combat games in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S138",
+    "number": 138,
+    "chapterId": "C05",
+    "originalText": "Dù khác nhau, chúng đều xoay quanh việc đọc tình huống rồi phản hồi cực nhanh.",
+    "text": "Dù khác nhau, chúng đều xoay quanh việc đọc tình huống rồi phản hồi cực nhanh.",
+    "originalPrompt": "MIO connects many combat subgenres through a looping diagram of read, aim, move and survive in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Open-world RPG"
+  },
+  {
+    "id": "S139",
+    "number": 139,
+    "chapterId": "C05",
+    "originalText": "First-person shooter là nhánh nơi người chơi chủ yếu ngắm bắn qua góc nhìn của chính nhân vật.",
+    "text": "First-person shooter tập trung vào ngắm bắn qua góc nhìn của chính nhân vật.",
+    "originalPrompt": "MIO presents First-person shooter through first-person perspective aiming through chaotic action, with weapons, corridors and immediate combat tension, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "First-person shooter"
+  },
+  {
+    "id": "S140",
+    "number": 140,
+    "chapterId": "C05",
+    "originalText": "Điểm làm First-person shooter khác các nhánh gần nó là góc nhìn trực tiếp khiến đường đạn, vị trí và phản xạ trở nên rất cá nhân.",
+    "text": "Điểm làm First-person shooter khác các nhánh gần nó là góc nhìn trực tiếp khiến đường đạn, vị trí và phản xạ trở nên rất cá nhân.",
+    "originalPrompt": "A side-by-side visual compares First-person shooter with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "First-person shooter"
+  },
+  {
+    "id": "S141",
+    "number": 141,
+    "chapterId": "C05",
+    "originalText": "Từ Doom, Half-Life và Call of Duty, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Doom, Half-Life và Call of Duty.",
+    "originalPrompt": "Collage scene of representative examples for First-person shooter, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "First-person shooter"
+  },
+  {
+    "id": "S142",
+    "number": 142,
+    "chapterId": "C05",
+    "originalText": "Third-person shooter là nhánh nơi người chơi chủ yếu chiến đấu bằng súng trong khi vẫn nhìn thấy toàn thân nhân vật.",
+    "text": "Third-person shooter cho bạn ngắm bắn từ góc nhìn ngoài nhân vật, thường thấy lưng hoặc vai của họ.",
+    "originalPrompt": "MIO presents Third-person shooter through a visible hero fires from cover and maneuvers through a rich combat space in third-person view, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Third-person shooter"
+  },
+  {
+    "id": "S143",
+    "number": 143,
+    "chapterId": "C05",
+    "originalText": "Điểm làm Third-person shooter khác các nhánh gần nó là góc nhìn này mở rộng nhận thức không gian và thường kết hợp né tránh, bám tường hoặc di chuyển cơ động.",
+    "text": "Điểm làm Third-person shooter khác các nhánh gần nó là góc nhìn này mở rộng nhận thức không gian và thường kết hợp né tránh, bám tường hoặc di chuyển cơ động.",
+    "originalPrompt": "A side-by-side visual compares Third-person shooter with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Third-person shooter"
+  },
+  {
+    "id": "S144",
+    "number": 144,
+    "chapterId": "C05",
+    "originalText": "Từ Gears of War, Max Payne và Splatoon theo tinh thần bắn góc nhìn ngoài, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Gears of War, Max Payne và Splatoon theo tinh thần bắn góc nhìn ngoài.",
+    "originalPrompt": "Collage scene of representative examples for Third-person shooter, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Third-person shooter"
+  },
+  {
+    "id": "S145",
+    "number": 145,
+    "chapterId": "C05",
+    "originalText": "Tactical shooter là nhánh nơi người chơi chủ yếu ưu tiên thông tin, phối hợp đồng đội và một sai lầm cũng có thể trả giá lớn.",
+    "text": "Tactical shooter ưu tiên thông tin và phối hợp đồng đội; một sai lầm cũng có thể trả giá lớn.",
+    "originalPrompt": "MIO presents Tactical shooter through organized team members coordinate around chokepoints, utility and lethal sightlines in a tense realistic firefight, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Tactical shooter"
+  },
+  {
+    "id": "S146",
+    "number": 146,
+    "chapterId": "C05",
+    "originalText": "Điểm làm Tactical shooter khác các nhánh gần nó là nó chậm hơn arena shooter nhưng căng thẳng hơn vì mức độ trừng phạt cao.",
+    "text": "Tactical shooter thường coi trọng thông tin và phối hợp hơn nhịp lao nhanh của arena shooter, nhưng tốc độ vẫn tùy thiết kế.",
+    "originalPrompt": "A side-by-side visual compares Tactical shooter with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Tactical shooter"
+  },
+  {
+    "id": "S147",
+    "number": 147,
+    "chapterId": "C05",
+    "originalText": "Từ Counter-Strike, Rainbow Six Siege và Valorant, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Counter-Strike, Rainbow Six Siege và Valorant.",
+    "originalPrompt": "Collage scene of representative examples for Tactical shooter, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Tactical shooter"
+  },
+  {
+    "id": "S148",
+    "number": 148,
+    "chapterId": "C05",
+    "originalText": "Hero shooter là nhánh nơi người chơi chủ yếu để mỗi nhân vật có bộ kỹ năng riêng và vai trò rõ rệt trong giao tranh.",
+    "text": "Hero shooter cho mỗi nhân vật một bộ kỹ năng riêng và vai trò rõ rệt trong giao tranh.",
+    "originalPrompt": "MIO presents Hero shooter through distinct heroes with unique abilities fight together, their roles and powers shaping the battlefield, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Hero shooter"
+  },
+  {
+    "id": "S149",
+    "number": 149,
+    "chapterId": "C05",
+    "originalText": "Điểm làm Hero shooter khác các nhánh gần nó là bản sắc anh hùng và khả năng phối hợp đội hình quan trọng ngang với kỹ năng bắn.",
+    "text": "Điểm làm Hero shooter khác các nhánh gần nó là bản sắc anh hùng và khả năng phối hợp đội hình quan trọng ngang với kỹ năng bắn.",
+    "originalPrompt": "A side-by-side visual compares Hero shooter with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Hero shooter"
+  },
+  {
+    "id": "S150",
+    "number": 150,
+    "chapterId": "C05",
+    "originalText": "Từ Overwatch, Apex Legends ở nhiều cơ chế và Marvel Rivals theo tinh thần, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Overwatch, Apex Legends ở nhiều cơ chế và Marvel Rivals theo tinh thần.",
+    "originalPrompt": "Collage scene of representative examples for Hero shooter, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Hero shooter"
+  },
+  {
+    "id": "S151",
+    "number": 151,
+    "chapterId": "C05",
+    "originalText": "Arena shooter là nhánh nơi người chơi chủ yếu nhấn mạnh di chuyển nhanh, kiểm soát vật phẩm và kỹ năng cơ học thuần túy.",
+    "text": "Arena shooter nhấn mạnh di chuyển nhanh, kiểm soát vật phẩm và kỹ năng cơ học.",
+    "originalPrompt": "MIO presents Arena shooter through fast-moving combatants duel in an open sci-fi arena with pickups, verticality and relentless speed, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Arena shooter"
+  },
+  {
+    "id": "S152",
+    "number": 152,
+    "chapterId": "C05",
+    "originalText": "Điểm làm Arena shooter khác các nhánh gần nó là bản đồ, tốc độ và việc làm chủ nhịp độ trận đấu là linh hồn của nhánh này.",
+    "text": "Điểm làm Arena shooter khác các nhánh gần nó là bản đồ, tốc độ và việc làm chủ nhịp độ trận đấu là linh hồn của nhánh này.",
+    "originalPrompt": "A side-by-side visual compares Arena shooter with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Arena shooter"
+  },
+  {
+    "id": "S153",
+    "number": 153,
+    "chapterId": "C05",
+    "originalText": "Từ Quake, Unreal Tournament và Halo ở một số chế độ, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Quake, Unreal Tournament và Halo ở một số chế độ.",
+    "originalPrompt": "Collage scene of representative examples for Arena shooter, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Arena shooter"
+  },
+  {
+    "id": "S154",
+    "number": 154,
+    "chapterId": "C05",
+    "originalText": "Battle royale là nhánh nơi người chơi chủ yếu thả nhiều người vào một bản đồ lớn và để họ trở thành kẻ sống sót cuối cùng.",
+    "text": "Battle royale đưa nhiều người vào một bản đồ lớn để cạnh tranh trở thành người hoặc đội sống sót cuối cùng.",
+    "originalPrompt": "MIO presents Battle royale through many combatants land across a huge map while a shrinking safe zone raises tension and forces confrontation, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Battle royale"
+  },
+  {
+    "id": "S155",
+    "number": 155,
+    "chapterId": "C05",
+    "originalText": "Điểm làm Battle royale khác các nhánh gần nó là vòng bo, nhặt đồ và mức cược cao làm từng trận có nhịp rất đặc biệt.",
+    "text": "Điểm làm Battle royale khác các nhánh gần nó là vòng bo, nhặt đồ và mức cược cao làm từng trận có nhịp rất đặc biệt.",
+    "originalPrompt": "A side-by-side visual compares Battle royale with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Battle royale"
+  },
+  {
+    "id": "S156",
+    "number": 156,
+    "chapterId": "C05",
+    "originalText": "Từ PUBG, Fortnite và Apex Legends, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong PUBG, Fortnite và Apex Legends.",
+    "originalPrompt": "Collage scene of representative examples for Battle royale, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Battle royale"
+  },
+  {
+    "id": "S157",
+    "number": 157,
+    "chapterId": "C05",
+    "originalText": "Extraction shooter là nhánh nơi người chơi chủ yếu xâm nhập khu vực nguy hiểm, thu chiến lợi phẩm rồi rút ra an toàn.",
+    "text": "Extraction shooter tập trung vào xâm nhập khu vực nguy hiểm, thu chiến lợi phẩm rồi rút ra an toàn.",
+    "originalPrompt": "MIO presents Extraction shooter through armed scavengers creep through dangerous zones carrying valuable loot toward risky extraction points, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Extraction shooter"
+  },
+  {
+    "id": "S158",
+    "number": 158,
+    "chapterId": "C05",
+    "originalText": "Điểm làm Extraction shooter khác các nhánh gần nó là cảm giác được mất nằm ở việc đem đồ về, không chỉ ở số mạng hạ gục.",
+    "text": "Điểm làm Extraction shooter khác các nhánh gần nó là cảm giác được mất nằm ở việc đem đồ về, không chỉ ở số mạng hạ gục.",
+    "originalPrompt": "A side-by-side visual compares Extraction shooter with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Extraction shooter"
+  },
+  {
+    "id": "S159",
+    "number": 159,
+    "chapterId": "C05",
+    "originalText": "Từ Escape from Tarkov, Hunt: Showdown và Marathon theo định hướng mới, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Escape from Tarkov, Hunt: Showdown và Marathon là những ví dụ có vòng lặp thu đồ rồi rút lui; cách triển khai của mỗi game khác nhau.",
+    "originalPrompt": "Collage scene of representative examples for Extraction shooter, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Extraction shooter"
+  },
+  {
+    "id": "S160",
+    "number": 160,
+    "chapterId": "C05",
+    "originalText": "Fighting game là nhánh nơi người chơi chủ yếu đấu đối kháng trực diện nơi từng khung hình và từng đòn có giá trị chiến thuật.",
+    "text": "Fighting game tập trung vào đấu đối kháng trực diện nơi từng khung hình và từng đòn có giá trị chiến thuật.",
+    "originalPrompt": "MIO presents Fighting game through two duelists face off in a stylish combat arena, emphasizing timing, spacing and expressive move sets, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Fighting game"
+  },
+  {
+    "id": "S161",
+    "number": 161,
+    "chapterId": "C05",
+    "originalText": "Điểm làm Fighting game khác các nhánh gần nó là đọc ý đồ đối thủ, spacing và thực hiện chuỗi đòn là trọng tâm của nó.",
+    "text": "Điểm làm Fighting game khác các nhánh gần nó là đọc ý đồ đối thủ, spacing và thực hiện chuỗi đòn là trọng tâm của nó.",
+    "originalPrompt": "A side-by-side visual compares Fighting game with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Fighting game"
+  },
+  {
+    "id": "S162",
+    "number": 162,
+    "chapterId": "C05",
+    "originalText": "Từ Street Fighter, Tekken và Guilty Gear, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Street Fighter, Tekken và Guilty Gear.",
+    "originalPrompt": "Collage scene of representative examples for Fighting game, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Fighting game"
+  },
+  {
+    "id": "S163",
+    "number": 163,
+    "chapterId": "C05",
+    "originalText": "Vehicular combat là nhánh nơi người chơi chủ yếu chiến đấu thông qua phương tiện chứ không chỉ qua cơ thể nhân vật.",
+    "text": "Vehicular combat tập trung vào chiến đấu thông qua phương tiện chứ không chỉ qua cơ thể nhân vật.",
+    "originalPrompt": "MIO presents Vehicular combat through weaponized vehicles clash amid explosions, momentum and machine-focused duels dominating the scene, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S164",
+    "number": 164,
+    "chapterId": "C05",
+    "originalText": "Điểm làm Vehicular combat khác các nhánh gần nó là khối lượng, tốc độ và điều khiển phương tiện thay đổi hoàn toàn cảm giác giao chiến.",
+    "text": "Điểm làm Vehicular combat khác các nhánh gần nó là khối lượng, tốc độ và điều khiển phương tiện thay đổi hoàn toàn cảm giác giao chiến.",
+    "originalPrompt": "A side-by-side visual compares Vehicular combat with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S165",
+    "number": 165,
+    "chapterId": "C05",
+    "originalText": "Từ Twisted Metal, World of Tanks và Armored Core ở tinh thần cơ giới chiến đấu, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Twisted Metal, World of Tanks và Armored Core ở tinh thần cơ giới chiến đấu.",
+    "originalPrompt": "Collage scene of representative examples for Vehicular combat, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S166",
+    "number": 166,
+    "chapterId": "C06",
+    "originalText": "Không phải game nào cũng xoay quanh địch, boss hay chiến thắng tức thì.",
+    "text": "Không phải game nào cũng xoay quanh địch, boss hay chiến thắng tức thì.",
+    "originalPrompt": "MIO moves away from combat imagery into calmer systems of building, managing and living inside worlds in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S167",
+    "number": 167,
+    "chapterId": "C06",
+    "originalText": "Có một họ thể loại thích mô phỏng cuộc sống, công việc hoặc cả một hệ sinh thái.",
+    "text": "Có một họ thể loại thích mô phỏng cuộc sống, công việc hoặc cả một hệ sinh thái.",
+    "originalPrompt": "A calm infographic collage shows houses, farms, cities, factories and wilderness under the broad simulation branch in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S168",
+    "number": 168,
+    "chapterId": "C06",
+    "originalText": "Ở đây, niềm vui đến từ vận hành hệ thống hơn là phản xạ.",
+    "text": "Ở đây, niềm vui đến từ vận hành hệ thống hơn là phản xạ.",
+    "originalPrompt": "A player observes interconnected systems unfolding smoothly, emphasizing management and observation over twitch action in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S169",
+    "number": 169,
+    "chapterId": "C06",
+    "originalText": "Bạn có thể xây thành phố.",
+    "text": "Bạn có thể xây thành phố.",
+    "originalPrompt": "A growing city rises from roads, zones and utilities under MIO’s guiding hand in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S170",
+    "number": 170,
+    "chapterId": "C06",
+    "originalText": "Bạn có thể làm nông, mở công viên, điều hành doanh nghiệp hoặc chỉ đơn giản là sống trong một thế giới số.",
+    "text": "Bạn có thể làm nông, mở công viên, điều hành doanh nghiệp hoặc chỉ đơn giản là sống trong một thế giới số.",
+    "originalPrompt": "Farm fields, theme park rides, business graphs and cozy homes share one wide simulation panorama in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S171",
+    "number": 171,
+    "chapterId": "C06",
+    "originalText": "Nhánh này cũng là nơi sandbox và sinh tồn gặp nhau rất nhiều.",
+    "text": "Nhánh này cũng là nơi sandbox và sinh tồn gặp nhau rất nhiều.",
+    "originalPrompt": "Building blocks, crafting benches and survival tools blend into one system-heavy branch of GENREWHEEL in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S172",
+    "number": 172,
+    "chapterId": "C06",
+    "originalText": "Một số game cho bạn rất nhiều tự do nhưng gần như không ép mục tiêu.",
+    "text": "Một số game cho bạn rất nhiều tự do nhưng gần như không ép mục tiêu.",
+    "originalPrompt": "A player freely builds and experiments in an open sandbox landscape without urgent objectives in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S173",
+    "number": 173,
+    "chapterId": "C06",
+    "originalText": "Một số game khác lại dùng đói, lạnh hay thiếu tài nguyên để tạo áp lực.",
+    "text": "Một số game khác lại dùng đói, lạnh hay thiếu tài nguyên để tạo áp lực.",
+    "originalPrompt": "Harsh weather, hunger and scarce supplies create a survival-oriented contrast within the broader simulation family in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Vehicular combat"
+  },
+  {
+    "id": "S174",
+    "number": 174,
+    "chapterId": "C06",
+    "originalText": "Simulation là nhánh nơi người chơi chủ yếu mô phỏng một hoạt động hay hệ thống đời thực hoặc giả tưởng theo cách có quy luật.",
+    "text": "Simulation tập trung vào mô phỏng một hoạt động hay hệ thống đời thực hoặc giả tưởng theo cách có quy luật.",
+    "originalPrompt": "MIO presents Simulation through detailed systems and believable routines recreated in a playable simulation environment with clear cause and effect, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Simulation"
+  },
+  {
+    "id": "S175",
+    "number": 175,
+    "chapterId": "C06",
+    "originalText": "Điểm làm Simulation khác các nhánh gần nó là nó hấp dẫn nhờ cảm giác quan sát, điều khiển và học cách vận hành một mô hình.",
+    "text": "Điểm làm Simulation khác các nhánh gần nó là nó hấp dẫn nhờ cảm giác quan sát, điều khiển và học cách vận hành một mô hình.",
+    "originalPrompt": "A side-by-side visual compares Simulation with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Simulation"
+  },
+  {
+    "id": "S176",
+    "number": 176,
+    "chapterId": "C06",
+    "originalText": "Từ flight sim, Euro Truck Simulator và nhiều nhánh mô phỏng khác, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong flight sim, Euro Truck Simulator và nhiều nhánh mô phỏng khác.",
+    "originalPrompt": "Collage scene of representative examples for Simulation, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Simulation"
+  },
+  {
+    "id": "S177",
+    "number": 177,
+    "chapterId": "C06",
+    "originalText": "Life simulation là nhánh nơi người chơi chủ yếu sống một đời sống số với nhu cầu, quan hệ và nhịp sinh hoạt hằng ngày.",
+    "text": "Life simulation tập trung vào sống một đời sống số với nhu cầu, quan hệ và nhịp sinh hoạt hằng ngày.",
+    "originalPrompt": "MIO presents Life simulation through stylized virtual lives unfolding inside homes and neighborhoods, with social interactions and daily routines at center, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Life simulation"
+  },
+  {
+    "id": "S178",
+    "number": 178,
+    "chapterId": "C06",
+    "originalText": "Điểm làm Life simulation khác các nhánh gần nó là trọng tâm nằm ở thói quen, mối quan hệ và những câu chuyện do người chơi tự tạo.",
+    "text": "Điểm làm Life simulation khác các nhánh gần nó là trọng tâm nằm ở thói quen, mối quan hệ và những câu chuyện do người chơi tự tạo.",
+    "originalPrompt": "A side-by-side visual compares Life simulation with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Life simulation"
+  },
+  {
+    "id": "S179",
+    "number": 179,
+    "chapterId": "C06",
+    "originalText": "Từ The Sims và các hậu duệ cùng tinh thần, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong The Sims và các hậu duệ cùng tinh thần.",
+    "originalPrompt": "Collage scene of representative examples for Life simulation, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Life simulation"
+  },
+  {
+    "id": "S180",
+    "number": 180,
+    "chapterId": "C06",
+    "originalText": "Farming simulation là nhánh nơi người chơi chủ yếu trồng trọt, chăm nuôi, tối ưu mùa vụ và gây dựng nhịp sống nông trại.",
+    "text": "Farming simulation tập trung vào trồng trọt, chăm nuôi, tối ưu mùa vụ và gây dựng nhịp sống nông trại.",
+    "originalPrompt": "MIO presents Farming simulation through cozy farm fields, crops, animals and a player tending land through a peaceful seasonal rhythm, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Farming simulation"
+  },
+  {
+    "id": "S181",
+    "number": 181,
+    "chapterId": "C06",
+    "originalText": "Điểm làm Farming simulation khác các nhánh gần nó là lao động lặp lại trở thành cảm giác thư giãn và tiến bộ đều đặn.",
+    "text": "Điểm làm Farming simulation khác các nhánh gần nó là lao động lặp lại trở thành cảm giác thư giãn và tiến bộ đều đặn.",
+    "originalPrompt": "A side-by-side visual compares Farming simulation with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Farming simulation"
+  },
+  {
+    "id": "S182",
+    "number": 182,
+    "chapterId": "C06",
+    "originalText": "Từ Harvest Moon, Story of Seasons và Stardew Valley, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Harvest Moon, Story of Seasons và Stardew Valley.",
+    "originalPrompt": "Collage scene of representative examples for Farming simulation, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Farming simulation"
+  },
+  {
+    "id": "S183",
+    "number": 183,
+    "chapterId": "C06",
+    "originalText": "Management / Tycoon là nhánh nơi người chơi chủ yếu điều hành doanh nghiệp hoặc dịch vụ để hệ thống hoạt động hiệu quả và có lời.",
+    "text": "Management / Tycoon tập trung vào điều hành doanh nghiệp hoặc dịch vụ để hệ thống hoạt động hiệu quả và có lời.",
+    "originalPrompt": "MIO presents Management / Tycoon through busy management scene with staff, customers, money flow and expanding facilities arranged as a playful infographic, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Management / Tycoon"
+  },
+  {
+    "id": "S184",
+    "number": 184,
+    "chapterId": "C06",
+    "originalText": "Điểm làm Management / Tycoon khác các nhánh gần nó là dòng tiền, bố trí cơ sở vật chất và nhu cầu khách hàng là mạch máu của nó.",
+    "text": "Điểm làm Management / Tycoon khác các nhánh gần nó là dòng tiền, bố trí cơ sở vật chất và nhu cầu khách hàng là mạch máu của nó.",
+    "originalPrompt": "A side-by-side visual compares Management / Tycoon with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Management / Tycoon"
+  },
+  {
+    "id": "S185",
+    "number": 185,
+    "chapterId": "C06",
+    "originalText": "Từ RollerCoaster Tycoon, Two Point Hospital và Game Dev Story, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong RollerCoaster Tycoon, Two Point Hospital và Game Dev Story.",
+    "originalPrompt": "Collage scene of representative examples for Management / Tycoon, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Management / Tycoon"
+  },
+  {
+    "id": "S186",
+    "number": 186,
+    "chapterId": "C06",
+    "originalText": "City builder là nhánh nơi người chơi chủ yếu quy hoạch và nuôi lớn cả một đô thị.",
+    "text": "City builder tập trung vào quy hoạch và nuôi lớn cả một đô thị.",
+    "originalPrompt": "MIO presents City builder through roads, districts, utilities and neighborhoods growing into a living city seen from an elegant isometric perspective, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "City builder"
+  },
+  {
+    "id": "S187",
+    "number": 187,
+    "chapterId": "C06",
+    "originalText": "Điểm làm City builder khác các nhánh gần nó là nó mở rộng tư duy quản lý từ một cơ sở nhỏ lên mạng lưới dân cư, giao thông và hạ tầng.",
+    "text": "Điểm làm City builder khác các nhánh gần nó là nó mở rộng tư duy quản lý từ một cơ sở nhỏ lên mạng lưới dân cư, giao thông và hạ tầng.",
+    "originalPrompt": "A side-by-side visual compares City builder with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "City builder"
+  },
+  {
+    "id": "S188",
+    "number": 188,
+    "chapterId": "C06",
+    "originalText": "Từ SimCity, Cities: Skylines và Pharaoh theo tinh thần xây đô thị, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong SimCity, Cities: Skylines và Pharaoh theo tinh thần xây đô thị.",
+    "originalPrompt": "Collage scene of representative examples for City builder, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "City builder"
+  },
+  {
+    "id": "S189",
+    "number": 189,
+    "chapterId": "C06",
+    "originalText": "God game là nhánh nơi người chơi chủ yếu tác động lên một thế giới như một lực lượng cao hơn là điều khiển trực tiếp từng cá nhân.",
+    "text": "God game tập trung vào tác động lên một thế giới như một lực lượng cao hơn là điều khiển trực tiếp từng cá nhân.",
+    "originalPrompt": "MIO presents God game through a giant unseen influence shapes land, creatures and settlements from above in a godlike simulation composition, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "God game"
+  },
+  {
+    "id": "S190",
+    "number": 190,
+    "chapterId": "C06",
+    "originalText": "Điểm làm God game khác các nhánh gần nó là quyền lực gián tiếp và ảnh hưởng hệ thống tạo cảm giác rất riêng.",
+    "text": "Điểm làm God game khác các nhánh gần nó là quyền lực gián tiếp và ảnh hưởng hệ thống tạo cảm giác rất riêng.",
+    "originalPrompt": "A side-by-side visual compares God game with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "God game"
+  },
+  {
+    "id": "S191",
+    "number": 191,
+    "chapterId": "C06",
+    "originalText": "Từ Populous, Black and White và From Dust theo tinh thần, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Populous, Black and White và From Dust theo tinh thần.",
+    "originalPrompt": "Collage scene of representative examples for God game, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "God game"
+  },
+  {
+    "id": "S192",
+    "number": 192,
+    "chapterId": "C06",
+    "originalText": "Sandbox là nhánh nơi người chơi chủ yếu cho người chơi công cụ để khám phá, xây dựng và tự đặt mục tiêu.",
+    "text": "Sandbox trao công cụ để người chơi khám phá, xây dựng và tự đặt mục tiêu; đây cũng là một cách cấu trúc trải nghiệm.",
+    "originalPrompt": "MIO presents Sandbox through open-ended building, digging and experimentation in a playful world where player freedom drives the experience, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Sandbox"
+  },
+  {
+    "id": "S193",
+    "number": 193,
+    "chapterId": "C06",
+    "originalText": "Điểm làm Sandbox khác các nhánh gần nó là tự do sáng tạo là phần thưởng chính chứ không phải chiến thắng theo tuyến cố định.",
+    "text": "Điểm làm Sandbox khác các nhánh gần nó là tự do sáng tạo là phần thưởng chính chứ không phải chiến thắng theo tuyến cố định.",
+    "originalPrompt": "A side-by-side visual compares Sandbox with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Sandbox"
+  },
+  {
+    "id": "S194",
+    "number": 194,
+    "chapterId": "C06",
+    "originalText": "Từ Minecraft, Garry’s Mod và Terraria ở nhiều khía cạnh, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Minecraft, Garry’s Mod và Terraria ở nhiều khía cạnh.",
+    "originalPrompt": "Collage scene of representative examples for Sandbox, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Sandbox"
+  },
+  {
+    "id": "S195",
+    "number": 195,
+    "chapterId": "C06",
+    "originalText": "Survival là nhánh nơi người chơi chủ yếu sống sót trước môi trường khắc nghiệt, tài nguyên hạn chế và nhiều mối đe dọa.",
+    "text": "Survival tập trung vào sống sót trước môi trường khắc nghiệt, tài nguyên hạn chế và nhiều mối đe dọa.",
+    "originalPrompt": "MIO presents Survival through a vulnerable survivor balances hunger, shelter, weather and danger in a hostile but beautiful environment, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Survival"
+  },
+  {
+    "id": "S196",
+    "number": 196,
+    "chapterId": "C06",
+    "originalText": "Điểm làm Survival khác các nhánh gần nó là sự căng thẳng đến từ việc duy trì những nhu cầu cơ bản lâu dài.",
+    "text": "Điểm làm Survival khác các nhánh gần nó là sự căng thẳng đến từ việc duy trì những nhu cầu cơ bản lâu dài.",
+    "originalPrompt": "A side-by-side visual compares Survival with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Survival"
+  },
+  {
+    "id": "S197",
+    "number": 197,
+    "chapterId": "C06",
+    "originalText": "Từ Don’t Starve, The Long Dark và Subnautica, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Don’t Starve, The Long Dark và Subnautica.",
+    "originalPrompt": "Collage scene of representative examples for Survival, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Survival"
+  },
+  {
+    "id": "S198",
+    "number": 198,
+    "chapterId": "C06",
+    "originalText": "Survival crafting là nhánh nơi người chơi chủ yếu kết hợp sống sót với chế tạo, xây căn cứ và mở khóa công nghệ dần dần.",
+    "text": "Survival crafting kết hợp sống sót với chế tạo, xây căn cứ và mở khóa công nghệ dần dần.",
+    "originalPrompt": "MIO presents Survival crafting through players gather resources, craft tools and fortify a base while surviving a dangerous persistent world, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S199",
+    "number": 199,
+    "chapterId": "C06",
+    "originalText": "Điểm làm Survival crafting khác các nhánh gần nó là vòng lặp thu thập rồi tạo ra công cụ tốt hơn là động cơ tiến triển chính.",
+    "text": "Điểm làm Survival crafting khác các nhánh gần nó là vòng lặp thu thập rồi tạo ra công cụ tốt hơn là động cơ tiến triển chính.",
+    "originalPrompt": "A side-by-side visual compares Survival crafting with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S200",
+    "number": 200,
+    "chapterId": "C06",
+    "originalText": "Từ Rust, Valheim và Ark: Survival Evolved, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Rust, Valheim và Ark: Survival Evolved.",
+    "originalPrompt": "Collage scene of representative examples for Survival crafting, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S201",
+    "number": 201,
+    "chapterId": "C07",
+    "originalText": "Một nhánh khác của game không hỏi bạn phản xạ nhanh đến đâu, mà hỏi bạn muốn khám phá điều gì.",
+    "text": "Một nhánh khác của game không hỏi bạn phản xạ nhanh đến đâu, mà hỏi bạn muốn khám phá điều gì.",
+    "originalPrompt": "MIO enters a narrative corridor lined with mysteries, dialogue moments and evocative locations rather than combat arenas in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S202",
+    "number": 202,
+    "chapterId": "C07",
+    "originalText": "Đây là vùng đất của phiêu lưu, kể chuyện và không khí.",
+    "text": "Đây là vùng đất của phiêu lưu, kể chuyện và không khí.",
+    "originalPrompt": "Adventure maps, detective clues and moody scenes blend into a branch centered on discovery and narrative texture in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S203",
+    "number": 203,
+    "chapterId": "C07",
+    "originalText": "Có game biến mỗi câu đố thành một cánh cửa mở sang phần tiếp theo của câu chuyện.",
+    "text": "Có game biến mỗi câu đố thành một cánh cửa mở sang phần tiếp theo của câu chuyện.",
+    "originalPrompt": "A puzzle mechanism unlocks a story-rich room, symbolizing the adventure tradition of progression through discovery in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S204",
+    "number": 204,
+    "chapterId": "C07",
+    "originalText": "Có game gần như là một cuốn tiểu thuyết tương tác.",
+    "text": "Có game gần như là một cuốn tiểu thuyết tương tác.",
+    "originalPrompt": "Character portraits, dialogue choices and emotional scenes create a visual novel inspired storytelling tableau in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S205",
+    "number": 205,
+    "chapterId": "C07",
+    "originalText": "Và có game dùng chính nỗi sợ để điều khiển nhịp cảm xúc người chơi.",
+    "text": "Và có game dùng chính nỗi sợ để điều khiển nhịp cảm xúc người chơi.",
+    "originalPrompt": "Dim hallways, flickering lights and tense silhouettes introduce the horror side of this branch in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S206",
+    "number": 206,
+    "chapterId": "C07",
+    "originalText": "Nhóm thể loại này chứng minh rằng game không chỉ là cơ chế, mà còn là bầu không khí.",
+    "text": "Nhóm thể loại này chứng minh rằng game không chỉ là cơ chế, mà còn là bầu không khí.",
+    "originalPrompt": "A player walks through layered moods—wonder, curiosity, sadness and fear—showing atmosphere as a gameplay force in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival crafting"
+  },
+  {
+    "id": "S207",
+    "number": 207,
+    "chapterId": "C07",
+    "originalText": "Adventure là nhánh nơi người chơi chủ yếu khám phá địa điểm, tương tác vật thể và tiến lên nhờ hiểu thế giới.",
+    "text": "Adventure tập trung vào khám phá địa điểm, tương tác vật thể và tiến lên nhờ hiểu thế giới.",
+    "originalPrompt": "MIO presents Adventure through curious exploration through evocative spaces, objects and clues in a story-forward adventure atmosphere, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Adventure"
+  },
+  {
+    "id": "S208",
+    "number": 208,
+    "chapterId": "C07",
+    "originalText": "Điểm làm Adventure khác các nhánh gần nó là nhịp của nó thiên về quan sát và khám phá hơn là hành động cường độ cao.",
+    "text": "Nhiều game adventure thiên về quan sát và khám phá, dù cũng có những nhánh pha hành động mạnh.",
+    "originalPrompt": "A side-by-side visual compares Adventure with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Adventure"
+  },
+  {
+    "id": "S209",
+    "number": 209,
+    "chapterId": "C07",
+    "originalText": "Từ King’s Quest, Broken Sword và nhiều game phiêu lưu kinh điển, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong King’s Quest, Broken Sword và nhiều game phiêu lưu kinh điển.",
+    "originalPrompt": "Collage scene of representative examples for Adventure, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Adventure"
+  },
+  {
+    "id": "S210",
+    "number": 210,
+    "chapterId": "C07",
+    "originalText": "Graphic adventure là nhánh nơi người chơi chủ yếu kể chuyện qua màn hình cảnh cố định, đối thoại và giải đố theo logic ngữ cảnh.",
+    "text": "Graphic adventure tập trung vào kể chuyện qua màn hình cảnh cố định, đối thoại và giải đố theo logic ngữ cảnh.",
+    "originalPrompt": "MIO presents Graphic adventure through illustrated adventure scenes filled with interactive objects, eccentric characters and puzzle-driven storytelling, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Graphic adventure"
+  },
+  {
+    "id": "S211",
+    "number": 211,
+    "chapterId": "C07",
+    "originalText": "Điểm làm Graphic adventure khác các nhánh gần nó là trải nghiệm thường giống như lật từng trang của một cuộc phiêu lưu minh họa.",
+    "text": "Điểm làm Graphic adventure khác các nhánh gần nó là trải nghiệm thường giống như lật từng trang của một cuộc phiêu lưu minh họa.",
+    "originalPrompt": "A side-by-side visual compares Graphic adventure with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Graphic adventure"
+  },
+  {
+    "id": "S212",
+    "number": 212,
+    "chapterId": "C07",
+    "originalText": "Từ Monkey Island, Grim Fandango và Syberia, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Monkey Island, Grim Fandango và Syberia.",
+    "originalPrompt": "Collage scene of representative examples for Graphic adventure, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Graphic adventure"
+  },
+  {
+    "id": "S213",
+    "number": 213,
+    "chapterId": "C07",
+    "originalText": "Point-and-click là nhánh nơi người chơi chủ yếu chọn hành động thông qua con trỏ và sự chú ý đến chi tiết.",
+    "text": "Point-and-click tập trung vào chọn hành động thông qua con trỏ và sự chú ý đến chi tiết.",
+    "originalPrompt": "MIO presents Point-and-click through a cursor hovers over meaningful objects in a playful scene rich with hidden interactions, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Point-and-click"
+  },
+  {
+    "id": "S214",
+    "number": 214,
+    "chapterId": "C07",
+    "originalText": "Điểm làm Point-and-click khác các nhánh gần nó là giao diện của nó biến màn hình thành một không gian quan sát rất đậm tính giải đố.",
+    "text": "Điểm làm Point-and-click khác các nhánh gần nó là giao diện của nó biến màn hình thành một không gian quan sát rất đậm tính giải đố.",
+    "originalPrompt": "A side-by-side visual compares Point-and-click with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Point-and-click"
+  },
+  {
+    "id": "S215",
+    "number": 215,
+    "chapterId": "C07",
+    "originalText": "Từ Monkey Island, Sam and Max và Day of the Tentacle, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Monkey Island, Sam and Max và Day of the Tentacle.",
+    "originalPrompt": "Collage scene of representative examples for Point-and-click, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Point-and-click"
+  },
+  {
+    "id": "S216",
+    "number": 216,
+    "chapterId": "C07",
+    "originalText": "Interactive movie là nhánh nơi người chơi chủ yếu để câu chuyện điện ảnh và lựa chọn sự kiện dẫn đường cho trải nghiệm.",
+    "text": "Interactive movie đặt diễn xuất, lựa chọn và các tình huống điện ảnh ở trung tâm trải nghiệm.",
+    "originalPrompt": "MIO presents Interactive movie through cinematic characters at a tense turning point, where player choices steer a dramatic branching scene, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Interactive movie"
+  },
+  {
+    "id": "S217",
+    "number": 217,
+    "chapterId": "C07",
+    "originalText": "Điểm làm Interactive movie khác các nhánh gần nó là mức độ biểu cảm, cắt cảnh và quyết định phân nhánh quan trọng hơn kỹ năng cơ học.",
+    "text": "Nhiều game trong nhóm này nhấn mạnh quyết định phân nhánh, đồng thời có thể dùng phản xạ và các đoạn thao tác nhanh.",
+    "originalPrompt": "A side-by-side visual compares Interactive movie with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Interactive movie"
+  },
+  {
+    "id": "S218",
+    "number": 218,
+    "chapterId": "C07",
+    "originalText": "Từ Heavy Rain, Until Dawn và Detroit: Become Human, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Heavy Rain, Until Dawn và Detroit: Become Human.",
+    "originalPrompt": "Collage scene of representative examples for Interactive movie, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Interactive movie"
+  },
+  {
+    "id": "S219",
+    "number": 219,
+    "chapterId": "C07",
+    "originalText": "Visual novel là nhánh nơi người chơi chủ yếu đặt trọng tâm vào văn bản, nhân vật và các ngã rẽ cảm xúc.",
+    "text": "Visual novel đặt trọng tâm vào văn bản, nhân vật và các ngã rẽ cảm xúc.",
+    "originalPrompt": "MIO presents Visual novel through character-driven storytelling framed like illustrated pages, with emotional focus and branching decisions, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Visual novel"
+  },
+  {
+    "id": "S220",
+    "number": 220,
+    "chapterId": "C07",
+    "originalText": "Điểm làm Visual novel khác các nhánh gần nó là nó gần với văn học tương tác hơn những nhánh hành động truyền thống.",
+    "text": "Điểm làm Visual novel khác các nhánh gần nó là nó gần với văn học tương tác hơn những nhánh hành động truyền thống.",
+    "originalPrompt": "A side-by-side visual compares Visual novel with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Visual novel"
+  },
+  {
+    "id": "S221",
+    "number": 221,
+    "chapterId": "C07",
+    "originalText": "Từ Steins;Gate, Danganronpa và Ace Attorney theo tinh thần đọc kể chuyện, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Steins;Gate, Danganronpa và Ace Attorney theo tinh thần đọc kể chuyện.",
+    "originalPrompt": "Collage scene of representative examples for Visual novel, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Visual novel"
+  },
+  {
+    "id": "S222",
+    "number": 222,
+    "chapterId": "C07",
+    "originalText": "Walking simulator là nhánh nơi người chơi chủ yếu dẫn người chơi qua không gian để cảm, nghe và ghép mảnh câu chuyện.",
+    "text": "Walking simulator đưa người chơi qua không gian để cảm nhận, lắng nghe và ghép những mảnh câu chuyện.",
+    "originalPrompt": "MIO presents Walking simulator through a solitary player explores evocative spaces where environment itself carries memory and narrative weight, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Walking simulator"
+  },
+  {
+    "id": "S223",
+    "number": 223,
+    "chapterId": "C07",
+    "originalText": "Điểm làm Walking simulator khác các nhánh gần nó là khám phá không gian và diễn giải ngụ ý quan trọng hơn thử thách kỹ năng.",
+    "text": "Điểm làm Walking simulator khác các nhánh gần nó là khám phá không gian và diễn giải ngụ ý quan trọng hơn thử thách kỹ năng.",
+    "originalPrompt": "A side-by-side visual compares Walking simulator with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Walking simulator"
+  },
+  {
+    "id": "S224",
+    "number": 224,
+    "chapterId": "C07",
+    "originalText": "Từ Gone Home, Firewatch và What Remains of Edith Finch, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Gone Home, Firewatch và What Remains of Edith Finch.",
+    "originalPrompt": "Collage scene of representative examples for Walking simulator, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Walking simulator"
+  },
+  {
+    "id": "S225",
+    "number": 225,
+    "chapterId": "C07",
+    "originalText": "Detective / mystery là nhánh nơi người chơi chủ yếu điều tra, ghép manh mối và suy luận ra điều đang bị che giấu.",
+    "text": "Detective / mystery tập trung vào điều tra, ghép manh mối và suy luận ra điều đang bị che giấu.",
+    "originalPrompt": "MIO presents Detective / mystery through investigation boards, clues and suspect silhouettes surround a determined sleuth piecing truth together, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Detective / mystery"
+  },
+  {
+    "id": "S226",
+    "number": 226,
+    "chapterId": "C07",
+    "originalText": "Điểm làm Detective / mystery khác các nhánh gần nó là cảm giác chính là chuyển từ mơ hồ sang hiểu ra.",
+    "text": "Trong Detective / mystery, cảm giác nổi bật là chuyển từ mơ hồ sang hiểu ra nhờ manh mối và suy luận.",
+    "originalPrompt": "A side-by-side visual compares Detective / mystery with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Detective / mystery"
+  },
+  {
+    "id": "S227",
+    "number": 227,
+    "chapterId": "C07",
+    "originalText": "Từ Ace Attorney, Return of the Obra Dinn và Her Story, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Ace Attorney, Return of the Obra Dinn và Her Story.",
+    "originalPrompt": "Collage scene of representative examples for Detective / mystery, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Detective / mystery"
+  },
+  {
+    "id": "S228",
+    "number": 228,
+    "chapterId": "C07",
+    "originalText": "Survival horror là nhánh nơi người chơi chủ yếu pha trộn sợ hãi với tài nguyên hiếm, kẻ địch nguy hiểm và cảm giác dễ tổn thương.",
+    "text": "Survival horror pha trộn sợ hãi với tài nguyên hiếm, kẻ địch nguy hiểm và cảm giác dễ tổn thương.",
+    "originalPrompt": "MIO presents Survival horror through a tense vulnerable protagonist moves through a dark environment with scarce resources and lurking horrors, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S229",
+    "number": 229,
+    "chapterId": "C07",
+    "originalText": "Điểm làm Survival horror khác các nhánh gần nó là nó làm nỗi sợ mạnh hơn bằng cách hạn chế phương tiện tự vệ của bạn.",
+    "text": "Điểm làm Survival horror khác các nhánh gần nó là nó làm nỗi sợ mạnh hơn bằng cách hạn chế phương tiện tự vệ của bạn.",
+    "originalPrompt": "A side-by-side visual compares Survival horror with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S230",
+    "number": 230,
+    "chapterId": "C07",
+    "originalText": "Từ Resident Evil, Silent Hill và Amnesia ở tinh thần sinh tồn kinh dị, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Resident Evil, Silent Hill và Amnesia ở tinh thần sinh tồn kinh dị.",
+    "originalPrompt": "Collage scene of representative examples for Survival horror, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S231",
+    "number": 231,
+    "chapterId": "C08",
+    "originalText": "Không phải ai cũng tìm đến game để đánh boss hay cứu thế giới.",
+    "text": "Không phải ai cũng tìm đến game để đánh boss hay cứu thế giới.",
+    "originalPrompt": "MIO shifts into a lighter branch of competition, celebration and accessible fun in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S232",
+    "number": 232,
+    "chapterId": "C08",
+    "originalText": "Rất nhiều người tìm đến game để thi đấu, thư giãn cùng bạn bè hoặc tái hiện một môn thể thao quen thuộc.",
+    "text": "Rất nhiều người tìm đến game để thi đấu, thư giãn cùng bạn bè hoặc tái hiện một môn thể thao quen thuộc.",
+    "originalPrompt": "Sports fields, racetracks and party mini-games merge into one energetic social branch of GENREWHEEL in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S233",
+    "number": 233,
+    "chapterId": "C08",
+    "originalText": "Nhóm thể loại này dễ tiếp cận vì luật của nó thường gắn với thứ người xem đã biết ngoài đời.",
+    "text": "Nhóm thể loại này dễ tiếp cận vì luật của nó thường gắn với thứ người xem đã biết ngoài đời.",
+    "originalPrompt": "A soccer pitch, basketball court and finish line connect real-world familiarity to game design in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S234",
+    "number": 234,
+    "chapterId": "C08",
+    "originalText": "Nhưng cũng chính vì thế, các nhà phát triển phải cực kỳ tinh tế trong cảm giác điều khiển.",
+    "text": "Nhưng cũng chính vì thế, các nhà phát triển phải cực kỳ tinh tế trong cảm giác điều khiển.",
+    "originalPrompt": "A controller input transforms into athletic movement and racing momentum, stressing the feel of play in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S235",
+    "number": 235,
+    "chapterId": "C08",
+    "originalText": "Từ mô phỏng nghiêm túc đến tiệc tùng hỗn loạn, đây là nhánh rất rộng.",
+    "text": "Từ mô phỏng nghiêm túc đến tiệc tùng hỗn loạn, đây là nhánh rất rộng.",
+    "originalPrompt": "Serious stadium action gradually blends into colorful party chaos, showing the breadth of this branch in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S236",
+    "number": 236,
+    "chapterId": "C08",
+    "originalText": "Nó chứng minh game có thể vừa là thể thao, vừa là sân chơi xã hội.",
+    "text": "Nó chứng minh game có thể vừa là thể thao, vừa là sân chơi xã hội.",
+    "originalPrompt": "Friends laugh around a couch while esports-like competition unfolds beside them, uniting sport and social play in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Survival horror"
+  },
+  {
+    "id": "S237",
+    "number": 237,
+    "chapterId": "C08",
+    "originalText": "Sports là nhánh nơi người chơi chủ yếu mô phỏng hoặc cách điệu hóa một môn thể thao để người chơi nhập vai thi đấu.",
+    "text": "Sports tập trung vào mô phỏng hoặc cách điệu hóa một môn thể thao để người chơi nhập vai thi đấu.",
+    "originalPrompt": "MIO presents Sports through athletes compete in a stylized sports arena with familiar rules translated into dynamic player control, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Sports"
+  },
+  {
+    "id": "S238",
+    "number": 238,
+    "chapterId": "C08",
+    "originalText": "Điểm làm Sports khác các nhánh gần nó là nó dựa vào luật quen thuộc nhưng phải chuyển hóa thành cảm giác điều khiển hấp dẫn.",
+    "text": "Điểm làm Sports khác các nhánh gần nó là nó dựa vào luật quen thuộc nhưng phải chuyển hóa thành cảm giác điều khiển hấp dẫn.",
+    "originalPrompt": "A side-by-side visual compares Sports with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Sports"
+  },
+  {
+    "id": "S239",
+    "number": 239,
+    "chapterId": "C08",
+    "originalText": "Từ EA Sports FC, NBA 2K và MLB The Show, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong EA Sports FC, NBA 2K và MLB The Show.",
+    "originalPrompt": "Collage scene of representative examples for Sports, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Sports"
+  },
+  {
+    "id": "S240",
+    "number": 240,
+    "chapterId": "C08",
+    "originalText": "Racing là nhánh nơi người chơi chủ yếu đua tốc độ, chọn đường đua và làm chủ quán tính của phương tiện.",
+    "text": "Racing tập trung vào đua tốc độ, chọn đường đua và làm chủ quán tính của phương tiện.",
+    "originalPrompt": "MIO presents Racing through cars speed through curves while momentum, braking and racing lines define the composition, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Racing"
+  },
+  {
+    "id": "S241",
+    "number": 241,
+    "chapterId": "C08",
+    "originalText": "Điểm làm Racing khác các nhánh gần nó là nhịp chơi xoay quanh kiểm soát tốc độ và quyết định trong tích tắc.",
+    "text": "Điểm làm Racing khác các nhánh gần nó là nhịp chơi xoay quanh kiểm soát tốc độ và quyết định trong tích tắc.",
+    "originalPrompt": "A side-by-side visual compares Racing with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Racing"
+  },
+  {
+    "id": "S242",
+    "number": 242,
+    "chapterId": "C08",
+    "originalText": "Từ Gran Turismo, Forza và Ridge Racer, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Gran Turismo, Forza và Ridge Racer.",
+    "originalPrompt": "Collage scene of representative examples for Racing, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Racing"
+  },
+  {
+    "id": "S243",
+    "number": 243,
+    "chapterId": "C08",
+    "originalText": "Kart racing là nhánh nơi người chơi chủ yếu biến đua xe thành cuộc vui dễ tiếp cận với vật phẩm và tình huống bất ngờ.",
+    "text": "Kart racing biến đua xe thành cuộc vui dễ tiếp cận với vật phẩm và tình huống bất ngờ.",
+    "originalPrompt": "MIO presents Kart racing through bright cartoon racers fling power-ups around a playful track full of chaos and catch-up drama, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Kart racing"
+  },
+  {
+    "id": "S244",
+    "number": 244,
+    "chapterId": "C08",
+    "originalText": "Điểm làm Kart racing khác các nhánh gần nó là thứ hạng có thể lật ngược nhờ các công cụ hỗn loạn hơn là thuần mô phỏng.",
+    "text": "Điểm làm Kart racing khác các nhánh gần nó là thứ hạng có thể lật ngược nhờ các công cụ hỗn loạn hơn là thuần mô phỏng.",
+    "originalPrompt": "A side-by-side visual compares Kart racing with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Kart racing"
+  },
+  {
+    "id": "S245",
+    "number": 245,
+    "chapterId": "C08",
+    "originalText": "Từ Mario Kart, Crash Team Racing và Sonic Racing, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Mario Kart, Crash Team Racing và Sonic Racing.",
+    "originalPrompt": "Collage scene of representative examples for Kart racing, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Kart racing"
+  },
+  {
+    "id": "S246",
+    "number": 246,
+    "chapterId": "C08",
+    "originalText": "Arcade racing là nhánh nơi người chơi chủ yếu ưu tiên cảm giác tốc độ phóng đại hơn tính chân thực cơ khí.",
+    "text": "Arcade racing ưu tiên cảm giác tốc độ phóng đại hơn tính chân thực cơ khí.",
+    "originalPrompt": "MIO presents Arcade racing through stylized cars drift through neon roads with exaggerated speed and spectacular visual flair, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Arcade racing"
+  },
+  {
+    "id": "S247",
+    "number": 247,
+    "chapterId": "C08",
+    "originalText": "Điểm làm Arcade racing khác các nhánh gần nó là người chơi được thưởng bằng sự hào nhoáng và dễ làm quen.",
+    "text": "Điểm làm Arcade racing khác các nhánh gần nó là người chơi được thưởng bằng sự hào nhoáng và dễ làm quen.",
+    "originalPrompt": "A side-by-side visual compares Arcade racing with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Arcade racing"
+  },
+  {
+    "id": "S248",
+    "number": 248,
+    "chapterId": "C08",
+    "originalText": "Từ Need for Speed, Burnout và OutRun, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Need for Speed, Burnout và OutRun.",
+    "originalPrompt": "Collage scene of representative examples for Arcade racing, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Arcade racing"
+  },
+  {
+    "id": "S249",
+    "number": 249,
+    "chapterId": "C08",
+    "originalText": "Simulation racing là nhánh nơi người chơi chủ yếu tái hiện độ bám, quán tính và kỹ thuật lái sát với cảm giác thật hơn.",
+    "text": "Simulation racing tập trung vào tái hiện độ bám, quán tính và kỹ thuật lái sát với cảm giác thật hơn.",
+    "originalPrompt": "MIO presents Simulation racing through realistic racing cockpit focus, precise cornering and serious track discipline dominate the scene, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Simulation racing"
+  },
+  {
+    "id": "S250",
+    "number": 250,
+    "chapterId": "C08",
+    "originalText": "Điểm làm Simulation racing khác các nhánh gần nó là sự chính xác trong điều khiển và hiểu chiếc xe là trung tâm của trải nghiệm.",
+    "text": "Điểm làm Simulation racing khác các nhánh gần nó là sự chính xác trong điều khiển và hiểu chiếc xe là trung tâm của trải nghiệm.",
+    "originalPrompt": "A side-by-side visual compares Simulation racing with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Simulation racing"
+  },
+  {
+    "id": "S251",
+    "number": 251,
+    "chapterId": "C08",
+    "originalText": "Từ Gran Turismo, iRacing và Assetto Corsa, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Gran Turismo, iRacing và Assetto Corsa.",
+    "originalPrompt": "Collage scene of representative examples for Simulation racing, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Simulation racing"
+  },
+  {
+    "id": "S252",
+    "number": 252,
+    "chapterId": "C08",
+    "originalText": "Party game là nhánh nơi người chơi chủ yếu tập hợp nhiều thử thách ngắn để tạo cạnh tranh và tiếng cười theo nhóm.",
+    "text": "Party game tập trung vào tập hợp nhiều thử thách ngắn để tạo cạnh tranh và tiếng cười theo nhóm.",
+    "originalPrompt": "MIO presents Party game through friends compete in colorful mini-games with playful chaos, laughter and fast-changing objectives, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Party game"
+  },
+  {
+    "id": "S253",
+    "number": 253,
+    "chapterId": "C08",
+    "originalText": "Điểm làm Party game khác các nhánh gần nó là tính xã hội và bất ngờ quan trọng hơn chiều sâu của từng mini-game.",
+    "text": "Điểm làm Party game khác các nhánh gần nó là tính xã hội và bất ngờ quan trọng hơn chiều sâu của từng mini-game.",
+    "originalPrompt": "A side-by-side visual compares Party game with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Party game"
+  },
+  {
+    "id": "S254",
+    "number": 254,
+    "chapterId": "C08",
+    "originalText": "Từ Mario Party, WarioWare và Pummel Party, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Mario Party, WarioWare và Pummel Party.",
+    "originalPrompt": "Collage scene of representative examples for Party game, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Party game"
+  },
+  {
+    "id": "S255",
+    "number": 255,
+    "chapterId": "C08",
+    "originalText": "Social deduction là nhánh nơi người chơi chủ yếu để người chơi nghi ngờ, thảo luận và suy luận ai đang lừa dối.",
+    "text": "Social deduction khiến người chơi nghi ngờ, thảo luận và suy luận ai đang lừa dối.",
+    "originalPrompt": "MIO presents Social deduction through a group debates suspicion and hidden roles in a social space charged with paranoia and deduction, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Social deduction"
+  },
+  {
+    "id": "S256",
+    "number": 256,
+    "chapterId": "C08",
+    "originalText": "Điểm làm Social deduction khác các nhánh gần nó là trọng tâm không phải cơ học tay chân mà là đọc người và quản lý niềm tin.",
+    "text": "Điểm làm Social deduction khác các nhánh gần nó là trọng tâm không phải cơ học tay chân mà là đọc người và quản lý niềm tin.",
+    "originalPrompt": "A side-by-side visual compares Social deduction with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Social deduction"
+  },
+  {
+    "id": "S257",
+    "number": 257,
+    "chapterId": "C08",
+    "originalText": "Từ Among Us, Werewolf và Town of Salem, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Among Us, Werewolf và Town of Salem.",
+    "originalPrompt": "Collage scene of representative examples for Social deduction, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Social deduction"
+  },
+  {
+    "id": "S258",
+    "number": 258,
+    "chapterId": "C08",
+    "originalText": "Casual / family game là nhánh nơi người chơi chủ yếu giảm rào cản điều khiển để nhiều độ tuổi cùng tham gia dễ dàng.",
+    "text": "Casual / family game tập trung vào giảm rào cản điều khiển để nhiều độ tuổi cùng tham gia dễ dàng.",
+    "originalPrompt": "MIO presents Casual / family game through accessible playful activities invite all ages, emphasizing instant fun and welcoming design over mastery, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S259",
+    "number": 259,
+    "chapterId": "C08",
+    "originalText": "Điểm làm Casual / family game khác các nhánh gần nó là sự thân thiện và niềm vui tức thì là bản sắc nổi bật nhất.",
+    "text": "Điểm làm Casual / family game khác các nhánh gần nó là sự thân thiện và niềm vui tức thì là bản sắc nổi bật nhất.",
+    "originalPrompt": "A side-by-side visual compares Casual / family game with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S260",
+    "number": 260,
+    "chapterId": "C08",
+    "originalText": "Từ Wii Sports, Candy Crush và nhiều game gia đình dễ chơi, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Wii Sports, Candy Crush và nhiều game gia đình dễ chơi.",
+    "originalPrompt": "Collage scene of representative examples for Casual / family game, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S261",
+    "number": 261,
+    "chapterId": "C09",
+    "originalText": "Khi công cụ làm game rẻ hơn và phân phối số bùng nổ, một làn sóng thể loại mới xuất hiện.",
+    "text": "Khi công cụ làm game rẻ hơn và phân phối số bùng nổ, một làn sóng thể loại mới xuất hiện.",
+    "originalPrompt": "Indie creators at small desks send bright new genre branches into the modern side of SKILLTREE in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S262",
+    "number": 262,
+    "chapterId": "C09",
+    "originalText": "Nhiều trong số đó không hoàn toàn mới, mà là cách ghép lại những thành phần cũ.",
+    "text": "Nhiều trong số đó không hoàn toàn mới, mà là cách ghép lại những thành phần cũ.",
+    "originalPrompt": "Old genre icons recombine like collage pieces into fresh modern hybrids under MIO’s guidance in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S263",
+    "number": 263,
+    "chapterId": "C09",
+    "originalText": "Nhánh indie đặc biệt thích thử nghiệm các vòng lặp ngắn nhưng có độ gây nghiện rất cao.",
+    "text": "Nhiều nhà phát triển độc lập thử nghiệm vòng lặp ngắn, dễ chơi lại và nhiều cách kết hợp cơ chế.",
+    "originalPrompt": "Compact repeated gameplay loops pulse through colorful experimental indie worlds in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S264",
+    "number": 264,
+    "chapterId": "C09",
+    "originalText": "Đây cũng là nơi nhiều thuật ngữ nóng nhất của game hiện đại xuất hiện.",
+    "text": "Đây cũng là nơi nhiều thuật ngữ nóng nhất của game hiện đại xuất hiện.",
+    "originalPrompt": "MIO stands among fresh genre labels emerging from prototype-like experiments and community discussion in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S265",
+    "number": 265,
+    "chapterId": "C09",
+    "originalText": "Một số cái tên trở thành từ khóa marketing.",
+    "text": "Một số cái tên trở thành từ khóa marketing.",
+    "originalPrompt": "Storefront cards and recommendation bubbles spread trendy genre descriptors through a digital marketplace scene in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S266",
+    "number": 266,
+    "chapterId": "C09",
+    "originalText": "Một số cái tên lại trở thành chủ đề tranh cãi kéo dài.",
+    "text": "Một số cái tên lại trở thành chủ đề tranh cãi kéo dài.",
+    "originalPrompt": "Fans debate over fuzzy labels while overlapping genre circles refuse to align neatly in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S267",
+    "number": 267,
+    "chapterId": "C09",
+    "originalText": "Nhưng nhìn chung, đây là vùng đất rất sáng tạo.",
+    "text": "Nhưng nhìn chung, đây là vùng đất rất sáng tạo.",
+    "originalPrompt": "Wild colorful branches bloom from SKILLTREE, representing fertile creativity across indie and hybrid design in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S268",
+    "number": 268,
+    "chapterId": "C09",
+    "originalText": "Nó cho thấy thể loại game không phải bảo tàng, mà là một cơ thể đang sống.",
+    "text": "Nó cho thấy thể loại game không phải bảo tàng, mà là một cơ thể đang sống.",
+    "originalPrompt": "GENREWHEEL pulses like a living organism as new limbs grow from old foundations in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Casual / family game"
+  },
+  {
+    "id": "S269",
+    "number": 269,
+    "chapterId": "C09",
+    "originalText": "Roguelike là nhánh nơi người chơi chủ yếu xây trải nghiệm quanh tính ngẫu nhiên, permadeath và những lượt chơi lặp lại nhưng luôn khác.",
+    "text": "Roguelike xây trải nghiệm quanh tính ngẫu nhiên, cái chết kết thúc lượt chơi và những lần thử luôn khác nhau.",
+    "originalPrompt": "MIO presents Roguelike through procedural dungeons, permadeath tension and repeated runs define a classic roguelike atmosphere, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Roguelike"
+  },
+  {
+    "id": "S270",
+    "number": 270,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Roguelike khác các nhánh gần nó là định nghĩa hẹp của nó gắn chặt với dòng game Rogue và nhiều tranh luận học thuật lẫn cộng đồng.",
+    "text": "Một định nghĩa có ảnh hưởng là Berlin Interpretation năm 2008; đây là cách diễn giải của một nhóm cộng đồng, không phải chuẩn bắt buộc.",
+    "originalPrompt": "A side-by-side visual compares Roguelike with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Roguelike"
+  },
+  {
+    "id": "S271",
+    "number": 271,
+    "chapterId": "C09",
+    "originalText": "Từ Rogue, NetHack và Dungeon Crawl Stone Soup, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Rogue, NetHack và Dungeon Crawl Stone Soup.",
+    "originalPrompt": "Collage scene of representative examples for Roguelike, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Roguelike"
+  },
+  {
+    "id": "S272",
+    "number": 272,
+    "chapterId": "C09",
+    "originalText": "Roguelite là nhánh nơi người chơi chủ yếu mượn vòng lặp lặp lại của roguelike nhưng cho phép tiến bộ lâu dài hoặc mềm hóa thất bại.",
+    "text": "Roguelite mượn vòng lặp chơi lại của roguelike nhưng cho phép tiến bộ lâu dài hoặc giảm mức mất mát sau thất bại.",
+    "originalPrompt": "MIO presents Roguelite through repeated runs through changing challenges with persistent upgrades and stylish modern presentation, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Roguelite"
+  },
+  {
+    "id": "S273",
+    "number": 273,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Roguelite khác các nhánh gần nó là nó thân thiện hơn với người chơi đại chúng mà vẫn giữ cảm giác thử lại.",
+    "text": "Roguelite có thể giữ nâng cấp giữa các lượt chơi, nhưng nhãn này không đảm bảo game dễ hơn roguelike.",
+    "originalPrompt": "A side-by-side visual compares Roguelite with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Roguelite"
+  },
+  {
+    "id": "S274",
+    "number": 274,
+    "chapterId": "C09",
+    "originalText": "Từ Hades, Dead Cells và Rogue Legacy, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Hades, Dead Cells và Rogue Legacy.",
+    "originalPrompt": "Collage scene of representative examples for Roguelite, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Roguelite"
+  },
+  {
+    "id": "S275",
+    "number": 275,
+    "chapterId": "C09",
+    "originalText": "Metroidvania là nhánh nơi người chơi chủ yếu khám phá bản đồ liên thông rồi quay lại khu cũ khi bạn có năng lực mới.",
+    "text": "Metroidvania tập trung vào khám phá bản đồ liên thông rồi quay lại khu cũ khi bạn có năng lực mới.",
+    "originalPrompt": "MIO presents Metroidvania through a labyrinthine world opens gradually as a hero gains new traversal abilities and revisits old paths, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Metroidvania"
+  },
+  {
+    "id": "S276",
+    "number": 276,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Metroidvania khác các nhánh gần nó là cảm giác mở khóa không gian là cốt lõi của nhánh này.",
+    "text": "Điểm làm Metroidvania khác các nhánh gần nó là cảm giác mở khóa không gian là cốt lõi của nhánh này.",
+    "originalPrompt": "A side-by-side visual compares Metroidvania with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Metroidvania"
+  },
+  {
+    "id": "S277",
+    "number": 277,
+    "chapterId": "C09",
+    "originalText": "Từ Super Metroid, Castlevania: Symphony of the Night và Hollow Knight, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Super Metroid, Castlevania: Symphony of the Night và Hollow Knight.",
+    "originalPrompt": "Collage scene of representative examples for Metroidvania, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Metroidvania"
+  },
+  {
+    "id": "S278",
+    "number": 278,
+    "chapterId": "C09",
+    "originalText": "Immersive sim là nhánh nơi người chơi chủ yếu cho người chơi nhiều cách tiếp cận cùng một vấn đề trong môi trường giàu tương tác.",
+    "text": "Immersive sim nhấn mạnh các hệ thống tương tác, cho phép người chơi tìm nhiều cách xử lý cùng một tình huống.",
+    "originalPrompt": "MIO presents Immersive sim through a richly interactive space offers stealth, combat, hacking and creative problem-solving routes at once, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Immersive sim"
+  },
+  {
+    "id": "S279",
+    "number": 279,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Immersive sim khác các nhánh gần nó là sức hấp dẫn nằm ở tính hệ thống và tự do giải quyết vấn đề.",
+    "text": "Điểm làm Immersive sim khác các nhánh gần nó là sức hấp dẫn nằm ở tính hệ thống và tự do giải quyết vấn đề.",
+    "originalPrompt": "A side-by-side visual compares Immersive sim with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Immersive sim"
+  },
+  {
+    "id": "S280",
+    "number": 280,
+    "chapterId": "C09",
+    "originalText": "Từ Deus Ex, Dishonored và Prey, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Deus Ex, Dishonored và Prey.",
+    "originalPrompt": "Collage scene of representative examples for Immersive sim, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Immersive sim"
+  },
+  {
+    "id": "S281",
+    "number": 281,
+    "chapterId": "C09",
+    "originalText": "Deckbuilder là nhánh nơi người chơi chủ yếu biến việc xây bộ bài thành trung tâm của vòng lặp chiến đấu hoặc chiến thuật.",
+    "text": "Deckbuilder biến việc xây bộ bài thành trung tâm của vòng lặp chiến đấu hoặc chiến thuật.",
+    "originalPrompt": "MIO presents Deckbuilder through cards, synergies and evolving strategy builds shape each run in a clever deck-centered composition, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Deckbuilder"
+  },
+  {
+    "id": "S282",
+    "number": 282,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Deckbuilder khác các nhánh gần nó là mỗi lựa chọn lá bài dần định hình phong cách chơi của cả run.",
+    "text": "Điểm làm Deckbuilder khác các nhánh gần nó là mỗi lựa chọn lá bài dần định hình phong cách chơi của cả run.",
+    "originalPrompt": "A side-by-side visual compares Deckbuilder with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Deckbuilder"
+  },
+  {
+    "id": "S283",
+    "number": 283,
+    "chapterId": "C09",
+    "originalText": "Từ Slay the Spire, Monster Train và Balatro theo tinh thần xây dựng bộ bài, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Slay the Spire, Monster Train và Balatro theo tinh thần xây dựng bộ bài.",
+    "originalPrompt": "Collage scene of representative examples for Deckbuilder, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Deckbuilder"
+  },
+  {
+    "id": "S284",
+    "number": 284,
+    "chapterId": "C09",
+    "originalText": "Bullet heaven là nhánh nơi người chơi chủ yếu để nhân vật sống sót giữa biển kẻ địch trong khi sức mạnh tự động hoặc bán tự động bùng nổ khắp màn hình.",
+    "text": "Bullet heaven đặt nhân vật giữa biển kẻ địch, với sức mạnh tự động hoặc bán tự động bùng nổ khắp màn hình.",
+    "originalPrompt": "MIO presents Bullet heaven through overwhelming enemy swarms and explosive automatic abilities fill the screen in a survival power fantasy, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Bullet heaven"
+  },
+  {
+    "id": "S285",
+    "number": 285,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Bullet heaven khác các nhánh gần nó là trọng tâm là build tăng tiến và cảm giác làm tan đám đông khổng lồ.",
+    "text": "Điểm làm Bullet heaven khác các nhánh gần nó là trọng tâm là build tăng tiến và cảm giác làm tan đám đông khổng lồ.",
+    "originalPrompt": "A side-by-side visual compares Bullet heaven with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Bullet heaven"
+  },
+  {
+    "id": "S286",
+    "number": 286,
+    "chapterId": "C09",
+    "originalText": "Từ Vampire Survivors, Brotato và Halls of Torment, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Vampire Survivors, Brotato và Halls of Torment.",
+    "originalPrompt": "Collage scene of representative examples for Bullet heaven, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Bullet heaven"
+  },
+  {
+    "id": "S287",
+    "number": 287,
+    "chapterId": "C09",
+    "originalText": "Idle / incremental là nhánh nơi người chơi chủ yếu thưởng cho người chơi bằng sự tăng trưởng theo thời gian, đôi khi ngay cả khi không trực tiếp thao tác nhiều.",
+    "text": "Idle / incremental thưởng cho người chơi bằng sự tăng trưởng theo thời gian, đôi khi cả khi không trực tiếp thao tác nhiều.",
+    "originalPrompt": "MIO presents Idle / incremental through growth curves, automated systems and escalating production create a strangely satisfying incremental scene, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Idle / incremental"
+  },
+  {
+    "id": "S288",
+    "number": 288,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Idle / incremental khác các nhánh gần nó là sức hút của nó là nhìn con số, hệ thống và chuỗi tối ưu phình to dần.",
+    "text": "Điểm làm Idle / incremental khác các nhánh gần nó là sức hút của nó là nhìn con số, hệ thống và chuỗi tối ưu phình to dần.",
+    "originalPrompt": "A side-by-side visual compares Idle / incremental with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Idle / incremental"
+  },
+  {
+    "id": "S289",
+    "number": 289,
+    "chapterId": "C09",
+    "originalText": "Từ Cookie Clicker, Universal Paperclips và Adventure Capitalist, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Cookie Clicker, Universal Paperclips và Adventure Capitalist.",
+    "originalPrompt": "Collage scene of representative examples for Idle / incremental, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Idle / incremental"
+  },
+  {
+    "id": "S290",
+    "number": 290,
+    "chapterId": "C09",
+    "originalText": "Cozy game là nhánh nơi người chơi chủ yếu giảm áp lực để nhấn mạnh sự thư giãn, dễ thương và nhịp sống nhẹ nhàng.",
+    "text": "Cozy game giảm áp lực để nhấn mạnh sự thư giãn, dễ thương và nhịp sống nhẹ nhàng.",
+    "originalPrompt": "MIO presents Cozy game through soft warm worlds, gentle activities and comforting interactions create a soothing cozy play atmosphere, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Cozy game"
+  },
+  {
+    "id": "S291",
+    "number": 291,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Cozy game khác các nhánh gần nó là nó được định nghĩa nhiều bởi cảm giác hơn là một bộ luật cơ học cố định.",
+    "text": "Điểm làm Cozy game khác các nhánh gần nó là nó được định nghĩa nhiều bởi cảm giác hơn là một bộ luật cơ học cố định.",
+    "originalPrompt": "A side-by-side visual compares Cozy game with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Cozy game"
+  },
+  {
+    "id": "S292",
+    "number": 292,
+    "chapterId": "C09",
+    "originalText": "Từ Animal Crossing, Unpacking và A Short Hike, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Animal Crossing, Unpacking và A Short Hike.",
+    "originalPrompt": "Collage scene of representative examples for Cozy game, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Cozy game"
+  },
+  {
+    "id": "S293",
+    "number": 293,
+    "chapterId": "C09",
+    "originalText": "Extraction survival hybrid là nhánh nơi người chơi chủ yếu kết hợp căng thẳng sinh tồn với mục tiêu rút lui an toàn cùng chiến lợi phẩm.",
+    "text": "Extraction survival hybrid kết hợp căng thẳng sinh tồn với mục tiêu rút lui an toàn cùng chiến lợi phẩm.",
+    "originalPrompt": "MIO presents Extraction survival hybrid through tense adventurers scavenge dangerous spaces while balancing survival, combat and risky extraction goals, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Extraction survival hybrid"
+  },
+  {
+    "id": "S294",
+    "number": 294,
+    "chapterId": "C09",
+    "originalText": "Điểm làm Extraction survival hybrid khác các nhánh gần nó là điểm mới của nó là biến nỗi sợ mất đồ thành động lực trung tâm.",
+    "text": "Nhóm lai này đặt nỗi lo mất chiến lợi phẩm vào trung tâm, kết hợp nó với nhiều áp lực sinh tồn khác.",
+    "originalPrompt": "A side-by-side visual compares Extraction survival hybrid with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Extraction survival hybrid"
+  },
+  {
+    "id": "S295",
+    "number": 295,
+    "chapterId": "C09",
+    "originalText": "Từ Dark and Darker, Hunt: Showdown và nhiều game lai mới nổi, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Có thể thấy những nét ấy trong Dark and Darker, Hunt: Showdown và nhiều game lai mới nổi.",
+    "originalPrompt": "Collage scene of representative examples for Extraction survival hybrid, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Extraction survival hybrid"
+  },
+  {
+    "id": "S296",
+    "number": 296,
+    "chapterId": "C10",
+    "originalText": "Đi đến đây, ta bắt đầu thấy vấn đề lớn nhất của mọi bảng phân loại game.",
+    "text": "Đi đến đây, ta bắt đầu thấy vấn đề lớn nhất của mọi bảng phân loại game.",
+    "originalPrompt": "MIO faces an overcrowded GENREWHEEL where labels overlap and no single border feels completely stable in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Extraction survival hybrid"
+  },
+  {
+    "id": "S297",
+    "number": 297,
+    "chapterId": "C10",
+    "originalText": "Nhiều khái niệm được dùng như thể loại, nhưng thật ra chúng mô tả thứ khác.",
+    "text": "Nhiều khái niệm được dùng như thể loại, nhưng thật ra chúng mô tả thứ khác.",
+    "originalPrompt": "Several floating labels attach to different layers of a game—mechanics, perspective, structure and business model in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Extraction survival hybrid"
+  },
+  {
+    "id": "S298",
+    "number": 298,
+    "chapterId": "C10",
+    "originalText": "Có khái niệm mô tả góc nhìn.",
+    "text": "Có khái niệm mô tả góc nhìn.",
+    "originalPrompt": "First-person and third-person views appear as camera layers rather than full genres in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Extraction survival hybrid"
+  },
+  {
+    "id": "S299",
+    "number": 299,
+    "chapterId": "C10",
+    "originalText": "Có khái niệm mô tả cấu trúc, nền tảng, mô hình kinh doanh hay tâm trạng.",
+    "text": "Có khái niệm mô tả cấu trúc, nền tảng, mô hình kinh doanh hay tâm trạng.",
+    "originalPrompt": "Open worlds, mobile devices, storefront tags and mood symbols show many non-genre ways games get described in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Extraction survival hybrid"
+  },
+  {
+    "id": "S300",
+    "number": 300,
+    "chapterId": "C10",
+    "originalText": "Open world là nhánh nơi người chơi chủ yếu không hẳn là thể loại, mà là cấu trúc cho phép di chuyển và khám phá tự do trên không gian rộng.",
+    "text": "Open world chủ yếu mô tả cấu trúc không gian rộng cho phép khám phá tương đối tự do.",
+    "originalPrompt": "MIO presents Open world through a vast explorable map with landmarks everywhere illustrates open world as a structure layered over many genres, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Open world"
+  },
+  {
+    "id": "S301",
+    "number": 301,
+    "chapterId": "C10",
+    "originalText": "Điểm làm Open world khác các nhánh gần nó là nó có thể bọc quanh rất nhiều thể loại khác nhau, từ nhập vai đến bắn súng.",
+    "text": "Cấu trúc ấy có thể xuất hiện trong nhiều thể loại, từ nhập vai đến bắn súng.",
+    "originalPrompt": "A side-by-side visual compares Open world with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Open world"
+  },
+  {
+    "id": "S302",
+    "number": 302,
+    "chapterId": "C10",
+    "originalText": "Từ Skyrim, GTA V và The Legend of Zelda: Breath of the Wild, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Skyrim, GTA V và The Legend of Zelda: Breath of the Wild cho thấy ba cách kết hợp thế giới mở với lối chơi khác nhau.",
+    "originalPrompt": "Collage scene of representative examples for Open world, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Open world"
+  },
+  {
+    "id": "S303",
+    "number": 303,
+    "chapterId": "C10",
+    "originalText": "Sandbox structure là nhánh nơi người chơi chủ yếu cũng thường bị gọi là thể loại dù nó nghiêng về mức độ tự do và công cụ hơn là vòng lặp cốt lõi.",
+    "text": "Sandbox structure mô tả mức tự do, công cụ và cơ hội tự đặt mục tiêu, hơn là một vòng lặp duy nhất.",
+    "originalPrompt": "MIO presents Sandbox structure through player freedom, tools and experimentation dominate a scene that treats sandbox as a structural approach, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Sandbox structure"
+  },
+  {
+    "id": "S304",
+    "number": 304,
+    "chapterId": "C10",
+    "originalText": "Điểm làm Sandbox structure khác các nhánh gần nó là một game sandbox có thể là sáng tạo, sinh tồn, mô phỏng hoặc pha trộn nhiều thứ.",
+    "text": "Cấu trúc sandbox có thể hỗ trợ sáng tạo, sinh tồn, mô phỏng hoặc nhiều cách chơi cùng lúc.",
+    "originalPrompt": "A side-by-side visual compares Sandbox structure with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Sandbox structure"
+  },
+  {
+    "id": "S305",
+    "number": 305,
+    "chapterId": "C10",
+    "originalText": "Từ Minecraft, Garry’s Mod và Dreams, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Minecraft, Garry’s Mod và Dreams là những ví dụ về quyền tự do và công cụ, nhưng không có cùng một vòng lặp.",
+    "originalPrompt": "Collage scene of representative examples for Sandbox structure, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Sandbox structure"
+  },
+  {
+    "id": "S306",
+    "number": 306,
+    "chapterId": "C10",
+    "originalText": "Live service là nhánh nơi người chơi chủ yếu không mô tả cách chơi trực tiếp mà mô tả cách game được vận hành và cập nhật liên tục.",
+    "text": "Live service mô tả cách vận hành và bổ sung nội dung theo thời gian, không tự định nghĩa lối chơi.",
+    "originalPrompt": "MIO presents Live service through a game world refreshes through seasonal events, updates and ongoing community engagement rather than a one-time release, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Live service"
+  },
+  {
+    "id": "S307",
+    "number": 307,
+    "chapterId": "C10",
+    "originalText": "Điểm làm Live service khác các nhánh gần nó là sự kiện theo mùa, tiến trình lâu dài và nội dung mới làm nó khác game bán xong là xong.",
+    "text": "Sự kiện, mùa nội dung và cập nhật có thể duy trì trải nghiệm; mỗi game dùng mô hình này theo cách khác.",
+    "originalPrompt": "A side-by-side visual compares Live service with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Live service"
+  },
+  {
+    "id": "S308",
+    "number": 308,
+    "chapterId": "C10",
+    "originalText": "Từ Fortnite, Destiny 2 và Warframe, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Fortnite, Destiny 2 và Warframe là các ví dụ tham khảo; tình trạng dịch vụ và nội dung cần kiểm tra lại khi xuất bản.",
+    "originalPrompt": "Collage scene of representative examples for Live service, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Live service"
+  },
+  {
+    "id": "S309",
+    "number": 309,
+    "chapterId": "C10",
+    "originalText": "Mobile game là nhánh nơi người chơi chủ yếu thực ra mô tả nền tảng nhiều hơn là bản chất thể loại.",
+    "text": "Mobile game mô tả nền tảng điện thoại, không phải một thể loại lối chơi riêng.",
+    "originalPrompt": "MIO presents Mobile game through a smartphone screen hosts wildly different gameplay styles, showing platform diversity rather than a single genre identity, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Mobile game"
+  },
+  {
+    "id": "S310",
+    "number": 310,
+    "chapterId": "C10",
+    "originalText": "Điểm làm Mobile game khác các nhánh gần nó là trên điện thoại có thể tồn tại puzzle, gacha, strategy hay rhythm, nên gọi mobile là thể loại sẽ quá rộng.",
+    "text": "Trên điện thoại có thể có puzzle, strategy, rhythm và nhiều thể loại khác; gacha lại là một cơ chế thu thập hoặc kiếm tiền.",
+    "originalPrompt": "A side-by-side visual compares Mobile game with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Mobile game"
+  },
+  {
+    "id": "S311",
+    "number": 311,
+    "chapterId": "C10",
+    "originalText": "Từ Candy Crush, Genshin Impact và Clash Royale, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Candy Crush, Genshin Impact và Clash Royale minh họa những trải nghiệm rất khác nhau trên cùng nền tảng.",
+    "originalPrompt": "Collage scene of representative examples for Mobile game, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Mobile game"
+  },
+  {
+    "id": "S312",
+    "number": 312,
+    "chapterId": "C10",
+    "originalText": "Steam tags là nhánh nơi người chơi chủ yếu cho thấy cộng đồng phân loại game theo nhiều trục cùng lúc chứ không chỉ một thể loại duy nhất.",
+    "text": "Steam tags cho thấy một game có thể được mô tả theo nhiều trục cùng lúc, bởi nhà phát triển và cộng đồng.",
+    "originalPrompt": "MIO presents Steam tags through digital storefront cards covered in layered community tags represent many parallel ways players classify games, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Steam tags"
+  },
+  {
+    "id": "S313",
+    "number": 313,
+    "chapterId": "C10",
+    "originalText": "Điểm làm Steam tags khác các nhánh gần nó là một game có thể mang đồng thời tag về lối chơi, chủ đề, độ khó và tâm trạng.",
+    "text": "Tag có thể nói về thể loại, góc nhìn, cơ chế, chủ đề hoặc tâm trạng.",
+    "originalPrompt": "A side-by-side visual compares Steam tags with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Steam tags"
+  },
+  {
+    "id": "S314",
+    "number": 314,
+    "chapterId": "C10",
+    "originalText": "Từ hệ thống tag trên Steam và các cửa hàng số tương tự, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Hệ thống tag giúp khám phá game, nhưng các nhãn và trọng số có thể thay đổi theo thời gian.",
+    "originalPrompt": "Collage scene of representative examples for Steam tags, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Steam tags"
+  },
+  {
+    "id": "S315",
+    "number": 315,
+    "chapterId": "C10",
+    "originalText": "Perspective labels là nhánh nơi người chơi chủ yếu như first-person hay side-scrolling thường chỉ mô tả cách nhìn hoặc cách trình bày.",
+    "text": "First-person, side-scrolling và isometric thường mô tả góc nhìn hoặc cách trình bày.",
+    "originalPrompt": "MIO presents Perspective labels through camera perspectives overlay different genres to show how viewpoint acts as one descriptive axis among many, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Perspective labels"
+  },
+  {
+    "id": "S316",
+    "number": 316,
+    "chapterId": "C10",
+    "originalText": "Điểm làm Perspective labels khác các nhánh gần nó là chúng cắt ngang nhiều thể loại thay vì tự mình giải thích toàn bộ trải nghiệm.",
+    "text": "Những nhãn này xuất hiện ở nhiều thể loại, nên không tự giải thích toàn bộ trải nghiệm.",
+    "originalPrompt": "A side-by-side visual compares Perspective labels with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Perspective labels"
+  },
+  {
+    "id": "S317",
+    "number": 317,
+    "chapterId": "C10",
+    "originalText": "Từ first-person puzzle, side-scrolling action và isometric RPG như các ví dụ, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Một game giải đố có thể nhìn từ ngôi thứ nhất, một game action có thể cuộn ngang, và một RPG có thể dùng góc nhìn isometric.",
+    "originalPrompt": "Collage scene of representative examples for Perspective labels, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Perspective labels"
+  },
+  {
+    "id": "S318",
+    "number": 318,
+    "chapterId": "C10",
+    "originalText": "Mood and community labels là nhánh nơi người chơi chủ yếu như cozy, hardcore hay soulslike cho thấy ngôn ngữ người chơi luôn tiếp tục mở rộng.",
+    "text": "Ngôn ngữ cộng đồng còn tạo ra nhãn về cảm giác như cozy, về thử thách như hardcore, hoặc về truyền thống thiết kế như soulslike.",
+    "originalPrompt": "MIO presents Mood and community labels through community-born labels bloom from player discussion circles and reshape modern genre vocabulary in lively ways, using GENREWHEEL slices and clean cut-out infographic composition to show the core gameplay loop clearly",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S319",
+    "number": 319,
+    "chapterId": "C10",
+    "originalText": "Điểm làm Mood and community labels khác các nhánh gần nó là một phần tên gọi thể loại ngày nay đến từ cộng đồng, không chỉ từ học thuật hay nhà phát hành.",
+    "text": "Các nhãn này không cùng một cấp phân loại, nhưng đều góp phần giúp người chơi trao đổi về trải nghiệm.",
+    "originalPrompt": "A side-by-side visual compares Mood and community labels with neighboring genres, using pacing, camera, goals and player actions to explain the key differences on a warm paper background",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S320",
+    "number": 320,
+    "chapterId": "C10",
+    "originalText": "Từ cozy game, boomer shooter và soulslike, thể loại này để lại dấu ấn vì nó cho người chơi một cảm giác rất riêng.",
+    "text": "Cozy game, boomer shooter và soulslike cho thấy tên gọi cộng đồng có thể nhấn mạnh tâm trạng, phong cách hoặc một họ cơ chế.",
+    "originalPrompt": "Collage scene of representative examples for Mood and community labels, with MIO guiding attention to the shared feeling, rhythm and identity that define the genre across decades",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S321",
+    "number": 321,
+    "chapterId": "C11",
+    "originalText": "Sau hành trình dài này, ta có thể nhìn game như một khu rừng hơn là một cái tủ ngăn kéo.",
+    "text": "Sau hành trình dài này, ta có thể nhìn game như một khu rừng hơn là một cái tủ ngăn kéo.",
+    "originalPrompt": "A dense forest made of genre branches replaces a tidy filing cabinet, with MIO inviting the viewer to see living complexity",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S322",
+    "number": 322,
+    "chapterId": "C11",
+    "originalText": "Mỗi thể loại là một cách trả lời câu hỏi: điều gì làm trò chơi này vui?",
+    "text": "Mỗi thể loại là một cách trả lời câu hỏi: điều gì làm trò chơi này vui?",
+    "originalPrompt": "Different genre branches each radiate a distinct feeling—speed, mastery, creativity, story, competition and wonder in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S323",
+    "number": 323,
+    "chapterId": "C11",
+    "originalText": "Arcade trả lời bằng phản xạ.",
+    "text": "Arcade trả lời bằng phản xạ.",
+    "originalPrompt": "A sharp arcade burst emphasizes instant reflexes and high-score tension as one answer to fun in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S324",
+    "number": 324,
+    "chapterId": "C11",
+    "originalText": "Chiến lược trả lời bằng kế hoạch.",
+    "text": "Chiến lược trả lời bằng kế hoạch.",
+    "originalPrompt": "A calm strategy table with maps and resources represents fun through planning and foresight in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S325",
+    "number": 325,
+    "chapterId": "C11",
+    "originalText": "Nhập vai trả lời bằng hành trình trưởng thành của nhân vật.",
+    "text": "Nhập vai trả lời bằng hành trình trưởng thành của nhân vật.",
+    "originalPrompt": "A hero evolving across stages of growth symbolizes role-playing as long-form personal journey in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S326",
+    "number": 326,
+    "chapterId": "C11",
+    "originalText": "Bắn súng và đối kháng trả lời bằng sự đối đầu trực diện.",
+    "text": "Bắn súng và đối kháng trả lời bằng sự đối đầu trực diện.",
+    "originalPrompt": "Dueling silhouettes and aiming lines show exhilaration through direct contest and pressure in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S327",
+    "number": 327,
+    "chapterId": "C11",
+    "originalText": "Mô phỏng trả lời bằng việc nhìn một hệ thống vận hành theo ý mình.",
+    "text": "Mô phỏng trả lời bằng việc nhìn một hệ thống vận hành theo ý mình.",
+    "originalPrompt": "Cities, farms and management loops hum smoothly under the player’s guiding influence in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S328",
+    "number": 328,
+    "chapterId": "C11",
+    "originalText": "Phiêu lưu trả lời bằng sự tò mò.",
+    "text": "Phiêu lưu trả lời bằng sự tò mò.",
+    "originalPrompt": "A pathway into mystery-lit ruins and story-rich rooms captures fun as curiosity and discovery in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S329",
+    "number": 329,
+    "chapterId": "C11",
+    "originalText": "Đua xe và thể thao trả lời bằng cạnh tranh dễ hiểu và cảm giác điều khiển.",
+    "text": "Đua xe và thể thao trả lời bằng cạnh tranh dễ hiểu và cảm giác điều khiển.",
+    "originalPrompt": "A race track merges with a stadium, blending precision control and intuitive competition in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S330",
+    "number": 330,
+    "chapterId": "C11",
+    "originalText": "Party game trả lời bằng tiếng cười của nhiều người cùng lúc.",
+    "text": "Party game trả lời bằng tiếng cười của nhiều người cùng lúc.",
+    "originalPrompt": "Friends gathered together in joyful chaos show social fun as the center of party play in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S331",
+    "number": 331,
+    "chapterId": "C11",
+    "originalText": "Indie và lai thể loại trả lời bằng sáng tạo không ngừng.",
+    "text": "Nhiều game độc lập và game lai đem lại niềm vui bằng cách thử những tổ hợp cơ chế mới.",
+    "originalPrompt": "Experimental hybrid branches bloom brightly, celebrating the constant invention of new combinations in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S332",
+    "number": 332,
+    "chapterId": "C11",
+    "originalText": "Điều thú vị là không có nhánh nào đứng yên mãi mãi.",
+    "text": "Điều thú vị là không có nhánh nào đứng yên mãi mãi.",
+    "originalPrompt": "SKILLTREE subtly grows in real time, suggesting that genres continue evolving instead of freezing in place in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S333",
+    "number": 333,
+    "chapterId": "C11",
+    "originalText": "Một ý tưởng hay có thể trở thành thể loại lớn.",
+    "text": "Một ý tưởng hay có thể trở thành thể loại lớn.",
+    "originalPrompt": "A tiny prototype spark grows into a large glowing branch on GENREWHEEL, symbolizing an idea becoming a genre in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S334",
+    "number": 334,
+    "chapterId": "C11",
+    "originalText": "Một thể loại từng rất phổ biến có thể thu hẹp lại thành cộng đồng nhỏ nhưng bền vững.",
+    "text": "Một thể loại từng rất phổ biến có thể thu hẹp lại thành cộng đồng nhỏ nhưng bền vững.",
+    "originalPrompt": "An older branch shrinks but remains healthy, representing niche communities preserving beloved genres in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S335",
+    "number": 335,
+    "chapterId": "C11",
+    "originalText": "Một từ khóa marketing có thể trở thành khái niệm thật sự nếu đủ nhiều người cùng dùng nó.",
+    "text": "Một từ khóa marketing có thể trở thành khái niệm thật sự nếu đủ nhiều người cùng dùng nó.",
+    "originalPrompt": "Community discussion bubbles and storefront discovery loops turn a loose label into a recognized modern category in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S336",
+    "number": 336,
+    "chapterId": "C11",
+    "originalText": "Vì vậy, cách tốt nhất để hiểu game không phải là thuộc lòng danh sách.",
+    "text": "Vì vậy, cách tốt nhất để hiểu game không phải là thuộc lòng danh sách.",
+    "originalPrompt": "MIO sets aside a giant list and instead points to core loops, player feelings and design patterns in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S337",
+    "number": 337,
+    "chapterId": "C11",
+    "originalText": "Cách tốt nhất là hỏi: game này muốn người chơi làm gì lặp đi lặp lại?",
+    "text": "Cách tốt nhất là hỏi: game này muốn người chơi làm gì lặp đi lặp lại?",
+    "originalPrompt": "A looping diagram of action, feedback and reward appears over many different game worlds in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S338",
+    "number": 338,
+    "chapterId": "C11",
+    "originalText": "Khi trả lời được câu đó, bạn gần như đã chạm vào trái tim của thể loại.",
+    "text": "Khi trả lời được câu đó, bạn gần như đã chạm vào trái tim của thể loại.",
+    "originalPrompt": "MIO places a hand on the glowing core of GENREWHEEL, where all branches connect through underlying loops in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S339",
+    "number": 339,
+    "chapterId": "C11",
+    "originalText": "Và khi nhìn toàn bộ bức tranh, bạn sẽ thấy lịch sử game là lịch sử của những vòng lặp được phát minh, pha trộn và tái sinh.",
+    "text": "Và khi nhìn toàn bộ bức tranh, bạn sẽ thấy lịch sử game là lịch sử của những vòng lặp được phát minh, pha trộn và tái sinh.",
+    "originalPrompt": "An epic panorama of video game history shows old loops transforming into new hybrids across time through PIXELPORTAL in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  },
+  {
+    "id": "S340",
+    "number": 340,
+    "chapterId": "C11",
+    "originalText": "Đó là lý do game ngày nay vừa quen thuộc, vừa luôn có khả năng khiến chúng ta bất ngờ.",
+    "text": "Đó là lý do game ngày nay vừa quen thuộc, vừa luôn có khả năng khiến chúng ta bất ngờ.",
+    "originalPrompt": "Final wide shot of GENREWHEEL, SKILLTREE, GAMEPAD and PIXELPORTAL surrounding MIO, closing on the endless surprise of games in a polished editorial infographic scene with dynamic depth and no text.",
+    "genre": "Mood and community labels"
+  }
+]

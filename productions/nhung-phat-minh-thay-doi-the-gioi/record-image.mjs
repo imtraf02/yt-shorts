@@ -1,0 +1,21 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const base='productions/nhung-phat-minh-thay-doi-the-gioi';
+const [id,source]=process.argv.slice(2);
+const scenes=JSON.parse(fs.readFileSync(`${base}/storyboard.json`,'utf8')),scene=scenes.find(s=>s.id===id);
+if(!scene||!source)throw Error('ID/source required');
+const target=path.resolve(scene.file),root=path.resolve('public/images/nhung-phat-minh-thay-doi-the-gioi')+path.sep;
+if(!target.startsWith(root)||fs.existsSync(target))throw Error('Unsafe or existing destination');
+fs.copyFileSync(source,target);
+const b=fs.readFileSync(target);if(!b.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10])))throw Error('Not PNG');
+const width=b.readUInt32BE(16),height=b.readUInt32BE(20),at=new Date().toISOString();
+scene.status='generated';scene.provenance={tool:'built-in image_gen.imagegen',sourcePath:source,generatedAt:at};
+scene.qa={width,height,aspectRatioError:Math.abs(width/height-16/9)/(16/9),visualReview:'Skipped at explicit user request; generated asset saved without visual review.',reviewedAt:null,metadataRecordedAt:at};
+fs.writeFileSync(`${base}/storyboard.json`,JSON.stringify(scenes,null,2)+'\n');
+const job=JSON.parse(fs.readFileSync(`${base}/manifest.json`,'utf8'));
+job.progress={plannedImages:360,generatedImages:scenes.filter(s=>fs.existsSync(s.file)).length,verifiedImages:scenes.filter(s=>s.status==='verified').length,pendingImages:scenes.filter(s=>s.status==='pending').length,needsRevision:scenes.filter(s=>s.status==='needs-revision').length};
+if(job.deliverableStatus){Object.assign(job.deliverableStatus,{images:job.progress.pendingImages?'in-progress':'complete',generatedImages:job.progress.generatedImages,remainingImages:job.progress.pendingImages,firstPendingScene:scenes.find(s=>s.status==='pending')?.id??null});}
+job.stages.images.scopeStatus=job.progress.pendingImages?'in-progress':'complete';
+fs.writeFileSync(`${base}/manifest.json`,JSON.stringify(job,null,2)+'\n');
+fs.appendFileSync(`${base}/generation_log.jsonl`,JSON.stringify({id,source,status:scene.status,width,height,visualReview:'skipped-by-user',at})+'\n');
+console.log(JSON.stringify({id,generated:job.progress.generatedImages,pending:job.progress.pendingImages}));

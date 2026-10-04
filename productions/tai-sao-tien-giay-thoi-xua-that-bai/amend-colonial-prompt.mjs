@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const base=path.dirname(new URL(import.meta.url).pathname.replace(/^\/(\w:)/,'$1'));
+const board=JSON.parse(fs.readFileSync(path.join(base,'storyboard.json'),'utf8'));
+const s=board.scenes.find(s=>s.id==='I174');
+if(s.status!=='pending')throw Error('Scene already generated');
+s.prompt=s.prompt.replace(/Additional period constraints:.*?(?=Geographic and labeling QA constraints:)/s,'Additional period constraints: This scene is in eighteenth-century colonial America, not medieval China. Show colonial printers in plain waistcoats, linen shirts and period breeches, an appropriate hand-operated wooden screw printing press and close-up natural leaf impressions on blank ornamental note panels. No medieval Chinese officials, Chinese woodblock workshop, modern machinery or electrical equipment. Use period candles or daylight. ');
+fs.writeFileSync(path.join(base,'storyboard.json'),JSON.stringify(board,null,2)+'\n');
+const lines=fs.readFileSync(path.join(base,'prompts.jsonl'),'utf8').trim().split('\n').map(JSON.parse);lines.find(x=>x.id==='I174').prompt=s.prompt;
+fs.writeFileSync(path.join(base,'prompts.jsonl'),lines.map(x=>JSON.stringify(x)).join('\n')+'\n');
+let md=fs.readFileSync(path.join(base,'image_prompts.md'),'utf8');
+const old=md.match(/(## I174[^]*?\n\n[^\n]+\n\n)([^\n]+)(\n\nĐích:)/);
+if(!old)throw Error('Cannot locate markdown prompt');
+md=md.replace(old[0],old[1]+s.prompt+old[3]);fs.writeFileSync(path.join(base,'image_prompts.md'),md);
+fs.appendFileSync(path.join(base,'qa.md'),'\n- I174 prompt corrected before generation: colonial American printer uses period hand-operated screw press; medieval Chinese hand-rubbing constraint removed for this scene.\n');

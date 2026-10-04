@@ -1,17 +1,37 @@
 import json
 import math
 import tempfile
+import types
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 import numpy as np
 import soundfile as sf
 
 from generate_tts_sentences import load_items, safe_wav_name
-from tts_audio import SAMPLE_RATE, WAV_SUBTYPE, process_tts_audio, write_verified_wav
+from tts_audio import SAMPLE_RATE, WAV_SUBTYPE, create_vieneu_tts, process_tts_audio, write_verified_wav
 
 
 class TtsAudioTests(unittest.TestCase):
+    def test_explicit_cpu_mode_works_without_pytorch(self):
+        calls = []
+        engine = types.SimpleNamespace(device="cpu")
+        def factory(**kwargs):
+            calls.append(kwargs)
+            return types.SimpleNamespace(backend="onnx", engine=engine, sample_rate=48_000)
+        with patch.dict("sys.modules", {"torch": None, "vieneu": types.SimpleNamespace(Vieneu=factory)}):
+            _, report = create_vieneu_tts(require_cuda=False, max_batch_size=1)
+        self.assertEqual(calls[0]["backend"], "onnx")
+        self.assertEqual(calls[0]["device"], "cpu")
+        self.assertEqual(calls[0]["precision"], "fp32")
+        self.assertIsNone(report["gpu"])
+
+    def test_default_mode_still_requires_cuda_without_pytorch(self):
+        with patch.dict("sys.modules", {"torch": None, "vieneu": types.SimpleNamespace(Vieneu=None)}):
+            with self.assertRaisesRegex(RuntimeError, "Không tìm thấy CUDA"):
+                create_vieneu_tts()
+
     def test_processing_removes_dc_and_keeps_true_peak_headroom(self):
         seconds = 0.25
         t = np.arange(int(SAMPLE_RATE * seconds), dtype=np.float32) / SAMPLE_RATE

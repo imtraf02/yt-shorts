@@ -63,10 +63,11 @@ Comprehensive rules and workflows for generating vertical YouTube Shorts (9:16) 
    - Compare whisper tokens 1-to-1 with script words (`align_<name>.py`). Merge split syllables if needed.
    - Partition into 12 scenes matching the 12 images in `public/images/<topic>/`.
    - Generate `src/data/<name>Subtitles.ts`.
-5. **Components**:
+5. **Components & Visual Effects**:
    - `<Name>HUD.tsx`: Auto-width top badge pill.
    - `<Name>Scene.tsx`: Ken Burns camera motion (`zoom-in`, `zoom-out`, `drift-*`), bottom vignette, elevated badge at `bottom: 530px`, font size `24px`.
    - `<Name>Captions.tsx`: Kinetic subtitles at `bottom: 290px`.
+   - **Transitions & Effects**: Đa dạng hóa chuyển cảnh (wipe, push, slide, diagonal, zoom, iris, fade-color, dissolve... có thể dùng tất cả kiểu trong 1 video), không dùng đơn điệu 1–2 kiểu; đa dạng hiệu ứng không khí (lá bay, mưa, tuyết, hoa, bụi sáng...); **HẠN CHẾ VÀ KHÔNG DÙNG LUNG TUNG CinematicEffects** (chỉ dùng khi thật sự hợp phân cảnh).
 6. **Composition & Register**:
    - Create `src/<Name>Short.tsx` with 12 sequences matching timestamps.
    - Register in `src/Root.tsx`.

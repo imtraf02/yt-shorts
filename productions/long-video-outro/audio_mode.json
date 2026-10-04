@@ -1,0 +1,6 @@
+{
+  "mode": "silent",
+  "audioGenerated": false,
+  "wavOutputs": [],
+  "reason": "No speech or music in the delivered reusable outro. Optional planned Trúc Ly TTS could not run because configured local Python is missing."
+}

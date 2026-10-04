@@ -1,0 +1,433 @@
+NINJA: SỰ THẬT ĐẰNG SAU NHỮNG CHIẾC MẶT NẠ ĐEN
+Kịch bản video + prompt ảnh (phong cách Vox × anime 2D)
+Tổng cộng: 170 câu thoại ↔ 170 ảnh
+Thời lượng ước tính: khoảng 17–20 phút
+Mốc dữ liệu/kiểm chứng: 02/10/2026
+Luận điểm: Ninja lịch sử chủ yếu là những người thực hiện trinh sát, xâm nhập và thu thập tình báo; hình tượng chiến binh áo đen dùng shuriken và “phép thuật” được văn hóa đại chúng định hình mạnh về sau.
+Cảnh báo cập nhật: Chủ đề lịch sử, không có dữ kiện thời sự bắt buộc cập nhật trước khi đăng; tuy nhiên nghiên cứu ninja vẫn tiếp tục và một số chi tiết về nguồn gốc, công cụ, cá nhân cụ thể còn tranh luận.
+
+0. Cách dùng prompt
+[STYLE]
+2D anime illustration in the style of a Vox explainer video: clean cel-shaded line art, flat saturated colors, subtle halftone dots and rice-paper grain texture with faint sumi-e ink accents, editorial infographic composition, cut-out collage layering, warm cream paper background, limited palette of ink navy, vermilion red, antique gold and jade teal, soft paper-cutout drop shadows, cinematic 16:9 framing, historically grounded Japanese clothing and architecture appropriate to each period, no text, no letters, no numbers, no watermark
+[MIO]
+Mio, a young anime girl guide with short teal bob hair, round glasses, mustard-yellow jacket, carrying a small paper scroll
+Motif xuyên suốt
+Motif	Mô tả cố định	Ý nghĩa dựng phim
+SHADOW	a long soft sumi-ink human shadow with indistinct identity	Thông tin, sự hiện diện không bị nhận ra; càng quan trọng thì bóng càng dài.
+SCROLL	a small weathered intelligence scroll tied with a dark red cord, no readable writing	Thông tin thu thập được hoặc tri thức được truyền lại.
+MAP	an unlabeled parchment terrain map with mountain ridges, roads, gates and route markers, no readable text	Tư duy chiến lược, địa hình, đường đi và tình báo.
+MASK	a theatrical black half-mask used only as a symbolic prop, not historical field equipment	Ranh giới giữa ninja hư cấu và shinobi lịch sử.
+
+
+Mẹo giữ đồng nhất: dùng cùng thiết kế MIO xuyên video; shinobi lịch sử ưu tiên trang phục dân thường, lữ khách hoặc võ sĩ đúng bối cảnh, không tự động mặc đồ đen. MASK chỉ dùng trong cảnh nói về huyền thoại/sân khấu. Không để AI vẽ chữ Nhật hay năm; mọi chữ và mốc thời gian thêm ở hậu kỳ. Cảnh chiến tranh giữ tông trang nghiêm, không đồ họa.
+CHƯƠNG 0 – NINJA MÀ BẠN BIẾT CÓ THỂ CHƯA TỪNG TỒN TẠI
+001 — "Nếu tôi nói ninja áo đen trong phim phần lớn là một hình ảnh được tạo ra về sau thì sao?"
+Ảnh 001: A theatrical black-clad ninja silhouette bursts through paper screens while an ordinary medieval traveler stands calmly behind the torn stage illusion, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+002 — "Trong đầu chúng ta, ninja phải mặc đồ đen, che mặt, cầm kiếm và ném phi tiêu."
+Ảnh 002: Four iconic ninja stereotypes arranged like floating paper cutouts: black hood, sword, throwing star, smoke cloud, surrounding MIO with a skeptical expression, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+003 — "Nhưng một người làm gián điệp mà ăn mặc khác tất cả mọi người sẽ là một gián điệp rất tệ."
+Ảnh 003: A conspicuous black-clad infiltrator stands out inside a crowded Japanese market while a plainly dressed traveler disappears naturally among townspeople, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+004 — "Người mà sử liệu Nhật Bản gọi là shinobi thường quan tâm đến thông tin hơn là những màn đấu kiếm."
+Ảnh 004: A plain-clothed shinobi quietly studies a guarded mountain castle from tall grass, holding SCROLL while distant soldiers patrol the walls, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+005 — "Nhiệm vụ của họ là quan sát, xâm nhập, nghe ngóng và trở về mà không bị phát hiện."
+Ảnh 005: Four connected vignettes show a traveler observing gates, slipping through an alley, listening behind a wall, then returning through misty hills, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+006 — "Nếu phải rút kiếm giữa sân địch, nhiều khi kế hoạch đã đi sai từ trước đó."
+Ảnh 006: A shinobi reaches for a concealed blade only after guards suddenly discover him, while a broken stealth route visually collapses behind, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+007 — "Thứ nguy hiểm nhất của ninja vì vậy không nhất thiết nằm trong tay họ."
+Ảnh 007: Close-up of an apparently unarmed traveler with alert eyes, while SHADOW expands behind him into maps, gates, troop routes and hidden information, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+008 — "Nó nằm trong những gì họ biết mà đối phương không biết."
+Ảnh 008: Two rival warlords face each other across a terrain model, one side dim and confused while the other receives a tiny intelligence SCROLL, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+009 — "Lịch sử thật của ninja ít phép thuật hơn phim ảnh, nhưng lại gần với nghề tình báo hiện đại hơn nhiều."
+Ảnh 009: MIO compares a magical stage ninja on one side with a discreet intelligence agent mapping roads and guards on the other, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+010 — "Và câu chuyện đó bắt đầu trong một nước Nhật bị chia cắt bởi chiến tranh."
+Ảnh 010: Wide view of fragmented late-medieval Japan, mountain fortresses, marching armies and isolated valleys, with SHADOW threading silently between rival domains, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+
+CHƯƠNG 1 – SHINOBI SINH RA TỪ MỘT NƯỚC NHẬT CHIA CẮT
+011 — "Từ cuối thời Kamakura và sang thời Muromachi, quyền lực ở Nhật Bản ngày càng phân tán."
+Ảnh 011: A layered political map metaphor shows central authority fading while many provincial warrior houses rise across mountains and plains, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+012 — "Đến thời Chiến Quốc, các lãnh chúa cạnh tranh bằng quân đội, liên minh và thông tin."
+Ảnh 012: Three daimyo camps face one another across a rugged valley, with armies, messengers and tiny intelligence routes crossing between them, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+013 — "Trong một cuộc chiến như vậy, biết quân địch đang ở đâu có thể đáng giá hơn thêm một trăm thanh kiếm."
+Ảnh 013: A warlord chooses a precise MAP over a rack of swords, while enemy troop positions glow faintly across mountain passes, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+014 — "Biết cổng nào ít người canh có thể quyết định một cuộc đột kích."
+Ảnh 014: Night view of a fortified manor with one lightly guarded side gate highlighted by the watchful gaze of a hidden scout, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+015 — "Biết kho lương nằm ở đâu có thể quyết định cả một chiến dịch."
+Ảnh 015: A concealed observer watches porters carry rice sacks toward a guarded storehouse, mentally tracing supply routes through a war camp, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+016 — "Những người chuyên làm công việc như thế dần xuất hiện trong nhiều vùng."
+Ảnh 016: Several plain-clothed scouts from different Japanese regions appear as separate cutout figures, each observing roads, castles and villages, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+017 — "Sử liệu không cho thấy họ thuộc về một tổ chức ninja duy nhất trên toàn Nhật Bản."
+Ảnh 017: A giant imagined ninja guild emblem cracks apart, revealing many separate local families, retainers and regional networks underneath, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+018 — "Ngay cả cách gọi họ cũng thay đổi theo thời đại và địa phương."
+Ảnh 018: Multiple anonymous historical agents in different regional clothing stand around empty name plaques represented only as blank paper shapes, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+019 — "Shinobi, kanja, suppa, rappa và nhiều tên khác từng được sử dụng."
+Ảnh 019: A visual montage of varied scouts—messenger, mountain guide, retainer and infiltrator—linked by the same SHADOW motif, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+020 — "Từ ninja quen thuộc ngày nay được phổ biến rộng rãi muộn hơn rất nhiều."
+Ảnh 020: A timeline-like composition moves from medieval plain-clothed shinobi toward a later stylized black-clad popular-culture ninja, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+021 — "Hoạt động có thể nhận diện là shinobi xuất hiện trong nguồn từ khoảng thế kỷ mười bốn."
+Ảnh 021: A weathered medieval war chronicle rests beside a shadowy night infiltration scene, suggesting early fourteenth-century evidence without readable writing, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+022 — "Nhưng nguồn thời trung đại thường pha trộn ghi chép, truyền thuyết và văn chương."
+Ảnh 022: An old war tale manuscript splits visually into one realistic battle scene and one fantastical ghostly legend scene, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+023 — "Vì vậy lịch sử ninja luôn đòi hỏi chúng ta phân biệt điều được ghi lại với điều được kể lại."
+Ảnh 023: MIO sorts evidence into two piles: tangible documents and translucent theatrical legends, examining both with a magnifying lens, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+024 — "Hai vùng nổi tiếng nhất về truyền thống shinobi là Iga và Kōka."
+Ảnh 024: Mountain valleys of Iga and Koka appear as neighboring rugged landscapes connected by forest paths and scattered fortified manor houses, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+025 — "Địa hình đồi núi cùng mạng lưới võ sĩ địa phương khiến nơi đây phát triển những kỹ năng chiến tranh đặc biệt."
+Ảnh 025: Local warrior families train on steep wooded terrain, practicing scouting, signaling and coordinated movement around compact hill fortifications, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+
+CHƯƠNG 2 – NINJA THẬT SỰ LÀM GÌ?
+026 — "Công việc quan trọng nhất của shinobi là thu thập tình báo."
+Ảnh 026: A plain-clothed scout records enemy camp patterns from a wooded ridge while SCROLL remains hidden inside his robe, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+027 — "Họ cần biết số quân, hướng di chuyển, địa hình và mức độ phòng bị."
+Ảnh 027: Four visual layers show soldiers being counted, marching routes, mountain terrain and guarded gates through one scout’s analytical viewpoint, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+028 — "Một cánh cổng mở vào giờ nào cũng có thể là thông tin chiến lược."
+Ảnh 028: Close-up of a castle gate changing guards at dusk while a hidden observer studies the routine from a roadside shelter, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+029 — "Một con đường lầy sau mưa có thể khiến cả đạo quân chậm lại."
+Ảnh 029: Heavy rain turns a mountain road into mud as armored troops struggle forward and a distant scout quietly notes the delay, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+030 — "Một tin đồn trong quán trọ đôi khi đáng giá hơn một cuộc thẩm vấn."
+Ảnh 030: A disguised traveler casually listens to merchants and soldiers talking inside a dim roadside inn, never drawing attention, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+031 — "Shinobi vì thế phải hiểu con người, không chỉ hiểu vũ khí."
+Ảnh 031: A scout studies facial expressions and social groups in a village gathering while weapons remain deliberately out of focus, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+032 — "Họ quan sát ai ra vào một dinh thự."
+Ảnh 032: A seated traveler watches servants, guards and visitors pass through a manor gate across an entire afternoon, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+033 — "Họ ghi nhớ lịch tuần tra."
+Ảnh 033: Moonlit guards follow repeating routes around a fortified residence while a hidden observer memorizes their rhythm, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+034 — "Họ tìm xem lính canh đổi ca vào lúc nào."
+Ảnh 034: Two guard groups exchange duty at a gate as a watcher hidden in the crowd notes the brief moment of confusion, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+035 — "Họ dò vị trí kho lương, kho vũ khí và nguồn nước."
+Ảnh 035: A cutaway fortress reveals food stores, armory and well while SHADOW traces a careful reconnaissance path between them, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+036 — "Khi cần, họ có thể xâm nhập vào ban đêm."
+Ảnh 036: A minimally equipped infiltrator moves through deep blue night toward a wooden compound, using darkness and architecture rather than acrobatics, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+037 — "Nhưng mục tiêu lý tưởng vẫn là không để ai biết họ từng ở đó."
+Ảnh 037: Empty corridor after a successful infiltration, sliding doors untouched, guards unaware, only a faint departing SHADOW suggesting someone passed through, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+038 — "Một nhiệm vụ khác là truyền tin giữa những nơi nguy hiểm."
+Ảnh 038: A courier crosses a narrow mountain trail at dawn with a tiny sealed SCROLL concealed under ordinary travel clothing, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+039 — "Thông tin có giá trị chỉ khi nó đến đúng người và đúng lúc."
+Ảnh 039: A warlord receives intelligence moments before armies move, while a sun position and marching troops imply urgent timing, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+040 — "Trong một số chiến dịch, shinobi còn được dùng để gây cháy hoặc phá hoại."
+Ảnh 040: At night, a covert agent ignites a small strategic fire near enemy supplies while avoiding civilians and direct combat, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+041 — "Mục tiêu của phá hoại không nhất thiết là tiêu diệt đối phương."
+Ảnh 041: A minor fire forces guards to abandon their posts and rush toward smoke, leaving another route temporarily exposed, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+042 — "Đôi khi nó chỉ cần tạo ra hỗn loạn đúng vài phút."
+Ảnh 042: Confused soldiers run toward a false disturbance while a quiet infiltration path opens on the opposite side of the compound, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+043 — "Shinobi cũng có thể dẫn đường cho quân đội qua địa hình mà họ hiểu rõ."
+Ảnh 043: Local scouts guide armored troops silently through a hidden forest pass between steep ridges before sunrise, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+044 — "Họ có thể kiểm tra xem một con đường có phục kích hay không."
+Ảnh 044: A cautious scout examines broken branches, footprints and disturbed grass along a narrow ravine before signaling the army behind, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+045 — "Nói cách khác, ninja thật thường chiến đấu bằng lợi thế thông tin trước khi chiến đấu bằng thép."
+Ảnh 045: A sword remains sheathed in the foreground while MAP, SCROLL and observed enemy routes dominate the strategic composition, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+
+CHƯƠNG 3 – NGHỆ THUẬT TRỞ THÀNH MỘT NGƯỜI BÌNH THƯỜNG
+046 — "Muốn bước vào lãnh thổ địch, điều đầu tiên là đừng trông giống một kẻ xâm nhập."
+Ảnh 046: A shinobi removes theatrical black clothing and chooses plain traveler garments before entering a busy checkpoint, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+047 — "Vì vậy cải trang là một phần quan trọng của nhiều truyền thống ninjutsu."
+Ảnh 047: Several plausible period disguises—traveler, merchant, laborer, religious pilgrim—surround one central anonymous agent, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+048 — "Nhưng cải trang không chỉ là thay quần áo."
+Ảnh 048: An infiltrator in merchant clothing studies how real merchants carry baskets, greet customers and handle coins, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+049 — "Bạn phải biết cách cư xử giống vai mình đang đóng."
+Ảnh 049: A disguised agent mirrors the posture and mannerisms of local townspeople inside a crowded street scene, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+050 — "Một người mặc đồ thương nhân nhưng không biết giá hàng hóa sẽ rất đáng ngờ."
+Ảnh 050: At a market stall, a disguised scout confidently examines goods while a suspicious guard watches from nearby, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+051 — "Giọng nói cũng có thể làm lộ quê quán của bạn."
+Ảnh 051: Close-up conversation at a checkpoint where one guard studies a traveler’s face as subtle sound-wave motifs suggest dialect risk, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+052 — "Thói quen cúi chào cũng có thể khiến người khác nghi ngờ."
+Ảnh 052: Two travelers bow differently before a local official, one blending naturally while the other attracts a questioning glance, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+053 — "Một shinobi giỏi phải quan sát trước khi nhập vai."
+Ảnh 053: A hidden observer watches village routines from a tea stall before later appearing dressed exactly like the local travelers, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+054 — "Họ cũng cần biết cách đặt câu hỏi mà không khiến người khác nhận ra mình đang hỏi."
+Ảnh 054: A friendly traveler chats casually with an innkeeper while learning about roads and soldiers without showing urgency, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+055 — "Thay vì hỏi quân địch có bao nhiêu người, họ có thể hỏi quán hôm nay sao đông thế."
+Ảnh 055: An inn crowded with soldiers becomes the background while a relaxed traveler gestures casually toward the busy room, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+056 — "Một câu chuyện vô hại có thể tiết lộ thời gian một đoàn quân vừa đi qua."
+Ảnh 056: Villagers describe recent traffic using hand gestures while a disguised agent quietly reconstructs the passing army’s timing, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+057 — "Bộ đồng phục sẽ phá hỏng lợi thế lớn nhất của họ."
+Ảnh 057: A bright standardized ninja uniform stands exposed under lantern light while plain travelers vanish into surrounding crowds, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+058 — "Trong nghề tình báo, người thành công nhất thường là người chẳng ai nhớ mặt."
+Ảnh 058: After a traveler leaves an inn, everyone resumes daily life while his face fades from a sequence of memory-like silhouettes, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+059 — "Đó là một hình ảnh hoàn toàn trái ngược ninja trong phim."
+Ảnh 059: Split scene contrasts a spectacular rooftop ninja pose with a historically grounded anonymous traveler disappearing into a village, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+060 — "Và chính sự trái ngược ấy khiến lịch sử thật thú vị hơn."
+Ảnh 060: MIO pulls apart a theatrical MASK motif to reveal maps, disguises, weather notes and intelligence work beneath, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+
+CHƯƠNG 4 – VŨ KHÍ VÀ DỤNG CỤ: ÍT PHÉP THUẬT HƠN BẠN NGHĨ
+061 — "Nhắc đến ninja, nhiều người nghĩ ngay đến shuriken."
+Ảnh 061: A dramatic star-shaped throwing blade floats center frame like a pop-culture icon while MIO examines it skeptically, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+062 — "Shuriken có tồn tại, nhưng nó không phải vũ khí độc quyền của ninja."
+Ảnh 062: A samurai training yard shows warriors practicing with compact throwing weapons, breaking the exclusive ninja association, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+063 — "Nghiên cứu sử liệu còn cho thấy hình ảnh ninja chủ yếu chiến đấu bằng shuriken là sản phẩm hư cấu."
+Ảnh 063: A pile of theatrical throwing stars dissolves into a modest historical weapon display and archival manuscript imagery, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+064 — "Các loại shuriken dạng thanh cũng gắn với võ thuật của giới võ sĩ nói chung."
+Ảnh 064: Several simple spike-like throwing implements rest beside ordinary samurai equipment on a wooden training floor, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+065 — "Điều tương tự xảy ra với thanh kiếm ninja thẳng quen thuộc trong văn hóa đại chúng."
+Ảnh 065: An iconic straight black ninja sword appears as a modern silhouette beside several varied historical Japanese blades, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+066 — "Không có bằng chứng cho thấy mọi shinobi dùng một mẫu kiếm chuẩn giống nhau."
+Ảnh 066: Different agents carry ordinary period weapons appropriate to their status, with no standardized secret sword in sight, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+067 — "Đối với người xâm nhập, dụng cụ hữu ích đôi khi quan trọng hơn vũ khí."
+Ảnh 067: A rope, hook, small saw, fire-making kit and concealed container are arranged as a practical infiltration toolkit, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+068 — "Dây và móc có thể giúp vượt tường hoặc xuống địa hình dốc."
+Ảnh 068: A covert scout uses rope and a compact hook to descend a steep earthen embankment beside a wooden fortress, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+069 — "Dụng cụ nhóm lửa có thể phục vụ tín hiệu hoặc phá hoại."
+Ảnh 069: Hands shield a tiny controlled flame beside a dark camp while a distant ally watches for the signal, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+070 — "Kiến thức thuốc súng cũng xuất hiện trong các sách ninjutsu."
+Ảnh 070: A careful Edo-period technical scene shows measured powder ingredients and fire devices being studied from a manuscript, without depicting construction steps, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+071 — "Nhưng ninja không phải những pháp sư ném bom khói vô hạn."
+Ảnh 071: A comically huge fantasy smoke cloud collapses into a small realistic distraction device used only to create a brief escape opening, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+072 — "Nhiều dụng cụ nổi tiếng ngày nay được biết đến qua các sách viết trong thời Edo."
+Ảnh 072: An Edo-period manuscript opens beside reconstructed tools, suggesting later documentation of earlier traditions, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+073 — "Một ví dụ nổi tiếng là mizugumo, dụng cụ thường được mô tả để đi trên mặt nước."
+Ảnh 073: A curious wooden water-crossing device rests beside a pond while an observer tests its balance experimentally, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+074 — "Các phục dựng hiện đại cho thấy nhiều mô tả như vậy không hoạt động giống phim."
+Ảnh 074: A practical experiment shows the device wobbling awkwardly instead of letting a person stride magically across water, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+075 — "Họ chỉ cần một công cụ giải quyết đúng vấn đề vào đúng thời điểm."
+Ảnh 075: A compact hook quietly opens an escape route over a wall as distant guards remain unaware, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+
+CHƯƠNG 5 – BA CUỐN SÁCH LÀM NINJA BỚT HUYỀN BÍ
+076 — "Phần lớn kiến thức chi tiết về ninjutsu còn lại ngày nay đến từ những văn bản được ghi chép thời Edo."
+Ảnh 076: Several weathered Edo-period manuals rest on a low table, surrounded by preserved tools and research notes, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+077 — "Đây là thời kỳ Nhật Bản tương đối hòa bình hơn thời Chiến Quốc."
+Ảnh 077: Peaceful Edo streets and castle administration replace battlefield chaos, while older covert traditions survive as fading SHADOW motifs, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+078 — "Khi chiến tranh lớn giảm đi, một số gia đình bắt đầu ghi lại kỹ thuật cũ."
+Ảnh 078: An older retainer carefully copies inherited oral knowledge onto paper while younger family members listen nearby, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+079 — "Ba văn bản thường được nhắc đến là Bansenshūkai, Shōninki và Shinobi Hiden."
+Ảnh 079: Three distinct closed historical scroll-books sit side by side on a tatami floor with seals and cords but no readable titles, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+080 — "Bansenshūkai được biên soạn vào năm 1676."
+Ảnh 080: A seventeenth-century scholar-warrior compiles many smaller scrolls into one organized manuscript collection by lamplight, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+081 — "Nó tập hợp nhiều truyền thống gắn với Iga và Kōka."
+Ảnh 081: Streams of knowledge from two mountain regions converge visually into one large SCROLL on a scholar’s desk, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+082 — "Shōninki được hoàn thành vào cuối thế kỷ mười bảy, thường ghi năm 1681."
+Ảnh 082: A solitary Edo-period writer finishes a compact intelligence manual beside an oil lamp and travel gear, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+083 — "Những sách này không chỉ nói về đánh nhau."
+Ảnh 083: An open manual is surrounded by weather tools, medicines, maps, food, disguises and conversation scenes rather than weapons, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+084 — "Chúng chứa kiến thức về y học và thực phẩm."
+Ảnh 084: Medicinal herbs, simple field remedies and compact travel rations surround a shinobi preparing for a long journey, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+085 — "Chúng còn nói tới thiên văn và thời tiết."
+Ảnh 085: A night traveler studies stars, cloud movement and wind over mountain ridges before choosing a route, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+086 — "Bởi một người hoạt động bí mật phải hiểu môi trường tốt hơn người đang truy đuổi mình."
+Ảnh 086: A scout moves with fog and terrain while pursuing guards struggle against rain, darkness and steep ground, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+087 — "Ninjutsu vì thế giống một kho kiến thức sinh tồn và tình báo hơn là một bộ phép thuật."
+Ảnh 087: A magical spellbook illusion fades into practical skills: observation, disguise, weather, medicine, maps and quiet movement, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+088 — "Ngay cả những yếu tố mang màu sắc tín ngưỡng cũng phải đặt trong bối cảnh văn hóa thời đó."
+Ảnh 088: A historical practitioner performs a period spiritual ritual before travel, shown respectfully alongside practical equipment, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+089 — "Các nhà nghiên cứu ngày nay còn phục dựng một số kỹ thuật để kiểm tra chúng."
+Ảnh 089: Researchers in a modern controlled setting recreate an old tool while historical diagrams hover as visual reference, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+090 — "Ninja trở nên bớt thần bí, nhưng lại thông minh hơn rất nhiều."
+Ảnh 090: An anonymous shinobi stands surrounded by knowledge motifs—weather, terrain, people, timing and memory—rather than supernatural effects, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+
+CHƯƠNG 6 – IGA, KŌKA VÀ CUỘC CHIẾN LÀM THAY ĐỔI NINJA
+091 — "Iga nổi tiếng vì các cộng đồng võ sĩ địa phương có mức tự quản đáng kể."
+Ảnh 091: Rugged Iga valley dotted with fortified manor houses where local warrior families meet rather than one dominant castle lord, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+092 — "Ở đây không tồn tại một ông vua ninja bí mật chỉ huy tất cả mọi người."
+Ảnh 092: A fantasy throne for a supposed ninja king sits empty while many independent local family compounds surround the valley, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+093 — "Quyền lực được chia giữa nhiều gia đình và nhóm võ sĩ."
+Ảnh 093: Several local warrior households negotiate around a low table, each represented equally without a single supreme leader, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+094 — "Môi trường ấy khuyến khích chiến thuật địa phương, phục kích và hiểu địa hình."
+Ảnh 094: Small local forces use wooded ridges, narrow passes and hidden approaches to outmaneuver a larger invading column, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+095 — "Kōka ở phía bắc cũng nổi tiếng với mạng lưới các gia đình võ sĩ."
+Ảnh 095: Koka countryside shows interconnected warrior households linked by messengers, forest roads and mutual defense signals, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+096 — "Hai vùng về sau được gắn chặt với hình tượng ninja Nhật Bản."
+Ảnh 096: Iga and Koka mountain silhouettes merge behind the modern cultural image of a ninja, while historical travelers remain foreground, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+097 — "Cuối thế kỷ mười sáu, sự cân bằng này bị sức mạnh thống nhất Nhật Bản đe dọa."
+Ảnh 097: A huge expanding army banner shadow approaches the smaller fortified valleys of Iga from the horizon, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+098 — "Năm 1579, lực lượng của Kitabatake Nobukatsu tấn công Iga nhưng thất bại."
+Ảnh 098: A large invading force enters steep Iga terrain and is disrupted by coordinated local defenders using narrow approaches, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+099 — "Thất bại ấy khiến cuộc đối đầu với nhà Oda trở nên nghiêm trọng hơn."
+Ảnh 099: An angry war council under the Oda banner studies the mountainous Iga region after a failed campaign, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+100 — "Năm 1581, Oda Nobunaga mở một chiến dịch lớn vào Iga."
+Ảnh 100: Multiple Oda columns advance toward Iga from different directions, surrounding valleys under a dark autumn sky, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+101 — "Nguồn địa phương mô tả lực lượng xâm lược áp đảo và sự tàn phá rất lớn."
+Ảnh 101: Burning fortified settlements and fleeing civilians convey the devastating scale of the campaign without graphic violence, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+102 — "Khả năng chiến tranh phi quy ước không thể bù mãi cho chênh lệch lực lượng."
+Ảnh 102: Small defenders vanish into forests while overwhelming organized armies close routes and occupy strategic high ground, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+103 — "Iga bị đánh bại, và nhiều người có liên hệ với vùng này tản đi nơi khác."
+Ảnh 103: Families and retainers leave a devastated valley along separate roads carrying modest belongings and inherited SCROLL, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+104 — "Sự phân tán đó lại giúp kỹ năng của Iga đi theo nhiều chủ mới."
+Ảnh 104: Departing scouts arrive at different daimyo domains, each offering knowledge of intelligence, terrain and covert movement, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+105 — "Một năm sau, Nhật Bản lại rung chuyển bởi biến cố Honnō-ji năm 1582."
+Ảnh 105: A distant temple burns at night while messengers race across a map-like landscape and political alliances suddenly shift, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+106 — "Tokugawa Ieyasu khi ấy phải tìm đường trở về lãnh địa trong tình thế nguy hiểm."
+Ảnh 106: Tokugawa Ieyasu’s small party studies a risky route through mountainous country after receiving alarming news, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+107 — "Truyền thống về cuộc vượt Iga sau Honnō-ji gắn tên Hattori Hanzō với câu chuyện ninja."
+Ảnh 107: A warrior commander guides Tokugawa retainers through misty Iga mountain paths while local guides scout ahead, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+108 — "Nhưng Hattori Hanzō Masanari trước hết là một võ sĩ và chỉ huy phục vụ Tokugawa."
+Ảnh 108: A disciplined samurai commander in armor stands among Tokugawa retainers, deliberately unlike a theatrical masked ninja, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+
+CHƯƠNG 7 – HATTORI HANZŌ VÀ NHỮNG CÁI TÊN BỊ HUYỀN THOẠI HÓA
+109 — "Cái tên Hattori Hanzō không chỉ thuộc về một người duy nhất."
+Ảnh 109: A lineage-style row of several different samurai figures shares one inherited family symbol, showing a name passed across generations, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+110 — "Tên Hanzō được truyền trong dòng họ Hattori."
+Ảnh 110: An older family head passes a symbolic crest and SCROLL to the next generation inside a samurai residence, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+111 — "Người nổi tiếng nhất là Hattori Masanari, một thuộc hạ của Tokugawa Ieyasu."
+Ảnh 111: Hattori Masanari stands beside Tokugawa Ieyasu during a military council, dressed as a period samurai retainer, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+112 — "Văn hóa đại chúng dần biến ông thành ninja huyền thoại."
+Ảnh 112: Historical Masanari dissolves into an exaggerated masked rooftop warrior surrounded by smoke and throwing stars, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+113 — "Nhưng ghép mọi thành tựu của Iga vào một siêu ninja duy nhất là quá đơn giản."
+Ảnh 113: Many local scouts, guides and warrior families stand behind one oversized legendary hero silhouette, reclaiming collective history, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+114 — "Momochi và Fujibayashi cũng thường được kể như những đại thủ lĩnh ninja."
+Ảnh 114: Two dignified regional warrior figures appear beside fortified rural estates and family networks in Iga, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+115 — "Đó là vấn đề lặp lại liên tục khi nghiên cứu ninja."
+Ảnh 115: MIO compares a clean popular legend with messy archival fragments, missing pieces and conflicting narrative layers, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+116 — "Người càng nổi tiếng trong truyện, chúng ta càng phải kiểm tra nguồn thật."
+Ảnh 116: A dramatic heroic silhouette shrinks as old documents, dates and material evidence become larger in the frame, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+117 — "Sarutobi Sasuke là ví dụ rõ hơn nữa."
+Ảnh 117: A flamboyant fictional young ninja leaps across rooftops in a deliberately storybook-like Taisho-era adventure composition, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+118 — "Nhân vật này nổi tiếng như một anh hùng ninja trong văn học đại chúng đầu thế kỷ hai mươi."
+Ảnh 118: Stacks of popular adventure booklets create a rising heroic ninja image for mass readers in early twentieth-century Japan, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+119 — "Nhưng sự nổi tiếng trong truyện không biến một nhân vật thành bằng chứng lịch sử."
+Ảnh 119: The colorful fictional hero becomes translucent while an empty archival space remains where firm historical evidence would be, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+120 — "Và đây là lúc ninja chuyển từ nghề bí mật thành biểu tượng văn hóa."
+Ảnh 120: An anonymous medieval scout walks into a theater curtain and emerges on the other side as an iconic popular-culture ninja, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+121 — "Càng rời xa thời chiến, hình ảnh ninja lại càng trở nên ngoạn mục."
+Ảnh 121: A timeline transforms restrained historical espionage into increasingly dramatic stage effects, impossible jumps and stylized costumes, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+122 — "Sự im lặng của sử liệu tạo khoảng trống rất lớn cho trí tưởng tượng."
+Ảnh 122: Sparse old documents sit beneath a vast blank paper sky filling with colorful imagined ninja adventures, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+123 — "Chính khoảng trống đó đã tạo ra ninja mà thế giới biết ngày nay."
+Ảnh 123: A global collage of cinema, comics and games grows from a tiny historical SHADOW at the center, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+
+CHƯƠNG 8 – AI ĐÃ CHO NINJA MẶC ĐỒ ĐEN?
+124 — "Bây giờ quay lại câu hỏi dễ nhận ra nhất: tại sao ninja luôn mặc đồ đen?"
+Ảnh 124: MIO holds up the iconic black MASK and robe while a crowded Edo street continues normally behind her, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+125 — "Trong các hình ảnh Edo sớm, ninja có thể được thể hiện với quần áo giống người bình thường."
+Ảnh 125: An early-Edo style illustrated street shows an infiltrator dressed indistinguishably from ordinary civilians, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+126 — "Đến khoảng giữa thế kỷ mười tám, sân khấu bắt đầu định hình hình tượng áo đen và che mặt."
+Ảnh 126: An Edo theater stage reveals a masked black-clad ninja entering dramatically under lantern light, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+127 — "Lý do rất thực tế: khán giả cần nhận ra ngay nhân vật này là ninja."
+Ảnh 127: Audience silhouettes instantly react as a visually unmistakable black-costumed ninja appears on stage, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+128 — "Một người cải trang quá giỏi sẽ rất tệ cho sân khấu, vì chẳng ai biết anh ta là ai."
+Ảnh 128: A perfectly disguised ordinary merchant stands unnoticed center stage while confused spectators search for the supposed ninja, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+129 — "Đồ đen biến một nghề vô hình thành một biểu tượng nhìn phát hiểu ngay."
+Ảnh 129: The plain historical SHADOW hardens into a bold black costume icon under theatrical spotlights, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+130 — "Shuriken cũng trở thành một dấu hiệu thị giác mạnh."
+Ảnh 130: A large stylized throwing star spins beside the black costume as a clear stage symbol, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+131 — "Khói, biến mất và những màn nhảy phi thường khiến nhân vật hấp dẫn hơn."
+Ảnh 131: A theatrical ninja vanishes in a dramatic smoke effect above painted rooftops, clearly framed as entertainment, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+132 — "Đến thế kỷ mười chín, hình tượng này lan rộng hơn trong tiểu thuyết."
+Ảnh 132: Printed illustrated books multiply across a desk, each showing increasingly standardized masked ninja imagery, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+133 — "Sang thế kỷ hai mươi, ninja còn được biến thành anh hùng."
+Ảnh 133: A heroic young ninja stands against a rising sun motif while earlier villainous stage shadows fade behind, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+134 — "Điện ảnh thêm tốc độ và những pha chiến đấu."
+Ảnh 134: Vintage film-strip frames show rooftop chases, sword clashes and dramatic stunt movement, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+135 — "Manga và anime thêm sức mạnh gần như siêu nhiên."
+Ảnh 135: Colorful comic panels explode with exaggerated speed, elemental effects and impossible acrobatics around a ninja hero, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+136 — "Trò chơi điện tử biến shuriken, kiếm và bom khói thành bộ kỹ năng."
+Ảnh 136: A game-like ability wheel made of visual icons surrounds a stylized ninja avatar without readable labels, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+137 — "Và cuối cùng, hình ảnh hư cấu trở nên nổi tiếng hơn con người lịch sử."
+Ảnh 137: The giant global pop-culture ninja silhouette towers over a tiny anonymous medieval scout walking below, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+138 — "Nhưng điều thú vị là huyền thoại không hoàn toàn vô nghĩa."
+Ảnh 138: MIO holds two overlapping layers—historical document texture and colorful theatrical imagery—showing how fiction grows from fragments, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+139 — "Nó cho chúng ta thấy mỗi thời đại đã muốn ninja trở thành thứ gì."
+Ảnh 139: A sequence of Edo theater, Taisho adventure, cinema, manga and modern games each reshapes the same SHADOW motif, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+
+CHƯƠNG 9 – NINJA BIẾN MẤT NHƯ THẾ NÀO?
+140 — "Sau khi Tokugawa thống nhất Nhật Bản, những cuộc nội chiến lớn giảm mạnh."
+Ảnh 140: Battle banners lower as peaceful Edo roads, castle towns and administrative checkpoints replace Sengoku battlefields, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+141 — "Một nghề sinh ra từ chiến tranh buộc phải thay đổi."
+Ảnh 141: A former covert scout exchanges battlefield gear for gate-guard equipment inside a peaceful castle town, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+142 — "Một số người có truyền thống Iga phục vụ Mạc phủ hoặc các phiên."
+Ảnh 142: Iga-descended retainers stand on official guard duty at castle gates in orderly Edo-period service, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+143 — "Họ có thể làm nhiệm vụ canh gác, tuần tra hoặc thỉnh thoảng thu thập thông tin."
+Ảnh 143: Three scenes show gate security, nighttime patrol and discreet regional intelligence gathering under official authority, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+144 — "Những gia đình khác trở lại làm nông hoặc các nghề dân sự."
+Ảnh 144: Former warrior households tend fields, practice medicine and work with fireworks in peaceful rural communities, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+145 — "Kỹ năng cũ dần chuyển từ chiến trường sang ký ức gia đình."
+Ảnh 145: A sword and travel tools are stored away while an elder teaches younger relatives from inherited SCROLL, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+146 — "Chính thời bình khiến nhiều sách ninjutsu được ghi lại."
+Ảnh 146: A quiet Edo study glows at night as old covert knowledge is carefully committed to paper, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+147 — "Nhưng cũng chính thời bình khiến người dân ít thấy shinobi thật hoạt động."
+Ảnh 147: A peaceful city crowd watches a stage performance because real covert agents are absent from everyday public view, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+148 — "Khoảng trống đó được sân khấu và tiểu thuyết lấp đầy."
+Ảnh 148: An empty historical silhouette fills with theater curtains, illustrated books and exaggerated ninja imagery, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+149 — "Đến cuối Mạc phủ, các vai trò chính thức kiểu cũ dần chấm dứt."
+Ảnh 149: Old castle service posts fade as nineteenth-century Japan transforms around departing retainers, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+150 — "Năm 1868, trật tự Tokugawa kết thúc và Nhật Bản bước vào một thời đại mới."
+Ảnh 150: Castle-era symbols recede while Meiji modernization—new uniforms, roads and institutions—enters the frame, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+151 — "Không còn một nghề shinobi thời Chiến Quốc để tiếp tục nguyên vẹn."
+Ảnh 151: An empty forest watchpost and unused covert tools symbolize the disappearance of the old wartime role, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+152 — "Nhưng ninja lại bắt đầu cuộc đời thứ hai trong văn hóa đại chúng."
+Ảnh 152: A faded historical scout transforms into vivid books, films, toys, manga and game imagery, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+153 — "Lần này họ không cần giấu mình nữa."
+Ảnh 153: A once-hidden SHADOW steps boldly onto a brightly lit global stage, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+154 — "Họ càng nổi bật càng thành công."
+Ảnh 154: Spectacular ninja imagery grows larger under spotlights while the historical rule of invisibility is visually reversed, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+155 — "Đó là nghịch lý cuối cùng của lịch sử ninja."
+Ảnh 155: A split composition shows the real shinobi disappearing into a crowd while the fictional ninja stands center stage, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+
+CHƯƠNG 10 – NINJA THẬT NGUY HIỂM Ở CHỖ NÀO?
+156 — "Nếu bỏ áo đen, phép thuật và những màn phi thân, ninja còn lại gì?"
+Ảnh 156: MIO removes theatrical MASK, smoke and throwing stars from a table, leaving only MAP, SCROLL, rope and ordinary clothing, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+157 — "Còn lại một người biết quan sát."
+Ảnh 157: Close-up of a quiet scout noticing footprints, gate routines, wind direction and changing guard behavior, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+158 — "Và quan trọng hơn, biết lúc nào không nên chiến đấu."
+Ảnh 158: A shinobi quietly retreats from an unnecessary confrontation, leaving an armed patrol unaware, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+159 — "Đó là lý do tài liệu ninjutsu chứa nhiều kiến thức đến vậy."
+Ảnh 159: Medicine, weather, astronomy, food, disguise, conversation and terrain orbit a central SCROLL like a practical knowledge system, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+160 — "Sức mạnh của shinobi không nằm ở một bí kíp duy nhất."
+Ảnh 160: Many small practical skills combine like puzzle pieces around an ordinary human figure, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+161 — "Nó nằm ở khả năng kết hợp hàng chục kỹ năng nhỏ trong tình huống nguy hiểm."
+Ảnh 161: A complex night mission is solved through timing, disguise, route choice, observation and restraint rather than combat, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+162 — "Và đó cũng là điểm lịch sử thật vượt qua huyền thoại."
+Ảnh 162: The grounded historical scout stands quietly while an exaggerated magical ninja fades into paper fragments behind, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+163 — "Ninja trong phim khiến chúng ta nhìn thấy họ."
+Ảnh 163: A spectacular masked ninja leaps beneath a bright spotlight before an excited audience, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+164 — "Ninja thật thành công khi không ai nhìn thấy họ."
+Ảnh 164: An ordinary traveler leaves through a crowded gate completely unnoticed, with only a faint SHADOW trailing behind, editorial cutaway composition, historically grounded details, soft directional light, muted indigo, vermilion, parchment cream and jade accents.
+165 — "Một bên chiến thắng bằng hình ảnh."
+Ảnh 165: A dramatic pop-culture ninja dominates posters, cinema frames and game-like visuals, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+166 — "Bên kia chiến thắng bằng việc không để lại hình ảnh nào cả."
+Ảnh 166: An empty moonlit corridor, untouched door and silent footprints fading in dust imply a successful unseen mission, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+167 — "Có lẽ đó mới là điều đáng sợ nhất về ninja."
+Ảnh 167: A warlord realizes an unknown observer already knows his defenses while the room itself appears perfectly secure, cinematic editorial composition, authentic period details, dramatic natural lighting, restrained ink navy, vermilion and jade palette.
+168 — "Không phải vì họ có thể biến mất trong làn khói."
+Ảnh 168: A theatrical smoke cloud disperses harmlessly on one side of the frame, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+169 — "Mà vì đôi khi bạn sẽ không bao giờ biết họ từng ở đó."
+Ảnh 169: Final quiet dawn over a fortified town as one anonymous traveler exits with SCROLL, unnoticed among ordinary people, clear foreground and background separation, grounded historical details, cinematic light, limited navy, warm cream, vermilion and jade palette.
+170 — "Và lịch sử của ninja kết thúc đúng theo cách họ từng làm việc: để lại rất ít dấu vết."
+Ảnh 170: MIO closes a weathered archival box while SHADOW narrows into a thin line and disappears into a cream paper background, dynamic documentary composition, authentic late-medieval Japanese setting, atmospheric lighting, restrained indigo, warm cream, vermilion and muted jade palette.
+
+PHỤ LỤC A – GHI CHÚ KIỂM CHỨNG VÀ GIỚI HẠN
+(1) Đã đối chiếu nguồn
+- Trung tâm Nghiên cứu Ninja Quốc tế của Đại học Mie mô tả mục tiêu chủ yếu của shinobi trung đại là thu thập tình báo cho chủ, và hoạt động có thể kiểm chứng từ khoảng thế kỷ XIV đến cuối thời Edo.
+- Đại học Mie ghi nhận hình tượng ninja mặc đồ đen, che mặt và ném shuriken được sân khấu phổ biến mạnh từ khoảng giữa thế kỷ XVIII; trước đó hình ảnh ninja thường mặc giống dân thường.
+- Bansenshūkai có niên đại 1676 và được lưu tại National Archives of Japan. Các sách ninjutsu bao gồm không chỉ võ thuật mà còn xâm nhập, cải trang, giao tiếp, ghi nhớ, y học, thực phẩm, thiên văn, thời tiết và thuốc súng.
+- Nguồn của Đại học Mie lưu ý hình ảnh ninja chủ yếu chiến đấu bằng shuriken là hư cấu; shuriken cũng là vũ khí của võ sĩ nói chung.
+- Iga và Kōka được Japan Heritage công nhận là những khu vực gắn đặc biệt với truyền thống shinobi/ninjutsu.
+(2) Cần nói mềm hoặc còn tranh luận
+- Những ghi chép sớm như Taiheiki là nguồn quân ký có yếu tố văn chương; vì vậy không nên biến một chi tiết trong đó thành bằng chứng tuyệt đối.
+- Quy mô lực lượng và mức độ tàn phá của các cuộc Tenshō Iga War khác nhau tùy nguồn. Kịch bản chỉ giữ điểm cốt lõi: cuộc tấn công năm 1579 thất bại; chiến dịch năm 1581 của Oda Nobunaga áp đảo và làm thay đổi sâu sắc Iga.
+- Câu chuyện Tokugawa Ieyasu vượt Iga sau Honnō-ji có nền tảng sử liệu nhưng nhiều chi tiết phổ biến về vai trò cụ thể của từng “ninja” đã được kể thêm về sau.
+- Hattori Hanzō Masanari nên được mô tả trước hết là võ sĩ/thuộc hạ Tokugawa; không nên mặc định ông là “siêu ninja áo đen”.
+- Danh sách “ba đại thủ lĩnh Iga” thường thấy trong nội dung đại chúng không nên trình bày như hệ thống cấp bậc lịch sử chắc chắn.
+(3) Đơn giản hóa có chủ ý
+- Video dùng từ “ninja” vì khán giả quen thuộc, nhưng khi nói về nhân vật lịch sử ưu tiên giải thích từ shinobi.
+- “Nghề ninja” là cách diễn đạt dễ hiểu; trên thực tế đây không phải một nghề đồng nhất với tổ chức, đồng phục và giáo trình chung trên toàn Nhật Bản.
+- Các cảnh bản đồ, tuyến tuần tra và sơ đồ xâm nhập là ẩn dụ trực quan kiểu Vox, không phải tái dựng chính xác một chiến dịch cụ thể nếu câu thoại không nêu địa danh.
+- MASK, SHADOW, SCROLL, MAP là motif dựng phim, không khẳng định đó là vật dụng tiêu chuẩn của mọi shinobi.
+Những điểm nên tránh khi dựng
+- Không dùng ninja áo đen cho toàn bộ 170 cảnh; điều đó mâu thuẫn trực tiếp với luận điểm video.
+- Không khẳng định ninja có thể đi trên nước, biến mất thật, dùng phép thuật hay luôn mang kiếm thẳng kiểu “ninjatō”.
+- Không biến shuriken thành vũ khí chính của mọi shinobi.
+- Không coi Iga và Kōka là hai “trường phái đối địch” giống anime nếu không có nguồn cho tình huống cụ thể.
+- Không trình bày Sarutobi Sasuke như nhân vật lịch sử đã được chứng minh.
+PHỤ LỤC B – NGUỒN THAM KHẢO
+1. Mie University International Ninja Research Center – What is ninja research?
+   https://ninjacenter.rscn.mie-u.ac.jp/en/ninja/
+2. Mie University International Ninja Research Center – Japanese research overview and ninjutsu manuals
+   https://ninjacenter.rscn.mie-u.ac.jp/ninja/
+3. Mie University – Fictional image of ninja / black costume in Kabuki
+   https://ninjacenter.rscn.mie-u.ac.jp/en/blog/2020/0817-2/
+4. Mie University – Historical clothing colors discussed through Shōninki
+   https://ninjacenter.rscn.mie-u.ac.jp/blog/2018/%EF%BC%88%E5%AD%A6%E7%94%9F%E9%80%9A%E4%BF%A1%EF%BC%89%E3%80%8C%E8%89%B2%E3%80%81%E7%BA%8F%E3%81%86%E3%80%8D%EF%BC%88%E9%99%A2%E7%94%9Fn%EF%BC%89/
+5. Mie University – Shuriken in historical sources
+   https://ninjacenter.rscn.mie-u.ac.jp/blog/2018/20180629/
+6. National Archives of Japan – Bansenshūkai
+   https://www.digital.archives.go.jp/file/1271625.html
+7. National Archives of Japan – Martial arts / Bansenshūkai feature
+   https://www.archives.go.jp/naj_news/23/special.html
+8. Ninja Museum of Iga-ryu – What are Ninjutsu and Ninja?
+   https://iganinja.jp/en/about/ninja.html
+9. Ninja Museum of Iga-ryu – Museum, tools and ninja house
+   https://www.iganinja.jp/en/museum/index.html
+10. Japan Heritage Portal – Shinobi no Sato Iga and Kōka
+       https://www.japan-heritage.bunka.go.jp/ja/stories/story042/
+11. Kōka City – Follow in the footsteps of the Koka ninjas
+       https://www.city.koka.lg.jp/secure/15611/2024_mappuru_en.pdf
+12. Mie University – Tokugawa Ieyasu's Iga crossing: source discussion
+       https://ninjacenter.rscn.mie-u.ac.jp/blog/2018/20180604/

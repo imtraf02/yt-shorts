@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const base='productions/ninja-su-that',p=`${base}/storyboard.json`,a=JSON.parse(fs.readFileSync(p)),s=a.find(x=>x.id==='I150');
+const target=path.resolve(s.file),root=path.resolve('public/images/ninja-su-that')+path.sep;
+if(!target.startsWith(root))throw new Error('Outside image directory');
+const rejected=target.replace(/\.png$/,'-v1-rejected.png');if(fs.existsSync(rejected))throw new Error('Exists');fs.renameSync(target,rejected);
+s.description='An early-Meiji transition around 1868: old castle-service officials in kimono hand closed document bundles to a new administrative officer in plain early Western-style coat inside a modest traditional wooden office; faded castle-service silhouettes behind.';
+s.prompt=`Fresh standalone original 2D anime editorial documentary illustration, ink line art, cel shading, cream washi, navy, vermilion, antique gold and jade. Single wide 16:9 full-frame image with quiet lower 18 percent for future captions. ${s.description} Modest traditional Japanese wooden office, paper doors, inkstone, closed document bundles and small ledger. Represent institutional transition as a symbolic meeting, not an authenticated event. All objects fit around the start of Meiji. NO railway, train, steam locomotive, train station, brick European building, Tokyo Station, skyscrapers, telephones, electric lights, modern weapons or national flags. No masked ninja or Mio. No readable writing, letters, numerals, logo, watermark or franchise character. Asset I150.`;
+s.status='pending';s.qa=null;delete s.provenance;
+fs.appendFileSync(`${base}/generation_log.jsonl`,JSON.stringify({id:s.id,source:'visual-rejection',status:'pending',reason:'Later railway and station architecture conflated with 1868 transition',rejectedFile:rejected,at:new Date().toISOString()})+'\n');
+fs.writeFileSync(p,JSON.stringify(a,null,2)+'\n');console.log(JSON.stringify([s]));

@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const p='productions/bia-vi-sinh/';
+const s=JSON.parse(fs.readFileSync(p+'storyboard.json','utf8'));
+const write=(name,x)=>fs.writeFileSync(p+name,typeof x==='string'?x:JSON.stringify(x,null,2)+'\n');
+write('prompts.md','# Bộ prompt hiện hành — 160 ảnh riêng\n\nMột lệnh imagegen tích hợp cho một ảnh. Prompt sau chỉnh sửa có hiệu lực; bản bị loại lưu với hậu tố v1-rejected, không tính vào số giao.\n\n'+s.map(x=>`## ${x.id} · ${x.chapterId} · ${x.sentenceIds[0]}\n\nĐích: \`${x.file}\`\n\n${x.prompt}\n\nOverlay: ${x.overlayText.join(' / ')||'Không'}`).join('\n\n')+'\n');
+const m=JSON.parse(fs.readFileSync(p+'manifest.json','utf8'));
+m.progress={plannedImages:160,generatedImages:s.filter(x=>['generated','verified'].includes(x.status)).length,verifiedImages:s.filter(x=>x.status==='verified').length,pendingImages:s.filter(x=>x.status==='pending').length,needsRevision:s.filter(x=>x.status==='needs-revision').length};
+write('manifest.json',m);
+const a=JSON.parse(fs.readFileSync(p+'asset_plan.json','utf8'));a.generatedImageCount=m.progress.generatedImages;write('asset_plan.json',a);
+console.log(JSON.stringify(m.progress));

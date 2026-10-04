@@ -1,0 +1,79 @@
+[
+  {
+    "id": "R01",
+    "title": "Valve — Steam Tags",
+    "url": "https://partner.steamgames.com/doc/store/tags",
+    "limit": "Đã đọc. Tag bao gồm genre, góc nhìn, chủ đề, tâm trạng và cơ chế; nhà phát triển, người chơi và moderator có thể gắn nhãn. Không lấy tag làm chuẩn phân loại cố định.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R02",
+    "title": "RogueBasin — Berlin Interpretation",
+    "url": "https://roguebasin.com/index.php/Berlin_Interpretation",
+    "limit": "Đã đọc. Văn bản ghi lại diễn giải tại hội nghị cộng đồng năm 2008; không phải tiêu chuẩn bắt buộc cho mọi game mang nhãn roguelike.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R03",
+    "title": "The Strong — Tetris",
+    "url": "https://www.museumofplay.org/games/tetris/",
+    "limit": "Đã mở nguồn bảo tàng cho ví dụ puzzle. Không dùng để suy luận tất cả thể loại xuất phát từ arcade.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R04",
+    "title": "Nintendo — Mario History",
+    "url": "https://www.nintendo.com/us/explore/characters/mario/history/",
+    "limit": "Đã mở lịch sử chính thức để tham khảo ví dụ platform. Không đưa mốc phát hành cụ thể vào lời dẫn.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R05",
+    "title": "Supergiant — Hades FAQ",
+    "url": "https://www.supergiantgames.com/blog/hades-faq/",
+    "limit": "Kết quả tìm kiếm chính thức đọc được; mở trang trực tiếp lỗi. Studio mô tả Hades vừa dùng rogue-like vừa giải thích rogue-lite và có tiến trình lâu dài. Nhãn có thể chồng lấn.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R06",
+    "title": "Minecraft — About Minecraft",
+    "url": "https://www.minecraft.net/en-us/about-minecraft",
+    "limit": "Đã đọc mô tả chính thức: game sandbox thế giới mở với các cách chơi khác nhau. Ví dụ cho nhiều trục mô tả, không đồng nhất mọi sandbox với Minecraft.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R07",
+    "title": "Riot — How to Play League of Legends",
+    "url": "https://www.leagueoflegends.com/en-us/how-to-play/",
+    "limit": "Đã đọc. Đội, champion, lane, mục tiêu Nexus và tăng tiến trong trận là ví dụ MOBA cụ thể. Không suy rộng số đường hay số người cho toàn thể loại.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R08",
+    "title": "Bungie Help — Marathon FAQ",
+    "url": "https://help.bungie.net/hc/en-us/articles/15577753030420-Marathon-FAQ",
+    "limit": "Đã đọc mô tả sci-fi PvP extraction shooter. FAQ có câu tình trạng phát triển có thể cũ so với homepage; chỉ dùng mô tả lối chơi, không khẳng định ngày ra mắt hoặc tình trạng hiện hành.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R09",
+    "title": "The Strong — Dungeons & Dragons",
+    "url": "https://www.toyhalloffame.org/toys/dungeons-dragons/",
+    "limit": "Kết quả tìm kiếm của bảo tàng: nhập vai trên bàn ảnh hưởng cách máy tính tổ chức vai trò người dẫn và thế giới. Không khẳng định một dòng game là nguồn duy nhất của RPG.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R10",
+    "title": "Balatro — official site",
+    "url": "https://www.playbalatro.com/",
+    "limit": "Kết quả tìm kiếm chính thức mô tả poker roguelike và deckbuilder. Đây là ví dụ lai cơ chế, không phải bằng chứng mọi deckbuilder đều là chiến đấu.",
+    "checkedDate": "2026-10-02"
+  },
+  {
+    "id": "R11",
+    "title": "Blizzard — New Players Starter Guide",
+    "url": "https://worldofwarcraft.blizzard.com/en-us/news/24266319",
+    "limit": "Kết quả tìm kiếm chính thức dùng như tài liệu làm quen với ví dụ MMORPG. Không lấy giá, giới hạn trial hoặc trạng thái server làm dữ kiện lời dẫn.",
+    "checkedDate": "2026-10-02"
+  }
+]

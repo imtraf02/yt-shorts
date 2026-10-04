@@ -1,0 +1,3 @@
+# Outro 5 giây — chỉnh theo yêu cầu mới
+
+1920×1080, 30 fps, tối đa 5 giây (150 frames). Avatar người dùng gửi dùng nguyên vẹn, tên “Lam Lam & Trà Xanh”; cả cụm avatar/tên/tagline căn giữa. Nền đẹp và nhiều chuyển động hơn: ánh xanh lam bên Lam Lam, xanh lá bên Trà Xanh, aurora glow, ribbons uốn lượn, orbit elip, cánh hoa/đom đóm. Giữ nền tối ở trung tâm để bảo vệ chữ. Chỉ dùng hoạt ảnh nhân vật cúi chào xuyên suốt, không dùng vẫy/thả tim/nói chuyện. Lam Lam left 40/bottom 20; Trà Xanh right 40/bottom 20; mỗi nhân vật 180 px. Kế thừa không nhạc/không lời, không ô video gợi ý và không disclaimer riêng trong outro. Avatar/tên vẫn chỉnh trong brand.json hoặc Studio Props.

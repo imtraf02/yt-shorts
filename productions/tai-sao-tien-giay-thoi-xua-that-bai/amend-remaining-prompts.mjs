@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const dir=path.dirname(fileURLToPath(import.meta.url));
+const file=path.join(dir,'storyboard.json'),b=JSON.parse(fs.readFileSync(file,'utf8'));
+const extra=' Geographic and labeling QA constraints: Do not add any geographic or political map, coastline, island silhouette or territorial outline. If the primary request mentions a map, express the relationship using abstract unlabeled administrative or trade nodes on parchment instead, with no geographic positioning or territorial claims. Flags use simple floral or geometric ornaments only. All banknote panels remain blank with ornamental borders; no portraits, readable seals, characters, numerals or denominations. Exact years, quantities and geographic information will be added separately from verified data.';
+for(const s of b.scenes)if(s.status==='pending'&&!s.prompt.includes('Geographic and labeling QA constraints:'))s.prompt+=extra;
+fs.writeFileSync(file,JSON.stringify(b,null,2)+'\n');
+fs.writeFileSync(path.join(dir,'prompts.jsonl'),b.scenes.map(s=>JSON.stringify({id:s.id,file:s.file,prompt:s.prompt})).join('\n')+'\n');
+fs.writeFileSync(path.join(dir,'image_prompts.md'),'# Prompt ảnh — 260 cảnh riêng\n\nCông cụ: built-in ImageGen. Một lệnh cho một ảnh; không thay bằng contact sheet. Prompt sửa riêng được ghi tại revisionPromptFile trong storyboard.\n\n'+b.scenes.map(s=>'## '+s.id+' — '+s.sentenceIds.join(', ')+'\n\n'+s.text+'\n\n'+s.prompt+'\n\nĐích: '+s.file+'\n').join('\n'));
+fs.appendFileSync(path.join(dir,'qa.md'),'\n- Remaining prompts amended to use conceptual networks instead of AI geography; flags and banknotes remain purely ornamental and unlettered. Original source prompts preserved in sourcePrompt.\n');

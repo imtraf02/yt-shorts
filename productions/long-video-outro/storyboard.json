@@ -1,0 +1,27 @@
+[
+  {
+    "id": "I001",
+    "chapterId": "C01",
+    "sentenceIds": [],
+    "audioMode": "silent",
+    "plannedNarration": null,
+    "kind": "existing-image",
+    "file": "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+    "characterAssets": [
+      "public/characters/animations/tra-xanh-cui-cam-on-v2/animation.json",
+      "public/characters/animations/lam-lam-cui-cam-on-v1/animation.json"
+    ],
+    "prompt": null,
+    "overlayText": [
+      "Lam Lam & Trà Xanh",
+      "Mỗi video, một góc nhìn mới."
+    ],
+    "timing": {
+      "startMs": 0,
+      "endMs": 5000
+    },
+    "status": "verified",
+    "qa": "Use existing frame sequence at its declared duration. No new image generation.",
+    "brandAnimation": "User-provided avatar, centered Lam Lam & Trà Xanh title; drifting aurora glows, flowing ribbons, elliptical orbits, petals and fireflies; both corner characters use bow animation only"
+  }
+]

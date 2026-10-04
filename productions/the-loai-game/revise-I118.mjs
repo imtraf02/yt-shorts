@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const base='productions/the-loai-game';
+const scenes=JSON.parse(fs.readFileSync(`${base}/storyboard.json`,'utf8'));
+const scene=scenes.find(s=>s.id==='I118');
+if(scene.status!=='pending')throw Error('Only pending scene can be revised');
+scene.description='An editorial collection diagram with original moss-covered pebble creatures, tiny cloud creatures and amber crystal creatures, showing collection, care and complementary team roles in three fictional environments';
+scene.prompt='Original 2D anime editorial illustration on warm cream paper, navy, mustard yellow, teal and coral, cel shading, subtle halftone and paper cutout shadows. One wide 16:9 illustration. Show three original fictional game vignettes: a moss-covered pebble creature joins an unlettered collection card in a forest; a tiny cloud creature receives care beside a food bowl on a floating garden; a small amber crystal creature teams up with both companions in a friendly abstract challenge. Use clear arrows connecting collection, care and team synergy. Design unusual wholly original creatures, no recognizable franchise characters or capture devices. No people or presenter. No combat, no violence, no text, no letters, no numbers, no logos or watermark. Quiet cream lower 15 percent for captions. Asset I118.';
+fs.writeFileSync(`${base}/storyboard.json`,JSON.stringify(scenes,null,2)+'\n');
+fs.appendFileSync(`${base}/generation_log.jsonl`,JSON.stringify({id:'I118',status:'pending',event:'prompt-revised',reason:'Two output moderation rejections with category other; changed to original creature collection/care/team diagram',at:new Date().toISOString()})+'\n');
+console.log('Revised pending I118 to original creatures diagram');
